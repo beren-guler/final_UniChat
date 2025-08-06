@@ -98,9 +98,15 @@ def get_ranking_suggestions(user_ranking, puan_type, limit=10):
     else:
         return []
     
-    try:
-        user_ranking = int(user_ranking)
-    except (ValueError, TypeError):
+    def sanitize(value):
+        """Remove non-digit characters and convert to int"""
+        if value is None:
+            return None
+        digits = re.sub(r"[^0-9]", "", str(value))
+        return int(digits) if digits else None
+
+    user_ranking = sanitize(user_ranking)
+    if user_ranking is None:
         return []
     
     suitable_departments = []
@@ -111,11 +117,9 @@ def get_ranking_suggestions(user_ranking, puan_type, limit=10):
         # Son 3 yıl ortalamasını al
         rankings = []
         for year in ['2024', '2023', '2022']:
-            if ranking_data.get(year) and ranking_data[year] != '---':
-                try:
-                    rankings.append(int(ranking_data[year]))
-                except (ValueError, TypeError):
-                    continue
+            rank_val = sanitize(ranking_data.get(year))
+            if rank_val is not None:
+                rankings.append(rank_val)
         
         if rankings:
             avg_ranking = sum(rankings) / len(rankings)
@@ -328,17 +332,21 @@ def chat():
         # Özel komutları kontrol et
         if any(word in message.lower() for word in ['öneri', 'tavsiye', 'girebilir', 'hangi bölüm']):
             # Sıralama önerisi
-            if user_ranking and user_ranking.isdigit():
-                suggestions = get_ranking_suggestions(user_ranking, puan_type, 15)
-                if suggestions:
-                    response = f"🎯 {user_ranking}. sıralamanızla girebileceğiniz bölümler:\n\n"
-                    for i, dept in enumerate(suggestions, 1):
-                        response += f"{i}. 🏛️ {dept['universite']}\n"
-                        response += f"   📚 {dept['bolum']}\n"
-                        response += f"   📊 Ortalama sıralama: {int(dept['avg_ranking'])}\n\n"
+            if user_ranking:
+                clean_ranking = re.sub(r"[^0-9]", "", user_ranking)
+                if clean_ranking:
+                    suggestions = get_ranking_suggestions(clean_ranking, puan_type, 15)
+                    if suggestions:
+                        response = f"🎯 {int(clean_ranking)}. sıralamanızla girebileceğiniz bölümler:\n\n"
+                        for i, dept in enumerate(suggestions, 1):
+                            response += f"{i}. 🏛️ {dept['universite']}\n"
+                            response += f"   📚 {dept['bolum']}\n"
+                            response += f"   📊 Ortalama sıralama: {int(dept['avg_ranking'])}\n\n"
+                    else:
+                        response = f"😔 {int(clean_ranking)}. sıralamanızla direkt girebileceğiniz bölüm bulunamadı.\n"
+                        response += "💡 Daha yüksek sıralamadaki bölümleri de değerlendirebilir ve tercih listesine ekleyebilirsiniz."
                 else:
-                    response = f"😔 {user_ranking}. sıralamanızla direkt girebileceğiniz bölüm bulunamadı.\n"
-                    response += "💡 Daha yüksek sıralamadaki bölümleri de değerlendirebilir ve tercih listesine ekleyebilirsiniz."
+                    response = "Öneri verebilmem için lütfen sıralamanızı yukarıdaki alana girin."
             else:
                 response = "Öneri verebilmem için lütfen sıralamanızı yukarıdaki alana girin."
         
