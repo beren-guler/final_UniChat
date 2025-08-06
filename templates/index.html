@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UniChat - Üniversite Tercihi Danışmanı</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            height: 100vh;
+            display: flex;
+        }
+
+        /* Sol Panel - Chat Geçmişi */
+        .sidebar {
+            width: 300px;
+            background-color: #2c3e50;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            border-right: 1px solid #34495e;
+        }
+
+        .sidebar-header {
+            padding: 20px;
+            background-color: #34495e;
+            border-bottom: 1px solid #2c3e50;
+        }
+
+        .sidebar-header h2 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+
+        .new-chat-btn {
+            width: 100%;
+            padding: 10px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s;
+        }
+
+        .new-chat-btn:hover {
+            background-color: #2980b9;
+        }
+
+        .chat-list {
+            flex: 1;
+            overflow-y: auto;
+            padding: 10px;
+        }
+
+        .chat-item {
+            padding: 12px;
+            margin-bottom: 8px;
+            background-color: #34495e;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            border-left: 3px solid transparent;
+        }
+
+        .chat-item:hover {
+            background-color: #4a5a6b;
+        }
+
+        .chat-item.active {
+            border-left-color: #3498db;
+            background-color: #4a5a6b;
+        }
+
+        .chat-title {
+            font-size: 14px;
+            margin-bottom: 4px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .chat-date {
+            font-size: 12px;
+            color: #bdc3c7;
+        }
+
+        /* Ana İçerik */
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Filtreleme Paneli */
+        .filter-panel {
+            background-color: white;
+            padding: 20px;
+            border-bottom: 1px solid #ddd;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .filter-row {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .filter-group label {
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 14px;
+        }
+
+        .filter-group input,
+        .filter-group select {
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .puan-type-group {
+            display: flex;
+            gap: 15px;
+        }
+
+        .radio-option {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .radio-option input[type="radio"] {
+            margin: 0;
+        }
+
+        /* Chat Alanı */
+        .chat-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            background-color: white;
+        }
+
+        .chat-messages {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            background-color: #fafafa;
+        }
+
+        .message {
+            margin-bottom: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .message.user {
+            align-items: flex-end;
+        }
+
+        .message.bot {
+            align-items: flex-start;
+        }
+
+        .message-bubble {
+            max-width: 70%;
+            padding: 12px 16px;
+            border-radius: 18px;
+            font-size: 14px;
+            line-height: 1.4;
+            white-space: pre-wrap;
+        }
+
+        .message.user .message-bubble {
+            background-color: #3498db;
+            color: white;
+        }
+
+        .message.bot .message-bubble {
+            background-color: white;
+            color: #2c3e50;
+            border: 1px solid #e0e0e0;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+        }
+
+        .message-time {
+            font-size: 11px;
+            color: #7f8c8d;
+            margin-top: 4px;
+            margin-bottom: 4px;
+        }
+
+        /* Mesaj Giriş Alanı */
+        .chat-input {
+            padding: 20px;
+            border-top: 1px solid #ddd;
+            background-color: white;
+        }
+
+        .input-container {
+            display: flex;
+            gap: 10px;
+            align-items: flex-end;
+        }
+
+        .message-input {
+            flex: 1;
+            resize: vertical;
+            min-height: 20px;
+            max-height: 120px;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            outline: none;
+            font-family: inherit;
+            font-size: 14px;
+        }
+
+        .message-input:focus {
+            border-color: #3498db;
+        }
+
+        .send-btn {
+            padding: 12px 20px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s;
+        }
+
+        .send-btn:hover:not(:disabled) {
+            background-color: #2980b9;
+        }
+
+        .send-btn:disabled {
+            background-color: #bdc3c7;
+            cursor: not-allowed;
+        }
+
+        .welcome-message {
+            text-align: center;
+            color: #7f8c8d;
+            margin-top: 50px;
+            font-size: 16px;
+        }
+
+        .typing-indicator {
+            display: none;
+            align-items: center;
+            gap: 8px;
+            color: #7f8c8d;
+            font-style: italic;
+            margin: 10px 0;
+        }
+
+        .typing-dots {
+            display: flex;
+            gap: 4px;
+        }
+
+        .typing-dot {
+            width: 6px;
+            height: 6px;
+            background-color: #7f8c8d;
+            border-radius: 50%;
+            animation: typing 1.4s ease-in-out infinite;
+        }
+
+        .typing-dot:nth-child(1) { animation-delay: 0s; }
+        .typing-dot:nth-child(2) { animation-delay: 0.2s; }
+        .typing-dot:nth-child(3) { animation-delay: 0.4s; }
+
+        @keyframes typing {
+            0%, 60%, 100% { transform: translateY(0); }
+            30% { transform: translateY(-10px); }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .sidebar {
+                width: 250px;
+            }
+            
+            .filter-row {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .puan-type-group {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <h2>UniChat</h2>
+            <button class="new-chat-btn" onclick="createNewChat()">+ Yeni Sohbet</button>
+        </div>
+        <div class="chat-list" id="chatList">
+            <!-- Chat geçmişi buraya yüklenecek -->
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="filter-panel">
+            <div class="filter-row">
+                <div class="filter-group">
+                    <label for="userRanking">2025 YKS Sıralamanız:</label>
+                    <input type="number" id="userRanking" placeholder="Örn: 15000" min="1">
+                </div>
+                
+                <div class="filter-group">
+                    <label>Puan Türü:</label>
+                    <div class="puan-type-group">
+                        <div class="radio-option">
+                            <input type="radio" id="sayisal" name="puanType" value="1" checked>
+                            <label for="sayisal">Sayısal</label>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" id="ea" name="puanType" value="2">
+                            <label for="ea">Eşit Ağırlık</label>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" id="sozel" name="puanType" value="3">
+                            <label for="sozel">Sözel</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="chat-container">
+            <div class="chat-messages" id="chatMessages">
+                <div class="welcome-message">
+                    <h3>UniChat'e Hoş Geldiniz!</h3>
+                    <p>Üniversite tercihi yapmak için size yardımcı olmak için buradayım.</p>
+                    <p>Önce yukarıdan sıralamanızı ve puan türünüzü seçin, ardından sorularınızı sorun.</p>
+                </div>
+            </div>
+            
+            <div class="typing-indicator" id="typingIndicator">
+                <span>Yazıyor</span>
+                <div class="typing-dots">
+                    <span class="typing-dot"></span>
+                    <span class="typing-dot"></span>
+                    <span class="typing-dot"></span>
+                </div>
+            </div>
+
+            <div class="chat-input">
+                <div class="input-container">
+                    <textarea 
+                        id="messageInput" 
+                        class="message-input" 
+                        placeholder="Mesajınızı yazın... (Örn: Sabancı üniversitesindeki bölümler nelerdir?)"
+                        rows="1"
+                    ></textarea>
+                    <button class="send-btn" id="sendBtn" onclick="sendMessage()">Gönder</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentChatId = null;
+        let isTyping = false;
+
+        // Sayfa yüklendiğinde chat geçmişini yükle
+        document.addEventListener('DOMContentLoaded', function() {
+            loadChatHistory();
+            setupEventListeners();
+        });
+
+        function setupEventListeners() {
+            // Enter tuşu ile mesaj gönderme
+            document.getElementById('messageInput').addEventListener('keydown', function(e) {
+                if (e.key === 'Enter' && !e.shiftKey) {
+                    e.preventDefault();
+                    sendMessage();
+                }
+            });
+
+            // Textarea otomatik boyutlandırma
+            document.getElementById('messageInput').addEventListener('input', function() {
+                this.style.height = 'auto';
+                this.style.height = (this.scrollHeight) + 'px';
+            });
+        }
+
+        function createNewChat() {
+            fetch('/new_chat')
+                .then(response => response.json())
+                .then(data => {
+                    currentChatId = data.chat_id;
+                    clearChatMessages();
+                    loadChatHistory();
+                });
+        }
+
+        function loadChatHistory() {
+            fetch('/get_chats')
+                .then(response => response.json())
+                .then(chats => {
+                    const chatList = document.getElementById('chatList');
+                    chatList.innerHTML = '';
+                    
+                    chats.forEach(chat => {
+                        const chatItem = document.createElement('div');
+                        chatItem.className = 'chat-item';
+                        if (chat.id === currentChatId) {
+                            chatItem.classList.add('active');
+                        }
+                        
+                        const date = new Date(chat.last_updated);
+                        const dateStr = date.toLocaleDateString('tr-TR') + ' ' + date.toLocaleTimeString('tr-TR', {hour: '2-digit', minute: '2-digit'});
+                        
+                        chatItem.innerHTML = `
+                            <div class="chat-title">${chat.title}</div>
+                            <div class="chat-date">${dateStr}</div>
+                        `;
+                        
+                        chatItem.addEventListener('click', () => loadChat(chat.id));
+                        chatList.appendChild(chatItem);
+                    });
+                });
+        }
+
+        function loadChat(chatId) {
+            currentChatId = chatId;
+            
+            // Aktif chat'i işaretle
+            document.querySelectorAll('.chat-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            event.currentTarget.classList.add('active');
+            
+            fetch(`/get_chat/${chatId}`)
+                .then(response => response.json())
+                .then(chat => {
+                    clearChatMessages();
+                    if (chat.messages) {
+                        chat.messages.forEach(message => {
+                            addMessageToChat(message.message, message.sender, new Date(message.timestamp));
+                        });
+                    }
+                });
+        }
+
+        function clearChatMessages() {
+            const chatMessages = document.getElementById('chatMessages');
+            chatMessages.innerHTML = '<div class="welcome-message"><h3>UniChat\'e Hoş Geldiniz!</h3><p>Üniversite tercihi yapmak için size yardımcı olmak için buradayım.</p><p>Önce yukarıdan sıralamanızı ve puan türünüzü seçin, ardından sorularınızı sorun.</p></div>';
+        }
+
+        function sendMessage() {
+            if (isTyping) return;
+            
+            const messageInput = document.getElementById('messageInput');
+            const message = messageInput.value.trim();
+            const userRanking = document.getElementById('userRanking').value;
+            const puanType = document.querySelector('input[name="puanType"]:checked').value;
+            
+            if (!message) return;
+            
+            if (!userRanking) {
+                alert('Lütfen önce sıralamanızı girin.');
+                return;
+            }
+
+            // Kullanıcı mesajını ekle
+            addMessageToChat(message, 'user');
+            messageInput.value = '';
+            messageInput.style.height = 'auto';
+            
+            // Typing indicator'ı göster
+            showTypingIndicator();
+            
+            const requestData = {
+                message: message,
+                chat_id: currentChatId,
+                user_ranking: userRanking,
+                puan_type: puanType
+            };
+
+            fetch('/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(requestData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                hideTypingIndicator();
+                currentChatId = data.chat_id;
+                addMessageToChat(data.response, 'bot');
+                loadChatHistory();
+            })
+            .catch(error => {
+                hideTypingIndicator();
+                console.error('Error:', error);
+                addMessageToChat('Üzgünüm, bir hata oluştu. Lütfen tekrar deneyin.', 'bot');
+            });
+        }
+
+        function addMessageToChat(message, sender, timestamp = new Date()) {
+            const chatMessages = document.getElementById('chatMessages');
+            
+            // Welcome message'ı kaldır
+            const welcomeMessage = chatMessages.querySelector('.welcome-message');
+            if (welcomeMessage) {
+                welcomeMessage.remove();
+            }
+            
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${sender}`;
+            
+            const timeStr = timestamp.toLocaleTimeString('tr-TR', {hour: '2-digit', minute: '2-digit'});
+            
+            messageDiv.innerHTML = `
+                <div class="message-time">${timeStr}</div>
+                <div class="message-bubble">${message}</div>
+            `;
+            
+            chatMessages.appendChild(messageDiv);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+
+        function showTypingIndicator() {
+            isTyping = true;
+            document.getElementById('typingIndicator').style.display = 'flex';
+            document.getElementById('sendBtn').disabled = true;
+        }
+
+        function hideTypingIndicator() {
+            isTyping = false;
+            document.getElementById('typingIndicator').style.display = 'none';
+            document.getElementById('sendBtn').disabled = false;
+        }
+    </script>
+</body>
+</html>
