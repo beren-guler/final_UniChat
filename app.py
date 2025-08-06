@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify, session
+from flask import Flask, render_template, request, jsonify
 import json
 import re
 from datetime import datetime
@@ -11,7 +11,9 @@ import google.generativeai as genai
 load_dotenv()
 
 app = Flask(__name__)
-app.secret_key = os.getenv('SECRET_KEY', 'your-secret-key-here')
+
+# Chat geçmişini hafızada tutmak için sunucu tarafında sözlük
+chats = {}
 
 # Gemini API anahtarını çevre değişkeninden al
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
@@ -174,12 +176,11 @@ def parse_ranking_data(ranking_str):
 
 # Chat geçmişini yönet
 def get_chat_history():
-    if 'chats' not in session:
-        session['chats'] = {}
-    return session['chats']
+    """Sunucu tarafındaki sohbet geçmişini döndür."""
+    return chats
 
 def save_chat_message(chat_id, message, sender):
-    chats = get_chat_history()
+    """Belirtilen sohbet kimliği için mesajı kaydet."""
     if chat_id not in chats:
         chats[chat_id] = {
             'id': chat_id,
@@ -188,14 +189,13 @@ def save_chat_message(chat_id, message, sender):
             'last_updated': datetime.now().isoformat(),
             'messages': []
         }
-    
+
     chats[chat_id]['messages'].append({
         'message': message,
         'sender': sender,
         'timestamp': datetime.now().isoformat()
     })
     chats[chat_id]['last_updated'] = datetime.now().isoformat()
-    session['chats'] = chats
 
 # Gemini API ile soru-cevap
 def get_gemini_response(user_message, user_ranking, puan_type, chat_history):
