@@ -2,6 +2,33 @@
 
 Bu proje, öğrencilerin üniversite tercihi yapmalarına yardımcı olan bir AI destekli chatbot uygulamasıdır.
 
+## 📁 Dosya Yapısı
+
+```
+final_UniChat/
+├── templates/
+│   └── 🎨 index.html            # Web arayüzü
+├── datascrap/
+│   └── 📖 sıralama.py           # Sıralama ile ilgili jsonları çekerken kullanılandı(Entegre değil jürilerin görmesi için eklendi)
+│   └── 💰 ucret.py              # Vakıf üniversitelerinin ücret verilerini çekerken kullanıldı(Entegre değil jürilerin görmesi için eklendi)
+├── 🚀 start.sh                   # Hızlı başlatma scripti
+├── 🔧 run.sh                     # Gelişmiş başlatma scripti  
+├── 🎯 demo.sh                    # Demo ve test scripti
+├── 🐍 app.py                     # Ana Flask uygulaması
+├── 🧪 test.py                    # Sistem test scripti
+├── 🤖 test_api.py                # AI API test scripti
+├── 📊 siralamadata.json         # Sayısal puan verileri (5,653)
+├── 📈 siralamadata2_ea.json     # Eşit ağırlık verileri (3,987)  
+├── 📉 siralamadata3_sozel.json  # Sözel puan verileri (1,948)
+├── 📋 requirements.txt          # Python bağımlılıkları
+├── ⚙️  .env                      # Çevre değişkenleri (API key)
+├── 📖 README.md                 # Bu dosya
+└── 💰 ucretdata/                # Vakıf üniversite ücret verileri (Hackathon için  hazırlandı - henüz entegre edilmedi)
+│   └── acibadem_universitesi_data.json
+│   └── ada_kent_universitesi_data.json
+│   ...
+```
+
 ## 🚀 Hızlı Başlatma
 
 ### 1. Tek Komutla Başlatma (Önerilen)
@@ -18,6 +45,7 @@ Bu komut:
 ```bash
 ./run.sh
 ```
+- İlkini tercih ediyoruz, bu ekstra.
 
 ### 3. Demo ve Test
 ```bash
@@ -45,7 +73,7 @@ Bu komut:
 4. **Chat Geçmişi Yönetimi**:
    - ChatGPT tarzı sol panel
    - Yeni chat oluşturma
-   - Geçmiş chatler tarih sıralamasıyla
+   - Geçmiş chatler son kullanımlarına göre sıralandı
 
 5. **AI Destekli Danışmanlık**:
    - Google Gemini API entegrasyonu ✅
@@ -125,25 +153,6 @@ python app.py
 - **Feedback**: Emoji'li görsel yanıtlar
 - **Mobile**: Responsive tasarım
 
-## 📁 Dosya Yapısı
-
-```
-final_UniChat/
-├── 🚀 start.sh                   # Hızlı başlatma scripti
-├── 🔧 run.sh                     # Gelişmiş başlatma scripti  
-├── 🎯 demo.sh                    # Demo ve test scripti
-├── 🐍 app.py                     # Ana Flask uygulaması
-├── 🧪 test.py                    # Sistem test scripti
-├── 🤖 test_api.py                # AI API test scripti
-├── templates/
-│   └── 🎨 index.html            # Web arayüzü
-├── 📊 siralamadata.json         # Sayısal puan verileri (5,653)
-├── 📈 siralamadata2_ea.json     # Eşit ağırlık verileri (3,987)  
-├── 📉 siralamadata3_sozel.json  # Sözel puan verileri (1,948)
-├── 📋 requirements.txt          # Python bağımlılıkları
-├── ⚙️  .env                      # Çevre değişkenleri (API key)
-└── 📖 README.md                 # Bu dosya
-```
 
 ## 🔌 API Endpoints
 
