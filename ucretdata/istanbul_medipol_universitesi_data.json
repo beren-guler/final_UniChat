@@ -1,0 +1,818 @@
+{
+  "university": {
+    "name": "İstanbul Medipol Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2024-2025",
+    "programs": [
+      {
+        "name": "Tıp Fakültesi",
+        "full_fee": null,
+        "discounted_fee": 360000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Diş Hekimliği",
+        "full_fee": null,
+        "discounted_fee": 390000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Eczacılık",
+        "full_fee": null,
+        "discounted_fee": 360000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "İlköğretim Matematik Öğretmenliği",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "İngilizce Öğretmenliği",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Okul Öncesi Öğretmenliği",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Özel Eğitim Öğretmenliği",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Rehberlik Ve Psikolojik Danışmanlık",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Endüstriyel Tasarım",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Gastronomi Ve Mutfak Sanatları",
+        "full_fee": null,
+        "discounted_fee": 210000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Görsel İletişim Tasarımı",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "İç Mimarlık Ve Çevre Tasarımı",
+        "full_fee": null,
+        "discounted_fee": 198750,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Kentsel Tasarım Ve Peyzaj Mimarlığı",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Mimarlık",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Türk Müziği",
+        "full_fee": null,
+        "discounted_fee": 105000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Hukuk",
+        "full_fee": null,
+        "discounted_fee": 202500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Gazetecilik",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Halkla İlişkiler Ve Reklamcılık",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Medya Ve Görsel Sanatlar",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Radyo Televizyon Ve Sinema",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Yeni Medya Ve İletişim",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Psikoloji",
+        "full_fee": null,
+        "discounted_fee": 210000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Siyaset Bilimi Ve Kamu Yönetimi",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Siyaset Bilimi Ve Uluslararası İlişkiler",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Bankacılık Ve Sigortacılık",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Ekonomi Ve Finans",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Havacılık Yönetimi",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "İnsan Kaynakları Yönetimi",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "İşletme",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Lojistik Yönetimi",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Uluslararası Ticaret Ve Finansman",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Yönetim Bilişim Sistemleri",
+        "full_fee": null,
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Endüstri Mühendisliği",
+        "full_fee": null,
+        "discounted_fee": 187500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "İnşaat Mühendisliği",
+        "full_fee": null,
+        "discounted_fee": 187500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Beslenme Ve Diyetetik",
+        "full_fee": null,
+        "discounted_fee": 206250,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Çocuk Gelişimi",
+        "full_fee": null,
+        "discounted_fee": 172500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Dil Ve Konuşma Terapisi",
+        "full_fee": null,
+        "discounted_fee": 172500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Ebelik",
+        "full_fee": null,
+        "discounted_fee": 157500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Ergoterapi",
+        "full_fee": null,
+        "discounted_fee": 157500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Fizyoterapi Ve Rehabilitasyon",
+        "full_fee": null,
+        "discounted_fee": 206250,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Hemşirelik",
+        "full_fee": null,
+        "discounted_fee": 172500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Odyoloji",
+        "full_fee": null,
+        "discounted_fee": 172500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Ortez Ve Protez",
+        "full_fee": null,
+        "discounted_fee": 157500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Sağlık Yönetimi",
+        "full_fee": null,
+        "discounted_fee": 120000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Sosyal Hizmet",
+        "full_fee": null,
+        "discounted_fee": 131250,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Ağız Ve Diş Sağlığı (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Ameliyathane Hizmetleri (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Anestezi (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Bilgisayar Programcılığı (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Biyomedikal Cihaz Teknolojisi (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Çocuk Gelişimi (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Diş Protez Teknolojisi (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Diyaliz (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Elektronörofizyoloji (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Fizyoterapi (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "İç Mekan Tasarımı (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "İlk Ve Acil Yardım (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "İnşaat Teknolojisi (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "İş Sağlığı Ve Güvenliği (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Mimari Restorasyon (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Odyometri (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Optisyenlik (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Radyoterapi (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Sağlık Kurumları İşletmeciliği (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Tıbbi Dokümantasyon Ve Sekreterlik (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Tıbbi Görüntüleme Teknikleri (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Tıbbi Laboratuvar Teknikleri (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "name": "Bankacılık Ve Sigortacılık (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "name": "Dış Ticaret (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "name": "Halkla İlişkiler Ve Tanıtım (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "name": "İnsan Kaynakları Yönetimi (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+        {
+        "name": "İşletme Yönetimi (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Lojistik (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Mahkeme Büro Hizmetleri (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "name": "Maliye (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "name": "Muhasebe Ve Vergi Uygulamaları (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "name": "Radyo Ve Televizyon Programcılığı (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "name": "Sivil Havacılık Kabin Hizmetleri* (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+         {
+        "name": "Sosyal Hizmetler (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "name": "Spor Yönetimi (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+        {
+        "name": "Uygulamalı İngilizce Çevirmenlik * (İkinci Öğretim) (Önlisans)",
+        "full_fee": null,
+        "discounted_fee": 105000,
+        "currency": "TL",
+        "discount": "25%"
+      }
+    ]
+  },
+  "tuition_fees_2023_2024": {
+    "programs": [
+       {
+        "name": "Psikoloji",
+        "full_fee": 114400,
+        "discounted_fee": 57200,
+        "currency": "TL",
+         "Tercih İndirimi" : 57200,
+        "discount": "50%"
+      },
+       {
+        "name": "Tıp Fakültesi",
+        "full_fee": 275000,
+        "discounted_fee": 137500,
+        "currency": "TL",
+         "Tercih İndirimi" : 137500,
+        "discount": "50%"
+      },
+       {
+        "name": "Uluslararası Tıp Fakültesi",
+        "full_fee": 308000,
+        "discounted_fee": null,
+        "currency": "TL"
+      },
+       {
+        "name": "Diş Hekimliği Fakültesi",
+        "full_fee": 275000,
+        "discounted_fee": 137500,
+        "currency": "TL",
+        "Tercih İndirimi" : 137500,
+        "discount": "50%"
+      },
+        {
+        "name": "Eczacılık Fakültesi",
+        "full_fee": 247500,
+        "discounted_fee": 123750,
+        "currency": "TL",
+         "Tercih İndirimi" : 123750,
+        "discount": "50%"
+      },
+        {
+        "name": "Hukuk Fakültesi",
+        "full_fee": 155100,
+        "discounted_fee": 77550,
+        "currency": "TL",
+         "Tercih İndirimi" : 77550,
+        "discount": "50%"
+      },
+       {
+        "name": "Mimarlık",
+        "full_fee": 149600,
+        "discounted_fee": 74800,
+        "currency": "TL",
+        "Tercih İndirimi" : 56100,
+        "discount": "50%"
+      },
+        {
+        "name": "İç Mimarlık ve Çevre Tasarımı, Gastronomi ve Mutfak Sanatları",
+        "full_fee": 132000,
+        "discounted_fee": 66000,
+        "currency": "TL",
+         "Tercih İndirimi" : 49500,
+        "discount": "50%"
+      },
+        {
+        "name": "Fizyoterapi ve Rehabilitasyon, Beslenme ve Diyetetik",
+        "full_fee": 137500,
+        "discounted_fee": 68750,
+        "currency": "TL",
+         "Tercih İndirimi" : 68750,
+        "discount": "50%"
+      },
+       {
+        "name": "Okul Öncesi Öğretmenliği, Rehberlik ve Psikolojik Danışmanlık, İngilizce Öğretmenliği, Özel Eğitim Öğretmenliği, İlköğretim Matematik Öğretmenliği",
+        "full_fee": 126500,
+        "discounted_fee": 63250,
+        "currency": "TL",
+        "Tercih İndirimi" : 47440,
+        "discount": "50%"
+      },
+       {
+        "name": "Halkla İlişkiler ve Reklamcılık, Radyo Televizyon ve Sinema, Gazetecilik, Yeni Medya ve İletişim, Medya ve Görsel Sanatlar",
+        "full_fee": 104500,
+        "discounted_fee": 52250,
+        "currency": "TL",
+         "Tercih İndirimi" : 39190,
+        "discount": "50%"
+      },
+         {
+        "name": "İnsan Kaynakları Yönetimi, Bankacılık ve Sigortacılık, Ekonomi ve Finans, Havacılık Yönetimi, Lojistik Yönetimi, Uluslararası Ticaret ve Finansman, İşletme, Yönetim Bilişim Sistemleri",
+        "full_fee": 99000,
+        "discounted_fee": 49500,
+        "currency": "TL",
+         "Tercih İndirimi" : 37125,
+        "discount": "50%"
+      },
+         {
+        "name": "Endüstri Mühendisliği, İnşaat Mühendisliği",
+        "full_fee": 137500,
+        "discounted_fee": 68750,
+        "currency": "TL",
+         "Tercih İndirimi" : 51565,
+        "discount": "50%"
+      },
+         {
+        "name": "Biyomedikal Mühendisliği,Bilgisayar Mühendisliği, Elektrik Elektronik Mühendisliği",
+        "full_fee": 137500,
+        "discounted_fee": null,
+        "currency": "TL"
+      },
+         {
+        "name": "Odyoloji",
+        "full_fee": 137500,
+        "discounted_fee": 68750,
+        "currency": "TL",
+         "Tercih İndirimi" : 51565,
+        "discount": "50%"
+      },
+       {
+        "name": "Hemşirelik",
+        "full_fee": 114400,
+        "discounted_fee": 57200,
+        "currency": "TL",
+         "Tercih İndirimi" : 42900,
+        "discount": "50%"
+      },
+        {
+        "name": "Ergoterapi, Ebelik",
+        "full_fee": 104500,
+        "discounted_fee": 52250,
+        "currency": "TL",
+         "Tercih İndirimi" : 39190,
+        "discount": "50%"
+      },
+        {
+        "name": "Dil ve Konuşma Terapisi,Çocuk Gelişimi",
+        "full_fee": 114000,
+        "discounted_fee": 57200,
+        "currency": "TL",
+         "Tercih İndirimi" : 42900,
+        "discount": "50%"
+      },
+      {
+        "name": "Sosyal Hizmet",
+        "full_fee": 86900,
+        "discounted_fee": 43450,
+        "currency": "TL",
+        "Tercih İndirimi" : 32590,
+        "discount": "50%"
+      },
+         {
+        "name": "Ortez-Protez",
+        "full_fee": 104500,
+        "discounted_fee": 52250,
+        "currency": "TL",
+        "Tercih İndirimi" : 39190,
+        "discount": "50%"
+      },
+        {
+        "name": "Sağlık Yönetimi",
+        "full_fee": 74800,
+        "discounted_fee": 37400,
+        "currency": "TL",
+        "Tercih İndirimi" : 28050,
+        "discount": "50%"
+      },
+         {
+        "name": "Siyaset Bilimi ve Uluslararası İlişkiler, Siyaset Bilimi ve Kamu Yönetimi",
+        "full_fee": 99000,
+        "discounted_fee": 49500,
+        "currency": "TL",
+         "Tercih İndirimi" : 37125,
+        "discount": "50%"
+      },
+       {
+        "name": "Kentsel Tasarım ve Peyzaj Mimarlığı, Endüstriyel Tasarım, Görsel İletişim Tasarımı",
+        "full_fee": 99000,
+        "discounted_fee": 49500,
+        "currency": "TL",
+        "Tercih İndirimi" : 37125,
+        "discount": "50%"
+      },
+      {
+        "name": "Türk Müziği",
+        "full_fee": 72600,
+        "discounted_fee": 36300,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Ebelik (Sağlık Bilimleri Yüksekokulu)",
+        "full_fee": 93500,
+        "discounted_fee": 46750,
+        "currency": "TL",
+        "Tercih indirimi" : 35065,
+        "discount": "50%"
+      },
+       {
+        "name": "Beslenme ve Diyetetik, Fizyoterapi ve Rehabilitasyon (Sağlık Bilimleri Yüksekokulu)",
+        "full_fee": 126500,
+        "discounted_fee": 63250,
+        "currency": "TL",
+        "Tercih İndirimi" : 47440,
+        "discount": "50%"
+      },
+          {
+        "name": "Odyoloji, Çocuk Gelişimi (Sağlık Bilimleri Yüksekokulu)",
+        "full_fee": 113300,
+        "discounted_fee": 56650,
+        "currency": "TL",
+        "Tercih İndirimi" : 42490,
+        "discount": "50%"
+      },
+       {
+        "name": "Sosyal Hizmet (Sağlık Bilimleri Yüksekokulu)",
+        "full_fee": 82500,
+        "discounted_fee": 41250,
+        "currency": "TL",
+        "Tercih indirimi" : 30940,
+        "discount": "50%"
+      },
+        {
+        "name": "Adalet (Önlisans)",
+        "full_fee": 112200,
+        "discounted_fee": 56100,
+        "currency": "TL",
+        "Tercih indirimi" : 42075,
+         "Tercih indirimi" : 42075
+      },
+        {
+        "name": "Adalet (İkinci Öğretim) (Önlisans)",
+        "full_fee": 57240,
+        "discounted_fee": 28620,
+        "currency": "TL",
+        "Tercih indirimi" : 21465,
+         "Tercih indirimi" : 21465
+      },
+       {
+        "name": "Anestezi, Ağız ve Diş Sağılığı, Ameliyathane Hizmetleri, Biyomedikal Cihaz Teknolojisi, Çocuk Gelişimi, Diş Protez Teknolojisi, Diyaliz, Elektronörofizyoloji, Fizyoterapi, İlk ve Acil Yardım, İş Sağlığı ve Güvenliği, Odyometri, Optisyenlik, Radyoterapi, Sağlık Kurumları İşletmeciliği, Sivil Hava Ulaştırma İşletmeciliği, Tıbbi Dokümantasyon ve Sekreterlik, Tıbbi Görüntüleme Teknikleri, Tıbbi Laboratuvar Teknikleri, Eczane Hizmetleri, Patoloji Laboratuvar Teknikleri(Önlisans)",
+        "full_

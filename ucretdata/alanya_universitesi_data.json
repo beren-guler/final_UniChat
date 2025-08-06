@@ -1,0 +1,324 @@
+{
+  "university": {
+    "name": "Alanya (HEP) Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "İngilizce Hazırlık Programı": {
+        "amount": 425000,
+        "currency": "TL"
+      },
+      "İktisadi, İdari Ve Sosyal Bilimler Fakültesi": {
+        "amount": 476000,
+        "currency": "TL"
+      },
+      "Meslek Yüksekokulu": {
+        "amount": 425000,
+        "currency": "TL"
+      },
+      "Sağlık Bilimleri Fakültesi": {
+        "amount": 527000,
+        "currency": "TL"
+      },
+      "Bilgisayar Mühendisliği": {
+        "amount": 500000,
+        "currency": "TL"
+      },
+      "Çizgi Film Ve Animasyon": {
+        "amount": 476000,
+        "currency": "TL"
+      },
+      "Gastronomi Ve Mutfak Sanatları": {
+        "amount": 595000,
+        "currency": "TL"
+      },
+      "İç Mimarlık Ve Çevre Tasarımı": {
+        "amount": 527000,
+        "currency": "TL"
+      },
+      "İletişim Ve Tasarımı": {
+        "amount": 476000,
+        "currency": "TL"
+      },
+      "Yönetim Bilişim Sistemleri": {
+        "amount": 500000,
+        "currency": "TL"
+      }
+    },
+    "2024-2025": {
+      "İktisadi, İdari ve Sosyal Bilimler Fakültesi": [
+        {
+          "Bölüm": "İşletme (Türkçe)",
+          "Tam Ücret": {
+            "amount": 280000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 140000,
+            "currency": "TL"
+          }
+        },
+        {
+          "Bölüm": "İşletme (İngilizce)",
+          "Tam Ücret": {
+            "amount": 280000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 140000,
+            "currency": "TL"
+          }
+        },
+        {
+          "Bölüm": "Turizm İşletmeciliği Bölümü (ING)",
+          "Tam Ücret": {
+            "amount": 280000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 140000,
+            "currency": "TL"
+          }
+        }
+      ],
+      "Mühendislik ve Doğa Bilimleri Fakültesi": [
+        {
+          "Bölüm": "Bilgisayar Mühendisliği (İngilizce)",
+          "Tam Ücret": {
+            "amount": 310000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 155000,
+            "currency": "TL"
+          }
+        },
+        {
+          "Bölüm": "Mimarlık Bölümü (İngilizce)",
+          "Tam Ücret": {
+            "amount": 310000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 155000,
+            "currency": "TL"
+          }
+        },
+        {
+          "Bölüm": "İç Mimarlık ve Çevre Tasarımı(Türkçe)",
+          "Tam Ücret": {
+            "amount": 310000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 155000,
+            "currency": "TL"
+          }
+        }
+      ],
+      "Sanat ve Tasarım Fakültesi": [
+        {
+          "Bölüm": "Gastronomi ve Mutfak Sanatları Bölümü (İngilizce)",
+          "Tam Ücret": {
+            "amount": 350000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 175000,
+            "currency": "TL"
+          }
+        },
+        {
+          "Bölüm": "Gastronomi ve Mutfak Sanatları Bölümü (Türkçe)",
+          "Tam Ücret": {
+            "amount": 350000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 175000,
+            "currency": "TL"
+          }
+        },
+        {
+          "Bölüm": "Çizgi Film ve Animasyon Bölümü(Türkçe)",
+          "Tam Ücret": {
+            "amount": 280000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 140000,
+            "currency": "TL"
+          }
+        },
+        {
+          "Bölüm": "İletişim ve Tasarımı (İngilizce)",
+          "Tam Ücret": {
+            "amount": 280000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 140000,
+            "currency": "TL"
+          }
+        }
+      ],
+      "Sağlık Bilimleri Fakültesi": [
+        {
+          "Bölüm": "Fizyoterapi ve Rahabilitasyon(Türkçe)",
+          "Tam Ücret": {
+            "amount": 310000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 155000,
+            "currency": "TL"
+          }
+        }
+      ],
+      "Meslek Yüksekokulu": [
+        {
+          "Bölüm": "Aşçılık(Türkçe)",
+          "Tam Ücret": {
+            "amount": 250000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 125000,
+            "currency": "TL"
+          }
+        },
+        {
+          "Bölüm": "Fizyoterapi(Türkçe)",
+          "Tam Ücret": {
+            "amount": 250000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 125000,
+            "currency": "TL"
+          }
+        },
+        {
+          "Bölüm": "Bilgisayar Programcılığı(Türkçe)",
+          "Tam Ücret": {
+            "amount": 250000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 125000,
+            "currency": "TL"
+          }
+        },
+        {
+          "Bölüm": "Turizm ve Otel İşletmeciliği(Türkçe)",
+          "Tam Ücret": {
+            "amount": 250000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 125000,
+            "currency": "TL"
+          }
+        }
+      ],
+      "Yabancı Diller Meslek Yüksekokulu": [
+        {
+          "Bölüm": "Hazırlık Okulu(İngilizce)",
+          "Tam Ücret": {
+            "amount": 250000,
+            "currency": "TL"
+          },
+          "%50 İndirimli": {
+            "amount": 125000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+      "2023-2024":{
+         "Aşçılık":{
+          "discount_50":{
+            "amount":60000,
+            "currency":"TL"
+          }
+         },
+         "Bilgisayar Mühendisliği(İngilizce)":{
+          "discount_50":{
+            "amount":75000,
+            "currency":"TL"
+          }
+         },
+         "Çizgi Film ve Animasyon":{
+          "discount_50":{
+            "amount":65000,
+            "currency":"TL"
+          }
+         },
+         "Fizyoterapi":{
+          "discount_50":{
+            "amount":60000,
+            "currency":"TL"
+          }
+         },
+         "Gastronomi ve Mutfak Sanatları":{
+          "discount_50":{
+            "amount":75000,
+            "currency":"TL"
+          }
+         },
+          "İletişim ve Tasarımı (İngilizce)":{
+          "discount_50":{
+            "amount":65000,
+            "currency":"TL"
+          }
+         },
+         "Mimarlık (İngilizce)":{
+          "discount_50":{
+            "amount":75000,
+            "currency":"TL"
+          }
+         },
+         "Turizm İşletmeciliği(İngilizce)":{
+          "discount_50":{
+            "amount":65000,
+            "currency":"TL"
+          }
+         }
+      }
+  },
+  "scholarships": {
+    "burslar": [
+      {
+        "Burs": "Tercih Bursu",
+        "Koşul": "ÖSYM tarafından Alanya Üniversitesi lisans ve ön lisans programlarına yerleşerek kayıt yaptıran öğrencilerden, ilk 5 tercihinin içerisinde en az 3 tane Alanya Üniversitesi olan ve bu tercihlerinden birine yerleşenlere %20 oranında ÖSYM indirimine ilave indirim uygulanır.\n\nÖSYM tarafından Alanya Üniversitesi ücretli lisans ve ön lisans programlarına yerleşerek kayıt yaptıran öğrencilerden, Üniversitemiz bölümlerinden birine\n\nİlk tercihinden yerleşenlere %20\nİkinci tercihinden yerleşenlere % 15\nÜçüncü tercihinden yerleşenlere %10\nDördüncü ve beşinci tercihlerinden yerleşenlere % 5 indirim uygulanır."
+      },
+      {
+        "Burs": "YKS Başarı Bursu",
+        "Koşul": "ÖSYM tarafından Alanya Üniversitesi lisans programlarına yerleşen öğrencilerden;\n\nİlk 5000 içerisinden kayıt yaptıran öğrencilere; lisans eğitimi ve başarılarına katkı olarak 8 ay süreyle 15000TL,\n5001 ile 10000 içerisinden kayıt yaptıran öğrencilere ise 7500 TL kadar burs verilir.\n\nBu maddede yer alan burs Hazırlık Sınıfında 1 yıl, lisans öğretiminde ise 4 yıl boyunca Alanya Üniversitesi’nde eğitim öğretim hayatına devam edecekler için olup bu süre boyunca devamlı ve başarılı olan öğrencileri kapsamaktadır."
+      },
+      {
+        "Burs": "Teşvik Bursu",
+        "Koşul": "TÜBİTAK tarafından tespit edilen uluslararası yarışmalarda altın, gümüş ve bronz madalya alan, ödül aldıkları alanlardaki Üniversitenin bölümlerine/programlarına kayıt yaptıran öğrencilere normal öğrenim süresince Mütevelli Heyeti’nin takdir ettiği şekil ve miktarda burs imkânı sağlanabilir."
+      },
+      {
+        "Burs": "Spor Kültür ve Sanat Başarı Bursu",
+        "Koşul": "Herhangi bir spor dalında Milli Takım kadrosunda yer alan veya Birinci Lig Kulüplerinde lisanslı ve aktif olarak spor yapan öğrencilerle, kültür ve sanat dallarında Üniversiteyi temsil ederek dereceye (ilk üçe) girmiş öğrencilere (Üniversite takımında yer alma ve müsabakalara katılma şartıyla) yıllık öğretim ücretleri üzerinden belirlenen oranlarda burs imkânı sağlanabilir."
+      },
+      {
+        "Burs": "Şehit ve Gazi Bursu",
+        "Koşul": "Üniversite ön lisans veya lisans programlarına ÖSYM tarafından yerleştirilen ve kayıt yaptıran öğrencilerden; şehit eşi ve çocuklarına Mütevelli Heyeti tarafından belirlenecek kontenjan dahilinde %100 öğrenim bursu verilir. Gazinin kendisi, eşi ve çocuklarına ise yine öğrenim ücreti üzerinden %50 oranında indirim yapılır."
+      },
+      {
+        "Burs": "Akademik Başarı İndirimi",
+        "Koşul": "Akademik Başarı İndirimi Üniversitede burssuz veya kısmi burslu öğrenim gören öğrencilerin yılsonu genel not ortalaması esas alınarak yapılan bir değerlendirmede başarılı bulunmaları halinde bir sonraki eğitim öğretim yılını kapsayan öğrenim ücretinden karşılıksız Akademik Başarı İndirimi yapılır."
+      },
+      {
+        "Burs": "Kardeş İndirimi",
+        "Koşul": "Kardeş öğrencilerden her ikisinin de Üniversitede beraber okuyor olması şartıyla, öğrencilerden her birine ödeyeceği öğrenim ücretleri üzerinden lisans ve ön lisans programlarında %10 oranında indirim sağlanabilir."
+      }
+    ]
+  },
+  "dormitory_fees": null
+}

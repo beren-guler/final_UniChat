@@ -1,0 +1,397 @@
+{
+  "university": {
+    "name": "Doğu Akdeniz Üniversitesi",
+    "url": "https://www.emu.edu.tr/",
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": {
+    "academic_year": "2024-2025",
+    "lisans_programs_50_burslu": [
+      {
+        "program": "Diş Hekimliği",
+        "annual_fee": 295840.60,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Eczacılık",
+        "annual_fee": 229226.50,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "İlköğretim Matematik Öğretmenliği",
+        "annual_fee": 181225.76,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "İngilizce Öğretmenliği",
+        "annual_fee": 188155.76,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Sınıf Öğretmenliği",
+        "annual_fee": 181225.76,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Türkçe Öğretmenliği",
+        "annual_fee": 177036.24,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Hukuk",
+        "annual_fee": 189741.24,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "İç Mimarlık",
+        "annual_fee": 170568.24,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Mimarlık",
+        "annual_fee": 170568.24,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Tıp Fakültesi (UOLP Marmara Üniversitesi)",
+        "annual_fee": 307794.86,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Beslenme ve Diyetetik",
+        "annual_fee": 200472.24,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Fizyoterapi ve Rehabilitasyon",
+        "annual_fee": 200472.24,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Hemşirelik",
+        "annual_fee": 200472.24,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Egzersiz ve Spor Bilimleri",
+        "annual_fee": 131240.50,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Sağlık Yönetimi",
+        "annual_fee": 131240.50,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Gastronomi ve Mutfak Sanatları",
+        "annual_fee": 155836.76,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Turizm İşletmeciliği",
+        "annual_fee": 140386.00,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      },
+      {
+        "program": "Dijital Oyun Tasarımı",
+        "annual_fee": 140386.00,
+        "currency": "TRL",
+        "scholarship": "50% Burslu"
+      }
+    ],
+        "academic_year_2023_2024": {
+        "note": "Öğrenim ücreti güz ile bahar dönemi kayıtlarında iki eşit taksit halinde (Eylül ve Şubat aylarında) ödenmesi durumunda"
+    },
+            "academic_year_general_fees_2024_2025": {
+        "note": "Ücretler ve fonlar ilgili yılın Kuzey Kıbrıs Türk Cumhuriyeti’nde ilan edilen yıllık Tüketici Fiyat Endeksi (TÜFE) Mayıs ayı verileri dikkate alınarak açıklanan yıllık enflasyon oranını geçmeyecek şekilde belirlenecektir. İlan edilen ücretlere öğrenci hizmetleri fonu (26.000,00 (yirmialtıbin) TL), yeni öğrenci dosya açma ücreti (sadece ilk kayıtta 13,500,00 (onüçbinbeşyüz) TL) ve İngilizce hazırlık okulu kitap ücreti (20.000,00) TL dahil edilmemiştir. Öğrenci hizmetleri fonu, dosya açma ücreti ve İngilizce hazırlık okulu kitap ücreti burs kapsamında değildir."
+    },
+    "annual_fees": [
+        {
+            "program": "İngilizce Hazırlık Programı",
+            "annual_fee": 458850.00,
+            "currency": "TL"
+        },
+        {
+            "program": "Bilgisayar Ve Öğretim Teknolojileri Öğretmenliği ile Fen Edebiyat Fakültesi programları",
+            "annual_fee": 380226.00,
+            "currency": "TL"
+        },
+         {
+            "program": "Sağlık Bilimleri Fakültesi",
+            "annual_fee": 395430.00,
+            "currency": "TL"
+        },
+         {
+            "program": "Moleküler Biyoloji Ve Genetik",
+            "annual_fee": 398318.00,
+            "currency": "TL"
+        },
+         {
+            "program": "İngilizce Mütercim Ve Tercümanlık",
+            "annual_fee": 423696.00,
+            "currency": "TL"
+        },
+        {
+            "program": "İletişim Fakültesi, İşletme ve Ekonomi Fakültesi, Turizm Fakültesi",
+            "annual_fee": 428348.00,
+            "currency": "TL"
+        },
+        {
+            "program": "Bilişim Sistemleri ve Teknolojileri ile Bilgi Güvenliği Teknolojisi",
+            "annual_fee": 431487.00,
+            "currency": "TL"
+        },
+        {
+            "program": "Gastronomi Ve Mutfak Sanatları",
+            "annual_fee": 483977.00,
+            "currency": "TL"
+        },
+         {
+            "program": "Mimarlık Fakültesi, Mühendislik Fakültesi programları",
+            "annual_fee": 537002.00,
+            "currency": "TL"
+        },
+        {
+            "program": "Müzik Öğretmenliği ile Rehberlik Ve Psikolojik Danışmanlık Programları",
+            "annual_fee": 556206.00,
+            "currency": "TL"
+        },
+        {
+            "program": "Türkçe Öğretmenliği",
+            "annual_fee": 560291.00,
+            "currency": "TL"
+        },
+        {
+            "program": "Bilgisayar Mühendisliği, Yapay Zeka Mühendisliği, Yazılım Mühendisliği programları",
+            "annual_fee": 562601.00,
+            "currency": "TL"
+        },
+        {
+            "program": "İlköğretim Matematik Öğretmenliği ile Sınıf Öğretmenliği Programları",
+            "annual_fee": 575369.00,
+            "currency": "TL"
+        },
+         {
+            "program": "Psikoloji",
+            "annual_fee": 598563.00,
+            "currency": "TL"
+        },
+        {
+            "program": "Okul Öncesi Öğretmenliği ile Özel Eğitim Öğretmenliği programları",
+            "annual_fee": 600317.00,
+            "currency": "TL"
+        },
+        {
+            "program": "Hukuk Fakültesi",
+            "annual_fee": 606029.00,
+            "currency": "TL"
+        },
+        {
+            "program": "Eczacılık Fakültesi",
+            "annual_fee": 623480.00,
+            "currency": "TL"
+        },
+        {
+            "program": "Beslenme ve Diyetetik, Fizyoterapi Ve Rehabilitasyon, Hemşirelik programları",
+            "annual_fee": 644658.00,
+            "currency": "TL"
+        },
+        {
+            "program": "Diş Hekimliği Fakültesi",
+            "annual_fee": 713549.00,
+            "currency": "TL"
+        },
+          {
+            "program": "Tıp Fakültesi",
+            "annual_fee": 744629.00,
+            "currency": "TL"
+        },
+            {
+            "program": "Ön lisans Turizm ve Otelcilik Yüksekokulu",
+            "annual_fee": 372425.00,
+            "currency": "TL"
+        },
+         {
+            "program": "Ön lisans Ortopedik Protez Ve Ortez programı ile Radyoterapi programı",
+            "annual_fee": 465602.00,
+            "currency": "TL"
+        },
+         {
+            "program": "Sağlık Hizmetleri Yüksekokulu",
+            "annual_fee": 478191.00,
+            "currency": "TL"
+        },
+         {
+            "program": "Bilgisayar Ve Teknoloji Yüksekokulu",
+            "annual_fee": 372425.00,
+            "currency": "TL"
+        }
+    ],
+      "academic_year_2023_2024_fees_per_semester": {
+        "Tıp Fakültesi": {
+            "semester_fee": 128119.50,
+            "currency": "₺"
+        },
+        "Diş Hekimliği Fakültesi": {
+            "semester_fee": 122922.00,
+            "currency": "₺"
+        },
+        "Eczacılık Fakültesi": {
+            "semester_fee": 82024.50,
+            "currency": "₺"
+        },
+        "Hukuk Fakültesi": {
+            "semester_fee": 70936.50,
+            "currency": "₺"
+        },
+            "Sağlık Bilimleri Fakültesi": {
+                "Beslenme ve Diyetetik ile Fizyoterapi ve Rehabilitasyon programları": {
+                    "semester_fee": 72474.75,
+                    "currency": "₺"
+                },
+                "Hemşirelik programı": {
+                    "semester_fee": 64767.75,
+                    "currency": "₺"
+                },
+                "Sağlık Bilimleri Fakültesi’nin diğer programları": {
+                    "semester_fee": 45846.75,
+                    "currency": "₺"
+                }
+            },
+              "Mühendislik Fakültesi": {
+                "Bilgisayar Mühendisliği (Türkçe / İngilizce) Yazılım Mühendisliği": {
+                    "semester_fee": 63707.25,
+                    "currency": "₺"
+                },
+                "Diğer programlar": {
+                    "semester_fee": 60972.00,
+                    "currency": "₺"
+                }
+            },
+                 "Mimarlık Fakültesi": {
+                   "tüm programlar": {
+                     "semester_fee": 60972.00,
+                     "currency": "₺"
+                   }
+                },
+                 "Eğitim Fakültesi": {
+                "Rehberlik ve Psikolojik Danışmanlık / Müzik Öğretmenliği": {
+                    "semester_fee": 63024.75,
+                    "currency": "₺"
+                },
+                   "Türkçe Öğretmenliği": {
+                    "semester_fee": 65854.50,
+                    "currency": "₺"
+                },
+                   "Sınıf Öğretmenliği / İlköğretim Matematik Öğretmenliği": {
+                    "semester_fee": 67529.25,
+                    "currency": "₺"
+                },
+                   "Bilgisayar ve Öğretim Tek. Öğretmenliği": {
+                    "semester_fee": 45846.75,
+                    "currency": "₺"
+                },
+                 "Diğer programlar": {
+                     "semester_fee": 70301.25,
+                     "currency": "₺"
+                  }
+                  },
+                    "Fen ve Edebiyat Fakültesi": {
+                "Psikoloji (Türkçe)": {
+                    "semester_fee": 70107.00,
+                    "currency": "₺"
+                },
+                     "Psikoloji (İngilizce)": {
+                    "semester_fee": 70107.00,
+                    "currency": "₺"
+                },
+                        "İngilizce Mütercim Tercümanlık": {
+                    "semester_fee": 50676.75,
+                    "currency": "₺"
+                },
+                         "Moleküler Biyoloji ve Genetik": {
+                    "semester_fee": 47857.50,
+                    "currency": "₺"
+                },
+                      "Diğer programlar": {
+                     "semester_fee": 45846.75,
+                     "currency": "₺"
+                  }
+                  },
+                        "İşletme ve Ekonomi Fakültesi": {
+                   "tüm programlar": {
+                     "semester_fee": 49364.25,
+                     "currency": "₺"
+                   }
+                },
+                     "İletişim Fakültesi": {
+                   "tüm programlar": {
+                     "semester_fee": 49364.25,
+                     "currency": "₺"
+                   }
+                },
+                      "Bilgisayar ve Teknoloji Yüksekokulu": {
+                   "Bilişim Sistemleri ve Teknolojileri (Türkçe / İngilizce)": {
+                     "semester_fee": 51543.00,
+                     "currency": "₺"
+                   }
+                },
+                    "Turizm ve Otelcilik Yüksekokulu": {
+                "Gastronomi ve Mutfak Sanatları (Türkçe / İngilizce)": {
+                    "semester_fee": 55307.25,
+                    "currency": "₺"
+                },
+                   "Diğer programlar": {
+                     "semester_fee": 49364.25,
+                     "currency": "₺"
+                   }
+                },
+                 "Önlisans Programları": {
+            "Turizm ve Otelcilik Yüksekokulu Tüm programlar": {
+                "semester_fee": 43389.75,
+                "currency": "₺"
+            },
+            "Bilgisayar ve Teknoloji Yüksekokulu Tüm programlar": {
+                "semester_fee": 43389.75,
+                "currency": "₺"
+            },
+            "Adalet Meslek Yüksekokulu Adalet": {
+                "semester_fee": 43389.75,
+                "currency": "₺"
+            },
+            "Sağlık Hizmetleri Yüksekokulu Radyoterapi ve Ortopedik Protez ve Ortez": {
+                "semester_fee": 53343.75,
+                "currency": "₺"
+            },
+            "Sağlık Hizmetleri Yüksekokulu Diğer programlar": {
+                "semester_fee": 54687.75,
+                "currency": "₺"
+            }
+        },
+              "Yabancı Diller ve İngilizce Hazırlık Okulu": {
+            "İngilizce Hazırlık Okulu öğrenim ücreti": {
+                "semester_fee": 58482.75,
+                "currency": "₺"
+            }
+        }
+        }
+  },
+  "scholarships": {}
+}

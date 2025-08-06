@@ -1,0 +1,41 @@
+{
+  "university": {
+    "name": "Akdeniz Karpaz Üniversitesi",
+    "url": "www.akun.edu.tr",
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": {
+      "annual_fee": {
+        "amount": 180000,
+        "currency": "TL",
+        "note": "Ön lisans ve Lisans programları (Tüm eğitim ücretlerine %5 KDV dâhildir.)"
+      },
+       "registration_fee_per_semester": {
+        "amount": 20000,
+        "currency": "TL",
+        "note": "Ek olarak, tüm öğrenciler (burslu ya da burssuz) dönemlik ödemekle yükümlüdür."
+      }
+    },
+        "academic_year_2024_2025": {
+       "note": "2024 – 2025 ders yılında kayıt yaptıran öğrencilere Mütevelli Heyeti kararıyla eğitim ücretlerine %50 indirim uygulanacaktır.Eğitim ücretinden ayrı olarak her öğrenci (burslu/burssuz) dönemlik 2000 TL kayıt ücreti ödemekle mükelleftir."
+        },
+            "annual_fee_after_discount": {
+                "amount": 50000,
+                "currency": "TL",
+                "note": "Mütevelli Heyeti kararı ile % 50 indirim uygulanmış eğitim ücretleri, yıllık İngilizce Hazırlık Programında 50,000 TL; Önlisans/Lisans programlarında 50,000 TL’dir. Tüm fiyatlara %5 KDV dahildir."
+            }
+
+  },
+  "scholarships": {
+    "partial_scholarships": [
+      {
+        "name": "Mütevelli Heyeti İndirimi",
+        "coverage": "Öğrenim ücretinde %50 indirim",
+        "percentage": "50%",
+        "condition": "2023-2024 ve 2024-2025 ders yılında kayıt yaptıran öğrenciler"
+      }
+    ]
+  }
+}

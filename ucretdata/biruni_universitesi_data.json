@@ -1,0 +1,458 @@
+{
+  "university": {
+    "name": "Biruni Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "Eczacılık Fakültesi": 1000000.00,
+      "Diş Hekimliği Fakültesi": 1200000.00,
+      "Tıp Fakültesi": 1200000.00,
+      "Uygulamalı Bilimler Fakültesi Programları": 600000.00,
+      "İngilizce Öğretmenliği": 680000.00,
+      "Sağlık Bilimleri Fakültesi": {
+        "İç Mimarlık Ve Çevre Tasarımı": 900000.00,
+        "Yazılım Mühendisliği": 900000.00,
+        "Bilgisayar Mühendisliği": 1000000.00,
+        "Mühendislik Ve Doğa Bilimleri Fakültesi Diğer Programlar": 720000.00,
+        "Sağlık Bilimleri Fakültesi Diğer Programları": 900000.00,
+        "Çocuk Gelişimi": 600000.00,
+        "Ergoterapi": 600000.00,
+        "Odyoloji": 600000.00,
+        "Ebelik": 640000.00,
+        "Fizyoterapi Ve Rehabilitasyon": 680000.00
+      },
+      "Meslek Yüksekokulu": {
+        "Acil Durum ve Afet Yönetimi Programı": 440000.00,
+        "Biyomedikal Cihaz Teknolojisi Programı": 440000.00,
+        "Çocuk Gelişimi Programı": 440000.00,
+        "Diyaliz Programı": 440000.00,
+        "Eczane Hizmetleri Programı": 440000.00,
+        "Odyometri Programı": 440000.00,
+        "Optisyenlik Programı": 440000.00,
+        "Patoloji Laboratuvar Teknikleri Programları": 440000.00,
+        "Diğer Meslek Yüksekokulu Programları": 500000.00
+      }
+    },
+    "2024-2025": {
+      "Tıp Fakültesi": [
+        {
+          "program": "Tıp (Türkçe)",
+          "ödeme seçeneği": "Peşin",
+          "25% İndirimli KDV Dahil Ücret (TL)": "413.600₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "310.200₺"
+        },
+        {
+          "program": "Tıp (Türkçe)",
+          "ödeme seçeneği": "Taksitli",
+          "25% İndirimli KDV Dahil Ücret (TL)": "470.000₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "352.500₺"
+        },
+        {
+          "program": "Tıp (İngilizce)",
+          "ödeme seçeneği": "Peşin",
+          "25% İndirimli KDV Dahil Ücret (TL)": "413.600₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "310.200₺"
+        },
+        {
+          "program": "Tıp (İngilizce)",
+          "ödeme seçeneği": "Taksitli",
+          "25% İndirimli KDV Dahil Ücret (TL)": "470.000₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "352.500₺"
+        }
+      ],
+      "Diş Hekimliği Fakültesi": [
+        {
+          "program": "Diş Hekimliği (Türkçe)",
+          "ödeme seçeneği": "Peşin",
+          "25% İndirimli KDV Dahil Ücret (TL)": "440.000₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "330.000₺"
+        },
+        {
+          "program": "Diş Hekimliği (Türkçe)",
+          "ödeme seçeneği": "Taksitli",
+          "25% İndirimli KDV Dahil Ücret (TL)": "500.000₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "375.000₺"
+        },
+        {
+          "program": "Diş Hekimliği (İngilizce)",
+          "ödeme seçeneği": "Peşin",
+          "25% İndirimli KDV Dahil Ücret (TL)": "440.000₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "330.000₺"
+        },
+        {
+          "program": "Diş Hekimliği (İngilizce)",
+          "ödeme seçeneği": "Taksitli",
+          "25% İndirimli KDV Dahil Ücret (TL)": "500.000₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "375.000₺"
+        }
+      ],
+      "Eczacılık Fakültesi": [
+        {
+          "program": "Eczacılık",
+          "ödeme seçeneği": "Peşin",
+          "25% İndirimli KDV Dahil Ücret (TL)": "387.200₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "290.400₺"
+        },
+        {
+          "program": "Eczacılık",
+          "ödeme seçeneği": "Taksitli",
+          "25% İndirimli KDV Dahil Ücret (TL)": "440.000₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "330.000₺"
+        },
+        {
+          "program": "Eczacılık (İngilizce)",
+          "ödeme seçeneği": "Peşin",
+          "25% İndirimli KDV Dahil Ücret (TL)": "387.200₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "290.400₺"
+        },
+        {
+          "program": "Eczacılık (İngilizce)",
+          "ödeme seçeneği": "Taksitli",
+          "25% İndirimli KDV Dahil Ücret (TL)": "440.000₺",
+          "25% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "330.000₺"
+        }
+      ],
+      "Eğitim Fakültesi": [
+        {
+          "program": "İlköğretim Matematik Öğretmenliği",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "184.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "138.600₺"
+        },
+        {
+          "program": "İlköğretim Matematik Öğretmenliği",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "210.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "157.500₺"
+        },
+        {
+          "program": "İngilizce Öğretmenliği",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "202.400₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "151.800₺"
+        },
+        {
+          "program": "İngilizce Öğretmenliği",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "230.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "172.500₺"
+        },
+        {
+          "program": "Okul Öncesi Öğretmenliği",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "184.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "138.600₺"
+        },
+        {
+          "program": "Okul Öncesi Öğretmenliği",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "210.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "157.500₺"
+        },
+        {
+          "program": "Özel Eğitim Öğretmenliği",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "202.400₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "151.800₺"
+        },
+        {
+          "program": "Özel Eğitim Öğretmenliği",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "230.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "172.500₺"
+        },
+        {
+          "program": "Rehberlik ve Psikolojik Danışmanlık",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "184.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "138.600₺"
+        },
+        {
+          "program": "Rehberlik ve Psikolojik Danışmanlık",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "210.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "157.500₺"
+        }
+      ],
+      "Mühendislik ve Doğa Bilimleri Fakültesi": [
+        {
+          "program": "Bilgisayar Mühendisliği",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "323.840₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "242.880₺"
+        },
+        {
+          "program": "Bilgisayar Mühendisliği",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "368.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "276.000₺"
+        },
+        {
+          "program": "Bilgisayar Mühendisliği (İngilizce)",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "323.840₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "242.880₺"
+        },
+        {
+          "program": "Bilgisayar Mühendisliği (İngilizce)",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "368.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "276.000₺"
+        },
+        {
+          "program": "Biyomedikal Mühendisliği (İngilizce)",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "202.400₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "151.800₺"
+        },
+        {
+          "program": "Biyomedikal Mühendisliği (İngilizce)",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "230.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "172.500₺"
+        },
+        {
+          "program": "Elektrik – Elektronik Mühendisliği",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "255.200₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "191.400₺"
+        },
+        {
+          "program": "Elektrik – Elektronik Mühendisliği",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "290.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "217.500₺"
+        },
+        {
+          "program": "Yazılım Mühendisliği",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "255.200₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "191.400₺"
+        },
+        {
+          "program": "Yazılım Mühendisliği",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "290.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "217.500₺"
+        },
+        {
+          "program": "İç Mimarlık ve Çevre Tasarımı",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "290.400₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "217.800₺"
+        },
+        {
+          "program": "İç Mimarlık ve Çevre Tasarımı",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "330.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "247.500₺"
+        },
+        {
+          "program": "Moleküler Biyoloji ve Genetik",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "228.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "171.600₺"
+        },
+        {
+          "program": "Moleküler Biyoloji ve Genetik",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "260.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "195.000₺"
+        },
+        {
+          "program": "Moleküler Biyoloji ve Genetik (İngilizce)",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "228.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "171.600₺"
+        },
+        {
+          "program": "Moleküler Biyoloji ve Genetik (İngilizce)",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "260.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "195.000₺"
+        }
+      ],
+      "Sağlık Bilimleri Fakültesi": [
+        {
+          "program": "Beslenme ve Diyetetik",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "281.600₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "211.200₺"
+        },
+        {
+          "program": "Beslenme ve Diyetetik",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "320.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "240.000₺"
+        },
+        {
+          "program": "Çocuk Gelişimi",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "184.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "138.600₺"
+        },
+        {
+          "program": "Çocuk Gelişimi",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "210.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "157.500₺"
+        },
+        {
+          "program": "Dil ve Konuşma Terapisi",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "228.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "171.600₺"
+        },
+        {
+          "program": "Dil ve Konuşma Terapisi",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "260.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "195.000₺"
+        },
+        {
+          "program": "Dil ve Konuşma Terapisi (İngilizce)",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "228.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "171.600₺"
+        },
+        {
+          "program": "Dil ve Konuşma Terapisi (İngilizce)",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "260.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "195.000₺"
+        },
+        {
+          "program": "Ebelik",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "202.400₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "151.800₺"
+        },
+        {
+          "program": "Ebelik",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "230.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "172.500₺"
+        },
+        {
+          "program": "Ergoterapi",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "184.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "138.600₺"
+        },
+        {
+          "program": "Ergoterapi",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "210.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "157.500₺"
+        },
+        {
+          "program": "Fizyoterapi ve Rehabilitasyon",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "211.200₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "158.400₺"
+        },
+        {
+          "program": "Fizyoterapi ve Rehabilitasyon",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "240.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "180.000₺"
+        },
+        {
+          "program": "Fizyoterapi ve Rehabilitasyon (İngilizce)",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "211.200₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "158.400₺"
+        },
+        {
+          "program": "Fizyoterapi ve Rehabilitasyon (İngilizce)",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "240.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "180.000₺"
+        },
+        {
+          "program": "Hemşirelik",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "290.400₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "217.800₺"
+        },
+        {
+          "program": "Hemşirelik",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "330.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "247.500₺"
+        },
+        {
+          "program": "Hemşirelik (İngilizce)",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "290.400₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "217.800₺"
+        },
+        {
+          "program": "Hemşirelik (İngilizce)",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "330.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "247.500₺"
+        },
+        {
+          "program": "Odyoloji",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "184.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "138.600₺"
+        },
+        {
+          "program": "Odyoloji",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "210.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "157.500₺"
+        }
+      ],
+      "Sağlık Hizmetleri Meslek Yüksekokulu": [
+        {
+          "Program": "Acil Durum ve Afet Yönetimi",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "140.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "105.600₺"
+        },
+        {
+          "Program": "Acil Durum ve Afet Yönetimi",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "160.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "120.000₺"
+        },
+        {
+          "Program": "Ağız ve Diş Sağlığı",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "140.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "105.600₺"
+        },
+        {
+          "Program": "Ağız ve Diş Sağlığı",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "160.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "120.000₺"
+        },
+        {
+          "Program": "Ağız ve Diş Sağlığı (İÖ)",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "140.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "105.600₺"
+        },
+        {
+          "Program": "Ağız ve Diş Sağlığı (İÖ)",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "160.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "120.000₺"
+        },
+        {
+          "Program": "Ameliyathane Hizmetleri",
+          "ödeme seçeneği": "Peşin",
+          "50% İndirimli KDV Dahil Ücret (TL)": "140.800₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (TL)": "105.600₺"
+        },
+        {
+          "Program": "Ameliyathane Hizmetleri",
+          "ödeme seçeneği": "Taksitli",
+          "50% İndirimli KDV Dahil Ücret (TL)": "160.000₺",
+          "50% İndirimli + 1. Tercih %25 İndirimli KDV Dahil Ücret (

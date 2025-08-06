@@ -1,0 +1,42 @@
+{
+  "university": {
+    "name": "Çankaya Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "Ön lisans ve Lisans Programları": 990000.00
+    },
+    "2024-2025": {
+      "Ücretli": {
+        "Yıllık Toplam Ücret (TL)": 585000,
+        "1. Dönem Ücreti (TL)": 292500,
+        "2. Dönem Ücreti (TL)": 292500
+      },
+      "%50 İndirimli": {
+        "Yıllık Toplam Ücret (TL)": 292500,
+        "1. Dönem Ücreti (TL)": 146250,
+        "2. Dönem Ücreti (TL)": 146250
+      }
+    },
+    "2023-2024": {
+      "bölüm ücretleri (KDV hariç)": 255000.00,
+        "Ucretli":{
+           "yıllık_ucret": 255000,
+           "donem1":127500,
+           "donem2":127500
+        },
+       "50_indirimli":{
+           "yıllık_ucret": 127500,
+           "donem1":63750,
+           "donem2":63750
+        }
+    },
+    "2022-2023": {
+      "bölüm ücretleri (KDV dahil)": 110889
+    }
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

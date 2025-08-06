@@ -1,0 +1,766 @@
+{
+  "university": {
+    "name": "Mudanya Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "Mudanya Üniversitesinde eğitim-öğretim ücretlidir. 2025-2026 eğitim-öğretim yılı için ücretler;"
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Sağlık Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Çocuk Gelişimi",
+          "annual_fee": {
+            "amount": 752000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 376000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Fizyoterapi ve Rehabilitasyon",
+          "annual_fee": {
+            "amount": 752000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 376000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Hemşirelik",
+          "annual_fee": {
+            "amount": 752000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 376000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Beslenme ve Diyetetik",
+          "annual_fee": {
+            "amount": 752000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 376000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Dil ve Konuşma Terapisi",
+          "annual_fee": {
+            "amount": 752000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 376000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Ebelik",
+          "annual_fee": {
+            "amount": 752000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 376000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Sanat ve Sosyal Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "Psikoloji (İngilizce)",
+          "annual_fee": {
+            "amount": 997000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 498500,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 896000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 448000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "İngiliz Dili ve Edebiyatı",
+          "annual_fee": {
+            "amount": 564000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 282000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Ekonomi ve Finans",
+          "annual_fee": {
+            "amount": 833000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 416500,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Görsel İletişim Tasarımı",
+          "annual_fee": {
+            "amount": 833000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 416500,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "İşletme",
+          "annual_fee": {
+            "amount": 833000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 416500,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "İşletme (İngilizce)",
+          "annual_fee": {
+            "amount": 833000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 416500,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Lojistik Yönetimi",
+          "annual_fee": {
+            "amount": 833000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 416500,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri",
+          "annual_fee": {
+            "amount": 833000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 416500,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Mühendislik, Mimarlık ve Tasarım Fakültesi",
+      "departments": [
+        {
+          "name": "Bilgisayar Mühendisliği",
+          "annual_fee": {
+            "amount": 896000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 448000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Bilgisayar Mühendisliği ING",
+          "annual_fee": {
+            "amount": 997000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 498500,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Elektrik- Elektronik Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 896000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 448000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 997000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 498500,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği",
+          "annual_fee": {
+            "amount": 896000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 448000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Endüstriyel Tasarım",
+          "annual_fee": {
+            "amount": 896000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 448000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Anestezi",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "İlk ve Acil Yardım",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Fizyoterapi",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Grafik Tasarım",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Dış Ticaret",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Bilgisayar Programcılığı",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Otomotiv Teknolojisi",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Ağız ve Diş Sağlığı",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Elektronik Haberleşme Teknolojileri",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+         {
+          "name": "Dijital Dönüşüm Elektroniği",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        },
+         {
+          "name": "Tele Sağlık Teknikerliği",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "₺"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Sağlık Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Çocuk Gelişimi",
+          "annual_fee": {
+            "amount": 448500,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 224250,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Fizyoterapi ve Rehabilitasyon",
+          "annual_fee": {
+            "amount": 448500,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 224250,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Hemşirelik",
+          "annual_fee": {
+            "amount": 448500,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 224250,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Beslenme ve Diyetetik",
+          "annual_fee": {
+            "amount": 448500,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 224250,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Sanat ve Sosyal Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "Psikoloji (İngilizce)",
+          "annual_fee": {
+            "amount": 594800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 297400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 534600,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 267300,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "İngiliz Dili ve Edebiyatı",
+          "annual_fee": {
+            "amount": 336600,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 168300,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Ekonomi ve Finans",
+          "annual_fee": {
+            "amount": 496800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 248400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Görsel İletişim Tasarımı",
+          "annual_fee": {
+            "amount": 496800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 248400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "İşletme",
+          "annual_fee": {
+            "amount": 496800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 248400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Mühendislik, Mimarlık ve Tasarım Fakültesi",
+      "departments": [
+        {
+          "name": "Bilgisayar Mühendisliği",
+          "annual_fee": {
+            "amount": 534600,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 267300,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Bilgisayar Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 594800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 297400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Elektrik-Elektronik Mühendisliği",
+          "annual_fee": {
+            "amount": 534600,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 267300,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 594800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 297400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği",
+          "annual_fee": {
+            "amount": 534600,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 267300,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Anestezi",
+          "annual_fee": {
+            "amount": 298800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 149400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "İlk ve Acil Yardım",
+          "annual_fee": {
+            "amount": 298800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 149400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Fizyoterapi",
+          "annual_fee": {
+            "amount": 298800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 149400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri",
+          "annual_fee": {
+            "amount": 298800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 149400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Grafik Tasarım",
+          "annual_fee": {
+            "amount": 298800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 149400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Dış Ticaret",
+          "annual_fee": {
+            "amount": 298800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 149400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Bilgisayar Programcılığı",
+          "annual_fee": {
+            "amount": 298800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 149400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Otomotiv Teknolojisi",
+          "annual_fee": {
+            "amount": 298800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 149400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Ağız ve Diş Sağlığı",
+          "annual_fee": {
+            "amount": 298800,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 149400,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+        {
+      "academic_year": "2023-2024",
+      "description": "Mudanya Üniversitesinde eğitim-öğretim ücretlidir. 2023-2024 eğitim-öğretim yılı için ücretler;\nÇocuk Gelişimi\t50% Burslu\t85.000 TL\tÜcretli\t170.000 TL\nFizyoterapi ve Rehabilitasyon\t50% Burslu\t110.000 TL\tÜcretli\t220.000 TL\nPsikoloji (İngilizce)\t50% Burslu\t150.000 TL\tÜcretli\t300.000 TL\nPsikoloji\t50% Burslu\t135.000 TL\tÜcretli\t270.000 TL\nBilgisayar Mühendisliği\t50% Burslu\t135.000 TL\tÜcretli\t270.000 TL\nElektrik – Elektronik Mühendisliği\t50% Burslu\t135.000 TL\tÜcretli\t270.000 TL\nEndüstri Mühendisliği (İngilizce)\t50% Burslu\t150.000 TL\tÜcretli\t300.000 TL\nEndüstri Mühendisliği\t50% Burslu\t135.000 TL\tÜcretli\t270.000 TL\nAnestezi\t50% Burslu\t60.000 TL\tÜcretli\t120.000 TL\nİlk ve Acil Yardım\t50% Burslu\t60.000 TL\tÜcretli\t120.000 TL\nFizyoterapi\t50% Burslu\t60.000 TL\tÜcretli\t120.000 TL\nTıbbi Görüntüleme Teknikleri\t50% Burslu\t60.000 TL\tÜcretli\t120.000 TL"
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "ÖSYM burs ve indirimleri",
+      "Derece ödülü",
+      "Akademik başarı ödülü",
+      "Sporcu burs ve indirimi",
+      "Sanat burs ve indirimi",
+      "Destek burs ve indirimi",
+      "Tercih indirimi",
+      "Kardeş indirimi",
+      "Şehit ve gazi bursu",
+      "Personel burs ve indirimi",
+      "Bursalı burs ve indirmi",
+      "Anlaşmalı kurum burs ve indirmi"
+    ]
+  },
+  "dormitory_fees": null
+}

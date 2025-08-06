@@ -1,0 +1,348 @@
+{
+  "university": {
+    "name": "Çağ Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "Fakülteler Tüm Lisans programları": {
+        "full_fee_without_kdv": 509045.45
+      },
+      "Meslek Yüksekokulu Tüm Programlar": {
+        "full_fee_without_kdv": 363590.90
+      },
+      "Sosyal Bilimler Enstitüsü Yüksek Lisans Tüm Programlar": {
+        "full_fee_without_kdv": 363590.90
+      },
+      "Fakülteler – Lisans Programları (%50 Burslu)": {
+        "İlk Taksit": {
+          "Ödeme Miktarı": 50918.18,
+          "KDV 10%": 5091.82,
+          "Toplam": 56010.00
+        },
+        "10.10.2025": {
+          "Ödeme Miktarı": 29086.36,
+          "KDV 10%": 2908.64,
+          "Toplam": 31995.00
+        },
+        "10.11.2025": {
+          "Ödeme Miktarı": 29086.36,
+          "KDV 10%": 2908.64,
+          "Toplam": 31995.00
+        },
+        "10.12.2025": {
+          "Ödeme Miktarı": 29086.36,
+          "KDV 10%": 2908.64,
+          "Toplam": 31995.00
+        },
+        "10.01.2026": {
+          "Ödeme Miktarı": 29086.36,
+          "KDV 10%": 2908.64,
+          "Toplam": 31995.00
+        },
+        "10.02.2026": {
+          "Ödeme Miktarı": 29086.36,
+          "KDV 10%": 2908.64,
+          "Toplam": 31995.00
+        },
+        "10.03.2026": {
+          "Ödeme Miktarı": 29086.36,
+          "KDV 10%": 2908.64,
+          "Toplam": 31995.00
+        },
+        "10.04.2026": {
+          "Ödeme Miktarı": 29086.36,
+          "KDV 10%": 2908.64,
+          "Toplam": 31995.00
+        },
+        "Toplam": {
+          "Ödeme Miktarı": 254522.73
+        }
+      },
+      "Fakülteler – Lisans Programları (Tam Ücretli)": {
+        "İlk Taksit": {
+          "Ödeme Miktarı": 101804.55,
+          "KDV 10%": 10180.45,
+          "Toplam": 111985.00
+        },
+        "10.10.2025": {
+          "Ödeme Miktarı": 58177.27,
+          "KDV 10%": 5817.73,
+          "Toplam": 63995.00
+        },
+        "10.11.2025": {
+          "Ödeme Miktarı": 58177.27,
+          "KDV 10%": 5817.73,
+          "Toplam": 63995.00
+        },
+        "10.12.2025": {
+          "Ödeme Miktarı": 58177.27,
+          "KDV 10%": 5817.73,
+          "Toplam": 63995.00
+        },
+        "10.01.2026": {
+          "Ödeme Miktarı": 58177.27,
+          "KDV 10%": 5817.73,
+          "Toplam": 63995.00
+        },
+        "10.02.2026": {
+          "Ödeme Miktarı": 58177.27,
+          "KDV 10%": 5817.73,
+          "Toplam": 63995.00
+        },
+        "10.03.2026": {
+          "Ödeme Miktarı": 58177.27,
+          "KDV 10%": 5817.73,
+          "Toplam": 63995.00
+        },
+        "10.04.2026": {
+          "Ödeme Miktarı": 58177.27,
+          "KDV 10%": 5817.73,
+          "Toplam": 63995.00
+        },
+        "Toplam": {
+          "Ödeme Miktarı": 509045.45
+        }
+      },
+      "Meslek Yüksekokulu – Ön Lisans Programları (%50 Burslu)": {
+        "İlk Taksit": {
+          "Ödeme Miktarı": 36354.55,
+          "KDV 10%": 3635.45,
+          "Toplam": 39990.00
+        },
+        "10.10.2025": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.11.2025": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.12.2025": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.01.2026": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.02.2026": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.03.2026": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.04.2026": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "Toplam": {
+          "Ödeme Miktarı": 181795.45
+        }
+      },
+      "Meslek Yüksekokulu – Ön Lisans Programları (Tam Ücretli)": {
+        "İlk Taksit": {
+          "Ödeme Miktarı": 72740.91,
+          "KDV 10%": 7274.09,
+          "Toplam": 80015.00
+        },
+        "10.10.2025": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.11.2025": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.12.2025": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.01.2026": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.02.2026": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.03.2026": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.04.2026": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "Toplam": {
+          "Ödeme Miktarı": 363590.91
+        }
+      },
+      "Sosyal Bilimler Enstitüsü – Lisans Üstü Programlar (%75 Burslu)": {
+        "İlk Taksit": {
+          "Ödeme Miktarı": 18193.18,
+          "KDV 10%": 1819.32,
+          "Toplam": 20012.50
+        },
+        "10.10.2025": {
+          "Ödeme Miktarı": 10386.36,
+          "KDV 10%": 1038.64,
+          "Toplam": 11425.00
+        },
+        "10.11.2025": {
+          "Ödeme Miktarı": 10386.36,
+          "KDV 10%": 1038.64,
+          "Toplam": 11425.00
+        },
+        "10.12.2025": {
+          "Ödeme Miktarı": 10386.36,
+          "KDV 10%": 1038.64,
+          "Toplam": 11425.00
+        },
+        "10.01.2026": {
+          "Ödeme Miktarı": 10386.36,
+          "KDV 10%": 1038.64,
+          "Toplam": 11425.00
+        },
+        "10.02.2026": {
+          "Ödeme Miktarı": 10386.36,
+          "KDV 10%": 1038.64,
+          "Toplam": 11425.00
+        },
+        "10.03.2026": {
+          "Ödeme Miktarı": 10386.36,
+          "KDV 10%": 1038.64,
+          "Toplam": 11425.00
+        },
+        "10.04.2026": {
+          "Ödeme Miktarı": 10386.36,
+          "KDV 10%": 1038.64,
+          "Toplam": 11425.00
+        },
+        "Toplam": {
+          "Ödeme Miktarı": 90897.73
+        }
+      },
+      "Sosyal Bilimler Enstitüsü – Lisans Üstü Programlar (%50 Burslu)": {
+        "İlk Taksit": {
+          "Ödeme Miktarı": 36354.55,
+          "KDV 10%": 3635.45,
+          "Toplam": 39990.00
+        },
+        "10.10.2025": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.11.2025": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.12.2025": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.01.2026": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.02.2026": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.03.2026": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "10.04.2026": {
+          "Ödeme Miktarı": 20777.27,
+          "KDV 10%": 2077.73,
+          "Toplam": 22855.00
+        },
+        "Toplam": {
+          "Ödeme Miktarı": 181795.45
+        }
+      },
+      "Sosyal Bilimler Enstitüsü – Lisans Üstü Programlar (Tam Ücretli)": {
+        "İlk Taksit": {
+          "Ödeme Miktarı": 72740.91,
+          "KDV 10%": 7274.09,
+          "Toplam": 80015.00
+        },
+        "10.10.2025": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.11.2025": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.12.2025": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.01.2026": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.02.2026": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.03.2026": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "10.04.2026": {
+          "Ödeme Miktarı": 41550.00,
+          "KDV 10%": 4155.00,
+          "Toplam": 45705.00
+        },
+        "Toplam": {
+          "Ödeme Miktarı": 363590.91
+        }
+      }
+    },
+    "2022-2023": {
+      "Fakülteler Tüm Lisans programları": {
+        "annual_fee": "52.750,00.-TL"
+      },
+      "Meslek Yüksekokulu Tüm Programlar": {
+        "annual_fee": "26.375,00.-TL"
+      },
+      "Sosyal Bilimler Enstitüsü Yüksek Lisans Tüm Programlar": {
+        "annual_fee": "26.375,00.-TL"
+      }
+    }
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

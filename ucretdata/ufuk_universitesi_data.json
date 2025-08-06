@@ -1,0 +1,222 @@
+{
+  "university": {
+    "name": "Ufuk Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "Ufuk Üniversitesinde eğitim-öğretim ücretlidir."
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "Ufuk Üniversitesinde eğitim-öğretim ücretlidir."
+    },
+    {
+      "academic_year": "2023-2024",
+      "description": "Ufuk Üniversitesinde eğitim-öğretim ücretlidir. 2023-2024 eğitim-öğretim yılında öğrenim ücretleri;"
+    },
+    {
+      "academic_year": "2023-2024",
+      "faculty": "Adalet Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Adalet",
+          "annual_fee": {
+            "amount": 70000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2023-2024",
+      "faculty": "Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Bilişim Güvenliği Teknolojisi",
+          "annual_fee": {
+            "amount": 70000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        },
+        {
+          "name": "Bilgisayar Programcılığı",
+          "annual_fee": {
+            "amount": 70000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        },
+        {
+          "name": "Bilgisayar Teknolojisi",
+          "annual_fee": {
+            "amount": 70000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        },
+        {
+          "name": "İşletme Yönetimi",
+          "annual_fee": {
+            "amount": 70000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        },
+        {
+          "name": "Muhasebe ve Vergi Uygulamaları",
+          "annual_fee": {
+            "amount": 70000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        },
+        {
+          "name": "Sağlık Kurumları İşletmeciliği",
+          "annual_fee": {
+            "amount": 70000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        },
+        {
+          "name": "Uygulamalı İngilizce Çevirmenlik (İngilizce)",
+          "annual_fee": {
+            "amount": 70000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2023-2024",
+      "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Ameliyathane Hizmetleri",
+          "annual_fee": {
+            "amount": null,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Anestezi",
+          "annual_fee": {
+            "amount": null,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Elektronörofizyoloji",
+          "annual_fee": {
+            "amount": 70000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        },
+        {
+          "name": "Fizyoterapi",
+          "annual_fee": {
+            "amount": null,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İlk ve Acil Yardım",
+          "annual_fee": {
+            "amount": null,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Patoloji Laboratuvar Teknikleri",
+          "annual_fee": {
+            "amount": 70000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri",
+          "annual_fee": {
+            "amount": null,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıbbi Laboratuvar Teknikleri",
+          "annual_fee": {
+            "amount": 70000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2023-2024",
+      "faculty": "Eğitim Fakültesi",
+      "departments": [
+        {
+          "name": "İngilizce Öğretmenliği",
+          "annual_fee": {
+            "amount": 180000,
+            "currency": "TL",
+            "discount": "25% İndirimli"
+          }
+        },
+        {
+          "name": "Rehberlik ve Psikolojik Danışmanlık",
+          "annual_fee": {
+            "amount": 120000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2023-2024",
+      "faculty": "Fen Edebiyat Fakültesi",
+      "departments": [
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 260000,
+            "currency": "TL",
+            "description": "Ücretli"
+          },
+          "discounted_annual_fee": {
+            "amount": 130000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2023-2024",
+      "faculty": "Hukuk Fakültesi",
+      "departments": [
+        {
+          "name": "Hukuk Fakültesi",
+          "annual_fee": {
+            "amount": null,
+            "currency": "TL",
+          }
+        }
+      ]
+    },
+     {
+      "academic_year": "2022-2023",
+      "description": "Ufuk Üniversitesinde eğitim-öğretim ücretli olup, 2022-2023 eğitim-öğretim yılında öğrenim ücreti (KDV dahil) yıllık; Tıp Fakültesi için 115.000 TL,diğer fakülteler için 78.000 TL,Hemşirelik Yüksekokulu için 65.000 TL,Ön lisans programları için 47.000 TL’dir.\nZorunlu İngilizce hazırlık sınıfı yerleştiği programın öğrenim ücretine tabidir. Öğrenim ücretleri her yıl, kayıtlı öğrenciler için de, TEFE-TÜFE oranları da dikkate alınarak yeniden belirlenir."
+    }
+  ],
+  "scholarships": null,
+  "dormitory_fees": null
+}

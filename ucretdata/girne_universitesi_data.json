@@ -1,0 +1,79 @@
+{
+  "university": {
+    "name": "Girne Üniversitesi",
+    "url": "https://www.kyrenia.edu.tr/",
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "annual_fees": [
+      {
+        "program": "İngilizce Hazırlık Programı",
+        "annual_fee": 548891.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Hukuk Fakültesi",
+        "annual_fee": 546074.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Lisans programları (Hemşirelik, Uçak Mühendisliği, Pilotaj programları hariç)",
+        "annual_fee": 579876.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Hemşirelik",
+        "annual_fee": 548891.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Uçak Mühendisliği",
+        "annual_fee": 624544.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Pilotaj",
+        "annual_fee": 837823.00,
+        "currency": "TL",
+        "note": "Uçuş eğitim ücreti yıllık 36,750 € (Euro)’dur."
+      },
+      {
+        "program": "Diş Hekimliği Fakültesi",
+        "annual_fee": 1016112.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Tıp Fakültesi",
+        "annual_fee": 1179452.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Ön lisans programları",
+        "annual_fee": 473640.00,
+        "currency": "TL"
+      }
+    ],
+    "academic_year_2024_2025": {},
+    "academic_year_2023_2024": {}
+  },
+  "scholarships": {},
+  "other_fees": {
+    "2025-2026": {
+      "registration_fee": {
+        "amount": 15000.00,
+        "currency": "TL",
+        "note": "Bir defaya mahsus alınır"
+      },
+      "student_service_fee_per_semester": {
+        "amount": 15000.00,
+        "currency": "TL",
+        "note": "Dönemlik ücret"
+      }
+    },
+    "academic_year_2024_2025": {
+        "Note": "Yukarıdaki fiyatlar 8 EYLÜL 2024 tarihine kadar geçerlidir.\nEğitim ücretlerine ve uçuş eğitim ücretine 5% KDV, 10,000 TL kayıt ücreti (sadece ilk kayıt esnasında), 8,000 TL öğrenci hizmet bedeli (dönemlik) dahil değildir.\nEğitim ücretleri ve burslar her yıl değişkenlik göstermektedir.\nBurs Oranına göre İngilizce Hazırlık Okulu Eğitim Ücreti aynı oranda belirlenmektedir."
+    },
+    "notes": "Ücretler, ödeme yöntemleri ve öğrenim ücretindeki olası artışlar; Türkiye Cumhuriyeti ve Kuzey Kıbrıs Türk Cumhuriyeti Hukukuna Göre Kurulmuş Üniversitelerin Karşılıklı Tanınmasına Dair Milletlerarası Anlaşmanın 5. maddesi uyarınca ve her yıl TEFE TÜFE oranları dikkate alınarak, Mütevelli Heyeti veya Yönetim Kurulu tarafından uygun görülen oranlarda yeniden belirlenebilir."
+  }
+}

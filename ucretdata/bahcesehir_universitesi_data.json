@@ -1,0 +1,242 @@
+{
+  "university": {
+    "name": "Bahçeşehir Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "İktisadi, İdari ve Sosyal Bilimler Fakültesi": {
+        "PEŞİN": {
+          "discount_50": 667000.00,
+          "full_fee": 1334000.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 725000.00,
+          "full_fee": 1450000.00
+        }
+      },
+      "İletişim Fakültesi": {
+        "PEŞİN": {
+          "discount_50": 586500.00,
+          "full_fee": 1173000.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 637000.00,
+          "full_fee": 1275000.00
+        }
+      },
+      "Mühendislik ve Doğa Bilimleri Fakültesi": {
+        "PEŞİN": {
+          "discount_50": 667000.00,
+          "full_fee": 1334000.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 725000.00,
+          "full_fee": 1450000.00
+        }
+      },
+      "Hukuk Fakültesi": {
+        "PEŞİN": {
+          "discount_50": 667000.00,
+          "full_fee": 1334000.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 725000.00,
+          "full_fee": 1450000.00
+        }
+      },
+      "Mimarlık ve Tasarım Fakültesi": {
+        "PEŞİN": {
+          "discount_50": 667000.00,
+          "discount_25": 1000500.00,
+          "full_fee": 1334000.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 725000.00,
+          "discount_25": 1087500.00,
+          "full_fee": 1450000.00
+        }
+      },
+      "Eğitim Bilimleri Fakültesi": {
+        "PEŞİN": {
+          "discount_50": 563500.00,
+          "full_fee": 1127000.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 612500.00,
+          "full_fee": 1225000.00
+        }
+      },
+      "Sağlık Bilimleri Fakültesi": {
+        "PEŞİN": {
+          "discount_50": 588800.00,
+          "full_fee": 1177600.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 640000.00,
+          "full_fee": 1280000.00
+        }
+      },
+      "Tıp Fakültesi": {
+        "PEŞİN": {
+          "discount_50": 966000.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 1050000.00
+        }
+      },
+      "Diş Hekimliği Fakültesi": {
+        "PEŞİN": {
+          "discount_50": 814200.00,
+          "full_fee": 1628400.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 885000.00,
+          "full_fee": 1770000.00
+        }
+      },
+      "Eczacılık Fakültesi": {
+        "PEŞİN": {
+          "discount_50": 667000.00,
+          "full_fee": 1334000.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 725000.00,
+          "full_fee": 1450000.00
+        }
+      },
+      "Konservatuvar": {
+        "PEŞİN": {
+          "full_fee": 1127000.00
+        },
+        "TAKSİTLİ": {
+          "full_fee": 1225000.00
+        }
+      },
+      "Uygulamalı Bilimler Yüksekokulu": {
+        "PEŞİN": {
+          "discount_50": 621000.00,
+          "full_fee": 1242000.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 675000.00,
+          "full_fee": 1350000.00
+        }
+      },
+      "Sağlık Hizmetleri Meslek Yüksekokulu": {
+        "PEŞİN": {
+          "discount_50": 356500.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 387500.00
+        }
+      },
+      "Tekstil ve Moda Tasarımı": {
+        "PEŞİN": {
+          "full_fee": 1127000.00
+        },
+        "TAKSİTLİ": {
+          "full_fee": 1225000.00
+        }
+      },
+      "Yabancı Diller Yüksekokulu (Lisans İngilizce hazırlık programı)": {
+        "PEŞİN": {
+          "discount_50": 563500.00,
+          "discount_25": 845250.00,
+          "full_fee": 1127000.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 612500.00,
+          "discount_25": 918750.00,
+          "full_fee": 1225000.00
+        }
+      },
+      "Yabancı Diller Yüksekokulu (Ön lisans İngilizce hazırlık programı)": {
+        "PEŞİN": {
+          "discount_50": 356500.00
+        },
+        "TAKSİTLİ": {
+          "discount_50": 387500.00
+        }
+      }
+    },
+        "2023-2024":{
+            "İktisadi, İdari ve Sosyal Bilimler Fakültesi":{
+               "full_fee": 243000,
+                "discount_50":121500
+            },
+             "İletişim Fakültesi":{
+               "full_fee": 231600,
+                "discount_50":115800
+            },
+             "Mühendislik ve Doğa Bilimleri Fakültesi":{
+               "full_fee": 245000,
+                "discount_50":122500
+            },
+             "Hukuk Fakültesi":{
+               "full_fee": 248300,
+                "discount_50":124150
+            },
+             "Mimarlık ve Tasarım Fakültesi":{
+               "full_fee": 245000,
+                "discount_50":122500,
+                 "discount_25":183750
+            },
+             "Eğitim Bilimleri Fakültesi":{
+               "full_fee": 220200,
+                "discount_50":110100
+            },
+             "Sağlık Bilimleri Fakültesi":{
+               "full_fee": 235000,
+                "discount_50":117500
+            },
+             "Tıp Fakültesi":{
+               "full_fee": 191850
+            },
+             "Diş Hekimliği Fakültesi":{
+                "discount_50":344250
+            },
+             "Eczacılık Fakültesi":{
+               "full_fee": 261000,
+                "discount_50":130500
+            },
+            "Konservatuvar":{
+               "full_fee": 239850,
+                "discount_50":119925
+            },
+            "Sağlık Hizmetleri Meslek Yüksekokulu":{
+               "full_fee": 68100
+            },
+              "Pilotaj":{
+                "discount_50":245000
+            },
+              "Gastronomi":{
+               "full_fee": 224200,
+                "discount_50":112100
+            },
+               "Yabancı Diller Yüksekokulu (Lisans İngilizce hazırlık programı için)":{
+               "full_fee": 220200,
+                "discount_50":110100,
+                 "discount_25":165150
+            },
+            "Yabancı Diller Yüksekokulu (Ön lisans İngilizce hazırlık programı için)":{
+               "full_fee": 68100
+            }
+        },
+    "2022-2023":{
+     "Tıp Fakültesi": 205184.00,
+    "Diş Hekimliği Fakültesi": 187500.00,
+    "Mühendislik ve Doğa Bilimleri Fakültesi ve Mimarlık Fakültesi Programları": 130975.00,
+    "Hukuk Fakültesi": 132750.00,
+    "İletişim Fakültesi ve Uygulamalı Bilimler Y.O Programları": 123845.00,
+    "İktisadi İdari ve Sosyal Bilimler Fakültesi programları": 129920.00,
+    "Eğitim Bilimleri Fakültesi ve Sağlık Bilimleri Fakültesi Programları": 117750.00,
+    "Konservatuar programları": 128250.00,
+    "Meslek Yüksekokulu ve Sağlık Hizmetleri Meslek Yüksekokulu önlisans Programları": 72800.00,
+    "Yabancı Diller Yüksekokulu zorunlu İngilizce hazırlık sınıfı lisans programları": 117750.00
+}
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

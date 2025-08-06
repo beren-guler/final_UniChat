@@ -1,0 +1,79 @@
+{
+  "university": {
+    "name": "TOBB Ekonomi ve Teknoloji Üniversitesi",
+    "url": "http://www.mef.edu.tr",
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "TOBB Ekonomi ve Teknoloji Üniversitesinde öğrenim ücretlidir. 2025-2026 akademik yılında tüm programlar için ücretler;"
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Hazırlık Programı",
+      "name": "Tüm Hazırlık Programları",
+      "annual_fee": {
+        "amount": 930000.00,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Lisans",
+      "name": "Lisans",
+      "annual_fee": {
+        "amount": 930000.00,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Lisans",
+      "name": "Uluslararası Girişimcilik",
+      "annual_fee": {
+        "amount": 930000.00,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Lisans",
+      "faculty": "Tıp Fakültesi",
+      "annual_fee": {
+        "amount": 1302000.00,
+        "currency": "TL"
+      }
+    },
+{
+        "academic_year": "2024-2025",
+        "description": "2024-2025 öğretim yılı güz ve bahar dönemi ücretleri dönemlik olarak 200.000 TL olarak belirlenmiştir. Tıp Fakültesi için bu ücret 280.000 TL’dir. Yaz dönemi öğrenim ücretleri ise enflasyon oranları göz önünde bulundurularak Mütevelli Heyet tarafından yeniden belirlenecektir. Öğrenim ücretinin tamamını akademik yıl başında ödemek isteyenler için yıllık ücret üç dönem aynı tutarda olmak üzere 600.000 TL (Tıp Fakültesi için 840.000 TL) olarak tahsil edilmektedir."
+      },
+       {
+        "academic_year": "2023-2024",
+        "description": "İktisat, İşletme, Siyaset Bilimi ve Kamu Yönetimi Programları için % 50 indirimli 62.500 TL, Elektrik -Elektronik Mühendisliği, İnşaat Mühendisliği, Endüstri Mühendisliği Programları için % 50 indirimli 70.000 TL, Diş Hekimliği Fakültesi için ücretli 245.000 TL % 25 indirimli 183.750 TL’dir. Fen Edebiyat Fakiltesi için ücretli 140.000 TL % 50 indirimli 70.000 TL’dir. Güzel Sanatlar Ve Tasarım Fakültesi İç Mimarlık ve Çevre Tasarımı için ücretli 155.000 TL % 50 indirimli 77.500 TL’dir. Güzel Sanatlar Ve Tasarım Fakültesi Mimarlık için ücretli 115.000 TL % 50 indirimli 57.500 TL’dir.Hukuk Fakültesi ücretli 145.000 TL,Sağlık Bilimleri Fakültesi Beslenme ve Diyetetik (Ücretli) Fizyoterapi ve Rehabilitasyon (Ücretli) 125.000 TL % 50 indirimli 62.500 TL’dir. Sağlık Bilimleri Fakültesi Hemşirelik (Ücretli) 110.000 TL 50 indirimli 55.000 TL’dir. Meslek Yüksekokulu Fizyoterapi (Ücretli) 75.000 TL (%25 İndirimli) 56.250 TL’dir"
+    },
+     {
+      "academic_year": "2022-2023",
+      "description": "Tıp Fakültesi Dışındaki Tüm Lisans Programlarının Dönemlik Öğrenim Ücretleri* (%8 KDV Dahil);2022-2023  0₺75 Bursluİlköğretim Matematik Öğretmenliği5-2022-2023-68578440(İstisnai Durum)TL2022-2023-68579125₺%75  075-2022-2023-68579159TL2022-2023  0-2022-2023-68579193₺50%₺252022-2023-68579204₺₺ (Öğrenim Ücreti) 2022-2023-68579239TLBölüm₺.2022-202353-2022-2023₺""
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "ÖSYS/YKS/DGS yerleştirme bursu",
+      "engelli indirimi",
+      "kardeş indirimi",
+      "tercih indirimi",
+      "kurumsal aidiyet indirimi",
+      "Cevat Dündar indirimi",
+      "Maarif vakfı indirimi",
+      "akademik başarı indirimi",
+      "sporda başarı indirimi",
+      "üstün başarı desteği",
+       "İş Dünyası Burs Programı",
+       "Tam burs ",
+       " %50 burs"
+    ]
+  },
+  "dormitory_fees": null
+}

@@ -1,0 +1,329 @@
+{
+  "university": {
+    "name": "MEF Üniversitesi",
+    "url": "http://www.mef.edu.tr",
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": {
+    "academic_year": "2024-2025",
+    "programs": [
+      {
+        "name": "İngilizce Hazırlık Programı",
+        "annual_fee": {
+          "amount": 925000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Ekonomi",
+        "annual_fee": {
+          "amount": 925000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "İşletme",
+        "annual_fee": {
+          "amount": 925000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Siyaset Bilimi Ve Uluslararası İlişkiler",
+        "annual_fee": {
+          "amount": 925000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Yönetim Bilişim Sistemleri",
+        "annual_fee": {
+          "amount": 925000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Dijital Oyun Tasarımı",
+        "annual_fee": {
+          "amount": 980000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Mimarlık",
+        "annual_fee": {
+          "amount": 980000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Elektrik-Elektronik Mühendisliği",
+        "annual_fee": {
+          "amount": 1010000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "İnşaat Mühendisliği",
+        "annual_fee": {
+          "amount": 1010000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Makine Mühendisliği",
+        "annual_fee": {
+          "amount": 1010000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Yapay Zeka Mühendisliği",
+        "annual_fee": {
+          "amount": 1010000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Hukuk",
+        "annual_fee": {
+          "amount": 1015000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Psikoloji",
+        "annual_fee": {
+          "amount": 1025000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Bilgisayar Mühendisliği",
+        "annual_fee": {
+          "amount": 1088000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Endüstri Mühendisliği",
+        "annual_fee": {
+          "amount": 1088000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "İç Mimarlık",
+        "annual_fee": {
+          "amount": 1088000.00,
+          "currency": "TL"
+        }
+      }
+    ],
+     "faculty_fees_2024_2025": [
+      {
+        "faculty": "İngilizce Hazırlık Programı",
+        "annual_fee": {
+          "amount": 486000,
+          "currency": "TL",
+           "discount": "50%",
+           "description": "(Ücretli)"
+          },
+            "discounted_annual_fee": {
+            "amount": 243000,
+            "currency": "TL"
+          }
+      },
+      {
+        "faculty": "Hukuk",
+        "annual_fee": {
+          "amount": 273600,
+          "currency": "TL",
+           "discount": "50%"
+          }
+      },
+          {
+        "faculty": "Mühendislik Fakültesi",
+        "departments": [
+            {
+        "name": "Bilgisayar Mühendisliği",
+          "annual_fee": {
+            "amount": 576000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+            "discounted_annual_fee": {
+            "amount": 288000,
+            "currency": "TL",
+            "description": "50% Burslu"
+          }
+        },
+         {
+        "name": "Elektrik-Elektronik Mühendisliği",
+          "annual_fee": {
+            "amount": 426240,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+           "discounted_annual_fee": {
+            "amount": 266400,
+            "currency": "TL",
+            "description": "50% Burslu"
+          }
+        },
+                 {
+        "name": "Endüstri Mühendisliği",
+           "annual_fee": {
+            "amount": 576000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+           "discounted_annual_fee": {
+            "amount": 288000,
+            "currency": "TL",
+            "description": "50% Burslu"
+          }
+        },
+                         {
+        "name": "İnşaat Mühendisliği",
+                "discounted_annual_fee": {
+            "amount": 266400,
+            "currency": "TL",
+            "description": "50% Burslu"
+          }
+        },
+                                 {
+        "name": "Makine Mühendisliği",
+            "discounted_annual_fee": {
+            "amount": 266400,
+            "currency": "TL",
+            "description": "50% Burslu"
+          }
+        }
+        ]
+      },
+       {
+        "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "departments": [
+            {
+        "name": "Ekonomi",
+            "discounted_annual_fee": {
+            "amount": 243000,
+            "currency": "TL",
+            "description": "50% Burslu"
+          }
+        },
+         {
+        "name": "İşletme",
+                         "discounted_annual_fee": {
+            "amount": 243000,
+            "currency": "TL",
+            "description": "50% Burslu"
+          }
+        },
+                 {
+        "name": "Siyaset Bilimi ve Uluslararası İlişkiler",
+                         "discounted_annual_fee": {
+            "amount": 243000,
+            "currency": "TL",
+            "description": "50% Burslu"
+          }
+        },
+                         {
+        "name": "Psikoloji",
+                                 "discounted_annual_fee": {
+            "amount": 243000,
+            "currency": "TL",
+            "description": "50% Burslu"
+          }
+        }
+        ]
+      },
+      {
+        "faculty": "Sanat Tasarım ve Mimarlık Fakültesi",
+        "departments": [
+            {
+        "name": "İç Mimarlık",
+                   "annual_fee": {
+            "amount": 576000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+                                     "discounted_annual_fee": {
+            "amount": 288000,
+            "currency": "TL",
+            "description": "50% Burslu"
+          }
+        },
+                 {
+        "name": "Mimarlık",
+                              "discounted_annual_fee": {
+            "amount": 266400,
+            "currency": "TL",
+            "description": "50% Burslu"
+          }
+        }
+        ]
+      }
+     ],
+         "faculty_fees_2023_2024": [
+      {
+        "faculty": "İngilizce Hazırlık Programı",
+         "description": "peşin",
+          "annual_fee": {
+            "amount": 261000,
+            "currency": "TL"
+          },
+         "description": "50% Burslu",
+          "discounted_annual_fee": {
+            "amount": 130500,
+            "currency": "TL"
+          }
+      },
+      {
+        "faculty": "Hukuk Fakültesi",
+         "description": "peşin",
+                         "discounted_annual_fee": {
+            "amount": 144000,
+            "currency": "TL",
+             "description": "50% Burslu"
+          }
+      },
+      {
+        "faculty": "Mühendislik Fakültesi, Sanat Tasarım ve Mimarlık Fakültesi",
+         "description": "peşin",
+                           "discounted_annual_fee": {
+            "amount": 144000,
+            "currency": "TL",
+             "description": "50% Burslu"
+          }
+      },
+      {
+        "faculty": "Eğitim Fakültesi, İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+         "description": "peşin",
+                                     "discounted_annual_fee": {
+            "amount": 130500,
+            "currency": "TL",
+             "description": "50% Burslu"
+          }
+      }
+     ]
+  },
+  "scholarships": {
+    "types": [
+      "ÖSYM Yerleşme Bursları",
+      "Kardeş İndirim Bursu",
+      "Öğretim Üyesi Bursu",
+      "Tercihim MEF Bursu",
+      "Türkiye Özel Okullar Derneğine Üye Okullar Eğitim Bursu",
+      "Nazmi Arıkan Fen Bilimleri Eğitim Kurumları Bursu",
+      "Türkiye Geneli Başarılı Devlet Liseleri Eğitm Bursu",
+      "Hakim,Savcı ve Avukat Eğitim Bursu",
+      "Dr. İbrahim Arıkan Üstün Başarı Bursu",
+      "İhtiyaç Bursu",
+      "Kurum Dışı Burslar",
+      "MEF Eğitim Kurumları ve Arıkanlı Holding Bursları"
+    ]
+  },
+  "dormitory_fees": null
+}

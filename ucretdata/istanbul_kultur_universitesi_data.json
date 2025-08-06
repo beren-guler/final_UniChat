@@ -1,0 +1,856 @@
+{
+  "university": {
+    "name": "İstanbul Kültür Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "Alternatif Enerji Kaynakları Teknolojisi",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Bankacılık ve Sigortacılık",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Beslenme ve Diyetetik",
+        "full_fee": 765000,
+        "discounted_fee": 382500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Bilgisayar Mühendisliği (İng.)",
+        "full_fee": 925000,
+        "discounted_fee": 462500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Bilgisayar Programcılığı",
+        "full_fee": 505000,
+        "discounted_fee": 252500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Çizgi Film ve Animasyon",
+        "full_fee": 850000,
+        "discounted_fee": 425000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Çocuk Gelişimi",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Dijital Oyun Tasarımı (İng.)",
+        "full_fee": 850000,
+        "discounted_fee": 425000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Dış Ticaret",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "E-Ticaret ve Pazarlama",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Ekonomi",
+        "full_fee": null,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Ekonomi İng.",
+        "full_fee": 895000,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Elektrik-Elektronik Mühendisliği (İng.)",
+        "full_fee": 925000,
+        "discounted_fee": 462500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Elektronik Teknolojisi",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Endüstri Mühendisliği (İng.)",
+        "full_fee": 925000,
+        "discounted_fee": 462500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Fizyoterapi ve Rehabilitasyon",
+        "full_fee": 765000,
+        "discounted_fee": 382500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Grafik Tasarımı",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Halkla İlişkiler ve Reklamcılık",
+        "full_fee": 850000,
+        "discounted_fee": 425000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Halkla İlişkiler ve Tanıtım",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Hava Lojistiği",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Hemşirelik",
+        "full_fee": 765000,
+        "discounted_fee": 382500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Hukuk",
+        "full_fee": 895000,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "İç Mimarlık ve Çevre Tasarımı",
+        "full_fee": null,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "İç Mimarlık ve Çevre Tasarımı (İng.)",
+        "full_fee": null,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "İklimlendirme ve Soğutma Teknolojisi",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "İletişim ve Tasarımı",
+        "full_fee": 850000,
+        "discounted_fee": 425000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "İngiliz Dili ve Edebiyatı (İng.)",
+        "full_fee": null,
+        "discounted_fee": 462500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "İngilizce Öğretmenliği (İng.)",
+        "full_fee": 825000,
+        "discounted_fee": 412500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "İnşaat Mühendisliği (İng.)",
+        "full_fee": 925000,
+        "discounted_fee": 462500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "İnşaat Teknolojisi",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "İnsansız Hava Aracı Teknolojisi ve Operatörlüğü",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "İşletme",
+        "full_fee": 895000,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "İşletme (İng.)",
+        "full_fee": 895000,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "İşletme Yönetimi",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "İsteğe Bağlı Hazırlık",
+        "full_fee": 745000,
+        "discounted_fee": 372500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Lojistik",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Mahkeme Büro Hizmetleri",
+        "full_fee": null,
+        "discounted_fee": 252500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Matematik ve Bilgisayar Bilimleri",
+        "full_fee": 925000,
+        "discounted_fee": 462500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Mimarlık (İng.)",
+        "full_fee": 895000,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Moda Tasarımı",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Moleküler Biyoloji ve Genetik",
+        "full_fee": 765000,
+        "discounted_fee": 382500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Okul Öncesi Öğretmenliği",
+        "full_fee": 745000,
+        "discounted_fee": 372500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Optisyenlik",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Özel Eğitim Öğretmenliği",
+        "full_fee": 825000,
+        "discounted_fee": 412500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Psikoloji",
+        "full_fee": 925000,
+        "discounted_fee": 693750,
+        "currency": "₺",
+        "discount": "25%"
+      },
+       {
+        "name": "Radyo, Televizyon ve Sinema",
+        "full_fee": 850000,
+        "discounted_fee": 425000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Sivil Hava Ulaştırma İşletmeciliği",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Sivil Havacılık Kabin Hizmetleri",
+        "full_fee": 505000,
+        "discounted_fee": 252500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Tıbbi Dokümantasyon ve Sekreterlik",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+         {
+        "name": "Turizm ve Otel İşletmeciliği",
+        "full_fee": null,
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Türk Dili ve Edebiyatı",
+        "full_fee": 765000,
+        "discounted_fee": 382500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Uçak Teknolojisi",
+        "full_fee": 450000,
+        "discounted_fee": null,
+        "currency": "₺",
+        "discount": null
+      },
+      {
+        "name": "Uçuş Harekat Yöneticiliği",
+        "full_fee": 505000,
+        "discounted_fee": 252500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Uluslararası İlişkiler (İng.)",
+        "full_fee": 895000,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Uluslararası Ticaret ve Finansman",
+        "full_fee": 895000,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Uluslararası Ticaret ve Finansman (İng.)",
+        "full_fee": 895000,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+         {
+        "name": "Yazılım Mühendisliği (İng.)",
+        "full_fee": 925000,
+        "discounted_fee": 462500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Yeni Medya ve İletişim",
+        "full_fee": 850000,
+        "discounted_fee": 425000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Yönetim Bilişim Sistemleri (İng.)",
+        "full_fee": 895000,
+        "discounted_fee": 447500,
+        "currency": "₺",
+        "discount": "50%"
+      }
+    ]
+  },
+  "scholarships": {
+    "details": "Öğrenim ücretleri, Mütevelli Heyeti tarafından her akademik yıl başında belirlenir. Üniversiteye giriş yılını izleyen akademik yıllarda kayıtlı öğrenciler için yıllık öğrenim ücretleri, yurt ücretleri ve burslar her yıl Mütevelli Heyeti tarafından, maliyet artışları ile o yılın Üniversite bütçesi göz önünde tutularak saptanır.",
+    "kdv_note": "Akademik yıl içerisinde KDV oranlarında değişiklik yapılması halinde, değişiklikler ücretlere yansıtılacaktır."
+  },
+  "tuition_fees_2024_2025": {
+    "academic_year": "2024-2025",
+    "programs": [
+      {
+        "name": "Alternatif Enerji Kaynakları Teknolojisi",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Bankacılık ve Sigortacılık",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Beslenme ve Diyetetik",
+        "full_fee": 495000,
+        "discounted_fee": 247500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Bilgisayar Mühendisliği (İng.)",
+        "full_fee": 596000,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Bilgisayar Programcılığı",
+        "full_fee": 325000,
+        "discounted_fee": 162500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Çizgi Film ve Animasyon",
+        "full_fee": 549000,
+        "discounted_fee": 274500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Çocuk Gelişimi",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Dijital Oyun Tasarımı (İng.)",
+        "full_fee": 549000,
+        "discounted_fee": 274500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Dış Ticaret",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "E-Ticaret ve Pazarlama",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Elektrik-Elektronik Mühendisliği (İng.)",
+        "full_fee": 596000,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Elektronik Teknolojisi",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Endüstri Mühendisliği (İng.)",
+        "full_fee": 596000,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Fizyoterapi ve Rehabilitasyon",
+        "full_fee": 495000,
+        "discounted_fee": 247500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Grafik Tasarımı",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Halkla İlişkiler ve Tanıtım",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Hava Lojistiği",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Hemşirelik",
+        "full_fee": 495000,
+        "discounted_fee": 247500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Hukuk",
+        "full_fee": 596000,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "İç Mimarlık ve Çevre Tasarımı",
+        "full_fee": null,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "İç Mimarlık ve Çevre Tasarımı (İng.)",
+        "full_fee": null,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "İklimlendirme ve Soğutma Teknolojisi",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "İktisat",
+        "full_fee": null,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "İktisat (İng.)",
+        "full_fee": 596000,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+          {
+        "name": "İletişim Sanatları",
+        "full_fee": 549000,
+        "discounted_fee": 274500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+         {
+        "name": "İletişim ve Tasarımı",
+        "full_fee": 549000,
+        "discounted_fee": 274500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "İngiliz Dili ve Edebiyatı (İng.)",
+        "full_fee": null,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+         {
+        "name": "İngilizce Öğretmenliği (İng.)",
+        "full_fee": 549000,
+        "discounted_fee": 274500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+          {
+        "name": "İnşaat Mühendisliği (İng.)",
+        "full_fee": null,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "İnşaat Teknolojisi",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+          {
+        "name": "İşletme",
+        "full_fee": 596000,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+          {
+        "name": "İşletme (İng.)",
+        "full_fee": 596000,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "İşletme Yönetimi",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+         {
+        "name": "İsteğe Bağlı Hazırlık",
+        "full_fee": 495000,
+        "discounted_fee": 247500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Lojistik",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Mahkeme Büro Hizmetleri",
+        "full_fee": null,
+        "discounted_fee": 162500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Matematik ve Bilgisayar Bilimleri",
+        "full_fee": 596000,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Mimarlık (İng.)",
+        "full_fee": null,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Moda Tasarımı",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Moleküler Biyoloji ve Genetik",
+        "full_fee": 495000,
+        "discounted_fee": null,
+        "currency": "₺",
+        "discount": null
+      },
+       {
+        "name": "Okul Öncesi Öğretmenliği",
+        "full_fee": 495000,
+        "discounted_fee": 247500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Optisyenlik",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Özel Eğitim Öğretmenliği",
+        "full_fee": 549000,
+        "discounted_fee": 274500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Psikoloji",
+        "full_fee": 596000,
+        "discounted_fee": 447000,
+        "currency": "₺",
+        "discount": "25%"
+      },
+       {
+        "name": "Radyo, Televizyon ve Sinema",
+        "full_fee": 549000,
+        "discounted_fee": 274500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Rehberlik ve Psikolojik Danışmanlık",
+        "full_fee": 495000,
+        "discounted_fee": null,
+        "currency": "₺",
+        "discount": null
+      },
+       {
+        "name": "Sivil Hava Ulaştırma İşletmeciliği",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Sivil Havacılık Kabin Hizmetleri",
+        "full_fee": null,
+        "discounted_fee": 162500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Tıbbi Dokümantasyon ve Sekreterlik",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Turizm ve Otel İşletmeciliği",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+         {
+        "name": "Türk Dili ve Edebiyatı",
+        "full_fee": 495000,
+        "discounted_fee": 247500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Uçak Teknolojisi",
+        "full_fee": null,
+        "discounted_fee": 145000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Uçuş Harekat Yöneticiliği",
+        "full_fee": null,
+        "discounted_fee": 162500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+         {
+        "name": "Uluslararası İlişkiler (İng.)",
+        "full_fee": 596000,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Uluslararası Ticaret ve Finansman",
+        "full_fee": 596000,
+        "discounted_fee": null,
+        "currency": "₺",
+        "discount": null
+      },
+       {
+        "name": "Uluslararası Ticaret ve Finansman (İng.)",
+        "full_fee": 596000,
+        "discounted_fee": 298000,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Yazılım Mühendisliği (İng.)",
+        "full_fee": 596000,
+        "discounted_fee": 447000,
+        "currency": "₺",
+        "discount": "25%"
+      },
+        {
+        "name": "Yeni Medya ve İletişim",
+        "full_fee": null,
+        "discounted_fee": 274500,
+        "currency": "₺",
+        "discount": "50%"
+      }
+    ]
+  },
+   "tuition_fees_2023_2024": {
+     "faculties": [
+      {
+        "name": "MÜHENDİSLİK FAKÜLTESİ",
+        "rates": {
+          "75% ÖSS Burslu": 56735,
+          "50% ÖSS Burslu": 113470,
+          "25% ÖSS Burslu": 170205,
+          "ÜCRETLİ": 226940
+        },
+        "currency": "TL"
+      },
+      {
+        "name": "MİMARLIK FAKÜLTESİ",
+        "rates": {
+          "75% ÖSS Burslu": 59325,
+          "50%

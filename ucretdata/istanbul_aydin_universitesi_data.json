@@ -1,0 +1,842 @@
+{
+  "university": {
+    "name": "İstanbul Aydın Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": [
+      {
+        "faculty": "Tıp Fakültesi",
+        "program": "Tıp",
+        "discounted_fee": 550000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Tıp Fakültesi",
+        "program": "Tıp (İngilizce)",
+        "discounted_fee": 550000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Diş Hekimliği Fakültesi",
+        "program": "Diş Hekimliği",
+        "discounted_fee": 550000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Diş Hekimliği Fakültesi",
+        "program": "Diş Hekimliği (İngilizce)",
+        "discounted_fee": 550000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": null,
+        "program": "Eczacılık",
+        "discounted_fee": 400000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": null,
+        "program": "Hukuk",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Eğitim Fakültesi",
+        "program": "Arapça Öğretmenliği",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Eğitim Fakültesi",
+        "program": "İlköğretim Matematik Öğretmenliği",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Eğitim Fakültesi",
+        "program": "İngilizce Öğretmenliği",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Eğitim Fakültesi",
+        "program": "Okul Öncesi Öğretmenliği",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Eğitim Fakültesi",
+        "program": "Özel Eğitim Öğretmenliği",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Eğitim Fakültesi",
+        "program": "Rehberlik ve Psikolojik Danışmanlık",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Eğitim Fakültesi",
+        "program": "Sınıf Öğretmenliği",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Eğitim Fakültesi",
+        "program": "Türkçe Öğretmenliği",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Fen-Edebiyat Fakültesi",
+        "program": "Arapça Mütercim ve Tercümanlık",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Fen-Edebiyat Fakültesi",
+        "program": "İngiliz Dili ve Edebiyatı",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Fen-Edebiyat Fakültesi",
+        "program": "İngilizce Mütercim ve Tercümanlık",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Fen-Edebiyat Fakültesi",
+        "program": "Psikoloji",
+        "fee": 450000,
+        "currency": "TL",
+        "status": "Ücretli"
+      },
+      {
+        "faculty": "Fen-Edebiyat Fakültesi",
+        "program": "Rusça Mütercim ve Tercümanlık",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Fen-Edebiyat Fakültesi",
+        "program": "Sosyoloji",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Fen-Edebiyat Fakültesi",
+        "program": "Tarih",
+        "discounted_fee": 160000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Fen-Edebiyat Fakültesi",
+        "program": "Türk Dili ve Edebiyatı",
+        "discounted_fee": 320000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Güzel Sanatlar Fakültesi",
+        "program": "Çizgi Film ve Animasyon",
+        "discounted_fee": 330000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Güzel Sanatlar Fakültesi",
+        "program": "Dijital Oyun Tasarımı",
+        "discounted_fee": 330000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Güzel Sanatlar Fakültesi",
+        "program": "Drama ve Oyunculuk",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Güzel Sanatlar Fakültesi",
+        "program": "Gastronomi ve Mutfak Sanatları",
+        "discounted_fee": 330000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Güzel Sanatlar Fakültesi",
+        "program": "Grafik Tasarımı",
+        "discounted_fee": 330000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Güzel Sanatlar Fakültesi",
+        "program": "Tekstil ve Moda Tasarımı",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+        "program": "Ekonomi ve Finans",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+        "program": "Ekonomi ve Finans (İngilizce)",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+        "program": "Havacılık Yönetimi (İngilizce)",
+        "discounted_fee": 340000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+        "program": "İşletme",
+        "discounted_fee": 340000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+        "program": "İşletme (İngilizce)",
+        "discounted_fee": 340000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+        "program": "Kamu Yönetimi",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+        "program": "Muhasebe ve Finans Yönetimi",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+        "program": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce)",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+        "program": "Uluslararası Ticaret ve Finansman (İngilizce)",
+        "discounted_fee": 340000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İletişim Fakültesi",
+        "program": "Gazetecilik",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İletişim Fakültesi",
+        "program": "Görsel iletişim Tasarımı",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İletişim Fakültesi",
+        "program": "Halkla İlişkiler ve Tanıtım",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İletişim Fakültesi",
+        "program": "Radyo, Televizyon ve Sinema",
+        "discounted_fee": 330000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İletişim Fakültesi",
+        "program": "Reklamcılık",
+        "discounted_fee": 330000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İletişim Fakültesi",
+        "program": "Televizyon Haberciliği ve Programcılığı",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "İletişim Fakültesi",
+        "program": "Yeni Medya ve İletişim",
+        "discounted_fee": 330000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mimarlık ve Tasarım Fakültesi",
+        "program": "Endüstriyel Tasarım",
+        "discounted_fee": 390000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mimarlık ve Tasarım Fakültesi",
+        "program": "İç Mimarlık",
+        "discounted_fee": 390000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mimarlık ve Tasarım Fakültesi",
+        "program": "Mimarlık",
+        "discounted_fee": 390000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mimarlık ve Tasarım Fakültesi",
+        "program": "Mimarlık (İngilizce)",
+        "discounted_fee": 390000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mühendislik Fakültesi",
+        "program": "Bilgisayar Mühendisliği (İngilizce)",
+        "discounted_fee": 400000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mühendislik Fakültesi",
+        "program": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+        "discounted_fee": 370000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mühendislik Fakültesi",
+        "program": "Endüstri Mühendisliği (İngilizce)",
+        "discounted_fee": 370000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mühendislik Fakültesi",
+        "program": "Havacılık ve Uzay Mühendisliği (İngilizce)",
+        "discounted_fee": 370000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mühendislik Fakültesi",
+        "program": "İnşaat Mühendisliği",
+        "discounted_fee": 370000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mühendislik Fakültesi",
+        "program": "İnşaat Mühendisliği (İngilizce)",
+        "discounted_fee": 370000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mühendislik Fakültesi",
+        "program": "Makine Mühendisliği",
+        "discounted_fee": 370000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mühendislik Fakültesi",
+        "program": "Makine Mühendisliği (İngilizce)",
+        "discounted_fee": 370000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Mühendislik Fakültesi",
+        "program": "Yazılım Mühendisliği (İngilizce)",
+        "discounted_fee": 400000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "program": "Beslenme ve Diyetetik",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+        {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "program": "Beslenme ve Diyetetik (İngilizce)",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "program": "Çocuk Gelişimi",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "program": "Fizyoterapi ve Rehabilitasyon",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "program": "Hemşirelik",
+        "discounted_fee": 330000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+          {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "program": "Odyoloji",
+        "discounted_fee": 260000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "program": "Sağlık Yönetimi",
+        "discounted_fee": 260000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "program": "Sosyal Hizmet",
+        "discounted_fee": 260000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+             {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "program": "Ebelik",
+        "discounted_fee": 275000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "faculty": "Spor Bilimleri Fakültesi",
+        "program": "Antrenörlük Eğitimi",
+        "discounted_fee": 310000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Spor Bilimleri Fakültesi",
+        "program": "Beden Eğitimi ve Spor Öğretmenliği",
+        "discounted_fee": 310000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Spor Bilimleri Fakültesi",
+        "program": "Rekreasyon",
+        "discounted_fee": 310000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Spor Bilimleri Fakültesi",
+        "program": "Spor Yöneticiliği",
+        "discounted_fee": 310000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Uygulamalı Bilimler Fakültesi",
+        "program": "Pilotaj (İngilizce)",
+        "fee": 600000,
+        "currency": "TL",
+        "status": "Ücretli"
+      },
+      {
+        "faculty": "Uygulamalı Bilimler Fakültesi",
+        "program": "Yazılım Geliştirme (İngilizce)",
+        "discounted_fee": 370000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "faculty": "Uygulamalı Bilimler Fakültesi",
+        "program": "Yönetim Bilişim Sistemleri",
+        "discounted_fee": 370000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "faculty": "Uygulamalı Bilimler Fakültesi",
+        "program": "Yönetim Bilişim Sistemleri (İngilizce)",
+        "discounted_fee": 370000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "faculty": "Yabancı Diller Yüksekokulu",
+        "program": "Lisans Hazırlık",
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+          {
+        "faculty": "Yabancı Diller Yüksekokulu",
+        "program": "Ön Lisans Hazırlık",
+        "discounted_fee": 180000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+        {
+        "faculty": "Anadolu Bil Meslek Yüksekokulu",
+        "program": "Bilgisayar Programcılığı",
+        "discounted_fee": 220000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+        {
+        "faculty": "Anadolu Bil Meslek Yüksekokulu",
+        "program": "Bilgisayar Programcılığı (İngilizce)",
+        "discounted_fee": 220000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+            {
+        "faculty": "Anadolu Bil Meslek Yüksekokulu",
+        "program": "Bilgisayar Programcılığı (Uzaktan Eğitim)",
+        "fee": 220000,
+        "currency": "TL",
+        "status": "Ücretli"
+      },
+       {
+        "faculty": "Anadolu Bil Meslek Yüksekokulu",
+        "program": "Uçak Teknolojisi",
+        "discounted_fee": 220000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "faculty": "Anadolu Bil Meslek Yüksekokulu",
+        "program": "Diğer Önlisans bölümleri",
+        "discounted_fee": 180000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+          {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Ağız ve Diş Sağlığı",
+        "discounted_fee": 345000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+         {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Ameliyathane Hizmetleri",
+        "fee": 460000,
+        "currency": "TL",
+        "status": "Ücretli"
+      },
+             {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Anestezi",
+        "fee": 360000,
+        "currency": "TL",
+        "status": "Ücretli"
+      },
+       {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Diş Protez Teknolojisi",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Diyaliz",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+         {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Eczane Hizmetleri",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+             {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Elektronörofizyoloji",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Fizyoterapi",
+        "fee": 350000,
+        "currency": "TL",
+        "status": "Ücretli"
+      },
+       {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "İlk ve Acil Yardım",
+        "fee": 350000,
+        "currency": "TL",
+        "status": "Ücretli"
+      },
+         {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Odyometri",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+         {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Optisyenlik",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Ortopedik Protez ve Ortez",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+              {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Patoloji Laboratuvar Teknikleri",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+           {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Radyoterapi",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+            {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Sosyal Hizmetler",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+            {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Tıbbi Dokümantasyon ve Sekreterlik",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+          {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "program": "Tıbbi Laboratuvar Teknikleri",
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      }
+    ]
+  },
+       "payment_type": "Peşin veya taksitli ödeme",
+        "taksit_farki": "Taksitli ödemelerde %15 vade farkı uygulanacaktır.",
+  "tuition_fees_2024_2025": {
+    "academic_year": "2023-2024",
+    "new_students": [
+      {
+        "program": "İngilizce Mütercim ve Tercümanlık",
+        "discounted_fee": 78750,
+        "puan_turu": "DİL",
+        "currency": "₺"
+      },
+        {
+        "program": "Arapça Öğretmenliği",
+        "discounted_fee": 77250,
+            "puan_turu": "DİL",
+        "currency": "₺"
+      },
+       {
+        "program": "İngilizce Öğretmenliği",
+        "discounted_fee": 77250,
+           "puan_turu": "DİL",
+        "currency": "₺"
+      },
+         {
+        "program": "İngiliz Dili ve Edebiyatı",
+        "discounted_fee": 72450,
+            "puan_turu": "DİL",
+        "currency": "₺"
+      },
+      {
+        "program": "Arapça Mütercim ve Tercümanlık",
+        "discounted_fee": 66400,
+           "puan_turu": "DİL",
+        "currency": "₺"
+      },
+        {
+        "program": "Rusça Mütercim ve Tercümanlık",
+        "discounted_fee": 66400,
+           "puan_turu": "DİL",
+        "currency": "₺"
+      },
+      {
+         "program": "Havacılık Yönetimi (İngilizce)",
+        "discounted_fee": 78750,
+             "puan_turu": "EA",
+        "currency": "₺"
+      },
+         {
+         "program": "İşletme",
+        "discounted_fee": 78750,
+              "puan_turu": "EA",
+        "currency": "₺"
+      },
+         {
+         "program": "İşletme (İngilizce)",
+        "discounted_fee": 78750,
+              "puan_turu": "EA",
+        "currency": "₺"
+      },
+      {
+         "program": "Uluslararası Ticaret ve Finansman (İngilizce)",
+        "discounted_fee": 78750,
+              "puan_turu": "EA",
+        "currency": "₺"
+      },
+          {
+         "program": "Rehberlik ve Psikolojik Danışmanlık",
+        "discounted_fee": 77250,
+               "puan_turu": "EA",
+        "currency": "₺"
+      },
+             {
+         "program": "Sınıf Öğretmenliği",
+        "discounted_fee": 77250,
+                "puan_turu": "EA",
+        "currency": "₺"
+      },
+            {
+         "program": "Yönetim Bilişim Sistemleri",
+        "discounted_fee": 74850,
+                 "puan_turu": "EA",
+        "currency": "₺"
+      },
+          {
+         "program": "Sosyoloji",
+        "discounted_fee": 72450,
+              "puan_turu": "EA",
+        "currency": "₺"
+      },
+        {
+         "program": "Ekonomi ve Finans",
+        "discounted_fee": 72450,
+              "puan_turu": "EA",
+        "currency": "₺"
+      },
+        {
+         "program": "Kamu Yönetimi",
+        "discounted_fee": 72450,
+              "puan_turu": "EA",
+        "currency": "₺"
+      },
+      {
+         "program": "Muhasebe ve Finans Yönetimi",
+        "discounted_fee": 72450,
+             "puan_turu": "EA",
+        "currency": "₺"
+      },
+            {
+         "program": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce)",
+        "discounted_fee": 72450,
+              "puan_turu": "EA",
+        "currency": "₺"
+      },
+       {
+         "program": "Çocuk Gelişimi",
+        "discounted_fee": 62750,
+           "puan_turu": "EA",
+        "currency": "₺"
+      },
+       {
+         "program": "Sağlık Yönetimi",
+        "discounted_fee": 62750,
+           "puan_turu": "EA",
+        "currency": "₺"
+      },
+         {
+         "program": "Sosyal Hizmet",
+        "discounted_fee": 62750,
+            "puan_turu": "EA",
+        "currency": "₺"
+      },
+            {
+         "program": "Psikoloji",
+        "fee": 154500,
+             "puan_turu": "EA",
+        "currency": "₺"
+      },
+      {
+         "program": "Hukuk",
+        "discounted_fee": 103850,
+            "puan_turu": "EA",
+        "currency": "₺"
+      },
+         {
+         "program": "Bilgisayar Mühendisliği (İng

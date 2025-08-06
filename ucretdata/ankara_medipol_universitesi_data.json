@@ -1,0 +1,317 @@
+{
+  "university": {
+    "name": "Ankara Medipol Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "Tıp Fakültesi": {
+        "discount_50": {
+          "amount": 925000,
+          "currency": "TL"
+        }
+      },
+      "Diş Hekimliği Fakültesi": {
+        "discount_50": {
+          "amount": 925000,
+          "currency": "TL"
+        }
+      },
+      "Eczacılık Fakültesi": {
+        "discount_50": {
+          "amount": 825000,
+          "currency": "TL"
+        }
+      },
+      "Hukuk Fakültesi": {
+        "discount_50": {
+          "amount": 540000,
+          "currency": "TL"
+        }
+      },
+      "Mühendislik ve Doğa Bilimleri Fakültesi": {
+        "discount_50": {
+          "amount": 580000,
+          "currency": "TL"
+        }
+      },
+      "Sağlık Bilimleri Fakültesi": {
+        "Fizyoterapi ve Rehabilitasyon Programı": {
+          "discount_25": {
+            "amount": 640000,
+            "currency": "TL"
+          }
+        },
+        "Beslenme ve Diyetetik Programı": {
+          "discount_25": {
+            "amount": 640000,
+            "currency": "TL"
+          }
+        },
+        "Odyoloji Programı": {
+          "discount_50": {
+            "amount": 480000,
+            "currency": "TL"
+          }
+        },
+        "Dil ve Konuşma Terapisi Programı": {
+          "discount_50": {
+            "amount": 490000,
+            "currency": "TL"
+          }
+        },
+        "Hemşirelik Programı": {
+          "discount_50": {
+            "amount": 490000,
+            "currency": "TL"
+          }
+        },
+        "Ergoterapi Programı": {
+          "discount_50": {
+            "amount": 490000,
+            "currency": "TL"
+          }
+        },
+        "Ebelik Programı": {
+          "discount_50": {
+            "amount": 540000,
+            "currency": "TL"
+          }
+        }
+      },
+      "İktisadi, İdari ve Sosyal Bilimler Fakültesi": {
+        "Psikoloji Programı": {
+          "discount_50": {
+            "amount": 650000,
+            "currency": "TL"
+          }
+        },
+        "diğer tüm programları": {
+          "discount_50": {
+            "amount": 490000,
+            "currency": "TL"
+          }
+        }
+      },
+      "Siyasal Bilgiler Fakültesi": {
+        "Siyaset Bilimi ve Uluslararası İlişkiler Programı": {
+          "discount_50": {
+            "amount": 485000,
+            "currency": "TL"
+          }
+        }
+      },
+      "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi": {
+        "Gastronomi ve Mutfak Sanatları Programı": {
+          "discount_50": {
+            "amount": 530000,
+            "currency": "TL"
+          }
+        },
+        "İç Mimarlık ve Çevre Tasarımı Programı": {
+          "discount_50": {
+            "amount": 495000,
+            "currency": "TL"
+          }
+        }
+      },
+      "İletişim Fakültesi": {
+        "Halkla İlişkiler ve Reklamcılık Programı": {
+          "discount_50": {
+            "amount": 490000,
+            "currency": "TL"
+          }
+        }
+      },
+      "Meslek Yüksekokulu ile Sağlık Hizmetleri Meslek Yüksekokulu": {
+        "tüm programları": {
+          "discount_50": {
+            "amount": 490000,
+            "currency": "TL"
+          }
+        }
+      }
+    },
+    "2024-2025": {
+      "Tıp Fakültesi": {
+        "amount": 480000,
+        "currency": "TL"
+      },
+      "Diş Hekimliği Fakültesi": {
+        "amount": 520000,
+        "currency": "TL"
+      },
+      "Eczacılık Fakültesi": {
+        "amount": 480000,
+        "currency": "TL"
+      },
+      "Hukuk Fakültesi": {
+        "amount": 270000,
+        "currency": "TL"
+      },
+      "Mühendislik ve Doğa Bilimleri Fakültesi": {
+        "discount_25": {
+          "amount": 187500,
+          "currency": "TL"
+        }
+      },
+      "Sağlık Bilimleri Fakültesi": {
+        "Fizyoterapi ve Rehabilitasyon Programı": {
+          "discount_25": {
+            "amount": 206250,
+            "currency": "TL"
+          }
+        },
+        "Beslenme ve Diyetetik Programı": {
+          "discount_25": {
+            "amount": 206250,
+            "currency": "TL"
+          }
+        },
+        "Odyoloji Programı": {
+          "discount_25": {
+            "amount": 172500,
+            "currency": "TL"
+          }
+        },
+        "Dil ve Konuşma Terapisi Programı": {
+          "discount_25": {
+            "amount": 172500,
+            "currency": "TL"
+          }
+        },
+        "Hemşirelik Programı": {
+          "discount_25": {
+            "amount": 172500,
+            "currency": "TL"
+          }
+        },
+        "Ergoterapi Programı": {
+          "discount_25": {
+            "amount": 157500,
+            "currency": "TL"
+          }
+        },
+        "Ebelik Programı": {
+          "discount_25": {
+            "amount": 157500,
+            "currency": "TL"
+          }
+        }
+      },
+      "İktisadi, İdari ve Sosyal Bilimler Fakültesi": {
+        "Psikoloji Programı": {
+          "amount": 210000,
+          "currency": "TL"
+        },
+        "diğer tüm programları": {
+          "discount_25": {
+            "amount": 150000,
+            "currency": "TL"
+          }
+        }
+      },
+      "Siyasal Bilgiler Fakültesi": {
+        "Siyaset Bilimi ve Uluslararası İlişkiler Programı": {
+          "discount_25": {
+            "amount": 150000,
+            "currency": "TL"
+          }
+        }
+      },
+      "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi": {
+        "Gastronomi ve Mutfak Sanatları Programı": {
+          "discount_25": {
+            "amount": 210000,
+            "currency": "TL"
+          }
+        },
+        "İç Mimarlık ve Çevre Tasarımı Programı": {
+          "discount_25": {
+            "amount": 210000,
+            "currency": "TL"
+          }
+        }
+      },
+      "İletişim Fakültesi": {
+        "Halkla İlişkiler ve Reklamcılık Programı": {
+          "discount_25": {
+            "amount": 198750,
+            "currency": "TL"
+          }
+        }
+      },
+      "Meslek Yüksekokulu ile Sağlık Hizmetleri Meslek Yüksekokulu": {
+        "tüm programları": {
+          "amount": 112500,
+          "currency": "TL"
+        }
+      }
+    },
+    "2023-2024": {
+      "Beslenme ve Diyetetik": {
+        "discount_50": {
+          "amount": 68750,
+          "currency": "TL"
+        }
+      },
+      "Bilgisayar Mühendisliği (İngilizce)": {
+        "discount_50": {
+          "amount": 68750,
+          "currency": "TL"
+        }
+      },
+      "Diş Hekimliği": {
+        "discount_50": {
+          "amount": 137500,
+          "currency": "TL"
+        }
+      },
+      "Ebelik": {
+        "discount_50": {
+          "amount": 52250,
+          "currency": "TL"
+        }
+      },
+      "Eczacılık": {
+        "discount_50": {
+          "amount": 247500,
+          "currency": "TL"
+        }
+      },
+      "Elektrik-Elektronik Mühendisliği": {
+        "discount_50": {
+          "amount": 68750,
+          "currency": "TL"
+        }
+      },
+      "Hemşirelik": {
+        "discount_50": {
+          "amount": 57200,
+          "currency": "TL"
+        }
+      },
+      "Hukuk": {
+        "full_fee": {
+          "amount": 97200,
+          "currency": "TL"
+        }
+      },
+      "Tıp": {
+        "discount_50": {
+          "amount": 137500,
+          "currency": "TL"
+        }
+      },
+      "Ön Lisans bölümleri": {
+        "discount_50": {
+          "amount": 43450,
+          "currency": "TL"
+        }
+      }
+    }
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

@@ -1,0 +1,528 @@
+{
+  "university": {
+    "name": "Atılım Üniversitesi",
+    "url": "https://atilim.edu.tr",
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": {
+      "faculty_fees": [
+        {
+          "faculty": "Fen-Edebiyat Fakültesi",
+          "departments": [
+            {
+              "department": "İngiliz Dili ve Edebiyatı (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "İngilizce Mütercim ve Tercümanlık (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Matematik (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Psikoloji (İngilizce)",
+              "annual_fee": {
+                "amount": 850000,
+                "currency": "TL"
+              },
+              "discounted_fee":{
+                 "amount": 637500,
+                 "currency": "TL"
+               },
+              "discount": "25%"
+            }
+          ]
+        },
+        {
+          "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+          "departments": [
+            {
+              "department": "Endüstriyel Tasarım",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Grafik Tasarımı",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "İç Mimarlık ve Çevre Tasarımı",
+              "annual_fee": {
+                "amount": 637500,
+                "currency": "TL"
+              },
+              "discount": "25%"
+            },
+            {
+              "department": "Mimarlık",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Tekstil ve Moda Tasarımı",
+              "annual_fee": {
+                "amount": 412500,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            }
+          ]
+        },
+        {
+          "faculty": "Hukuk Fakültesi",
+          "departments": [
+            {
+              "department": "Hukuk",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            }
+          ]
+        },
+        {
+          "faculty": "İşletme Fakültesi",
+          "departments": [
+            {
+              "department": "Halkla İlişkiler ve Reklamcılık (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "İktisat (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "İktisat",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "İşletme (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "İşletme",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+             {
+              "department": "Maliye",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Siyaset Bilimi ve Kamu Yönetimi",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Turizm İşletmeciliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Uluslararası İlişkiler (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Uluslararası Ticaret ve Lojistik (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            }
+          ]
+        },
+        {
+          "faculty": "Mühendislik Fakültesi",
+          "departments": [
+            {
+              "department": "Bilgisayar Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Bilişim Sistemleri Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Endüstri Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Enerji Sistemleri Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Havacılık ve Uzay Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "İnşaat Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Kimya Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Makine Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Mekatronik Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Metalurji ve Malzeme Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Otomotiv Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+             {
+              "department": "Yazılım Mühendisliği (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            }
+          ]
+        },
+        {
+          "faculty": "Sağlık Bilimleri Fakültesi",
+          "departments": [
+            {
+              "department": "Beslenme ve Diyetetik",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Çocuk Gelişimi",
+              "annual_fee": {
+                "amount": 412500,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Fizyoterapi ve Rehabilitasyon",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Hemşirelik",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Odyoloji",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            }
+          ]
+        },
+        {
+          "faculty": "Sivil Havacılık Yüksekokulu",
+          "departments": [
+            {
+              "department": "Havacılık Yönetimi (İngilizce)",
+              "annual_fee": {
+                "amount": 425000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Pilotaj",
+              "annual_fee": {
+                "amount": 850000,
+                "currency": "TL"
+              }
+            },
+            {
+              "department": "Uçak Elektrik ve Elektroniği (İngilizce)",
+              "annual_fee": {
+                "amount": 637500,
+                "currency": "TL"
+              },
+              "discount": "25%"
+            },
+            {
+              "department": "Uçak Gövde ve Motor Bakımı (İngilizce)",
+              "annual_fee": {
+                "amount": 637500,
+                "currency": "TL"
+              },
+              "discount": "25%"
+            }
+          ]
+        },
+        {
+          "faculty": "Tıp Fakültesi",
+          "departments": [
+            {
+              "department": "Tıp",
+              "annual_fee": {
+                "amount": 910000,
+                "currency": "TL"
+              },
+              "discounted_fee": {
+                "amount": 682500,
+                "currency": "TL"
+              },
+              "discount": "25%"
+            },
+            {
+              "department": "Tıp – İngilizce Hazırlık Programı",
+              "annual_fee": {
+                "amount": 850000,
+                "currency": "TL"
+              },
+              "discounted_fee": {
+                "amount": 637500,
+                "currency": "TL"
+              },
+              "discount": "25%"
+            }
+          ]
+        },
+        {
+          "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+          "departments": [
+            {
+              "department": "Ameliyathane Hizmetleri",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Anestezi",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Diyaliz",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Elektronörofizyoloji",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "İlk ve Acil Yardım",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Optisyenlik",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Patoloji Laboratuvar Teknikleri",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Radyoterapi",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Tıbbi Görüntüleme Teknikleri",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "Tıbbi Laboratuvar Teknikleri",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            }
+          ]
+        },
+        {
+          "faculty": "Atılım Meslek Yüksekokulu",
+          "departments": [
+            {
+              "department": "Mahkeme Büro Hizmetleri",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            },
+            {
+              "department": "E-Ticaret ve Pazarlama",
+              "annual_fee": {
+                "amount": 280000,
+                "currency": "TL"
+              },
+              "discount": "50%"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "scholarships": {
+    "full_scholarships": [],
+    "partial_scholarships": []
+  },
+  "dormitory_fees": null
+}

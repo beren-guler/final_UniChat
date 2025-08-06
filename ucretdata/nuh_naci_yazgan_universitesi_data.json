@@ -1,0 +1,387 @@
+{
+  "university": {
+    "name": "Nuh Naci Yazgan Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "Nuh Naci Yazgan Üniversitesi’nde eğitim ücrete tabidir. 2025-2026 eğitim yılında öğrenim ücreti,"
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Lisans Programları",
+      "departments": [
+        {
+          "name": "Hemşirelik",
+          "annual_fee": {
+            "amount": 458150.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İşletme",
+          "annual_fee": {
+            "amount": 467500.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Siyaset Bilimi Ve Kamu Yönetimi",
+          "annual_fee": {
+            "amount": 467500.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Beslenme Ve Diyetetik",
+          "annual_fee": {
+            "amount": 484000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Fizyoterapi Ve Rehabilitasyon",
+          "annual_fee": {
+            "amount": 514250.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 514250.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İç Mimarlık Ve Çevre Tasarımı",
+          "annual_fee": {
+            "amount": 551650.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Hukuk",
+          "annual_fee": {
+            "amount": 607750.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Diş Hekimliği",
+          "annual_fee": {
+            "amount": 968000.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Ön Lisans Programları",
+      "departments": [
+        {
+          "name": "Elektrik",
+          "annual_fee": {
+            "amount": 330000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yapı Yalıtım Teknolojisi",
+          "annual_fee": {
+            "amount": 330000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Ağız ve Diş Sağlığı",
+          "annual_fee": {
+            "amount": 345950.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Anestezi",
+          "annual_fee": {
+            "amount": 345950.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Bilgisayar Programcılığı",
+          "annual_fee": {
+            "amount": 345950.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Fizyoterapi",
+          "annual_fee": {
+            "amount": 345950.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İlk Ve Acil Yardım",
+          "annual_fee": {
+            "amount": 363000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri",
+          "annual_fee": {
+            "amount": 363000.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": null,
+      "departments": [
+        {
+          "name": "Diş Hekimliği Fakültesi",
+          "annual_fee": {
+            "amount": 550000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 412500,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "İç Mimarlık ve Çevre Tasarımı",
+          "annual_fee": {
+            "amount": 295000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 147500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Mimarlık",
+          "annual_fee": {
+            "amount": 225000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 112500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Hukuk",
+          "annual_fee": {
+            "amount": 325000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 243750,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "İşletme",
+          "annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 125000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Siyaset Bilimi ve Kamu Yönetimi",
+          "annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 125000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Beslenme ve Diyetetik",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Fizyoterapi ve Rehabilitasyon",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Hemşirelik",
+          "annual_fee": {
+            "amount": 245000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 122500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Anestezi",
+          "annual_fee": {
+            "amount": 185000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 138750,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Ağız ve Diş Sağlığı",
+          "annual_fee": {
+            "amount": 185000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 138750,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Bilgisayar Programcılığı",
+          "annual_fee": {
+            "amount": 185000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 138750,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Fizyoterapi",
+          "annual_fee": {
+            "amount": 185000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 138750,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+                {
+          "name": "Elektrik-Elektronik Mühendisliği",
+           "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+      ]
+    },
+       {
+      "academic_year": "2023-2024",
+       "description": "İktisat, İşletme, Siyaset Bilimi ve Kamu Yönetimi Programları için % 50 indirimli 62.500 TL,"
+    },
+       {
+      "academic_year": "2023-2024",
+      "description": "Elektrik -Elektronik Mühendisliği, İnşaat Mühendisliği, Endüstri Mühendisliği Programları için % 50 indirimli 70.000 TL,"
+    },
+       {
+      "academic_year": "2023-2024",
+      "description": "Diş Hekimliği Fakültesi için ücretli 245.000 TL % 25 indirimli 183.750 TL’dir."
+    },
+       {
+      "academic_year": "2023-2024",
+       "description": "Fen Edebiyat Fakiltesi için ücretli 140.000 TL % 50 indirimli 70.000 TL’dir."
+    },
+       {
+      "academic_year": "2023-2024",
+       "description": "Güzel Sanatlar Ve Tasarım Fakültesi İç Mimarlık ve Çevre Tasarımı için ücretli 155.000 TL % 50 indirimli 77.500 TL’dir."
+    },
+       {
+      "academic_year": "2023-2024",
+         "description": "Güzel Sanatlar Ve Tasarım Fakültesi Mimarlık için ücretli 115.000 TL % 50 indirimli 57.500 TL’dir."
+    },
+       {
+      "academic_year": "2023-2024",
+         "description": "Hukuk Fakültesi ücretli 145.000 TL"
+    },
+      {
+      "academic_year": "2023-2024",
+         "description": "Sağlık Bilimleri Fakültesi Beslenme ve Diyetetik (Ücretli) Fizyoterapi ve Rehabilitasyon (Ücretli) 125.000 TL % 50 indirimli 62.500 TL’dir."
+    },
+       {
+      "academic_year": "2023-2024",
+         "description": "Sağlık Bilimleri Fakültesi Hemşirelik (Ücretli) 110.000 TL 50 indirimli 55.000 TL’dir."
+    },
+       {
+      "academic_year": "2023-2024",
+      "description": "Meslek Yüksekokulu Fizyoterapi (Ücretli) 75.000 TL (%25 İndirimli) 56.250 TL’dir"
+    }
+
+  ],
+  "scholarships": {
+    "types": [
+      "Öğrenciler, başarılarına ve ekonomik durumlarına göre belirli oranlarda burs imkânlarından faydalanabilirler. Ayrıca, kardeş indirimi ve peşin ödeme indirimi gibi avantajlar da sunulmaktadır."
+    ]
+  },
+  "dormitory_fees": null
+}

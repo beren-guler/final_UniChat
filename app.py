@@ -261,6 +261,15 @@ def get_chat(chat_id):
     chats = get_chat_history()
     return jsonify(chats.get(chat_id, {}))
 
+@app.route('/delete_chat/<chat_id>', methods=['DELETE'])
+def delete_chat(chat_id):
+    chats = get_chat_history()
+    if chat_id in chats:
+        del chats[chat_id]
+        return jsonify({'success': True, 'message': 'Chat başarıyla silindi'})
+    else:
+        return jsonify({'success': False, 'message': 'Chat bulunamadı'}), 404
+
 @app.route('/chat', methods=['POST'])
 def chat():
     data = request.get_json()

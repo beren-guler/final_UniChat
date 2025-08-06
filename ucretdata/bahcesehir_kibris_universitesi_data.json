@@ -1,0 +1,65 @@
+{
+  "university": {
+    "name": "Bahçeşehir Kıbrıs Üniversitesi",
+    "url": "baucyprus.edu.tr",
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": {
+      "annual_fee": {
+        "amount": 300000,
+        "currency": "TL",
+        "note": "Hazırlık ve Lisans programları"
+      },
+      "annual_charge_and_registration_fee": {
+        "amount": 25000,
+        "currency": "TL",
+        "note": "Öğrenciler KKTC mevzuatı uyarınca burs veya indirim oranına bakılmaksızın, öğrenim ücretlerine ilave olarak yıllık harç ve kayıt ücreti olarak ödeyeceklerdir."
+      }
+    },
+    "academic_year_2024_2025": {
+      "Mimarlık ve Mühendislik Fakültesi ile İktisadi, İdari ve Sosyal Bilimleri Fakültesi": {
+        "amount": 75391,
+        "currency": "TL"
+      },
+      "İngilizce Hazırlık Okulu eğitim ücreti": {
+        "amount": 39018,
+        "currency": "TL",
+        "note": "İngilizce Hazırlık Okulu ders kitapları Üniversite tarafından sağlanır ve ek ücrete tabidir."
+      },
+       "note": "Belirtilen tüm ücretlere %5 KDV dahildir. Sosyal Aktivite Fonu olan yıllık 2.645 TL dahil değildir."
+    },
+      "academic_year_2023_2024": {
+      "Mimarlık ve Mühendislik Fakültesi ile İktisadi, İdari ve Sosyal Bilimleri Fakültesi": {
+        "amount": 37400,
+        "currency": "TL"
+      },
+      "İngilizce Hazırlık Okulu eğitim ücreti": {
+        "amount": 37400,
+        "currency": "TL",
+         "note": "İngilizce Hazırlık Okulu ders kitapları Üniversite tarafından sağlanır ve ek ücrete tabidir."
+      },
+       "note": "Belirtilen tüm ücretlere %5 KDV dahildir. Sosyal Aktivite Fonu olan yıllık 1,360 TL dahil değildir."
+    }
+  },
+  "scholarships": {
+  },
+    "other_fees": {
+        "academic_year_2023_2024": {
+            "social_activity_fund":{
+                "amount": 1360,
+                "currency": "TL",
+                "note": "annual"
+            }
+        },
+           "academic_year_2024_2025": {
+            "social_activity_fund":{
+                "amount": 2645,
+                "currency": "TL",
+                "note": "annual"
+            }
+        }
+
+    }
+}

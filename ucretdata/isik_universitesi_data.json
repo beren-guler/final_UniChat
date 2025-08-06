@@ -1,0 +1,420 @@
+{
+  "university": {
+    "name": "Işık Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": {
+    "academic_year": "2024-2025",
+    "new_students": [
+      {
+        "faculty": "Sanat, Tasarım ve Mimarlık Fakültesi",
+        "programs": [
+          {
+            "program": "Endüstriyel Tasarım (Türkçe)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Görsel İletişim Tasarımı (Türkçe)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İç Mimarlık ve Çevre Tasarımı (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İç Mimarlık ve Çevre Tasarımı (Türkçe)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Mimarlık (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Mimarlık (Türkçe)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Sinema ve Televizyon (Türkçe)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+        "programs": [
+          {
+            "program": "Bilgisayar Mühendisliği (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Biyomedikal Mühendisliği (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Endüstri Mühendisliği (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İnşaat Mühendisliği (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Makine Mühendisliği (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Mekatronik Mühendisliği (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Yazılım Mühendisliği (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "programs": [
+          {
+            "program": "Psikoloji (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Psikoloji (Türkçe)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Yönetim Bilişim Sistemleri (İngilizce)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Yönetim Bilişim Sistemleri (Türkçe)",
+            "full_fee": 480850,
+            "discounted_fee": 240430,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İktisat (İngilizce)",
+            "full_fee": 462290,
+            "discounted_fee": 231150,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İşletme (İngilizce)",
+            "full_fee": 462290,
+            "discounted_fee": 231150,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Uluslararası İlişkiler (İngilizce)",
+            "full_fee": 462290,
+            "discounted_fee": 231150,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Uluslararası Ticaret ve Finansman (İngilizce)",
+            "full_fee": 462290,
+            "discounted_fee": 231150,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "Meslek Yüksekokulu",
+        "programs": [
+          {
+            "program": "Ameliyathane Hizmetleri (Örgün)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Ameliyathane Hizmetleri (İkinci Öğretim)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Dış Ticaret (Örgün)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Dış Ticaret (İkinci Öğretim)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Grafik Tasarımı (Örgün)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Grafik Tasarımı (İkinci Öğretim)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Optisyenlik (Örgün)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Optisyenlik (İkinci Öğretim)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Tıbbi Görüntüleme Teknikleri (Örgün)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Tıbbi Görüntüleme Teknikleri (İkinci Öğretim)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Tıbbi Laboratuvar Teknikleri (Örgün)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Tıbbi Laboratuvar Teknikleri (İkinci Öğretim)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İç Mekan Tasarımı (Örgün)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İç Mekan Tasarımı (İkinci Öğretim)",
+            "full_fee": 186540,
+            "discounted_fee": 93270,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İlk ve Acil Yardım (Örgün)",
+            "full_fee": 191440,
+            "discounted_fee": 95720,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İlk ve Acil Yardım (İkinci Öğretim)",
+            "full_fee": 191440,
+            "discounted_fee": 95720,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Anestezi (Örgün)",
+            "full_fee": 191440,
+            "discounted_fee": 95720,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Anestezi (İkinci Öğretim)",
+            "full_fee": 191440,
+            "discounted_fee": 95720,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Bilgisayar Programcılığı (Örgün)",
+            "full_fee": 191440,
+            "discounted_fee": 95720,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Bilgisayar Programcılığı (İkinci Öğretim)",
+            "full_fee": 191440,
+            "discounted_fee": 95720,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      }
+    ]
+  },
+  "tuition_fees_2023_2024": {
+    "academic_year": "2023-2024",
+    "new_students": [
+      {
+        "faculty": "Sanat, Tasarım ve Mimarlık Fakültesi",
+        "annual_fee": 228980,
+        "currency": "TL"
+      },
+      {
+        "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "program": "Psikoloji ile Yönetim Bilişim Sistemleri Programları",
+        "annual_fee": 228980,
+        "currency": "TL"
+      },
+      {
+        "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "program": "Diğer programlar",
+        "annual_fee": 220135,
+        "currency": "TL"
+      },
+      {
+        "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+        "annual_fee": 228980,
+        "currency": "TL"
+      },
+      {
+        "faculty": "Zorunlu yabancı dil hazırlık sınıfı",
+        "faculties": ["Sanat, Tasarım ve Mimarlık Fakültesi", "Mühendislik ve Doğa Bilimleri Fakültesi"],
+        "annual_fee": 228980,
+        "currency": "TL"
+      },
+      {
+        "faculty": "Meslek Yüksekokulu",
+        "annual_fee_range": "88825-91160",
+        "currency": "TL"
+      }
+    ]
+  },
+  "tuition_fees_2022_2023": {
+    "academic_year": "2022-2023",
+    "new_students": [
+      {
+        "faculty": "Sanat, Tasarım ve Mimarlık Fakültesi",
+        "annual_fee": 103600,
+        "currency": "TL"
+      },
+      {
+        "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "program": "Psikoloji ile Yönetim Bilişim Sistemleri Programları",
+        "annual_fee": 103600,
+        "currency": "TL"
+      },
+      {
+        "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "program": "Diğer programlar",
+        "annual_fee": 64000,
+        "currency": "TL"
+      },
+      {
+        "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+        "annual_fee": 103600,
+        "currency": "TL"
+      },
+      {
+        "faculty": "Zorunlu yabancı dil hazırlık sınıfı",
+        "faculties": ["Sanat, Tasarım ve Mimarlık Fakültesi", "Mühendislik ve Doğa Bilimleri Fakültesi"],
+        "annual_fee": 103600,
+        "currency": "TL"
+      },
+      {
+        "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "program": "Psikoloji ile Yönetim Bilişim Sistemleri Programları",
+        "annual_fee": 103600,
+        "currency": "TL"
+      },
+      {
+        "faculty": "Meslek Yüksekokulu",
+        "annual_fee": 45900,
+        "currency": "TL"
+      }
+    ]
+  },
+  "scholarships": {
+    "available": true,
+    "types": ["Tercih burdu", "sende ışık var indirimi", "lise bursları", "spor bursu", "kardeş indirimi"]
+  },
+  "dormitory_fees": null
+}

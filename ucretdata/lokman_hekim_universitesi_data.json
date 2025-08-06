@@ -1,0 +1,531 @@
+{
+  "university": {
+    "name": "Lokman Hekim Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "Lokman Hekim Üniversitesinde eğitim ücrete tabidir. 2025-2026 eğitim-öğretim yılı için eğitim öğretim ücretleri KDV dâhil;"
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Tıp Fakültesi",
+      "departments": [
+        {
+          "name": "Tıp Fakültesi (Türkçe)",
+          "annual_fee": {
+            "amount": 450000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Tıp Fakültesi (İngilizce)",
+          "annual_fee": {
+            "amount": 600000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıp Fakültesi (İngilizce) İndirimli",
+          "annual_fee": {
+            "amount": 300000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Diş Hekimliği Fakültesi",
+      "departments": [
+        {
+          "name": "Diş Hekimliği Fakültesi (Türkçe)",
+          "annual_fee": {
+            "amount": 429000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Diş Hekimliği Fakültesi (İngilizce)",
+          "annual_fee": {
+            "amount": 572000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Diş Hekimliği Fakültesi (İngilizce) İndirimli",
+          "annual_fee": {
+            "amount": 286000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Eczacılık Fakültesi",
+      "departments": [
+        {
+          "name": "Eczacılık Fakültesi (Türkçe)",
+          "annual_fee": {
+            "amount": 337500,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Eczacılık Fakültesi (İngilizce)",
+          "annual_fee": {
+            "amount": 450000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Eczacılık Fakültesi (İngilizce) İndirimli",
+          "annual_fee": {
+            "amount": 225000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Sağlık Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Beslenme ve Diyetetik",
+          "annual_fee": {
+            "amount": 144000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Fizyoterapi ve Rehabilitasyon",
+          "annual_fee": {
+            "amount": 144000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Hemşirelik",
+          "annual_fee": {
+            "amount": 144000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Ebelik",
+          "annual_fee": {
+            "amount": 144000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Ergoterapi",
+          "annual_fee": {
+            "amount": 144000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Dil ve Konuşma Terapisi",
+          "annual_fee": {
+            "amount": 144000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Odyoloji",
+          "annual_fee": {
+            "amount": 144000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Spor Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Antrenörlük",
+          "annual_fee": {
+            "amount": 144000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Spor Yöneticiliği",
+          "annual_fee": {
+            "amount": 144000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Sağlık Hizmetleri MYO",
+      "departments": [
+        {
+          "name": "Ağız ve Diş Sağlığı",
+          "annual_fee": {
+            "amount": 135000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Ameliyathane Hizmetleri",
+          "annual_fee": {
+            "amount": 135000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Anestezi",
+          "annual_fee": {
+            "amount": 135000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Diş Protez Teknolojisi",
+          "annual_fee": {
+            "amount": 135000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Diyaliz",
+          "annual_fee": {
+            "amount": 135000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Eczane Hizmetleri",
+          "annual_fee": {
+            "amount": 90000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "İlk ve Acil Yardım",
+          "annual_fee": {
+            "amount": 135000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Optisyenlik",
+          "annual_fee": {
+            "amount": 135000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri",
+          "annual_fee": {
+            "amount": 135000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Tıbbi Laboratuvar Teknikleri",
+          "annual_fee": {
+            "amount": 135000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        },
+        {
+          "name": "Yaşlı Bakımı",
+          "annual_fee": {
+            "amount": 90000,
+            "currency": "TL",
+            "discount": "25%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "name": "Hazırlık Eğitimi",
+      "annual_fee": {
+        "amount": 396500,
+        "currency": "TL"
+      }
+    },
+        {
+      "academic_year": "2023-2024",
+      "faculty": "Tıp Fakültesi",
+      "departments": [
+        {
+          "name": "TIP PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 209088.00,
+            "currency": "TL"
+          }
+        },
+          {
+          "name": "TIP PR. (İNGİLİZCE) (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 139392.00,
+            "currency": "TL"
+          }
+        },
+            {
+          "name": "TIP PR. (İNGİLİZCE) (ÜCRETLİ)",
+          "annual_fee": {
+            "amount": 278784.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+           {
+      "academic_year": "2023-2024",
+      "faculty": "DİŞ HEKİMLİĞİ FAKÜLTESİ",
+      "departments": [
+        {
+          "name": "DİŞ HEKİMLİĞİ PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 199584.00,
+            "currency": "TL"
+          }
+        },
+          {
+          "name": "DİŞ HEKİMLİĞİ PR. (İNGİLİZCE) (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 133056.00,
+            "currency": "TL"
+          }
+        },
+            {
+          "name": "DİŞ HEKİMLİĞİ PR. (İNGİLİZCE) (ÜCRETLİ)",
+          "annual_fee": {
+            "amount": 266112.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+           {
+      "academic_year": "2023-2024",
+      "faculty": "ECZACILIK FAKÜLTESİ",
+      "departments": [
+        {
+          "name": "ECZACILIK PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 156816.00,
+            "currency": "TL"
+          }
+        },
+          {
+          "name": "ECZACILIK PR. (İNGİLİZCE) (ÜCRETLİ)",
+          "annual_fee": {
+            "amount": 209088.00,
+            "currency": "TL"
+          }
+        },
+            {
+          "name": "ECZACILIK PR. (İNGİLİZCE) (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 104544.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+               {
+      "academic_year": "2023-2024",
+      "faculty": "SAĞLIK BİLİMLERİ",
+      "departments": [
+        {
+          "name": "BESLENME VE DİYETETİK PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 100440.00,
+            "currency": "TL"
+          }
+        },
+          {
+          "name": "DİL VE KONUŞMA TERAPİSİ PR. (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 66960.00,
+            "currency": "TL"
+          }
+        },
+            {
+          "name": "EBELİK PR. (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 66960.00,
+            "currency": "TL"
+          }
+        },
+                   {
+          "name": "ERGOTERAPİ PR. (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 66960.00,
+            "currency": "TL"
+          }
+        },
+                    {
+          "name": "FİZYOTERAPİ VE REHABİLİTASYON PR. (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 66960.00,
+            "currency": "TL"
+          }
+        },
+                           {
+          "name": "HEMŞİRELİK PR. (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 66960.00,
+            "currency": "TL"
+          }
+        },
+                             {
+          "name": "ODYOLOJİ PR. (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 66960.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+                   {
+      "academic_year": "2023-2024",
+      "faculty": "SPOR BİLİMLERİ",
+      "departments": [
+        {
+          "name": "ANTRENÖRLÜK EĞİTİMİ PR. (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 66960.00,
+            "currency": "TL"
+          }
+        },
+          {
+          "name": "SPOR YÖNETİCİLİĞİ PR. (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 66960.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+                   {
+      "academic_year": "2023-2024",
+      "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "departments": [
+        {
+          "name": "AĞIZ VE DİŞ SAĞLIĞI PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 62640.00,
+            "currency": "TL"
+          }
+        },
+          {
+          "name": "AMELİYATHANE HİZMETLERİ PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 62640.00,
+            "currency": "TL"
+          }
+        },
+            {
+          "name": "ANESTEZİ PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 62640.00,
+            "currency": "TL"
+          }
+        },
+             {
+          "name": "DİŞ PROTEZ TEKNOLOJİSİ PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 62640.00,
+            "currency": "TL"
+          }
+        },
+                     {
+          "name": "DİYALİZ PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 62640.00,
+            "currency": "TL"
+          }
+        },
+                           {
+          "name": "ECZANE HİZMETLERİ PR. (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 41760.00,
+            "currency": "TL"
+          }
+        },
+                 {
+          "name": "İLK VE ACİL YARDIM PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 62640.00,
+            "currency": "TL"
+          }
+        },
+                            {
+          "name": "TIBBİ GÖRÜNTÜLEME TEKNİKLERİ PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 62640.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "TIBBİ LABORATUVAR TEKNİKLERİ PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 62640.00,
+            "currency": "TL"
+          }
+        },
+         {
+          "name": "YAŞLI BAKIMI PR. (%50 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 41760.00,
+            "currency": "TL"
+          }
+        },
+                   {
+          "name": "OPTİSYENLİK PR. (%25 İNDİRİMLİ)",
+          "annual_fee": {
+            "amount": 62640.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+      {
+      "academic_year": "2022-2023",
+      "description": "Lokman Hekim Üniversitesinde eğitim ücrete tabidir. 2022-2023 eğitim-öğretim yılı için eğitim öğretim ücretleri KDV dâhil;\nTıp Fakültesi için yıllık %25 İndirimli 116.160TL,\nTıp Fakültesi(İngilizce) için yıllık 154.880TL,\nDiş Hekimliği Fakültesi için yıllık %25 İndirimli 110.880TL,\nDiş Hekimliği Fakültesi(İngilizce) için yıllık 147.840TL,\nEczacılık Fakültesi için yıllık %25 İndirimli 87.120TL,\nEczacılık Fakültesi (İngilizce) için yıllık 116.160TL,\nSağlık Bilimleri Fakültesi programları için yıllık 74.400TL,\nSpor Bilimleri Fakültesi programları için yıllık 74.400TL,\nSağlık Hizmetleri Meslek Yüksek Okulu’nda eğitim ücreti yıllık 46.400TL’dir."
+    }
+  ],
+  "scholarships": null,
+  "dormitory_fees": null
+}

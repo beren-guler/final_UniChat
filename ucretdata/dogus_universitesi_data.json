@@ -1,0 +1,463 @@
+{
+  "university": {
+    "name": "Doğuş Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "Hukuk": {
+        "discount_50": 345650
+      },
+      "Hemşirelik": {
+        "discount_50": 420800
+      },
+      "Fen Edebiyat Fakültesi": {
+        "İletişim Bilimleri": {
+          "discount_50": 342550
+        },
+        "İngiliz Dili ve Edebiyatı": {
+          "discount_50": 409600
+        },
+        "İngilizce Mütercim ve Tercümanlık": {
+          "discount_50": 459200
+        },
+        "Psikoloji": {
+          "discount_50": 614400
+        },
+        "Psikoloji (İngilizce)": {
+          "discount_50": 614400
+        },
+        "Sosyoloji": {
+          "discount_50": 351850
+        },
+        "Türk Dili ve Edebiyatı": {
+          "discount_50": 198000
+        }
+      },
+      "İktisadi ve İdari Bilimler Fakültesi": {
+        "İktisat": {
+          "discount_50": 382400
+        },
+        "İktisat (İngilizce)": {
+          "discount_50": 382400
+        },
+        "İşletme": {
+          "discount_50": 382400
+        },
+        "İşletme (İngilizce)": {
+          "discount_50": 382400
+        },
+        "Siyaset Bilimi ve Kamu Yönetimi": {
+          "discount_50": 370450
+        },
+        "Uluslararası İlişkiler (İngilizce)": {
+          "discount_50": 381300
+        },
+        "Uluslararası Ticaret ve İşletmecilik (İngilizce)": {
+          "discount_50": 393600
+        },
+        "Yönetim Bilişim Sistemleri": {
+          "discount_50": 492800
+        }
+      },
+      "Mühendislik Fakültesi": {
+        "Bilgisayar Mühendisliği (İngilizce)": {
+          "discount_50": 564200
+        },
+        "Elektrik-Elektronik Mühendisliği": {
+          "discount_50": 306900
+        },
+        "Endüstri Mühendisliği (İngilizce)": {
+          "discount_50": 382850
+        },
+        "Endüstri Mühendisliği": {
+          "discount_50": 382850
+        },
+        "İnşaat Mühendisliği": {
+          "discount_50": 240250
+        },
+        "Makine Mühendisliği": {
+          "discount_50": 277450
+        },
+        "Makine Mühendisliği (İngilizce)": {
+          "discount_50": 277450
+        },
+        "Yazılım Mühendisliği": {
+          "discount_50": 564200
+        }
+      },
+      "Sanat ve Tasarım Fakültesi": {
+        "Dijital Oyun Tasarımı": {
+          "discount_50": 477400
+        },
+        "Endüstriyel Tasarım": {
+          "discount_50": 371200
+        },
+        "Gastronomi ve Mutfak Sanatları": {
+          "discount_50": 444850
+        },
+        "Görsel İletişim Tasarımı": {
+          "discount_50": 351850
+        },
+        "Grafik": {
+          "discount_50": 315200
+        },
+        "İç Mimarlık": {
+          "discount_50": 419200
+        },
+        "Tekstil ve Moda Tasarımı": {
+          "discount_50": 312000
+        },
+        "Oyunculuk": {
+          "discount_50": 296000
+        }
+      },
+      "Meslek Yüksekokulu": {
+        "Ağız ve Diş Sağlığı": {
+          "discount_50": 281600
+        },
+        "Anestezi": {
+          "discount_50": 275200
+        },
+        "Aşçılık": {
+          "discount_50": 275200
+        },
+        "Aşçılık (İ.Ö)": {
+          "discount_50": 275200
+        },
+        "Bankacılık ve Sigortacılık": {
+          "discount_50": 248000
+        },
+        "Bilgisayar Destekli Tasarım ve Animasyon": {
+          "discount_50": 321600
+        },
+        "Bilgisayar Programcılığı": {
+          "discount_50": 321600
+        },
+        "Bilişim Güvenliği Teknolojisi": {
+          "discount_50": 321600
+        },
+        "Çocuk Gelişimi": {
+          "discount_50": 240250
+        },
+        "Dış Ticaret": {
+          "discount_50": 251100
+        },
+        "Dış Ticaret (İngilizce)": {
+          "discount_50": 251100
+        },
+        "Eczane Hizmetleri": {
+          "discount_50": 235600
+        },
+        "Elektrik": {
+          "discount_50": 270400
+        },
+        "Elektronik Teknolojisi": {
+          "discount_50": 278400
+        },
+        "Elektronörofizyoloji": {
+          "discount_50": 229400
+        },
+        "Fizyoterapi": {
+          "discount_50": 299200
+        },
+        "Grafik Tasarımı": {
+          "discount_50": 267200
+        },
+        "Halkla ilişkiler ve Tanıtım": {
+          "discount_50": 258850
+        },
+        "İç Mekan Tasarımı": {
+          "discount_50": 261950
+        },
+        "İlk ve Acil Yardım": {
+          "discount_50": 284800
+        },
+        "İnsan Kaynakları Yönetimi": {
+          "discount_50": 241800
+        },
+        "İnşaat Teknolojisi": {
+          "discount_50": 248000
+        },
+        "İnternet ve Ağ Teknolojileri": {
+          "discount_50": 321600
+        },
+        "İş Sağlığı ve Güvenliği": {
+          "discount_50": 229400
+        },
+        "Mahkeme Büro Hizmetleri": {
+          "discount_50": 260400
+        },
+        "Makine": {
+          "discount_50": 264000
+        },
+        "Mekatronik": {
+          "discount_50": 264000
+        },
+        "Odyometri": {
+          "discount_50": 248000
+        },
+        "Otopsi Yardımcılığı": {
+          "discount_50": 260400
+        },
+        "Optisyenlik": {
+          "discount_50": 249550
+        },
+        "Patoloji Laboratuvar Teknikleri": {
+          "discount_50": 252650
+        },
+        "Sivil Havacılık Kabin Hizmetleri": {
+          "discount_50": 268800
+        },
+        "Tıbbi Görüntüleme Teknikleri": {
+          "discount_50": 288000
+        },
+        "Tıbbi Laboratuvar Teknikleri": {
+          "discount_50": 288000
+        },
+        "Tıbbi Dokümantasyon ve Sekreterlik": {
+          "discount_50": 254400
+        },
+        "Turizm ve Otel İşletmeciliği": {
+          "discount_50": 229400
+        },
+        "Web Tasarımı ve Kodlama": {
+          "discount_50": 321600
+        }
+      }
+    },
+    "2023-2024": {
+      "Hukuk Fakültesi": {
+        "discount_50": 109091
+      },
+      "Fen- Edebiyat Fakültesi": {
+        "İletişim Bilimleri": {
+          "discount_50": 103030
+        },
+        "İngiliz Dili ve Edebiyatı": {
+          "discount_50": 109091
+        },
+        "Psikoloji": {
+          "full_fee": 363636,
+          "discount_50": 181818
+        },
+        "Psikoloji (İngilizce)": {
+          "full_fee": 363636,
+          "discount_50": 181818
+        },
+        "Sosyoloji": {
+          "discount_50": 103030
+        },
+        "Türk Dili ve Edebiyatı": {
+          "discount_50": 103030
+        },
+        "İngilizce Mütercim ve Tercümanlık": {
+          "discount_50": 121212
+        }
+      },
+      "İktisadi Ve İdari Bilimler Fakültesi": {
+        "İktisat": {
+          "discount_50": 103030
+        },
+        "İktisat (İngilizce)": {
+          "discount_50": 107879
+        },
+        "İşletme": {
+          "discount_50": 103030
+        },
+        "İşletme (İngilizce)": {
+          "discount_50": 107879
+        },
+        "Siyaset Bilimi ve Kamu Yönetimi": {
+          "discount_50": 103030
+        },
+        "Uluslararası İlişkiler (İngilizce)": {
+          "discount_50": 103030
+        },
+        "Uluslararası Ticaret ve İşletmecilik (İngilizce)": {
+          "discount_50": 103030
+        },
+        "Yönetim Bilişim Sistemleri": {
+          "discount_50": 133333
+        }
+      },
+      "Mühendislik Fakültesi": {
+        "Bilgisayar Mühendisliği (İngilizce)": {
+          "discount_50": 157576
+        },
+        "Elektrik-Elektronik Mühendisliği": {
+          "discount_50": 87879
+        },
+        "Endüstri Mühendisliği": {
+          "discount_50": 115152
+        },
+        "Endüstri Mühendisliği (İngilizce)": {
+          "discount_50": 121212
+        },
+        "İnşaat Mühendisliği": {
+          "discount_50": 87879
+        },
+        "Makine Mühendisliği": {
+          "discount_50": 93333
+        },
+        "Makine Mühendisliği (İngilizce)": {
+          "discount_50": 105333
+        },
+        "Yazılım Mühendisliği": {
+          "discount_50": 157576
+        }
+      },
+      "Sanat ve Tasarım Fakültesi": {
+        "Endüstriyel Tasarım": {
+          "discount_50": 103030
+        },
+        "Gastronomi ve Mutfak Sanatları": {
+          "discount_50": 121212
+        },
+        "Görsel İletişim Tasarımı": {
+          "discount_50": 103030
+        },
+        "İç Mimarlık": {
+          "discount_50": 109091
+        },
+        "Mimarlık": {
+          "discount_50": 87879
+        },
+        "Dijital Oyun Tasarımı": {
+          "discount_50": 127273
+        },
+        "Grafik": {
+          "discount_50": 96970
+        },
+        "Grafik (İngilizce)": {
+          "discount_50": 96970
+        },
+        "Tekstil ve Moda Tasarımı": {
+          "discount_50": 90909
+        },
+        "Oyunculuk": {
+          "discount_50": 90909
+        }
+      },
+      "Meslek Yüksekokulu": {
+        "Ağız ve Diş Sağlığı": {
+          "discount_50": 76000
+        },
+        "Anestezi": {
+          "discount_50": 76000
+        },
+        "Aşçılık": {
+          "discount_50": 76000
+        },
+        "Aşçılık (İ.Ö)": {
+          "discount_50": 76000
+        },
+        "Bankacılık ve Sigortacılık": {
+          "discount_50": 76000
+        },
+        "Bilgisayar Destekli Tasarım ve Animasyon": {
+          "discount_50": 76000
+        },
+        "Bilgisayar Programcılığı": {
+          "discount_50": 76000
+        },
+        "Bilişim Güvenliği Teknolojisi": {
+          "discount_50": 76000
+        },
+        "Çocuk Gelişimi": {
+          "discount_50": 60800
+        },
+         "Dış Ticaret (İ.Ö)": {
+          "discount_50": 76000
+        },
+        "Dış Ticaret (İngilizce)": {
+          "discount_50": 76000
+        },
+        "Eczane Hizmetleri": {
+          "discount_50": 76000
+        },
+       "Elektrik": {
+          "discount_50": 76000
+        },
+        "Elektronik Teknolojisi": {
+          "discount_50": 76000
+        },
+        "Elektronörofizyoloji": {
+          "discount_50": 76000
+        },
+        "Fizyoterapi": {
+          "discount_50": 76000
+        },
+        "Grafik Tasarımı": {
+          "discount_50": 76000
+        },
+        "Halkla ilişkiler ve Tanıtım": {
+          "discount_50": 76000
+        },
+       "İç Mekan Tasarımı": {
+          "discount_50": 76000
+        },
+        "İlk ve Acil Yardım": {
+          "discount_50": 76000
+        },
+        "İnsan Kaynakları Yönetimi": {
+          "discount_50": 76000
+        },
+        "İnşaat Teknolojisi": {
+          "discount_50": 76000
+        },
+         "İnternet ve Ağ Teknolojileri": {
+          "discount_50": 76000
+        },
+        "İş Sağlığı ve Güvenliği": {
+          "discount_50": 76000
+        },
+        "Mahkeme Büro Hizmetleri": {
+          "discount_50": 76000
+        },
+       "Makine": {
+          "discount_50": 76000
+        },
+        "Mekatronik": {
+          "discount_50": 76000
+        },
+         "Odyometri": {
+          "discount_50": 76000
+        },
+       "Otopsi Yardımcılığı": {
+          "discount_50": 76000
+        },
+       "Optisyenlik": {
+          "discount_50": 76000
+        },
+        "Patoloji Laboratuvar Teknikleri": {
+          "discount_50": 76000
+        },
+       "Sivil Havacılık Kabin Hizmetleri": {
+          "discount_50": 76000
+        },
+      "Sosyal Hizmetler": {
+          "discount_50": 76000
+        },
+      "Tıbbi Görüntüleme Teknikleri": {
+          "discount_50": 76000
+        },
+      "Tıbbi Laboratuvar Teknikleri": {
+          "discount_50": 76000
+        },
+      "Tıbbi Dokümantasyon ve Sekreterlik": {
+          "discount_50": 76000
+        },
+       "Turizm ve Otel İşletmeciliği": {
+          "discount_50": 76000
+        },
+      "Web Tasarımı ve Kodlama": {
+          "discount_50": 76000
+        }
+      }
+    }
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

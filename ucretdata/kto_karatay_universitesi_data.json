@@ -1,0 +1,1057 @@
+{
+  "university": {
+    "name": "KTO Karatay Üniversitesi",
+    "url": "aday.karatay.edu.tr",
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025",
+      "faculty": "Tıp Fakültesi",
+      "departments": [
+        {
+          "name": "Tıp Fakültesi (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Tıp Fakültesi (Ücretli)",
+          "annual_fee": {
+            "amount": 760000,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025",
+      "faculty": "Hukuk Fakültesi",
+      "departments": [
+        {
+          "name": "Hukuk Fakültesi (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Hukuk Fakültesi (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 265000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Hukuk Fakültesi (Ücretli)",
+          "annual_fee": {
+            "amount": 530000,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025",
+      "faculty": "Uygulamalı Bilimler Yüksekokulu",
+      "departments": [
+        {
+          "name": "Pilotaj (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Pilotaj (Ücretli)",
+          "annual_fee": {
+            "amount": 660000,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025",
+      "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Bilgisayar Mühendisliği (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Bilgisayar Mühendisliği (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 240000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Bilgisayar Mühendisliği (Ücretli)",
+          "annual_fee": {
+            "amount": 480000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Elektrik- Elektronik Mühendisliği (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Elektrik- Elektronik Mühendisliği (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 215000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Elektrik- Elektronik Mühendisliği (Ücretli)",
+          "annual_fee": {
+            "amount": 430000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İnşaat Mühendisliği (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+                {
+          "name": "İnşaat Mühendisliği (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 240000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Mekatronik Mühendisliği (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Mekatronik Mühendisliği (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 240000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Makine Mühendisliği (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Makine Mühendisliği (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 240000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 208000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği (Ücretli)",
+          "annual_fee": {
+            "amount": 416000,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025",
+      "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "İşletme (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İşletme (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 256000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Enerji Yönetimi (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Enerji Yönetimi (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 202500,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Enerji Yönetimi (Ücretli)",
+          "annual_fee": {
+            "amount": 405000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Sigortacılık ve Sosyal Güvenlik (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Sigortacılık ve Sosyal Güvenlik (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 202500,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Sigortacılık ve Sosyal Güvenlik (Ücretli)",
+          "annual_fee": {
+            "amount": 405000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İslam İktisadı ve Finans (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İslam İktisadı ve Finans (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 196500,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret ve Lojistik (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret ve Lojistik (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 202500,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret ve Lojistik (Ücretli)",
+          "annual_fee": {
+            "amount": 405000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret ve Lojistik (İngilizce) (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret ve Lojistik (İngilizce) (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 232000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret ve Lojistik (İngilizce) (Ücretli)",
+          "annual_fee": {
+            "amount": 464000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İngilizce Mütercim Tercümanlık (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İngilizce Mütercim Tercümanlık (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 223000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İngilizce Mütercim Tercümanlık (Ücretli)",
+          "annual_fee": {
+            "amount": 446000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Arapça Mütercim ve Tercümanlık (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Arapça Mütercim ve Tercümanlık (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 197000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İletişim ve Tasarımı (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İletişim ve Tasarımı (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 225000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İletişim ve Tasarımı (Ücretli)",
+          "annual_fee": {
+            "amount": 450000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Sosyal Hizmet (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Sosyal Hizmet (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 202500,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Sosyal Hizmet (Ücretli)",
+          "annual_fee": {
+            "amount": 405000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Psikoloji (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Psikoloji (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 232000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Psikoloji (Ücretli)",
+          "annual_fee": {
+            "amount": 464000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Sosyoloji (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Sosyoloji (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 196500,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Tarih (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Tarih (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 202500,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025",
+      "faculty": "Güzel Sanatlar ve Tasarım Fakültesi",
+      "departments": [
+        {
+          "name": "Mimarlık (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Mimarlık (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 225000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İç Mimarlık (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İç Mimarlık (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 231000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İç Mimarlık (Ücretlİ)",
+          "annual_fee": {
+            "amount": 462000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Grafik Tasarımı (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Grafik Tasarımı (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 231000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Grafik Tasarımı (Ücretli)",
+          "annual_fee": {
+            "amount": 462000,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025",
+      "faculty": "Sağlık Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Beslenme ve Diyetetik (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Beslenme ve Diyetetik (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 203000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Beslenme ve Diyetetik (Ücretli)",
+          "annual_fee": {
+            "amount": 406000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Çocuk Gelişimi (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Çocuk Gelişimi (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 203000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Çocuk Gelişimi (Ücretli)",
+          "annual_fee": {
+            "amount": 406000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Odyoloji (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Odyoloji (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 203000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Odyoloji (Ücretli)",
+          "annual_fee": {
+            "amount": 406000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Hemşirelik (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Hemşirelik (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 203000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Hemşirelik (Ücretli)",
+          "annual_fee": {
+            "amount": 406000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Fizyoterapi ve Rehabilitasyon (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Fizyoterapi ve Rehabilitasyon (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 203000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Fizyoterapi ve Rehabilitasyon (Ücretli)",
+          "annual_fee": {
+            "amount": 406000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Ebelik (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Ebelik (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 203000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Ebelik (Ücretli)",
+          "annual_fee": {
+            "amount": 406000,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025",
+      "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Çocuk Gelişimi (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Çocuk Gelişimi (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 153000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Çocuk Gelişimi (Ücretli)",
+          "annual_fee": {
+            "amount": 306000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Fizyoterapi (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Fizyoterapi (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 153000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Fizyoterapi (Ücretli)",
+          "annual_fee": {
+            "amount": 306000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Diyaliz (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Diyaliz (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 153000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Diyaliz (Ücretli)",
+          "annual_fee": {
+            "amount": 306000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İlk ve Acil Yardım (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İlk ve Acil Yardım (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 153000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İlk ve Acil Yardım (Ücretli)",
+          "annual_fee": {
+            "amount": 306000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 153000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri (Ücretli)",
+          "annual_fee": {
+            "amount": 306000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Anestezi (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Anestezi (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 153000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Anestezi (Ücretli)",
+          "annual_fee": {
+            "amount": 306000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Optisyenlik (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Optisyenlik (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 153000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Optisyenlik (Ücretli)",
+          "annual_fee": {
+            "amount": 306000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Ameliyathane Hizmetleri (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Ameliyathane Hizmetleri (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 153000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Ameliyathane Hizmetleri (Ücretli)",
+          "annual_fee": {
+            "amount": 306000,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025",
+      "faculty": "Karatay Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Mahkeme Büro Hizmetleri (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Mahkeme Büro Hizmetleri (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 153000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Mahkeme Büro Hizmetleri (Ücretli)",
+          "annual_fee": {
+            "amount": 306000,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025",
+      "faculty": "Ticaret ve Sanayi Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Dış Ticaret (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Dış Ticaret (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 140000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Dış Ticaret (Ücretli)",
+          "annual_fee": {
+            "amount": 280000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Mekatronik (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Mekatronik (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 140000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Mekatronik (Ücretli)",
+          "annual_fee": {
+            "amount": 280000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Bilgisayar Programcılığı (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Bilgisayar Programcılığı (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 140000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Bilgisayar Programcılığı (Ücretli)",
+          "annual_fee": {
+            "amount": 280000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Sivil Havacılık Kabin Hizmetleri (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Sivil Havacılık Kabin Hizmetleri (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 140000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Sivil Havacılık Kabin Hizmetleri (Ücretli)",
+          "annual_fee": {
+            "amount": 280000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İmalat Yürütme Sistemleri Operatörlüğü (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İmalat Yürütme Sistemleri Operatörlüğü (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 140000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "İmalat Yürütme Sistemleri Operatörlüğü (Ücretli)",
+          "annual_fee": {
+            "amount": 280000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Silah Sanayi Teknikerliği (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Silah Sanayi Teknikerliği (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 140000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Silah Sanayi Teknikerliği (Ücretli)",
+          "annual_fee": {
+            "amount": 280000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "E-Ticaret ve Pazarlama (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "E-Ticaret ve Pazarlama (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 140000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "E-Ticaret ve Pazarlama (Ücretli)",
+          "annual_fee": {
+            "amount": 280000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Bilişim Güvenliği Teknolojisi (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Tıp Fakültesi",
+      "departments": [
+        {
+          "name": "Tıp Fakültesi (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Tıp Fakültesi (Ücretli)",
+          "annual_fee": {
+            "amount": 460000,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Hukuk Fakültesi",
+      "departments": [
+        {
+          "name": "Hukuk Fakültesi (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Hukuk Fakültesi (%50 İndirimli)",
+          "annual_fee": {
+            "amount": 165000,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Hukuk Fakültesi (Ücretli)",
+          "annual_fee": {
+            "amount": 330000,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Uygulamalı Bilimler Yüksekokulu",
+      "departments": [
+        {
+          "name": "Pilotaj (Burslu)",
+          "annual_fee": {
+            "amount": 0,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Pilotaj (Ücretli)",
+          "annual_fee": {
+            "amount": 400000,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name":

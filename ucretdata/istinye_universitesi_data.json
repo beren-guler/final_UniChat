@@ -1,0 +1,473 @@
+{
+  "university": {
+    "name": "İstanbul İstinye Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "İngilizce Hazırlık Programları",
+        "full_fee": null,
+        "currency": "TL"
+      },
+      {
+        "name": "İletişim Fakültesi Programları",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Elektrik-Elektronik Mühendisliği (Mühendislik ve Doğa Bilimleri Fakültesi)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Endüstri Mühendisliği (Mühendislik ve Doğa Bilimleri Fakültesi)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilişim Sistemleri Mühendisliği (Mühendislik ve Doğa Bilimleri Fakültesi)",
+        "full_fee": 760000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Bilgisayar Mühendisliği (Mühendislik ve Doğa Bilimleri Fakültesi)",
+        "full_fee": 840000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilgisayar Mühendisliği (İngilizce) (Mühendislik ve Doğa Bilimleri Fakültesi)",
+        "full_fee": 800000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Yazılım Mühendisliği (Mühendislik ve Doğa Bilimleri Fakültesi)",
+        "full_fee": 840000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Dijital Oyun Tasarımı (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)",
+        "full_fee": 760000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Çizgi Film Ve Animasyon (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Grafik Tasarımı (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Gastronomi Ve Mutfak Sanatları (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)",
+        "full_fee": 850000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Müzik (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+          {
+        "name": "Resim (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+          {
+        "name": "Tekstil Ve Moda Tasarımı (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tiyatro (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İç Mimarlık Ve Çevre Tasarımı (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)",
+        "full_fee": 1000000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mimarlık (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Ekonomi (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Siyaset Bilimi Ve Uluslararası İlişkiler (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tarih (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Havacılık Yönetimi (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 720000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İşletme (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 720000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Uluslararası Ticaret Ve İşletmecilik (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 720000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Veri Bilimi Ve Analitiği (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 720000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Yönetim Bilişim Sistemleri (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 1000000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Yönetim Bilişim Sistemleri (İngilizce) (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 900000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Bankacılık ve Sigortacılık (İnsan ve Toplum Bilimleri Fakültesi)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Psikoloji (İnsan ve Toplum Bilimleri Fakültesi)",
+        "full_fee": 1300000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Psikoloji (İngilizce) (İnsan ve Toplum Bilimleri Fakültesi)",
+        "full_fee": 1200000.00,
+        "currency": "TL"
+      },
+          {
+        "name": "Felsefe (İnsan ve Toplum Bilimleri Fakültesi)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "İngiliz Dili Ve Edebiyatı (İnsan ve Toplum Bilimleri Fakültesi)",
+        "full_fee": 700000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "İngilizce Mütercim Ve Tercümanlık (İnsan ve Toplum Bilimleri Fakültesi)",
+        "full_fee": 700000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Ergoterapi (Sağlık Bilimleri Fakültesi)",
+        "full_fee": 700000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Hemşirelik (Sağlık Bilimleri Fakültesi)",
+        "full_fee": 1000000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Ebelik (Sağlık Bilimleri Fakültesi)",
+        "full_fee": 800000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Spor Yöneticiliği (Spor Bilimleri Fakültesi)",
+        "full_fee": 720000.00,
+        "currency": "TL"
+      },
+          {
+        "name": "Antrenörlük Eğitimi (Spor Bilimleri Fakültesi)",
+        "full_fee": 800000.00,
+        "currency": "TL"
+      },
+           {
+        "name": "Rekreasyon (Spor Bilimleri Fakültesi)",
+        "full_fee": 800000.00,
+        "currency": "TL"
+      },
+             {
+        "name": "Bilgisayar Programcılığı (Plato Meslek Yüksekokulu)",
+        "full_fee": 760000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "E-Ticaret Ve Pazarlama (Plato Meslek Yüksekokulu)",
+        "full_fee": 500000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Siber Güvenlik (Plato Meslek Yüksekokulu)",
+        "full_fee": 500000.00,
+        "currency": "TL"
+      },
+           {
+        "name": "Yeşil Ve Ekolojik Bina Teknikerliği (Plato Meslek Yüksekokulu)",
+        "full_fee": 500000.00,
+        "currency": "TL"
+      },
+           {
+        "name": "Aşçılık (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilgisayar Destekli Tasarım Ve Animasyon (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Bilgisayar Teknolojisi (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+          {
+        "name": "Elektrik (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+           {
+        "name": "Grafik Tasarmı (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+            {
+        "name": "Harita Ve Kadastro (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+           {
+        "name": "İç Mekan Tasarımı (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+          {
+        "name": "İnternet Ve Ağ Teknolojileri (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+          {
+        "name": "Mimari Restorasyon (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mobil Teknolojileri (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Moda Tasarımı (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Otomotiv Teknolojisi (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sivil Hava Ulaştırma İşletmeciliği (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Turist Rehberliği (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Sivil Havacılık Kabin Hizmetleri (Plato Meslek Yüksekokulu)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Uçak Teknolojisi (Plato Meslek Yüksekokulu)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Web Tasarımı Ve Kodlama (Plato Meslek Yüksekokulu)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Çocuk Gelişimi (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Eczane Hizmetleri (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Odyometri (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Optisyenlik (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tele-Sağlık Teknikerliği (Plato Meslek Yüksekokulu)",
+        "full_fee": 500000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Patoloji Laboratuvar Teknikleri (Plato Meslek Yüksekokulu)",
+        "full_fee": 500000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tıbbi Veri İşleme Teknikerliği (Plato Meslek Yüksekokulu)",
+        "full_fee": 500000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Yaşlı Bakımı (Plato Meslek Yüksekokulu)",
+        "full_fee": 500000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Tıbbi Dokümantasyon Ve Sekreterlik (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Diş Protez Teknolojisi (Plato Meslek Yüksekokulu)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Fizyoterapi (Plato Meslek Yüksekokulu)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Tıbbi Görüntüleme Teknikleri (Plato Meslek Yüksekokulu)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Tıbbi Laboratuvar Teknikleri (Plato Meslek Yüksekokulu)",
+        "full_fee": 600000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Ağız Ve Diş Sağlığı (Plato Meslek Yüksekokulu)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Ameliyathane Hizmetleri (Plato Meslek Yüksekokulu)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+          {
+        "name": "Anestezi (Plato Meslek Yüksekokulu)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+     {
+        "name": "İlk Ve Acil Yardım (Plato Meslek Yüksekokulu)",
+        "full_fee": 760000.00,
+        "currency": "TL"
+      }
+    ]
+  },
+"tuition_fees_2024_2025_details":{
+"description":"İstanbul Topkapı Üniversitesi bir Vakıf Yükseköğretim Kurumu olup eğitim ücrete tabidir.",
+"note":"*Bilinçli Tercih Burslu Ücret"
+},
+   "tuition_fees_2023_2024": {
+   "notes": "İlgili veri bulunmamaktadır.",
+"note": "İstanbul Topkapı Üniversitesi bir Vakıf Yükseköğretim Kurumu olup eğitim ücrete tabidir."
+ },
+  "tuition_fees_2022_2023": {
+   "description": "İstanbul Topkapı Üniversitesi’nin ismi İstanbul Topkapı Üniversitesi olarak değişmiştir. Tercih yapacak öğrencilerimiz buna dikkate alarak yapması tavsiye edilir. İstanbul Topkapı Üniversitesi bir Vakıf Yükseköğretim Kurumu olup eğitim ücrete tabidir.",
+"programs": [
+       {
+           "name": "Psikoloji (Türkçe/İngilizce)",
+           "full_fee": 60000,
+           "currency": "TL"
+         },
+          {
+           "name": "Gastronomi ve Mutfak Sanatları, İç Mimarlık ve Çevre Tasarımı",
+           "full_fee": 50000,
+           "currency": "TL"
+         },
+           {
+           "name": "İlk ve Acil Yardım, İlk ve Acil Yardım (İkinci Öğretim)",
+           "full_fee": 36000,
+           "currency": "TL"
+         },
+          {
+           "name": "Bilgisayar Mühendisliği (Türkçe/İngilizce), Dijital Oyun Tasarımı, İngiliz Dili ve Edebiyatı (İngilizce),Yazılım Mühendisliği, Yönetim Bilişim Sistemleri (Türkçe/İngilizce)",
+           "full_fee": 35000,
+           "currency": "TL"
+         },
+         {
+           "name": "Ameliyathane Hizmetleri, Anestezi, Fizyoterapi, Tıbbi Görüntüleme Teknikleri",
+           "full_fee": 34000,
+           "currency": "TL"
+         },
+         {
+           "name": "Bilgisayar Destekli Tasarım ve Animasyon, Bilgisayar Programcılığı, Ekonomi (Türkçe/İngilizce), Elektrik-Elektronik Mühendisliği, Görsel İletişim Tasarımı, Halkla İlişkiler ve Reklamcılık, Havacılık Yönetimi, İşletme, İşletme (İngilizce), Radyo,Televizyon ve Sinema, Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce), Tarih, Tıbbi Görüntüleme Teknikleri (İkinci Öğretim),Uluslararası Ticaret ve İşletmecilik (Türkçe/İngilizce), Yeni Medya ve İletişim",
+           "full_fee": 32000,
+           "currency": "TL"
+         },
+         {
+           "name": "Adalet, Ağız ve Diş Sağlığı, Antrenörlük Eğitimi (Özel Yetenek), Aşçılık, Bilgisayar Destekli Tasarım ve Animasyon (İkinci Öğretim), Bilgisayar Programcılığı (İkinci Öğretim), Çizgi Film ve Animasyon (Özel Yetenek), Diş Protez Teknolojisi, Grafik Tasarımı (Özel Yetenek), Harita ve Kadastro, İç Mekan Tasarımı, İnternet ve Ağ Teknolojileri, Mimari Restorasyon, Moda Tasarımı, Odyometri, Optisyenlik, Sivil Hava Ulaştırma İşletmeciliği, Sivil Havacılık Kabin Hizmetleri, Tıbbi Dokümantasyon ve Sekreterlik, Tıbbi Laboratuvar Teknikleri, Tiyatro (Özel Yetenek), Uçak Teknolojisi",
+           "full_fee": 30000,
+           "currency": "TL"
+         },
+      {
+           "name": "Adalet (İkinci Öğretim), Ağız ve Diş Sağlığı (İkinci Öğretim), Aşçılık (İkinci Öğretim), Bilgisayar Destekli Tasarım ve Animasyon (Uzaktan Öğretim), Bilgisayar Programcılığı (Uzaktan öğretim), Çocuk Gelişimi, Eczane Hizmetleri, Grafik Tasarımı, Harita ve Kadastro (İkinci Öğretim), İç Mekan Tasarımı (İkinci Öğretim), İnternet ve Ağ Teknolojileri (İkinci Öğretim), Mimari Restorasyon (İkinci öğretim), Moda Tasarımı, Odyometri, Optisyenlik, Sivil Hava Ulaştırma İşletmeciliği (İkinci öğretim), Sivil Havacılık Kabin Hizmetleri (İkinci Öğretim) ve Tıbbi Dokümantasyon ve Sekreterlik (İkinci öğretim)",
+           "full_fee": 28000,
+           "currency": "TL"
+         },
+          {
+           "name": "Çocuk Gelişimi (İkinci Öğretim), Elektrik, Grafik Tasarımı (İngilizce), Mimari Restorasyon (İkinci Öğretim), Moda Tasarımı (İkinci Öğretim), Sivil Hava Ulaştırma İşletmeciliği (İkinci Öğretim), Tıbbi Dokümantasyon ve Sekreterlik (İkinci Öğretim)",
+           "full_fee": 26000,
+           "currency": "TL"
+         },
+          {
+           "name": "Turist Rehberliği (Uzaktan Eğitim)",
+           "full_fee": 20000,
+           "currency": "TL"
+         },
+      {
+           "name": "Bilgisayar Destekli Tasarım ve Animasyon (Uzaktan Eğitim), Bilgisayar Programcılığı (Uzaktan Eğitim), Grafik Tasarımı (Uzaktan Eğitim), İnternet ve Ağ Teknolojileri (Uzaktan Eğitim)",
+           "full_fee": 12000,
+           "currency": "TL"
+         },
+           {
+           "name": "Aşçılık (Uzaktan Eğitim), Çocuk Gelişimi (Uzaktan Eğitim), Eczane Hizmetleri (Uzaktan Eğitim), Moda Tasarımı (Uzaktan Eğitim)",
+           "full_fee": 10000,
+           "currency": "TL"
+         }
+      ],
+   },
+ "note_2024_2025": {
+        "ek_bilgi": "Tüm bu ücretlerde KDV dahildir. Fiyatlar peşin fiyatlardır. Taksitli ödemelerde bölüm ücretlerine %15 vade farkı uygulanmaktadır. Taksit sayısı 8’dir. Diğer ayrıntılı bilgiler Üniversitenin internet sayfasından (www.istinye.edu.tr) adaylara duyurulacaktır."
+}
+}

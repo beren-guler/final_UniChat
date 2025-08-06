@@ -1,0 +1,488 @@
+{
+  "university": {
+    "name": "İstanbul Galata Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": [
+      {
+        "faculty": "Diş Hekimliği Fakültesi",
+        "programs": [
+          {
+            "program": "Diş Hekimliği",
+            "full_fee": 1160095,
+            "discounted_fee": 390000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Diş Hekimliği İngilizce",
+            "full_fee": 660000,
+            "discounted_fee": 330000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "Sanat ve Sosyal Bilimler Fakültesi",
+        "programs": [
+          {
+            "program": "Yönetim Bilişim Sistemleri",
+            "full_fee": 712500,
+            "discounted_fee": 356250,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Psikoloji",
+            "full_fee": 981620,
+            "discounted_fee": 490810,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Psikoloji İngilizce",
+            "full_fee": 981620,
+            "discounted_fee": 490810,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Gastronomi ve Mutfak Sanatları",
+            "full_fee": 605000,
+            "discounted_fee": 302500,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İletişim ve Tasarımı",
+            "full_fee": 450000,
+            "discounted_fee": 225000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İşletme",
+            "full_fee": 450000,
+            "discounted_fee": 225000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İşletme (İngilizce)",
+            "full_fee": 450000,
+            "discounted_fee": 225000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+           {
+            "program": "Halkla İlişkiler ve Reklamcılık",
+            "full_fee": 450000,
+            "discounted_fee": 225000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İç Mimarlık ve Çevre Tasarımı",
+            "full_fee": 847760,
+            "discounted_fee": 423880,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İç Mimarlık ve Çevre Tasarımı İngilizce",
+            "full_fee": 847760,
+            "discounted_fee": 423880,
+            "currency": "TL",
+            "discount": "50%"
+          },
+             {
+            "program": "Lojistik Yönetimi",
+            "full_fee": 656100,
+            "discounted_fee": 328050,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "İngiliz Dili ve Edebiyatı",
+            "full_fee": 720000,
+            "discounted_fee": 360000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "Mühendislik Fakültesi",
+        "programs": [
+          {
+            "program": "Bilgisayar Mühendisliği",
+            "full_fee": 650000,
+            "discounted_fee": 325000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+           {
+            "program": "Veri Bilimi ve Analitiği",
+            "full_fee": 650000,
+            "discounted_fee": 325000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+       {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "programs": [
+          {
+            "program": "Beslenme ve Diyetetik",
+            "full_fee": 847760,
+            "discounted_fee": 423880,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Fizyoterapi ve Rehabilitasyon",
+            "full_fee": 847760,
+            "discounted_fee": 370500,
+            "currency": "TL",
+            "discount": "50%"
+          },
+           {
+            "program": "Hemşirelik",
+            "full_fee": 847760,
+            "discounted_fee": 423880,
+            "currency": "TL",
+            "discount": "50%"
+          },
+               {
+            "program": "Sosyal Hizmet",
+            "discounted_fee": 321500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+          "faculty": "Spor Bilimleri Fakültesi",
+        "programs": [
+                   {
+            "program": "Antrenörlük Eğitimi",
+                "discounted_fee": 211940,
+                 "currency": "TL",
+             "discount": "50%"
+           }
+         ]
+      },
+      {
+           "faculty": "Meslek Yüksekokulu",
+           "programs": [
+                {
+                 "program": "Ağız ve Diş Sağlığı",
+                  "full_fee": 487500,
+                   "currency": "TL",
+                    "status": "Ücretli"
+                  },
+             {
+           "program": "Ağız ve Diş Sağlığı",
+            "discounted_fee": 243750,
+              "currency": "TL",
+               "discount": "50%"
+            },
+                 {
+           "program": "Anestezi",
+                "full_fee": 487500,
+                  "currency": "TL",
+                   "status": "Ücretli"
+              },
+           {
+            "program": "Anestezi",
+            "discounted_fee": 243750,
+              "currency": "TL",
+               "discount": "50%"
+            },
+                      {
+            "program": "İlk ve Acil Yardım",
+               "full_fee": 487500,
+                  "currency": "TL",
+                   "status": "Ücretli"
+             },
+                  {
+            "program": "İlk ve Acil Yardım",
+               "discounted_fee": 243750,
+                 "currency": "TL",
+                   "discount": "50%"
+            },
+                        {
+            "program": "Tıbbi Görüntüleme Teknikleri",
+               "full_fee": 487500,
+                   "currency": "TL",
+                    "status": "Ücretli"
+              },
+                  {
+            "program": "Tıbbi Görüntüleme Teknikleri",
+               "discounted_fee": 243750,
+                 "currency": "TL",
+                   "discount": "50%"
+              },
+                  {
+            "program": "Fizyoterapi",
+                "full_fee": 487500,
+                  "currency": "TL",
+                   "status": "Ücretli"
+                 },
+                  {
+                   "program": "Fizyoterapi",
+                     "discounted_fee": 243750,
+                      "currency": "TL",
+                  "discount": "50%"
+                  },
+                  {
+                    "program": "Aşçılık",
+                      "full_fee": 487500,
+                     "currency": "TL",
+                   "status": "Ücretli"
+                    },
+                  {
+              "program": "Aşçılık",
+               "discounted_fee": 243750,
+                 "currency": "TL",
+                  "discount": "50%"
+              },
+               {
+                      "program": "Eczane Hizmetleri",
+                      "full_fee": 487500,
+                    "currency": "TL",
+                       "status": "Ücretli"
+                 },
+                 {
+                  "program": "Eczane Hizmetleri",
+                     "discounted_fee": 243750,
+                    "currency": "TL",
+                     "discount": "50%"
+                 },
+                   {
+                "program": "Dış Ticaret",
+                     "full_fee": 487500,
+                     "currency": "TL",
+                       "status": "Ücretli"
+                  },
+                         {
+                "program": "Dijital Dönüşüm Elektroniği",
+                  "full_fee": 487500,
+                    "currency": "TL",
+                       "status": "Ücretli"
+                  },
+            {
+             "program": "E- Ticaret ve Pazarlama",
+                   "full_fee": 487500,
+                     "currency": "TL",
+                       "status": "Ücretli"
+                },
+                               {
+               "program": "Oyun Geliştirme ve Programlama",
+                     "full_fee": 487500,
+                       "currency": "TL",
+                     "status": "Ücretli"
+                               },
+                     {
+                     "program": "Ön Yüz Yazılım Geliştirme",
+                   "full_fee": 487500,
+                        "currency": "TL",
+                      "status": "Ücretli"
+                   },
+                                        {
+                  "program": "Tıbbi Veri İşleme Teknikerliği",
+                      "full_fee": 487500,
+                       "currency": "TL",
+                     "status": "Ücretli"
+              }
+       ]
+       }
+    ],
+      "taksitli_odeme_kosulu": "• Taksitli ödemelerde toplam tutarın %15’i peşinat olarak tahsil edilir.",
+           "odeme_aciklama": "• Bankaların eğitim harcamalarına özel kampanyaları için muhasebe@galata.edu.tr adresinden Mali İşler birimimiz iletişime geçiniz.",
+             "kredi_karti_tek_cekimi": "• Kredi kartı tek çekimlerinde banka kampanyaları dahilinde taksitlendirme yapılabilir."
+  },
+  "tuition_fees_2024_2025": {
+        "faculty": "Diş Hekimliği Fakültesi",
+        "programs": [
+          {
+            "program": "Diş Hekimliği",
+            "full_fee": 780000,
+           
+            "currency": "TL",
+            "discounted_fee": 390000
+          },
+          {
+            "program": "Diş Hekimliği İngilizce",
+            "full_fee": 660000,
+            "currency": "TL",
+            "discounted_fee": 330000,
+         "discount": "50%"
+          }
+             ]
+            },
+       {
+         "faculty": "Sanat ve Sosyal Bilimler Fakültesi",
+        "programs": [
+                   {
+            "program": "Yönetim Bilişim Sistemleri (egitim.net.tr)",
+             "full_fee": 570000,
+            "currency": "TL",
+             "discounted_fee": 285000,
+          "discount": "50%"
+         },
+                  {
+            "program": "Psikoloji (Türkçe) ve Psikoloji (İngilizce)",
+            "full_fee": 660000,
+               "currency": "TL",
+              "discounted_fee": 330000,
+                 "discount": "50%"
+           },
+       {
+              "program": "Gastronomi ve Mutfak Sanatları",
+              "full_fee": null,
+                 "currency": "TL",
+                "discounted_fee": null,
+                 "discount": "50%"
+           },
+                        {
+             "program": "İletişim ve Tasarımı",
+              "full_fee": null,
+              "discount": null,
+              "currency": "TL",
+            "discounted_fee": 225000
+           },
+                        {
+               "program": "İşletme",
+             "full_fee": null,
+              "discount": null,
+                "currency": "TL",
+             "discounted_fee": 225000
+           },
+                       {
+               "program": "Halkla İlişkiler ve Reklamcılık",
+               "full_fee": null,
+                "discount": null,
+                 "currency": "TL",
+              "discounted_fee": 187500
+            },
+                     {
+          "program": "İç Mimarlık ve Çevre Tasarımı (Türkçe) ve İç Mimarlık ve Çevre Tasarımı (İngilizce)",
+          "full_fee": null,
+            "currency": "TL",
+            "discounted_fee": null,
+             "discount": "50%"
+           }
+               ]
+            },
+            {
+                 "faculty": "Mühendislik Fakültesi",
+                       "program": [
+                             {
+                     "program": "Bilgisayar Mühendisliği",
+             "full_fee": null,
+             "currency": "TL",
+              "discounted_fee": null,
+           "discount": "50%"
+              }
+               ]
+            },
+            {
+                  "faculty": "Sağlık Bilimleri Fakültesi",
+                         "program": [
+                                  {
+                     "program": "Beslenme ve Diyetetik",
+                     "full_fee": null,
+                         "currency": "TL",
+                   "discounted_fee": null,
+                       "discount": "50%"
+                   },
+                              {
+                  "program": "Fizyoterapi ve Rehabilitasyon",
+                 "full_fee": null,
+                      "currency": "TL",
+                   "discounted_fee": null,
+                      "discount": "50%"
+                  },
+                             {
+                   "program": "Hemşirelik",
+               "full_fee": null,
+                      "currency": "TL",
+                    "discounted_fee": null,
+                        "discount": "50%"
+                    }
+         ]
+          },
+          {
+                         "faculty": "Spor Bilimleri Fakültesi",
+                                 "program": [
+                           {
+            "program": "Antrenörlük Eğitimi",
+                "discounted_fee": null,
+                 "currency": "TL",
+             "discount": "50%"
+           }
+         ]
+      },
+       {
+                   "faculty": "Meslek Yüksekokulu",
+                         "program": [
+                       {
+            "program": "Ağız ve Diş Sağlığı",
+                "full_fee": null,
+                  "currency": "TL",
+                   "discounted_fee": null
+            },
+                {
+                       "program": "Anestezi",
+                          "full_fee": null,
+                 "currency": "TL",
+                "discounted_fee": null
+             },
+             {
+                    "program": "İlk ve Acil Yardım",
+                    "full_fee": null,
+                     "currency": "TL",
+                   "discounted_fee": null
+               },
+               {
+                 "program": "Tıbbi Görüntüleme Teknikleri",
+                     "full_fee": null,
+                 "currency": "TL",
+                   "discounted_fee": null
+          },
+                   {
+                    "program": "Fizyoterapi",
+                        "full_fee": null,
+                 "currency": "TL",
+                    "discounted_fee": null
+                },
+                                    {
+                    "program": "Aşçılık",
+                     "full_fee": null,
+                         "currency": "TL",
+                       "discounted_fee": null
+                    },
+          {
+                   "program": "Eczane Hizmetleri",
+                    "full_fee": null,
+                       "currency": "TL",
+                     "discounted_fee": null
+           },
+                    {
+                 "program": "Dış Ticaret",
+                      "full_fee": null,
+                        "currency": "TL",
+                   "discounted_fee": null
+                 }
+          ]
+}
+  ],
+  "scholarships": null,
+  "dormitory_fees": null
+}

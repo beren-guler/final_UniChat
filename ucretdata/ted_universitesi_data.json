@@ -1,0 +1,216 @@
+{
+  "university": {
+    "name": "TED Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "TED Üniversitesinde eğitim ve öğretim ücretlidir.2025-2026 akademik yılında tüm programlar için ücretler;"
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Eğitim Fakültesi",
+      "departments": [
+        {
+          "name": "İngilizce Öğretmenliği",
+          "annual_fee": {
+            "amount": 820000,
+            "currency": "TL",
+            "description": "Ücretli"
+          },
+          "discounted_annual_fee": {
+            "amount": 410000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        },
+        {
+          "name": "Okul Öncesi Öğretmenliği",
+          "discounted_annual_fee": {
+            "amount": 410000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        },
+        {
+          "name": "Rehberlik ve Psikolojik Danışmanlık",
+          "discounted_annual_fee": {
+            "amount": 410000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        },
+        {
+          "name": "Sınıf Öğretmenliği",
+          "discounted_annual_fee": {
+            "amount": 410000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Fen-Edebiyat Fakültesi",
+      "departments": [
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 920000,
+            "currency": "TL",
+            "description": "Ücretli"
+          },
+          "discounted_annual_fee": {
+            "amount": 460000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        },
+        {
+          "name": "İngiliz Dili ve Edebiyatı",
+          "annual_fee": {
+            "amount": 920000,
+            "currency": "TL",
+            "description": "Ücretli"
+          },
+          "discounted_annual_fee": {
+            "amount": 460000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        },
+        {
+          "name": "Matematik",
+          "discounted_annual_fee": {
+            "amount": 460000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        },
+        {
+          "name": "Sosyoloji",
+          "discounted_annual_fee": {
+            "amount": 460000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Mimarlık ve Tasarım Fakültesi",
+      "departments": [
+        {
+          "name": "Mimarlık",
+          "discounted_annual_fee": {
+            "amount": 460000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        },
+        {
+          "name": "Görsel İletişim Tasarımı",
+          "discounted_annual_fee": {
+            "amount": 460000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        },
+        {
+          "name": "İç Mimarlık ve Çevre Tasarımı",
+          "discounted_annual_fee": {
+            "amount": 690000,
+            "currency": "TL",
+            "discount": "25% Burs"
+          }
+        },
+        {
+          "name": "Şehir ve Bölge Planlama",
+          "discounted_annual_fee": {
+            "amount": 460000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        },
+        {
+          "name": "Endüstriyel Tasarım",
+          "annual_fee": {
+            "amount": 920000,
+            "currency": "TL",
+            "description": "Ücretli"
+          },
+          "discounted_annual_fee": {
+            "amount": 460000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "İktisadi ve İdari Bilimler Programları",
+          "discounted_annual_fee": {
+            "amount": 460000,
+            "currency": "TL",
+            "discount": "50% Burs"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Mühendislik Fakültesi",
+      "departments": [
+        {
+          "name": "Mühendislik Programları",
+          "annual_fee": {
+            "amount": 920000,
+            "currency": "TL",
+            "description": "Ücretli"
+          },
+          "discounted_annual_fee": {
+            "amount": 690000,
+            "currency": "TL",
+            "discount": "25% Burs"
+          }
+        },
+        {
+          "name": "Yazılım Mühendisliği",
+          "discounted_annual_fee": {
+            "amount": 690000,
+            "currency": "TL",
+            "discount": "25% Burs"
+          }
+        }
+      ]
+    },
+        {
+      "academic_year": "2024-2025",
+      "description": "TED Üniversitesinde eğitim ve öğretim ücretlidir.2024-2025 akademik yılında tüm programlar için ücretler;\nÖdeme Bilgileri:\nTED Üniversitesi 2024 girişli öğrenciler için eğitim ücreti, Eğitim Fakültesi için yıllık 540.000 TL, Fen-Edebiyat Fakültesi, İktisadi ve İdari Bilimler Fakültesi, Mimarlık ve Tasarım Fakültesi ile Mühendislik Fakültesi için yıllık 600.000 TL’dir. Bu ücretlere KDV dahildir. Eğitim ücretleri peşin olarak veya %4 vade farkı ile 4 taksit veya %15 vade farkı ile 11 taksit olanağı ile ödenebilecektir."
+    },
+    {
+      "academic_year": "2023-2024",
+      "description": "TED Üniversitesinde eğitim ve öğretim ücretlidir.2023-2024 akademik yılında tüm programlar için ücretler;\nEğitim Fakültesi Programları; Okul Öncesi Öğretmenliği, Sınıf Öğretmenliği, Rehberlik ve psikolojik Danışmanlık, İlköğretim Matematik Öğretmenliği, İngilizce Öğretmenliği 265.000 TL, (%50 Burslu) : 132.500 TL\nFen-Edebiyat Fakültesi Programları\t: 280.000 TL, (%50 Burslu) : 140.000 TL\nİktisadi ve İdari Bilimler Programları (%70 Burslu) 150.000 TL, (%70 Burslu) : 75.000,00 TL\nMimarlık ve Tasarım Fakültesi Programları 280.000 TL\nMühendislik Fakültesi Programları 300.000 TL’dir."
+    },
+    {
+      "academic_year": "2022-2023",
+      "description": "TED Üniversitesinde (TEDÜ) öğrenim ücrete tabidir. 2022-2023 akademik yılında tüm programlar için ücret KDV dahil;\nEğitim Fakültesi Programları; Okul Öncesi Öğretmenliği, Sınıf Öğretmenliği, Rehberlik ve psikolojik Danışmanlık, İlköğretim Matematik Öğretmenliği, İngilizce Öğretmenliği 100.000 TL,\nFen-Edebiyat Fakültesi Programları 110.000 TL,\nİktisadi ve İdari Bilimler Programları 105.000 TL,\nMimarlık ve Tasarım Fakültesi Programları 110.000 TL,\nMühendislik Fakültesi Programları 115.000 TL’dir."
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "Akademik başarı",
+      "sosyal aktiviteler",
+      "maddi durum"
+    ]
+  },
+  "dormitory_fees": null
+}

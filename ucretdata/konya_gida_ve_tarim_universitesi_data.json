@@ -1,0 +1,251 @@
+{
+  "university": {
+    "name": "Konya Gıda ve Tarım Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Mühendislik ve Mimarlık Fakültesi",
+      "departments": [
+        {
+          "name": "Bilgisayar Mühendisliği",
+          "annual_fee": {
+            "amount": 462000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yazılım Mühendisliği",
+          "annual_fee": {
+            "amount": 407000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İç Mimarlık",
+          "annual_fee": {
+            "amount": 445500,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Sosyal ve Beşeri Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "Uluslararası Ticaret ve İşletmecilik",
+          "annual_fee": {
+            "amount": 390500,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri",
+          "annual_fee": {
+            "amount": 390500,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 627000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Tarım ve Doğa Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "Bitkisel Üretim ve Teknolojileri",
+          "annual_fee": {
+            "amount": 137500,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Moleküler Biyoloji ve Genetik",
+          "annual_fee": {
+            "amount": 324500,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Mühendislik ve Mimarlık Fakültesi",
+      "departments": [
+        {
+          "name": "Bilgisayar Mühendisliği",
+          "annual_fee": {
+            "amount": 240000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yazılım Mühendisliği",
+          "annual_fee": {
+            "amount": 220000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İç Mimarlık",
+          "annual_fee": {
+            "amount": 175000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Sosyal ve Beşeri Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "Uluslararası Ticaret ve İşletmecilik",
+          "annual_fee": {
+            "amount": 150000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri",
+          "annual_fee": {
+            "amount": 150000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 250000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Tarım ve Doğa Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "Bitkisel Üretim ve Teknolojileri",
+          "annual_fee": {
+            "amount": 50000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Moleküler Biyoloji ve Genetik",
+          "annual_fee": {
+            "amount": 125000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+        {
+      "academic_year": "2023-2024",
+      "faculty": "Mühendislik ve Mimarlık Fakültesi",
+      "departments": [
+        {
+          "name": "Bilgisayar Mühendisliği",
+          "annual_fee": {
+            "amount": 180000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yazılım Mühendisliği",
+          "annual_fee": {
+            "amount": 160000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İç Mimarlık",
+          "annual_fee": {
+            "amount": 90000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2023-2024",
+      "faculty": "Sosyal ve Beşeri Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "Uluslararası Ticaret ve İşletmecilik",
+          "annual_fee": {
+            "amount": 110000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri",
+          "annual_fee": {
+            "amount": 110000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 140000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2023-2024",
+      "faculty": "Tarım ve Doğa Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "Moleküler Biyoloji ve Genetik",
+          "annual_fee": {
+            "amount": 90000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+       {
+      "academic_year": "2022-2023",
+      "description": "Psikoloji ve İç Mimarlık Programları için ücretli 44.400 TL den başlamaktadır.",
+      "general_fee":{
+          "amount":44400,
+          "currency":"TL"
+      }
+    },
+        {
+      "academic_year": "2022-2023",
+      "description": "Mühendislik Programları, Genetik ve Yaşam Bilimleri Programları ile İktisadi ve İdari Programları için ücretli 41.600 TL den başlamaktadır",
+      "general_fee":{
+          "amount":41600,
+          "currency":"TL"
+      }
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "Tercih bursu",
+      "Şehit ve gazi yakınları bursu",
+      "Yarı-zamanlı çalışma bursu",
+      "Çift diploma",
+      "Kardeş bursu",
+      "Başarı bursu"
+    ]
+  },
+  "dormitory_fees": null
+}

@@ -1,0 +1,265 @@
+{
+  "university": {
+    "name": "Fatih Sultan Mehmet Vakıf Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "Hukuk": {
+        "discount_50": 339300
+      },
+      "Arapça Öğretmenliği": {
+        "discount_50": 275890
+      },
+      "Okul Öncesi Öğretmenliği": {
+        "discount_50": 300000
+      },
+      "Özel Eğitim Öğretmenliği": {
+        "full_fee": 600000,
+        "discount_25": 450000
+      },
+      "Rehberlik ve Psikolojik Danışmanlık": {
+        "discount_50": 291600
+      },
+      "Türkçe Öğretmenliği": {
+        "discount_50": 291600
+      },
+      "Bilgisayar Mühendisliği": {
+        "discount_50": 375188
+      },
+      "Elektrik-Elektronik Mühendisliği": {
+        "discount_50": 324075
+      },
+      "İnşaat Mühendisliği": {
+        "discount_50": 286013
+      },
+      "Yapay Zeka ve Veri Mühendisliği": {
+        "discount_50": 375188
+      },
+      "Yazılım Mühendisliği": {
+        "discount_50": 375188
+      },
+      "İşletme": {
+        "discount_50": 263175
+      },
+      "İktisat": {
+        "discount_50": 250000
+      },
+      "Siyaset Bilimi ve Uluslararası İlişkiler": {
+        "discount_50": 275890
+      },
+      "Yönetim Bilişim Sistemleri": {
+        "discount_50": 409806
+      },
+      "Bilim Tarihi": {
+        "discount_50": 215325
+      },
+      "Havacılık Yönetimi": {
+        "discount_50": 409806
+      },
+      "İngilizce Mütercim ve Tercümanlık": {
+        "discount_50": 341427
+      },
+      "Psikoloji": {
+        "full_fee": 796195,
+        "discount_25": 597146
+      },
+      "Tarih": {
+        "discount_50": 273776
+      },
+      "Türk Dili ve Edebiyatı": {
+        "discount_50": 273776
+      },
+      "İslami İlimler": {
+        "discount_25": 334688
+      },
+      "Geleneksel Türk Sanatları": {
+        "discount_50": 212500
+      },
+      "Grafik Tasarımı": {
+        "discount_50": 348428
+      },
+      "İç Mimarlık": {
+        "discount_25": 567240
+      },
+      "Kültür Varlıklarını Koruma ve Onarım": {
+        "discount_50": 215325
+      },
+      "Mimarlık": {
+        "discount_50": 324075
+      },
+      "Ambalaj Tasarımı Programı": {
+        "discount_50": 225000
+      },
+      "Mimari Restorasyon": {
+        "discount_50": 225000
+      },
+      "Bilişim Güvenliği Teknolojisi": {
+        "discount_50": 225000
+      },
+      "Çocuk Gelişimi": {
+        "discount_50": 206250
+      },
+      "Engelliler İçin Gölge Öğreticilik": {
+        "discount_50": 225000
+      },
+      "Mahkeme Büro Hizmetleri": {
+        "discount_50": 337500
+      },
+      "Ofis Teknolojileri ve Veri Yönetimi": {
+        "discount_50": 200000
+      },
+      "Sivil Havacılık Kabin Hizmetleri": {
+        "full_fee": 450000,
+        "discount_25": 337500
+      }
+    },
+"2024-2025": {
+       "Hukuk":{
+             "full_fee": 312000,
+             "discount_50":156000
+         },
+       "Arapça Öğretmenliği": {
+           "discount_50":130500
+       },
+          "Okul Öncesi Öğretmenliği": {
+             "full_fee": 320000,
+             "discount_50": 160000
+         },
+         "Özel Eğitim Öğretmenliği": {
+              "full_fee": 320000,
+             "discount_25":240000
+         },
+          "Rehberlik ve Psikolojik Danışmanlık": {
+            "discount_50":160000
+         },
+         "Türkçe Öğretmenliği": {
+              "full_fee":320000,
+            "discount_50":160000
+         },
+         "Bilgisayar Mühendisliği": {
+               "full_fee":345000,
+              "discount_50":172500
+         },
+       "Elektrik-Elektronik Mühendisliği": {
+             "discount_50":149000
+         },
+       "İnşaat Mühendisliği": {
+             "discount_50":131500
+         },
+          "Yapay Zeka ve Veri Mühendisliği": {
+                "full_fee":345000,
+              "discount_50":172500
+         },
+        "Yazılım Mühendisliği": {
+              "full_fee":345000,
+            "discount_50":172500
+         },
+            "İşletme": {
+            "discount_50":121000
+         },
+          "Siyaset Bilimi ve Uluslararası İlişkiler": {
+               "discount_50":130500
+         },
+       "Yönetim Bilişim Sistemleri": {
+             "discount_50":161500
+         },
+           "Bilim Tarihi":{
+             "discount_50":99000
+           },
+          "Havacılık Yönetimi":{
+              "discount_50":172500
+          },
+          "İngilizce Mütercim ve Tercümanlık":{
+            "discount_50":161500
+         },
+          "Psikoloji": {
+            "full_fee":323000,
+           "discount_25":242250
+         },
+          "Tarih":{
+            "discount_50":129500
+         },
+         "Türk Dili ve Edebiyatı":{
+            "discount_50":129500
+         },
+         "İslami İlimler":{
+             "discount_25":178500
+         },
+            "Geleneksel Türk Sanatları": {
+             "discount_50":88500
+         },
+            "Grafik Tasarımı":{
+             "full_fee": 257000,
+           "discount_50":128500
+         },
+           "İç Mimarlık":{
+               "discount_25":244500
+           },
+            "Kültür Varlıklarını Koruma ve Onarım":{
+              "discount_50":99000
+          },
+           "Mimarlık":{
+              "discount_50":149000
+          },
+      "Ambalaj Tasarımı Programı":{
+             "discount_50":120000
+         },
+        "Mimari Restorasyon":{
+               "discount_50":110000
+          },
+             "Bilişim Güvenliği Teknolojisi":{
+             "discount_50":120000
+         },
+          "Çocuk Gelişimi":{
+             "discount_25":148500
+         },
+        "Çocuk Gelişimi(İ.Ö)":{
+            "discount_50":99000
+        },
+          "Engelliler İçin Gölge Öğreticilik":{
+               "full_fee":240000,
+              "discount_50":120000
+         },
+      "Mahkeme Büro Hizmetleri":{
+              "discount_50":120000
+        },
+             "Sivil Havacılık Kabin Hizmetleri":{
+               "full_fee":220000,
+               "discount_25":165000
+         },
+          "Sivil Havacılık Kabin Hizmetleri (İ.Ö)":{
+               "full_fee":240000,
+                "discount_25":180000
+         }
+    },
+      "2022-2023":{
+     "Edebiyat Fakültesi Psikoloji Programı": 87000,
+    "Bilim Tarihi Programı, Tarih Programı ile Türk Dili ve Edebiyatı Programı": 70000,
+    "İngilizce Mütercim ve Tercümanlık Programı": 70000,
+        "Eğitim Fakültesi Arapça Öğretmenliği Programı": 65000,
+     "Okul Öncesi Öğretmenliği Programı": 86000,
+    "Rehberlik ve Psikolojik Danışmanlık Programı ile Türkçe Öğretmenliği Programı": 89000,
+         "Güzel Sanatlar Fakültesi Geleneksel Türk Sanatları Programı": 44000,
+       "Grafik Tasarım Programı": 64000,
+      "Hukuk Fakültesi": 86000,
+     "İslami İlimler Fakültesi": 64000,
+     "Mimarlık ve Tasarım Fakültesi İç Mimarlık Programı ile Mimarlık Programı": 76000,
+     "Kültür Varlıklarını Koruma ve Onarım Programı": 54000,
+      "Mühendislik Fakültesi Bilgisayar Mühendisliği Programı, Elektrik – Elektronik Mühendisliği Programı, Yazılım Mühendisliği Programı": 76000,
+          "İnşaat Mühendisliği Programı": 71000,
+          "Biyomedikal Mühendisliği Programı": 57000,
+           "İktisadi ve İdari Bilimler Fakültesi İşletme Programı ile Siyaset Bilimi ve Uluslararası İlişkiler Programı": 65000,
+         "Güzel Sanatlar Meslek Yüksekokulu Ambalaj Tasarımı Programı": 41000,
+         "Mimari Restorasyon Programı": 44000,
+      "Meslek Yüksekokulu Adalet Programı I. ve II. Öğretimi ile Çocuk Gelişimi Programı I. Öğretimi": 44000,
+      "Çocuk Gelişimi Programı II. Öğretim": 40000,
+     "Engelliler İçin Gölge Öğreticilik Programı": 37000,
+      "Sivil Havacılık Kabin Hizmetleri Programı I. ve II. Öğretimi": 41900
+
+}
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

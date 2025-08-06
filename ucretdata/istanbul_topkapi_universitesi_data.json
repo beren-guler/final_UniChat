@@ -1,0 +1,517 @@
+{
+  "university": {
+    "name": "İstanbul Topkapı Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "İngilizce Hazırlık Programları",
+        "full_fee": 665000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İletişim Fakültesi Programları",
+        "full_fee": 595000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İnsan ve Toplum Bilimleri Fakültesi Programları",
+        "full_fee": 595000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Psikoloji (İngilizce) (İşletme Fakültesi)",
+        "full_fee": 665000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce) (İşletme Fakültesi)",
+        "full_fee": 665000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Finans ve Bankacılık (İngilizce) (İşletme Fakültesi)",
+        "full_fee": 665000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İktisat (İngilizce) (İşletme Fakültesi)",
+        "full_fee": 665000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Havacılık Yönetimi (İşletme Fakültesi)",
+        "full_fee": 665000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Yönetim Bilişim Sistemleri (İşletme Fakültesi)",
+        "full_fee": 665000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Uluslararası Ticaret (İngilizce) (İşletme Fakültesi)",
+        "full_fee": 595000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Uluslararası Ticaret ve Finasman (İngilizce) (İşletme Fakültesi)",
+        "full_fee": 665000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mimarlık ve Tasarım Fakültesi Programları",
+        "full_fee": 665000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mühendislik Fakültesi Programları",
+        "full_fee": 665000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Hukuk Fakültesi",
+        "full_fee": 665000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Meslek Yüksekokulu Programları",
+        "full_fee": 332000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Bilgisayar Programcılığı (Plato Meslek Yüksekokulu)",
+        "full_fee": 760000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Aşçılık (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Bilgisayar Destekli Tasarım Ve Animasyon (Plato Meslek Yüksekokulu)",
+        "full_fee": 550000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Sivil Havacılık Kabin Hizmetleri (Plato Meslek Yüksekokulu)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Uçak Teknolojisi (Plato Meslek Yüksekokulu)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      }
+,
+         {
+        "name": "İlk Ve Acil Yardım (Plato Meslek Yüksekokulu)",
+        "full_fee": 760000.00,
+        "currency": "TL"
+      }
+    ]
+  },
+"tuition_fees_2024_2025": {
+"note": "İstanbul Topkapı Üniversitesi bir Vakıf Yükseköğretim Kurumu olup eğitim ücrete tabidir.",
+ "first_5_preferences": "İlk 5 Tercih İndirimli",
+"faculties": [
+    {
+"name": "Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi",
+    "programs": [
+     {
+      "name": "Dijital Oyun Tasarımı",
+      "discounted_fee": 165000,
+      "currency": "₺",
+      "first_5_discounted_fee": 123750,
+      "discount": "50%"
+     },
+     {
+      "name": "Gastronomi ve Mutfak Sanatları",
+      "discounted_fee": 220000,
+       "currency": "₺",
+      "first_5_discounted_fee": 165000,
+      "discount": "50%"
+     },
+     {
+      "name": "İç Mimarlık ve Çevre Tasarımı",
+       "currency": "₺",
+      "discounted_fee": 264000,
+      "first_5_discounted_fee": 198000,
+      "discount": "50%"
+     },
+      {
+      "name": "Mimarlık",
+       "currency": "₺",
+      "discounted_fee": 165000,
+      "first_5_discounted_fee": 123750,
+      "discount": "50%"
+     },
+      {
+      "name": "Çizgi Film ve Animasyon",
+       "currency": "₺",
+      "discounted_fee": 165000,
+      "first_5_discounted_fee": 148500,
+      "discount": "50%"
+     },
+      {
+      "name": "Grafik Tasarımı",
+       "currency": "₺",
+      "discounted_fee": 165000,
+      "first_5_discounted_fee": 148500,
+      "discount": "50%"
+     },
+       {
+      "name": "Müzik",
+       "currency": "₺",
+      "discounted_fee": 165000,
+      "first_5_discounted_fee": 148500,
+      "discount": "50%"
+     },
+       {
+      "name": "Resim",
+       "currency": "₺",
+      "discounted_fee": 165000,
+      "first_5_discounted_fee": 148500,
+      "discount": "50%"
+     },
+      {
+      "name": "Tekstil ve Moda Tasarımı",
+       "currency": "₺",
+      "discounted_fee": 165000,
+      "first_5_discounted_fee": 148500,
+      "discount": "50%"
+     },
+      {
+      "name": "Tiyatro",
+       "currency": "₺",
+      "discounted_fee": 165000,
+      "first_5_discounted_fee": 148500,
+      "discount": "50%"
+     }
+    ]
+   },
+    {
+"name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+     "programs": [
+       {
+        "name": "Ekonomi",
+        "discounted_fee": 209000,
+         "currency": "₺",
+        "first_5_discounted_fee": 156750,
+        "discount": "50%"
+       },
+        {
+        "name": "Ekonomi (İngilizce)",
+        "discounted_fee": 209000,
+         "currency": "₺",
+        "first_5_discounted_fee": 156750,
+        "discount": "50%"
+       },
+       {
+        "name": "Havacılık Yönetimi",
+        "discounted_fee": 209000,
+        "currency": "₺",
+        "first_5_discounted_fee": 156750,
+        "discount": "50%"
+       },
+         {
+        "name": "İngiliz Dili ve Edebiyatı (İngilizce)",
+        "discounted_fee": 231000,
+        "currency": "₺",
+        "first_5_discounted_fee": 173250,
+        "discount": "50%"
+       },
+         {
+        "name": "İngilizce Mütercim ve Tercümanlık",
+        "discounted_fee": 231000,
+           "currency": "₺",
+        "first_5_discounted_fee": 173250,
+        "discount": "50%"
+       },
+        {
+        "name": "İşletme",
+        "discounted_fee": 220000,
+         "currency": "₺",
+        "first_5_discounted_fee": 165000,
+        "discount": "50%"
+       },
+         {
+        "name": "İşletme (İngilizce)",
+        "discounted_fee": 220000,
+         "currency": "₺",
+        "first_5_discounted_fee": 165000,
+        "discount": "50%"
+       },
+          {
+        "name": "Psikoloji",
+        "discounted_fee": 330000,
+           "currency": "₺",
+        "first_5_discounted_fee": 247500,
+        "discount": "50%"
+       },
+           {
+        "name": "Psikoloji (İngilizce)",
+        "discounted_fee": 297000,
+           "currency": "₺",
+        "first_5_discounted_fee": 222750,
+        "discount": "50%"
+       },
+        {
+        "name": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce)",
+        "discounted_fee": 176000,
+         "currency": "₺",
+        "first_5_discounted_fee": 132000,
+        "discount": "50%"
+       },
+         {
+        "name": "Tarih",
+        "discounted_fee": 176000,
+         "currency": "₺",
+        "first_5_discounted_fee": 132000,
+        "discount": "50%"
+       },
+         {
+        "name": "Uluslararası Ticaret ve İşletmecilik",
+        "discounted_fee": 220000,
+         "currency": "₺",
+        "first_5_discounted_fee": 165000,
+        "discount": "50%"
+       },
+         {
+        "name": "Uluslararası Ticaret ve İşletmecilik (İngilizce)",
+        "discounted_fee": 220000,
+         "currency": "₺",
+        "first_5_discounted_fee": 165000,
+        "discount": "50%"
+       },
+         {
+        "name": "Yönetim Bilişim Sistemleri",
+        "discounted_fee": 242000,
+          "currency": "₺",
+        "first_5_discounted_fee": 181500,
+        "discount": "50%"
+       },
+        {
+        "name": "Yönetim Bilişim Sistemleri (İngilizce)",
+        "discounted_fee": 220000,
+          "currency": "₺",
+        "first_5_discounted_fee": 165000,
+        "discount": "50%"
+       }
+     ]
+    },
+ {
+    "name": "İletişim Fakültesi",
+    "programs":[
+        {
+        "name": "Film Tasarımı ve Yönetimi",
+        "discounted_fee": 176000,
+          "currency": "₺",
+        "first_5_discounted_fee": 132000,
+        "discount": "50%"
+       },
+        {
+        "name": "Halkla İlişkiler ve Reklamcılık",
+        "discounted_fee": 176000,
+          "currency": "₺",
+        "first_5_discounted_fee": 132000,
+        "discount": "50%"
+       },
+         {
+        "name": "Görsel İletişim Tasarımı",
+        "discounted_fee": 176000,
+          "currency": "₺",
+        "first_5_discounted_fee": 132000,
+        "discount": "50%"
+       },
+         {
+        "name": "Radyo, Televizyon ve Sinema",
+        "discounted_fee": 176000,
+          "currency": "₺",
+        "first_5_discounted_fee": 132000,
+        "discount": "50%"
+       },
+        {
+        "name": "Yeni Medya ve İletişim",
+        "discounted_fee": 176000,
+          "currency": "₺",
+        "first_5_discounted_fee": 132000,
+        "discount": "50%"
+       }
+    ]
+ },
+  {
+    "name": "İnsan ve Toplum Bilimleri Fakültesi",
+    "programs":[
+     {
+      "name": "Felsefe (İngilizce)",
+      "discounted_fee": 176000,
+      "currency": "₺",
+      "first_5_discounted_fee": 132000,
+      "discount": "50%"
+     },
+       {
+      "name": "Sosyoloji (İngilizce)",
+      "discounted_fee": 176000,
+       "currency": "₺",
+      "first_5_discounted_fee": 132000,
+      "discount": "50%"
+     }
+    ]
+  },
+  {
+    "name": "Mühendislik Fakültesi",
+    "programs":[
+     {
+      "name": "Bilgisayar Mühendisliği",
+      "discounted_fee": 280500,
+       "currency": "₺",
+      "first_5_discounted_fee": 210375,
+      "discount": "50%"
+     },
+      {
+      "name": "Bilgisayar Mühendisliği (İngilizce)",
+      "discounted_fee": 280500,
+       "currency": "₺",
+      "first_5_discounted_fee": 210375,
+      "discount": "50%"
+     },
+       {
+      "name": "Bilişim Sistemleri Mühendisliği",
+      "discounted_fee": 242000,
+       "currency": "₺",
+      "first_5_discounted_fee": 181500,
+      "discount": "50%"
+     },
+      {
+      "name": "Elektrik-Elektronik Mühendisliği",
+      "discounted_fee": 176000,
+      "currency": "₺",
+      "first_5_discounted_fee": 132000,
+      "discount": "50%"
+     },
+        {
+      "name": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+      "discounted_fee": 176000,
+       "currency": "₺",
+      "first_5_discounted_fee": 132000,
+      "discount": "50%"
+     },
+       {
+      "name": "Endüstri Mühendisliği",
+      "discounted_fee": 220000,
+        "currency": "₺",
+      "first_5_discounted_fee": 165000,
+      "discount": "50%"
+     },
+      {
+      "name": "Yazılım Mühendisliği",
+      "discounted_fee": 264000,
+       "currency": "₺",
+      "first_5_discounted_fee": 198000,
+      "discount": "50%"
+     }
+    ]
+  },
+   {
+    "name": "Sağlık Bilimleri Fakültesi",
+    "programs": [
+        {
+        "name": "Hemşirelik",
+        "discounted_fee": 264000,
+          "currency": "₺",
+        "first_5_discounted_fee": 198000,
+        "discount": "50%"
+       }
+    ]
+  },
+{
+    "name": "Spor Bilimleri Fakültesi",
+    "programs":[
+     {
+      "name": "Antrenörlük Eğitimi",
+      "discounted_fee": 187000,
+      "currency": "₺",
+        "Spora Destek İndirimli": 168300,
+      "discount": "50%"
+     },
+          {
+      "name": "Rekreasyon",
+      "discounted_fee": 165000,
+      "currency": "₺",
+      "Spora Destek İndirimli": 148500,
+      "discount": "50%"
+     },
+             {
+      "name": "Spor Yöneticiliği",
+      "discounted_fee": 176000,
+       "currency": "₺",
+      "Spora Destek İndirimli": 158400,
+      "discount": "50%"
+     }
+    ]
+}
+   ],
+        "Plato Meslek Yüksekokulu": {
+         "details": "₺176.000 (İlk 5 Tercih İndirimli) ₺132.000",
+   "note": "Zorunlu Hazırlık Bölümlerinde ÖSYM Bursu Oranında İndirim Geçerlidir."
+  }
+  },
+"tuition_fees_2022_2023":{
+  "details": "İstanbul Topkapı Üniversitesi’nin ismi İstanbul Topkapı Üniversitesi olarak değişmiştir. Tercih yapacak öğrencilerimiz buna dikkate alarak yapması tavsiye edilir. İstanbul Topkapı Üniversitesi bir Vakıf Yükseköğretim Kurumu olup eğitim ücrete tabidir.",
+  "programs": [
+{
+"details": "Psikoloji (Türkçe/İngilizce) bölümlerinin %50 indirimli eğitim ücreti",
+"fee":"60.000 TL"
+},
+{
+"details": "Gastronomi ve Mutfak Sanatları, İç Mimarlık ve Çevre Tasarımı bölümlerinin %50 indirimli eğitim ücreti",
+"fee": "50.000 TL"
+},
+{
+"details": "İlk ve Acil Yardım, İlk ve Acil Yardım (İkinci Öğretim) programlarının %50 indirimli eğitim ücreti",
+"fee": "36.000 TL"
+},
+{
+"details": "Bilgisayar Mühendisliği (Türkçe/İngilizce), Dijital Oyun Tasarımı, İngiliz Dili ve Edebiyatı (İngilizce),Yazılım Mühendisliği ve Yönetim Bilişim Sistemleri (Türkçe/İngilizce) bölümlerinin %50 indirimli eğitim ücreti",
+"fee": "35.000 TL"
+},
+{
+"details": "Ameliyathane Hizmetleri, Anestezi, Fizyoterapi, Tıbbi Görüntüleme Teknikleri programlarının %50 indirimli eğitim ücreti",
+"fee": "34.000 TL"
+},
+{
+"details": "Bilgisayar Destekli Tasarım ve Animasyon, Bilgisayar Programcılığı, Ekonomi (Türkçe/İngilizce), Elektrik-Elektronik Mühendisliği, Görsel İletişim Tasarımı, Halkla İlişkiler ve Reklamcılık, Havacılık Yönetimi, İşletme, İşletme (İngilizce), Radyo, Televizyon ve Sinema, Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce), Tarih, Tıbbi Görüntüleme Teknikleri (İkinci Öğretim),Uluslararası Ticaret ve İşletmecilik (Türkçe/İngilizce), Yeni Medya ve İletişim bölümlerinin %50 indirimli eğitim ücreti",
+"fee":"32.000 TL"
+},
+{
+"details":"Adalet, Ağız ve Diş Sağlığı, Antrenörlük Eğitimi (Özel Yetenek), Aşçılık, Bilgisayar Destekli Tasarım ve Animasyon (İkinci Öğretim), Bilgisayar Programcılığı (İkinci Öğretim), Çizgi Film ve Animasyon (Özel Yetenek), Diş Protez Teknolojisi, Grafik Tasarımı (Özel Yetenek), Harita ve Kadastro, İç Mekan Tasarımı, İnternet ve Ağ Teknolojileri, Mimari Restorasyon, Moda Tasarımı, Odyometri, Optisyenlik, Sivil Hava Ulaştırma İşletmeciliği, Sivil Havacılık Kabin Hizmetleri, Tıbbi Dokümantasyon ve Sekreterlik, Tıbbi Laboratuvar Teknikleri, Tiyatro (Özel Yetenek), Uçak Teknolojisi bölümlerinin %50 indirimli eğitim ücreti",
+"fee": "30.000 TL"
+},
+{
+"details":"Adalet (İkinci Öğretim), Ağız ve Diş Sağlığı (İkinci Öğretim), Aşçılık (İkinci Öğretim), Bilgisayar Destekli Tasarım ve Animasyon (Uzaktan Öğretim), Bilgisayar Programcılığı (Uzaktan öğretim), Çocuk Gelişimi, Eczane Hizmetleri, Grafik Tasarımı, Harita ve Kadastro (İkinci Öğretim), İç Mekan Tasarımı (İkinci Öğretim), İnternet ve Ağ Teknolojileri (İkinci Öğretim), Mimari Restorasyon (İkinci öğretim), Moda Tasarımı, Odyometri, Optisyenlik, Sivil Hava Ulaştırma İşletmeciliği (İkinci öğretim), Sivil Havacılık Kabin Hizmetleri (İkinci Öğretim) ve Tıbbi Dokümantasyon ve Sekreterlik (İkinci öğretim) programlarının %50 indirimli eğitim ücreti",
+"fee": "28.000 TL"
+},
+{
+"details": "Çocuk Gelişimi (İkinci Öğretim), Elektrik, Grafik Tasarımı (İngilizce), Mimari Restorasyon (İkinci Öğretim), Moda Tasarımı (İkinci Öğretim), Sivil Hava Ulaştırma İşletmeciliği (İkinci Öğretim), Tıbbi Dokümantasyon ve Sekreterlik (İkinci Öğretim) programlarının %50 indirimli eğitim ücreti",
+"fee": "26.000 TL"
+},
+{
+"details": "Turist Rehberliği (Uzaktan Eğitim) programının %50 indirimli eğitim ücreti",
+"fee":"20.000 TL"
+},
+{
+"details":"Bilgisayar Destekli Tasarım ve Animasyon (Uzaktan Eğitim), Bilgisayar Programcılığı (Uzaktan Eğitim), Grafik Tasarımı (Uzaktan Eğitim), İnternet ve Ağ Teknolojileri (Uzaktan Eğitim) programlarının %50 indirimli eğitim ücreti",
+"fee": "12.000 TL"
+},
+{
+"details": "Aşçılık (Uzaktan Eğitim), Çocuk Gelişimi (Uzaktan Eğitim), Eczane Hizmetleri (Uzaktan Eğitim), Moda Tasarımı (Uzaktan Eğitim) programlarının %50 indirimli eğitim ücreti",
+"fee":"10.000 TL"
+}
+  ]
+ }
+}

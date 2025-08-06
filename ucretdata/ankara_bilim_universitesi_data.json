@@ -1,0 +1,255 @@
+{
+  "university": {
+    "name": "Unknown",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "undergraduate_programs": [
+      {
+        "faculty": "Hukuk Fakültesi",
+        "program": "Hukuk (Türkçe)",
+        "full_fee": {
+          "amount": 928000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 464000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Mühendislik Ve Mimarlık Fakültesi",
+        "program": "Bilgisayar Mühendisliği (Türkçe)",
+        "full_fee": {
+          "amount": 928000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 464000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Mühendislik Ve Mimarlık Fakültesi",
+        "program": "Bilgisayar Mühendisliği (İngilizce)",
+        "full_fee": {
+          "amount": 928000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 464000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Mühendislik Ve Mimarlık Fakültesi",
+        "program": "Bilişim Sistemleri Mühendisliği (İngilizce)",
+        "full_fee": {
+          "amount": 800000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 400000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Mühendislik Ve Mimarlık Fakültesi",
+        "program": "Elektrik Elektronik Mühendisliği (İngilizce)",
+        "full_fee": {
+          "amount": 928000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 464000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Mühendislik Ve Mimarlık Fakültesi",
+        "program": "Endüstri Mühendisliği (İngilizce)",
+        "discount_50": {
+          "amount": 400000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Mühendislik Ve Mimarlık Fakültesi",
+        "program": "Yazılım Mühendisliği (İngilizce)",
+        "full_fee": {
+          "amount": 928000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 464000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+        "program": "İşletme (İngilizce)",
+        "discount_50": {
+          "amount": 400000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+        "program": "İngilizce Mütercim ve Tercümanlık",
+        "full_fee": {
+          "amount": 800000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 400000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+        "program": "Psikoloji (İngilizce)",
+        "full_fee": {
+          "amount": 928000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 464000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+        "program": "Psikoloji (Türkçe)",
+        "full_fee": {
+          "amount": 928000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 464000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+        "program": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce)",
+        "discount_50": {
+          "amount": 400000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+        "program": "Yönetim Bilişim Sistemleri (İngilizce)",
+        "full_fee": {
+          "amount": 800000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 400000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+        "program": "Yönetim Bilişim Sistemleri (Türkçe)",
+        "full_fee": {
+          "amount": 800000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 400000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Güzel Sanatlar ve Tasarım Fakültesi",
+        "program": "Film Tasarım ve Yönetimi (İngilizce)",
+        "full_fee": {
+          "amount": 800000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 400000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Güzel Sanatlar ve Tasarım Fakültesi",
+        "program": "İç Mimarlık ve Çevre Tasarımı (İngilizce)",
+        "full_fee": {
+          "amount": 800000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 400000,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Güzel Sanatlar ve Tasarım Fakültesi",
+        "program": "Yeni Medya ve İletişim (İngilizce)",
+        "full_fee": {
+          "amount": 800000,
+          "currency": "TL"
+        },
+        "discount_50": {
+          "amount": 400000,
+          "currency": "TL"
+        }
+      }
+    ],
+    "associate_degree_programs": [
+      {
+        "faculty": "Meslek Yüksek Okulu",
+        "program": "Bilgisayar Programcılığı (Türkçe)",
+        "discount_50": {
+          "amount": 249600,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Meslek Yüksek Okulu",
+        "program": "Bilişim Güvenliği Teknolojisi (Türkçe)",
+        "discount_50": {
+          "amount": 249600,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Meslek Yüksek Okulu",
+        "program": "İnsansız Hava Aracı Teknolojisi ve Operatörlüğü (Türkçe)",
+        "discount_50": {
+          "amount": 249600,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Meslek Yüksek Okulu",
+        "program": "Bilgisayar Destekli Tasarım ve Animasyon (Türkçe)",
+        "discount_50": {
+          "amount": 249600,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Meslek Yüksek Okulu",
+        "program": "E-Ticaret ve Pazarlama (Türkçe)",
+        "discount_50": {
+          "amount": 249600,
+          "currency": "TL"
+        }
+      },
+      {
+        "faculty": "Meslek Yüksek Okulu",
+        "program": "Web Tasarımı ve Kodlama (Türkçe)",
+        "discount_50": {
+          "amount": 249600,
+          "currency": "TL"
+        }
+      }
+    ]
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

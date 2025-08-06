@@ -1,0 +1,488 @@
+{
+  "university": {
+    "name": "Kapadokya Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "Ön lisans hazırlık öğrenim ücreti",
+        "full_fee": 341000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Lisans hazırlık öğrenim ücreti",
+        "full_fee": 440000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Diş Hekimliği Fakültesi",
+        "full_fee": 825000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Çocuk Gelişimi",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Dil Ve Konuşma Terapisi",
+        "full_fee": 440000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Odyoloji",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Beslenme Ve Diyetetik",
+        "full_fee": 594000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Ebelik",
+        "full_fee": 594000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Fizyoterapi Ve Rehabilitasyon",
+        "full_fee": 594000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Hemşirelik",
+        "full_fee": 594000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Yapay Zeka Ve Makine Öğrenmesi",
+        "full_fee": 440000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Yazılım Geliştirme",
+        "full_fee": 440000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilgi Güvenliği Teknolojisi",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilişim Sistemleri Ve Teknolojileri",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Grafik Tasarımı",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Havacılık Elektrik Ve Elektroniği",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Psikoloji",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Siyaset Bilimi Ve Kamu Yönetimi",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Siyaset Bilimi Ve Uluslararası İlişkiler",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Şehir Ve Bölge Planlama",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Turizm Rehberliği",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Türk Dili Ve Edebiyatı",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Uçak Gövde Ve Motor Bakımı",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Veri Bilimi Ve Analitiği",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Yönetim Bilişim Sistemleri",
+        "full_fee": 495000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Gastronomi Ve Mutfak Sanatları",
+        "full_fee": 594000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Havacılık Yönetimi",
+        "full_fee": 594000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İç Mimarlık Ve Çevre Tasarımı",
+        "full_fee": 594000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İngiliz Dili Ve Edebiyatı",
+        "full_fee": 594000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İngilizce Mütercim Ve Tercümanlık",
+        "full_fee": 594000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilgisayar Programcılığı (Önlisans)",
+        "full_fee": 297000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "İnsansız Hava Aracı Teknolojisi Ve Operatörlüğü (Önlisans)",
+        "full_fee": 341000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Ağız Ve Diş Sağlığı (Önlisans)",
+        "full_fee": 374000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Ameliyathane Hizmetleri (Önlisans)",
+        "full_fee": 374000.00,
+        "currency": "TL"
+      },
+          {
+        "name": "Anestezi (Önlisans)",
+        "full_fee": 374000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Diş Protez Teknolojisi (Önlisans)",
+        "full_fee": 374000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Fizyoterapi (Önlisans)",
+        "full_fee": 374000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "İlk Ve Acil Yardım (Önlisans)",
+        "full_fee": 374000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Tıbbi Görüntüleme Teknikleri (Önlisans)",
+        "full_fee": 374000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Tıbbi Laboratuvar Teknikleri (Önlisans)",
+        "full_fee": 374000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Bilişim Güvenliği Teknolojisi (Önlisans)",
+        "full_fee": 440000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Bulut Bilişim Operatörlüğü (Önlisans)",
+        "full_fee": 440000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Dijital Dönüşüm Elektroniği (Önlisans)",
+        "full_fee": 440000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Kurumsal Bilişim Uzmanlığı (Önlisans)",
+        "full_fee": 440000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Otonom Sistemler Teknikerliği (Önlisans)",
+        "full_fee": 440000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Ceza İnfaz Ve Güvenlik Hizmetleri (Önlisans)",
+        "full_fee": 462000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Diyaliz (Önlisans)",
+        "full_fee": 462000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Odyometri (Önlisans)",
+        "full_fee": 462000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Optisyenlik (Önlisans)",
+        "full_fee": 462000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Patoloji Laboratuvar Teknikleri (Önlisans)",
+        "full_fee": 462000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Radyoterapi (Önlisans)",
+        "full_fee": 462000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Sivil Hava Ulaştırma İşletmeciliği (Önlisans)",
+        "full_fee": 462000.00,
+        "currency": "TL"
+      },
+          {
+        "name": "Sivil Havacılık Kabin Hizmetleri (Nevşehir) (Önlisans)",
+        "full_fee": 462000.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Tıbbi Laboratuvar Teknikleri (Önlisans)",
+        "full_fee": 462000.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Turist Rehberliği (Önlisans)",
+        "full_fee": 462000.00,
+        "currency": "TL"
+      },
+           {
+        "name": "Uçuş Harekat Yöneticiliği (Önlisans)",
+        "full_fee": 462000.00,
+        "currency": "TL"
+      }
+    ]
+  },
+   "tuition_fees_2024_2025": {
+    "faculties": [
+   {
+     "name": "Beşeri Bilimler Fakültesi",
+    "programs": [
+           {
+         "name": "İngiliz Dili ve Edebiyatı (İngilizce)",
+         "discounted_fee": 150000,
+         "currency": "TL",
+          "discount": "50%"
+       },
+              {
+         "name": "İngilizce Mütercim ve Tercümanlık",
+         "discounted_fee": 150000,
+          "currency": "TL",
+         "discount": "50%"
+       },
+       {
+         "name": "Psikoloji",
+         "full_fee": 300000,
+            "discounted_fee": 225000,
+            "currency": "TL",
+         "discount": "25%"
+       },
+                {
+         "name": "Türk Dili ve Edebiyatı",
+         "discounted_fee": 125000,
+           "currency": "TL",
+         "discount": "50%"
+       }
+     ]
+   },
+  {
+"name": "Diş Hekimliği Fakültesi",
+    "programs": [
+       {
+       "name": "Diş Hekimliği",
+      "full_fee": 450000,
+        "currency": "TL"
+        }
+     ]
+  },
+  {
+"name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+  "programs": [
+       {
+       "name": "Siyaset Bilimi ve Kamu Yönetimi",
+       "discounted_fee": 150000,
+        "currency": "TL",
+         "discount":"50%"
+       },
+           {
+       "name": "Siyaset Bilimi ve Uluslararası İlişkiler",
+       "discounted_fee": 150000,
+        "currency": "TL",
+         "discount":"50%"
+       },
+         {
+       "name": "Yönetim Bilişim Sistemleri",
+       "discounted_fee": 150000,
+          "currency": "TL",
+         "discount":"50%"
+       }
+     ]
+  },
+     {
+"name": "Mimarlık, Tasarım ve Güzel Sanatlar Fakültesi",
+  "programs": [
+       {
+       "name": "Grafik Tasarımı",
+       "discounted_fee": 125000,
+          "currency": "TL",
+         "discount":"50%"
+       },
+           {
+       "name": "İç Mimarlık ve Çevre Tasarımı",
+       "discounted_fee": 125000,
+           "currency": "TL",
+         "discount":"50%"
+       },
+       {
+       "name": "Şehir ve Bölge Planlama",
+       "discounted_fee": 125000,
+          "currency": "TL",
+         "discount":"50%"
+       }
+      ]
+ },
+   {
+"name": "Sağlık Bilimleri Yüksekokulu",
+  "programs": [
+       {
+       "name": "Beslenme ve Diyetetik",
+       "discounted_fee": 150000,
+         "currency": "TL",
+         "discount":"50%"
+       },
+         {
+       "name": "Çocuk Gelişimi",
+       "discounted_fee": 150000,
+           "currency": "TL",
+         "discount":"50%"
+       },
+             {
+       "name": "Dil ve Konuşma Terapisi",
+       "full_fee": 250000,
+            "discounted_fee": 187500,
+              "currency": "TL",
+           "discount": "25%"
+       },
+               {
+       "name": "Ebelik",
+       "discounted_fee": 225000,
+                 "currency": "TL",
+           "discount": "25%"
+       },
+               {
+       "name": "Fizyoterapi ve Rehabilitasyon",
+       "discounted_fee": 150000,
+                 "currency": "TL",
+           "discount": "50%"
+       },
+          {
+       "name": "Hemşirelik",
+             "discounted_fee": 225000,
+               "currency": "TL",
+           "discount": "25%"
+       },
+                  {
+       "name": "Odyoloji",
+       "discounted_fee": 125000,
+                    "currency": "TL",
+           "discount": "50%"
+       }
+        ]
+     },
+     {
+"name": "Uygulamalı Bilimler Yüksekokulu",
+  "programs": [
+     {
+      "name": "Bilgi Güvenliği Teknolojisi",
+        "discounted_fee": 187500,
+        "currency": "TL",
+        "discount": "25%"
+       },
+         {
+      "name": "Bilişim Sistemleri ve Teknolojileri",
+        "discounted_fee": 187500,
+        "currency": "TL",
+        "discount": "25%"
+       },
+        {
+      "name": "Gastronomi ve Mutfak Sanatları",
+        "discounted_fee": 150000,
+        "currency": "TL",
+        "discount": "50%"
+       },
+          {
+      "name": "Havacılık Elektrik ve Elektroniği",
+        "discounted_fee": 187500,
+         "currency": "TL",
+        "discount": "25%"
+       },
+                {
+      "name": "Havacılık Yönetimi",
+        "discounted_fee": 150000,
+       "currency": "TL",
+        "discount": "50%"
+       },
+              {
+      "name": "Turizm Rehberliği",
+         "discounted_fee": 150000,
+          "currency": "TL",
+        "discount": "50%"
+       },
+             {
+      "name": "Uçak Gövde ve Motor Bakımı",
+        "discounted_fee": 187500,
+         "currency": "TL",
+        "discount": "25%"
+       },
+          {
+      "name": "Yazılım Geliştirme",
+        "discounted_fee": 187500,
+          "currency": "TL",
+        "discount": "25%"
+       }
+    ]
+ }
+    ]
+   },
+      "note":"Peşin Ödeme: Yıllık eğitim-öğretim ücretinin tamamı, kayıt sırasında, peşin olarak, üniversitemizin banka hesaplarına doğrudan, havale veya EFT yapılarak veya limiti yeterli tüm banka kredi kartları ile tek çekimle ödenebilir.",
+     "note2":"Taksitli Ödeme: Yıllık eğitim-öğretim ücreti, limiti yeterli İş Bankası, Yapı Kredi, Ziraat Bankası, Garanti, Akbank, QNB Finansbank; Maximum, World ve Bonus kredi kartları ile beş veya on eşit taksitle ödenebilir. İlave taksit avantajları ilgili kart sağlayıcı bankalar tarafından yapılmakta olup, kampanya süreleri ve koşulları ilgili bankalar tarafından belirlenmektedir.",
+       "note3": "Eğitim-öğretim ücretlerinin kredi kartına ödeme talimatı (mail order) verilerek ödenmesi de mümkündür. Bu seçeneğin tercih edilmesi halinde, açıklanan peşin ücretin %25’i kredi kartı ile ödenir, kalan tutarın aylık beş veya on eşit taksitle ödenmesi taahhüt edilir.",
+       "note4":"Yukarıdaki ücretlere %10 KDV dahil değildir."
+ }
+}

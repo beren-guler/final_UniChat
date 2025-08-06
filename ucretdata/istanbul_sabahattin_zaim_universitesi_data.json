@@ -1,0 +1,468 @@
+{
+  "university": {
+    "name": "İstanbul Sabahattin Zaim Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": {
+    "academic_year": "2024-2025",
+    "programs": []
+  },
+ "tuition_fees_2024_2025_details": {
+  "faculty": [
+   {
+    "name": "Hukuk Fakültesi",
+    "programs": [
+     {
+      "name": "Hukuk - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 130000,
+      "other_preferences_discounted_fee": 138125
+     },
+     {
+      "name": "Hukuk - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     }
+    ]
+   },
+   {
+    "name": "İnsan ve Toplum Bilimleri Fakültesi",
+    "programs": [
+     {
+      "name": "Görsel İletişim Tasarımı - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 130000,
+      "other_preferences_discounted_fee": 138125
+     },
+     {
+      "name": "Psikoloji (İngilizce) - 25% İndirimli",
+      "full_fee": 243750,
+      "currency": "₺",
+      "first_preference_discounted_fee": 195000,
+      "other_preferences_discounted_fee": 207188
+     },
+     {
+      "name": "Psikoloji (İngilizce) - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     },
+     {
+      "name": "Psikoloji - 25% İndirimli",
+      "full_fee": 243750,
+      "currency": "₺",
+      "first_preference_discounted_fee": 195000,
+      "other_preferences_discounted_fee": 207188
+     },
+     {
+      "name": "Psikoloji - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     },
+     {
+      "name": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce) - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 113750,
+      "other_preferences_discounted_fee": 121875
+     },
+     {
+      "name": "Sosyoloji (%30 İngilizce) - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 113750,
+      "other_preferences_discounted_fee": 121875
+     },
+     {
+      "name": "Tarih - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 113750,
+      "other_preferences_discounted_fee": 121875
+     },
+     {
+      "name": "Türk Dili ve Edebiyatı - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 113750,
+      "other_preferences_discounted_fee": 121875
+     }
+    ]
+   },
+   {
+    "name": "İslami İlimler Fakültesi",
+    "programs": [
+     {
+      "name": "İslami İlimler (Arapça) - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 113750,
+      "other_preferences_discounted_fee": 121875
+     },
+     {
+      "name": "İslami İlimler (%30 Arapça) - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 113750,
+      "other_preferences_discounted_fee": 121875
+     }
+    ]
+   },
+   {
+    "name": "İşletme ve Yönetim Bilimleri Fakültesi",
+    "programs": [
+     {
+      "name": "İktisat (%30 İngilizce) - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 130000,
+      "other_preferences_discounted_fee": 138125
+     },
+     {
+      "name": "İslam İktisadı ve Finans (İngilizce) - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 113750,
+      "other_preferences_discounted_fee": 121875
+     },
+     {
+      "name": "İslam İktisadı ve Finans - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 113750,
+      "other_preferences_discounted_fee": 121875
+     },
+     {
+      "name": "İşletme (%30 İngilizce) - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 130000,
+      "other_preferences_discounted_fee": 138125
+     },
+       {
+      "name": "İşletme (%30 İngilizce) - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     },
+     {
+      "name": "Uluslararası Ticaret ve Finansman (İngilizce) - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 130000,
+      "other_preferences_discounted_fee": 138125
+     },
+       {
+      "name": "Uluslararası Ticaret ve Finansman (İngilizce) - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     },
+     {
+      "name": "Uluslararası Ticaret ve Finansman - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 130000,
+      "other_preferences_discounted_fee": 138125
+     },
+        {
+      "name": "Uluslararası Ticaret ve Finansman - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     }
+    ]
+   },
+   {
+    "name": "Mühendislik ve Doğa Bilimleri Fakültesi",
+    "programs": [
+     {
+      "name": "Bilgisayar Mühendisliği - 25% İndirimli",
+      "full_fee": 243750,
+      "currency": "₺",
+      "first_preference_discounted_fee": 195000,
+      "other_preferences_discounted_fee": 207188
+     },
+      {
+      "name": "Bilgisayar Mühendisliği - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     },
+     {
+      "name": "Elektrik – Elektronik Mühendisliği (%30 İngilizce) - 25% İndirimli",
+      "full_fee": 243750,
+      "currency": "₺",
+      "first_preference_discounted_fee": 195000,
+      "other_preferences_discounted_fee": 207188
+     },
+      {
+      "name": "Elektrik – Elektronik Mühendisliği (%30 İngilizce) - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     },
+     {
+      "name": "Endüstri Mühendisliği - 25% İndirimli",
+      "full_fee": 243750,
+      "currency": "₺",
+      "first_preference_discounted_fee": 195000,
+      "other_preferences_discounted_fee": 207188
+     },
+       {
+      "name": "Endüstri Mühendisliği - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     },
+     {
+      "name": "Gıda Mühendisliği - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 113750,
+      "other_preferences_discounted_fee": 121875
+     },
+       {
+      "name": "İç Mimarlık ve Çevre Tasarımı - 25% İndirimli",
+      "full_fee": 243750,
+      "currency": "₺",
+      "first_preference_discounted_fee": 195000,
+      "other_preferences_discounted_fee": 207188
+     },
+       {
+      "name": "İç Mimarlık ve Çevre Tasarımı - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     },
+     {
+      "name": "Mimarlık - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 130000,
+      "other_preferences_discounted_fee": 138125
+     },
+     {
+      "name": "Moleküler Biyoloji ve Genetik (%30 İngilizce) - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 130000,
+      "other_preferences_discounted_fee": 138125
+     },
+      {
+      "name": "Moleküler Biyoloji ve Genetik (%30 İngilizce) - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     },
+        {
+      "name": "Yazılım Mühendisliği - 25% İndirimli",
+      "full_fee": 243750,
+      "currency": "₺",
+      "first_preference_discounted_fee": 195000,
+      "other_preferences_discounted_fee": 207188
+     },
+       {
+      "name": "Yazılım Mühendisliği (%30 İngilizce) - Ücretli",
+      "full_fee": 325000,
+      "currency": "₺",
+      "first_preference_discounted_fee": 260000,
+      "other_preferences_discounted_fee": 276250
+     }
+    ]
+   },
+     {
+    "name": "Sağlık Bilimleri Fakültesi",
+    "programs": [
+      {
+       "name": "Beslenme ve Diyetetik - 25% İndirimli",
+       "full_fee": 243750,
+       "currency": "₺",
+       "first_preference_discounted_fee": 195000,
+       "other_preferences_discounted_fee": 207188
+      },
+        {
+       "name": "Beslenme ve Diyetetik - Ücretli",
+       "full_fee": 325000,
+       "currency": "₺",
+       "first_preference_discounted_fee": 260000,
+       "other_preferences_discounted_fee": 276250
+      },
+        {
+       "name": "Hemşirelik - 25% İndirimli",
+       "full_fee": 243750,
+       "currency": "₺",
+       "first_preference_discounted_fee": 195000,
+       "other_preferences_discounted_fee": 207188
+      },
+        {
+       "name": "Hemşirelik - Ücretli",
+       "full_fee": 325000,
+       "currency": "₺",
+       "first_preference_discounted_fee": 260000,
+       "other_preferences_discounted_fee": 276250
+      },
+      {
+       "name": "Sağlık Yönetimi - 50% İndirimli",
+       "full_fee": 162500,
+       "currency": "₺",
+       "first_preference_discounted_fee": 113750,
+       "other_preferences_discounted_fee": 121875
+      },
+       {
+       "name": "Sosyal Hizmet - 50% İndirimli",
+       "full_fee": 162500,
+       "currency": "₺",
+       "first_preference_discounted_fee": 113750,
+       "other_preferences_discounted_fee": 121875
+      }
+    ]
+   },
+    {
+    "name": "Spor Bilimleri Fakültesi",
+    "programs": [
+     {
+      "name": "Beden Eğitimi ve Spor Öğretmenliği - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 130000,
+      "other_preferences_discounted_fee": 138125
+     },
+     {
+      "name": "Spor Yöneticiliği - 50% İndirimli",
+      "full_fee": 162500,
+      "currency": "₺",
+      "first_preference_discounted_fee": 130000,
+      "other_preferences_discounted_fee": 138125
+     }
+    ]
+   }
+  ]
+ },
+   "tuition_fees_2023_2024": {
+   "programs": [
+    {
+     "name": "Tüm Lisans programları",
+     "full_fee": 185000,
+     "currency": "TL",
+     "discounted_fee": null,
+     "first_preference_discount": 157250,
+     "second_preference_discount": 148000,
+     "third_preference_discount": 1291500
+    },
+     {
+     "name": "Tüm Lisans programları - % 50 İndirimli",
+     "full_fee": 92500,
+     "currency": "TL",
+     "discounted_fee": null,
+     "first_preference_discount": 78625,
+     "second_preference_discount": 74000,
+     "third_preference_discount": 69375,
+     "fourth_preference_discount": 64750
+    },
+      {
+     "name": "Tüm Lisans programları - % 25 İndirimli",
+     "full_fee": 138750,
+     "currency": "TL",
+     "discounted_fee": null,
+     "first_preference_discount": 117938,
+     "second_preference_discount": 111000,
+     "third_preference_discount": 104063,
+       "fourth_preference_discount": 97125
+    }
+   ]
+  },
+    "tuition_fees_2022_2023": {
+        "note": "İstanbul Sabahattin Zaim Üniversitesinde eğitim-öğretim ücrete tabidir.",
+        "details": [
+            {
+                "name": "Psikoloji",
+                "full_fee": 100526.40,
+                "currency": "TL",
+                "discounted_fee": 50263.20,
+                "discount": "50%"
+            },
+            {
+                "name": "Fizyoterapi ve Rehabilitasyon, İç Mimarlık, Beslenme ve Diyatetik, Gastronomi ve Mutfak Sanatları",
+                "full_fee": 78624,
+                "currency": "TL",
+                "discounted_fee": 39312,
+                "discount": "50%"
+            },
+            {
+                "name": "Siyaset Bilimi ve Kamu Yönetimi, Uluslararası İlişkiler, İşletme, Havacılık Yönetimi",
+                "discount": "50%",
+                "discounted_fee": 36504,
+                  "currency": "TL"
+            },
+            {
+                "name": "Endüstri Mühendisliği, İnşaat Mühendisliği, Bilgisayar Mühendisliği",
+                "discount": "50%",
+                "discounted_fee": 28080,
+                  "currency": "TL"
+            },
+            {
+                "name": "Radyo Televizyon ve Sinema",
+                "full_fee": 56160,
+                "currency": "TL",
+                "discounted_fee": 28080,
+                "discount": "50%"
+            },
+            {
+                "name": "Mimarlık",
+                "discount": "50%",
+                 "currency": "TL",
+                "discounted_fee": 39312
+            },
+            {
+                "name": "İlk ve Acil Yardım, Anestezi, Fizyoterapi",
+                "full_fee": 55080,
+                "currency": "TL",
+                "discounted_fee": 41310,
+                "discount": "25%"
+            },
+            {
+                "name": "Tıbbi Dökümantasyon ve Sekreterlik, Odyometri, Çocuk Gelişimi, Diş Protez Teknolojisi, Elektronörofizyoloji, Patoloji Laboratuvar Teknikleri, Ameliyathane Hizmetleri, Radyoterapi, Tıbbi Görüntüleme Teknikleri, Tıbbi Laboratuvar Teknikleri, Ağız ve Diş Sağlığı, Diyaliz",
+                "full_fee": 55080,
+                "currency": "TL",
+                "discounted_fee": 27540,
+                "discount": "50%"
+            },
+            {
+                "name": "Uçak Teknolojisi, Aşçılık, İç Mekan Tasarımı, Bilgisayar Programcılığı, Sivil Havacılık Kabin Hizmetleri, Grafik Tasarımı, Sivil Hava Ulaştırma İşletmeciliği, Spor Yönetimi, Adalet",
+                "full_fee": 51508,
+                "currency": "TL",
+                "discounted_fee": 25704,
+                "discount": "50%"
+            },
+             {
+                "name": "Evde Hasta Bakım",
+                 "currency": "TL",
+                "discounted_fee": 27540,
+                "discount": "50%"
+            },
+           {
+                "name": "Pastacılık ve Ekmekçilik",
+                "discounted_fee": 25704,
+                "currency": "TL",
+                "discount": "50%"
+            }
+        ]
+    }
+}

@@ -1,0 +1,218 @@
+{
+  "university": {
+    "name": "Özyeğin Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "Özyeğin Üniversitesi’nde öğretim ücrete tabidir. 2025-2026 akademik yılında, güz ve bahar dönemlerini kapsayan KDV dahil yıllık öğrenim ücreti;\nİngilizce Hazırlık Programı: Programın öğrenim ücreti ile aynıdır."
+    },
+    {
+      "academic_year": "2025-2026",
+      "departments": [
+        {
+          "name": "Otel Yöneticiliği",
+          "annual_fee": {
+            "amount": 845600.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Gastronomi Ve Mutfak Sanatları",
+          "annual_fee": {
+            "amount": 991400.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Havacılık Yönetimi",
+          "annual_fee": {
+            "amount": 991400.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Lisans programları (Havacılık Yönetimi, Pilotaj, Gastronomi ve Mutfak Sanatları ile Otel Yöneticiliği programları hariç.)",
+          "annual_fee": {
+            "amount": 1385000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Pilotaj",
+          "annual_fee": {
+            "amount": 1385000.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "Özyeğin Üniversitesi’nde öğretim ücrete tabidir. 2024-2025 akademik yılında, güz ve bahar dönemlerini kapsayan KDV dahil yıllık öğrenim ücreti;"
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "İşletme Fakültesi",
+      "departments": [
+        {
+          "name": "İşletme, Ekonomi, Girişimcilik, Uluslararası Finans, Uluslararası Ticaret ve İşletmecilik, Yönetim Bilişim Sistemleri",
+          "annual_fee": {
+            "amount": 950000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 475000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Mimarlık ve Tasarım Fakültesi",
+      "departments": [
+        {
+          "name": "Mimarlık (Türkçe), Mimarlık (İngilizce), İç Mimarlık ve Çevre Tasarımı, İletişim ve Tasarımı, Endüstriyel Tasarım",
+          "annual_fee": {
+            "amount": 950000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 475000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Mühendislik Fakültesi",
+      "departments": [
+        {
+          "name": "Bilgisayar, Elektrik-Elektronik, Endüstri, İnşaat, Makina, Yapay Zeka ve Veri Mühendisliği",
+          "annual_fee": {
+            "amount": 950000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 475000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Hukuk Fakültesi",
+      "departments": [
+        {
+          "name": "Hukuk",
+          "annual_fee": {
+            "amount": 950000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 475000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Sosyal Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "Psikoloji, Uluslararası İlişkiler, Antropoloji",
+          "annual_fee": {
+            "amount": 950000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 475000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Havacılık ve Uzay Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Havacılık Yönetimi",
+          "annual_fee": {
+            "amount": 680000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 340000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        },
+         {
+          "name": "Pilotaj",
+          "annual_fee": {
+            "amount": 950000,
+            "currency": "TL"
+          },
+        }
+      ]
+    },
+        {
+      "academic_year": "2024-2025",
+      "faculty": "Uygulamalı Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "Gastronomi ve Mutfak Sanatları",
+          "annual_fee": {
+            "amount": 680000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 340000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        },
+         {
+          "name": "Otel Yöneticiliği",
+             "discounted_annual_fee": {
+            "amount": 290000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2023-2024",
+      "description": "Özyeğin Üniversitesi’nde öğretim ücrete tabidir. 2023-2024 akademik yılında, güz ve bahar dönemlerini kapsayan KDV dahil yıllık öğrenim ücreti;\nİşletme Fakültesi\t(Ücretli) 475.000 TL\nMühendislik Fakültesi\t(Ücretli) 475.000 TL\nHukuk Fakültesi\t(Ücretli) 475.000 TL\nSosyal Bilimler Fakültesi\t(Ücretli) 475.000 TL\nHavacılık ve Uzay Bilimleri Fakültesi (Havacılık Yönetimi)\t(Ücretli) 340.000 TL\nHavacılık ve Uzay Bilimleri Fakültesi (Pilotaj)\t(Ücretli) 382.000 TL\nUygulamalı Bilimler Yüksekokulu (Gastronomi ve Mutfak Sanatları)\t(Ücretli) 340.000 TL\nUygulamalı Bilimler Yüksekokulu (Otel Yöneticiliği)\t(Ücretli) 290.000 TL"
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "Yerleşme başarı sırası bursu",
+      "Gençlik ve Spor Bakanlığı Mutabakatı Milli Sporcu Bursu",
+      "ÖZÜ spor bursu",
+      "FİBA/ÖZÜ çalışan indirimi",
+      "aile indirimi"
+    ]
+  },
+  "dormitory_fees": null
+}

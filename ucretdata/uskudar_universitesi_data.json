@@ -1,0 +1,896 @@
+{
+  "university": {
+    "name": "Üsküdar Üniversitesi",
+    "url": "https://uskudar.edu.tr/tr/online-odeme-ve-sozlesme-onaylama",
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "İletişim Fakültesi"
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "İletişim Fakültesi",
+      "departments": [
+        {
+          "name": "Çizgi Film ve Animasyon",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 293600,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Görsel İletişim Tasarımı",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 311950,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Halkla İlişkiler ve Tanıtım",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 212750,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yeni Medya ve İletişim",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 306375,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yeni Medya ve İletişim (İngilizce)",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 306375,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Radyo, Televizyon ve Sinema",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 293600,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Reklamcılık",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 175625,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Gazetecilik",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 98135,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "description": "İnsan ve Toplum Bilimleri Fakültesi"
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Psikoloji",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "35% İndirimli",
+          "annual_fee": {
+            "amount": 643500,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 990000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+        {
+          "name": "Psikoloji (İngilizce)",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "35% İndirimli",
+          "annual_fee": {
+            "amount": 643500,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 990000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+        {
+          "name": "Felsefe",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 140800,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sosyoloji",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 234875,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce)",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 245100,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Siyaset Bilimi ve Uluslararası İlişkiler",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 245100,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tarih",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 165300,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İngilizce Mütercim ve Tercümanlık",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 359025,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 339075,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "description": "Mühendislik ve Doğa Bilimleri Fakültesi"
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Adli Bilimler",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 410625,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 821250,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+        {
+          "name": "Bilgisayar Mühendisliği",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 448200,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 896400,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+        {
+          "name": "Biyomühendislik (İngilizce)",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 176800,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Elektrik-Elektronik Mühendisliği",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 234875,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 390475,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Kimya Mühendisliği (ingilizce)",
+          "discounted_annual_fee": {
+            "amount": 247000,
+            "currency": "TL",
+            "discount": "%50 İndirimli"
+          }
+        },
+        {
+          "name": "Moleküler Biyoloji ve Genetik",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 439275,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Moleküler Biyoloji Ve Genetik (İngilizce)",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 439275,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yazılım Mühendisliği",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 448200,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 896400,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "description": "Sağlık Bilimleri Fakültesi"
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Sağlık Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Beslenme ve Diyetetik",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 359025,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 718050,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+        {
+          "name": "Çocuk Gelişimi",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 359025,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 718050,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+        {
+          "name": "Ebelik",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 359025,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 718050,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+        {
+          "name": "Ergoterapi",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 330300,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Fizyoterapi ve Rehabilitasyon",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 359025,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 718050,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+        {
+          "name": "Hemşirelik",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 359025,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 718050,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+        {
+          "name": "İş Sağlığı Ve Güvenliği",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 204550,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Odyoloji",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 287225,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Perfüzyon",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 206600,
+            "currency": "TL"
+          }
+        },
+          {
+          "name": "Sağlık Yönetimi",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 204525,
+            "currency": "TL"
+          }
+        },
+         {
+          "name": "Sosyal Hizmet",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 204525,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Tıp Fakültesi",
+      "departments": [
+        {
+          "name": "Tıp (Türkçe)",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "25% İndirimli",
+          "annual_fee": {
+            "amount": 1084538,
+            "currency": "TL"
+          },
+          "tuition_type_50": "Peşin Ödeme",
+          "discount_50": "50% İndirimli",
+             "annual_fee_50": {
+            "amount": 723025,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 1446050,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+                {
+          "name": "Tıp Fakültesi (İngilizce)",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "25% İndirimli",
+          "annual_fee": {
+            "amount": 1084538,
+            "currency": "TL"
+          },
+          "tuition_type_50": "Peşin Ödeme",
+          "discount_50": "50% İndirimli",
+             "annual_fee_50": {
+            "amount": 723025,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 1446050,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Diş Hekimliği Fakültesi",
+      "departments": [
+        {
+          "name": "Diş Hekimliği (Türkçe)",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "25% İndirimli",
+          "annual_fee": {
+            "amount": 930833,
+            "currency": "TL"
+          },
+            "tuition_type_50": "Peşin Ödeme",
+          "discount_50": "50% İndirimli",
+             "annual_fee_50": {
+            "amount": 620555,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 1241110,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+         {
+          "name": "Diş Hekimliği Fakültesi (İngilizce)",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "25% İndirimli",
+          "annual_fee": {
+            "amount": 930833,
+            "currency": "TL"
+          },
+            "tuition_type_50": "Peşin Ödeme",
+          "discount_50": "50% İndirimli",
+             "annual_fee_50": {
+            "amount": 620555,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 1241110,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "departments": [
+         {
+          "name": "Acil Durum ve Afet Yönetimi",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 204525,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Ağız ve Diş Sağlığı",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 251135,
+            "currency": "TL"
+          },
+               "discount_25": "25% İndirimli",
+           "annual_fee_25": {
+            "amount": 376703,
+            "currency": "TL"
+          },
+             "annual_fee_full": {
+            "amount": 502270,
+            "currency": "TL",
+              "description": "Ücretli"
+          }
+        },
+             {
+          "name": "Ameliyathane Hizmetleri",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 251135,
+            "currency": "TL"
+          },
+                 "discount_25": "25% İndirimli",
+           "annual_fee_25": {
+            "amount": 376703,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 502270,
+            "currency": "TL",
+              "description": "Ücretli"
+          }
+        },
+                  {
+          "name": "Anestezi",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 251135,
+            "currency": "TL"
+          },
+                "discount_25": "25% İndirimli",
+           "annual_fee_25": {
+            "amount": 376703,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 502270,
+            "currency": "TL",
+              "description": "Ücretli"
+          }
+        },
+                                  {
+          "name": "Biyomedikal Cihaz Teknolojisi",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 204525,
+            "currency": "TL"
+          }
+        },
+                                        {
+          "name": "Çevre Sağlığı",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 204525,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Çocuk Gelişimi",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 218800,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Diş Protez Teknolojisi",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 251135,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Diyaliz",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 218800,
+            "currency": "TL"
+          }
+        },
+            {
+          "name": "Eczane Hizmetleri",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 251135,
+            "currency": "TL"
+          },
+           "discount_25": "25% İndirimli",
+           "annual_fee_25": {
+            "amount": 376703,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 502270,
+            "currency": "TL",
+              "description": "Ücretli"
+          }
+        },
+                {
+          "name": "Elektronörofizyoloji",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 218800,
+            "currency": "TL"
+          }
+        },
+                 {
+          "name": "Engelli Bakımı ve Rehabilitasyonu",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 65005,
+            "currency": "TL"
+          }
+        },
+                {
+          "name": "Evde Hasta Bakımı",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 65005,
+            "currency": "TL"
+          }
+        },
+                {
+          "name": "Fizyoterapi",
+          "tuition_type": "Peşin Ödeme",
+               "discount_25": "25% İndirimli",
+           "annual_fee_25": {
+            "amount": 246150,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 437600,
+            "currency": "TL",
+              "description": "Ücretli"
+          }
+        },
+        {
+          "name": "Gıda Teknolojisi",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 107945,
+            "currency": "TL"
+          }
+        },
+                {
+          "name": "İş Sağlığı ve Güvenliği",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 107945,
+            "currency": "TL"
+          }
+        },
+                {
+          "name": "Laboratuvar Teknolojisi",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 107945,
+            "currency": "TL"
+          }
+        },
+               {
+          "name": "Nükleer Teknoloji ve Radyasyon Güvenliği",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 65005,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Odyometri",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 115475,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Optisyenlik",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 251135,
+            "currency": "TL"
+          },
+           "discount_25": "25% İndirimli",
+           "annual_fee_25": {
+            "amount": 376703,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 502270,
+            "currency": "TL",
+              "description": "Ücretli"
+          }
+        },
+             {
+          "name": "Ortopedik Protez ve Ortez",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 107945,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Otopsi Yardımcılığı",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 107945,
+            "currency": "TL"
+          }
+        },
+                {
+          "name": "Patoloji Laboratuvar Teknikleri",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 107945,
+            "currency": "TL"
+          }
+        },
+                         {
+          "name": "Radyoterapi",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 115475,
+            "currency": "TL"
+          }
+        },
+                         {
+          "name": "Saç Bakımı ve Güzellik Hizmetleri",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 107945,
+            "currency": "TL"
+          }
+        },
+                                 {
+          "name": "Sağlık Bilgi Sistemleri Teknikerliği",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 107945,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sağlık Kurumları İşletmeciliği",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 107945,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sosyal Güvenlik",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 107945,
+            "currency": "TL"
+          }
+        },
+         {
+          "name": "Sosyal Hizmetler",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 107945,
+            "currency": "TL"
+          }
+        },
+         {
+          "name": "Tıbbi Dokümantasyon ve Sekreterlik",
+          "tuition_type": "Peşin Ödeme",
+            "discount": "50% İndirimli",
+              "annual_fee": {
+            "amount": 125515,
+            "currency": "TL"
+          },
+            "discount_25": "25% İndirimli",
+           "annual_fee_25": {
+            "amount": 213375,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 251030,
+            "currency": "TL",
+              "description": "Ücretli"
+          }
+        },
+                {
+          "name": "Tıbbi Görüntüleme Teknikleri",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 125515,
+            "currency": "TL"
+          },
+               "discount_25": "25% İndirimli",
+           "annual_fee_25": {
+            "amount": 213375,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 251030,
+            "currency": "TL",
+              "description": "Ücretli"
+          }
+        },
+          {
+          "name": "Tıbbi Laboratuvar Teknikleri",
+          "tuition_type": "Peşin Ödeme",
+          "discount": "50% İndirimli",
+          "annual_fee": {
+            "amount": 132545,
+            "currency": "TL"
+          },
+                   "discount_25": "25% İndirimli",
+           "annual_fee_25": {
+            "amount": 198815,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 502270,
+            "currency": "TL",
+              "description": "Ücretli

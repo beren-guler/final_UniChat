@@ -1,0 +1,170 @@
+{
+  "university": {
+    "name": "Yaşar Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "program_type": "İngilizce Hazırlık Programı",
+      "annual_fee": {
+        "amount": 720000.00,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Lisans programları",
+      "annual_fee": {
+        "amount": 720000.00,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Ön lisans Programları",
+      "annual_fee": {
+        "amount": 330000.00,
+        "currency": "TL"
+      }
+    },
+        {
+      "academic_year": "2024-2025",
+      "faculty": "Hazırlık Sınıfı",
+      "departments": [
+        {
+          "name": "Hazırlık Sınıfı",
+          "annual_fee": {
+            "amount": 430000,
+            "currency": "TL",
+            "description": "Ücretli"
+          },
+          "discounted_annual_fee": {
+            "amount": 322500,
+            "currency": "TL",
+            "discount": "25% İndirimli"
+          },
+          "discounted_annual_fee_50": {
+            "amount": 215000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+        {
+      "academic_year": "2024-2025",
+      "faculty": "Tüm Fakülteler",
+      "departments": [
+        {
+          "name": "Tüm Fakülteler",
+          "annual_fee": {
+            "amount": 430000,
+            "currency": "TL",
+            "description": "Ücretli"
+          },
+          "discounted_annual_fee": {
+            "amount": 322500,
+            "currency": "TL",
+            "discount": "25% İndirimli"
+          },
+          "discounted_annual_fee_50": {
+            "amount": 215000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+        {
+      "academic_year": "2024-2025",
+      "faculty": "Gastronomi ve Mutfak Sanatları Bölümü",
+      "departments": [
+        {
+          "name": "Gastronomi ve Mutfak Sanatları Bölümü",
+          "annual_fee": {
+            "amount": 430000,
+            "currency": "TL",
+            "description": "Ücretli"
+          },
+          "discounted_annual_fee": {
+            "amount": 322500,
+            "currency": "TL",
+            "discount": "25% İndirimli"
+          },
+          "discounted_annual_fee_50": {
+            "amount": 215000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+       {
+      "academic_year": "2024-2025",
+      "faculty": "Uygulamalı Bilimler Yüksekokulu",
+      "departments": [
+        {
+          "name": "Uygulamalı Bilimler Yüksekokulu",
+          "annual_fee": {
+            "amount": 395000,
+            "currency": "TL",
+            "description": "Ücretli"
+          },
+          "discounted_annual_fee": {
+            "amount": 296250,
+            "currency": "TL",
+            "discount": "25% İndirimli"
+          },
+          "discounted_annual_fee_50": {
+            "amount": 197500,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+           {
+      "academic_year": "2024-2025",
+      "faculty": "Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Meslek Yüksekokulu",
+          "annual_fee": {
+            "amount": 170000,
+            "currency": "TL",
+            "description": "Ücretli"
+          },
+          "discounted_annual_fee": {
+            "amount": 127500,
+            "currency": "TL",
+            "discount": "25% İndirimli"
+          },
+          "discounted_annual_fee_50": {
+            "amount": 85000,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2023-2024",
+      "description": "Yaşar Üniversitesi’nde eğitim-öğretim ücretlidir. 2023-2024 eğitim ve öğretim yılında öğrenim ücreti;\nTüm fakülteler, Gastronomi ve Mutfak Sanatları Bölümü, Hazırlık sınıfı: 210.000 TL (%50 İndirimli) : 105.000 TL (%25 İndirimli) : 157.500 TL\nUygulamalı Bilimler Yüksekokulu: 200.000 TL (%50 İndirimli) :100.000 TL (%25 İndirimli) : 150.000 TL\nAdalet Meslek Yüksekokulu: 87.000TL (%50 İndirimli) : 43.500 TL (%25 İndirimli) : 65.250 TL\nMeslek Yüksekokulu : 85.000 TL (%50 İndirimli) : 42.500 TL (%25 İndirimli) : 63.750 TL"
+    },
+     {
+      "academic_year": "2022-2023",
+        "description": "Yaşar Üniversitesi’nde eğitim-öğretim ücretlidir. 2022-2023 eğitim ve öğretim yılında öğrenim ücreti;\nHazırlık sınıfı: 97.500 TL (*),\nTüm fakülteler: 97.500 TL,\nUygulamalı Bilimler Yüksekokulu: 94.000 TL,\nGastronomi ve Mutfak Sanatları Bölümü: 97.500 TL,\nMeslek Yüksekokulu: 43.000 TL,\nAdalet Meslek Yüksekokulu: 44.000 TL"
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "ÖSYM bursu",
+      "akademik başarı bursu",
+      "yetenek bursu",
+      "barınma bursu"
+    ]
+  },
+  "dormitory_fees": null
+}

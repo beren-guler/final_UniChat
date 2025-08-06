@@ -1,0 +1,353 @@
+{
+  "university": {
+    "name": "İstanbul Okan Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "Eczacılık Fakültesi",
+        "full_fee": 1275945.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Diş Hekimliği Fakültesi",
+        "full_fee": 1361789.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tıp Fakültesi",
+        "full_fee": 1434125.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Hukuk Fakültesi",
+        "full_fee": 1013100.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Eğitim Fakültesi Programları",
+        "full_fee": 921690.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İşletme Ve Yönetim Bilimleri Fakültesi Programları",
+        "full_fee": 921690.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sağlık Bilimleri Fakültesi Diğer Programları",
+        "full_fee": 921690.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Çocuk Gelişimi (Sağlık Bilimleri Fakültesi)",
+        "full_fee": 757350.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Hemşirelik (Sağlık Bilimleri Fakültesi)",
+        "full_fee": 757350.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mimarlık",
+        "full_fee": 985050.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sanat, Tasarım Ve Mimarlık Fakültesi Diğer Programları",
+        "full_fee": 921690.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Spor Yöneticiliği",
+        "full_fee": 757350.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Uygulamalı Bilimler Fakültesi Diğer Programları",
+        "full_fee": 921690.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mühendislik Ve Doğa Bilimleri Fakültesi Programları",
+        "full_fee": 985050.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Psikoloji",
+        "full_fee": 1013100.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mütercim-Tercümanlık",
+        "full_fee": 921690.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Konservatuvar",
+        "full_fee": 664290.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Meslek Yüksekokulu Programları",
+        "full_fee": 438845.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İş Sağlığı Ve Güvenliği (Uzaktan Öğretim)",
+        "full_fee": 224950.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Dış Ticaret (İngilizce)",
+        "full_fee": 466290.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sivil Hava Ulaştırma İşletmeciliği (İngilizce)",
+        "full_fee": 466290.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sivil Havacılık Kabin Hizmetleri (İngilizce)",
+        "full_fee": 466290.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sağlık Hizmetleri Meslek Yüksekokulu Programları",
+        "full_fee": 466290.00,
+        "currency": "TL"
+      },
+        {
+         "name": "Pilotaj",
+         "full_fee": 912690.00,
+         "currency": "TL"
+      }
+    ]
+  },
+  "tuition_fees_2024_2025":{
+   "details": "Tam ücretli programa ilk 3 tercihten yerleşenler %25 indirim elde eder. %50 indirimli programa ilk 3 tercihten yerleşenler +%10 indirim elde eder.",
+   "currency": "TL"
+  },
+  "discounts_and_additional_fees": {
+    "Pilotaj": {
+      "note": "Tam ücretli programa ilk tercihten yerleşenler eğitim ücreti üzerinden %10 indirim elde eder. (Uçuş ücreti 1. sınıftan itibaren 4 yıl ödenmektedir.)",
+      "ucus_ucreti": "16.250 Euro (KDV hariç)",
+      "tercih_indirimli_ucret": "407.624TL"
+    }
+  },
+  "tuition_fees_2023_2024": {
+   "description": "İstanbul Okan Üniversitesinde eğitim ücrete tabidir.",
+   "currency": "TL",
+   "details": "Tam ücretli programa ilk 3 tercihten yerleşenler %25 indirim elde eder. %50 indirimli programa ilk 3 tercihten yerleşenler +%10 indirim elde eder."
+  },
+   "tuition_fees_2022_2023": {
+    "description": "İstanbul Okan Üniversitesinde eğitim ücrete tabidir. 2022 – 2023 eğitim-öğretim yılında bir yıllık eğitim ücreti;",
+    "programs": [
+      {
+        "name": "Uluslararası Tıp Fakültesi",
+        "full_fee": 178200,
+        "currency": "TL"
+      },
+      {
+        "name": "Tıp Fakültesi",
+        "full_fee": 157680,
+        "currency": "TL"
+      },
+      {
+        "name": "Diş Hekimliği Fakültesi",
+        "full_fee": 157680,
+        "currency": "TL"
+      },
+      {
+        "name": "Eczacılık Fakültesi",
+        "full_fee": 142560,
+        "currency": "TL"
+      },
+      {
+        "name": "Hukuk Fakültesi",
+        "full_fee": 97200,
+        "currency": "TL"
+      },
+      {
+        "name": "Mühendislik ve Doğa Bilimleri Fakültesi",
+        "full_fee": 76680,
+        "currency": "TL"
+      },
+      {
+        "name": "Sağlık Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "Fizyoterapi ve Rehabilitasyon Programı, Beslenme ve Diyetetik Programı ve Odyoloji Programı",
+            "full_fee": 76680,
+            "currency": "TL"
+          },
+          {
+            "name": "Çocuk Gelişimi Programı",
+            "full_fee": 68040,
+            "currency": "TL"
+          },
+          {
+            "name": "Dil ve Konuşma Terapisi Programı ile Hemşirelik Programı",
+            "full_fee": 62640,
+            "currency": "TL"
+          },
+          {
+            "name": "Ergoterapi Programı ile Ortez ve Protez Programı",
+            "full_fee": 59400,
+            "currency": "TL"
+          },
+          {
+            "name": "Ebelik Programı",
+            "full_fee": 57240,
+            "currency": "TL"
+          },
+          {
+            "name": "Sosyal Hizmet Programı",
+            "full_fee": 49680,
+            "currency": "TL"
+          },
+          {
+            "name": "Sağlık Yönetimi Programı",
+            "full_fee": 42120,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "name": "İnsan ve Toplum Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "Psikoloji Programı",
+            "full_fee": 62640,
+            "currency": "TL"
+          },
+          {
+            "name": "Siyaset Bilimi ve Uluslararası İlişkiler Programı ile Siyaset Bilimi ve Kamu Yönetimi Programı",
+            "full_fee": 54000,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "name": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+        "programs": [
+          {
+            "name": "Mimarlık Programı",
+            "full_fee": 86400,
+            "currency": "TL"
+          },
+          {
+            "name": "Gastronomi ve Mutfak Sanatları Programı ile İç Mimarlık ve Çevre Tasarımı Programı",
+            "full_fee": 74520,
+            "currency": "TL"
+          },
+          {
+            "name": "Kentsel Tasarım ve Peyzaj Mimarlığı Programı, Endüstriyel Tasarım Programı ile Görsel İletişim Tasarımı Programı",
+            "full_fee": 54000,
+            "currency": "TL"
+          },
+          {
+            "name": "Türk Müziği Programı",
+            "full_fee": 43200,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "name": "Eğitim Fakültesi",
+        "programs": [
+          {
+            "name": "tüm programları",
+            "full_fee": 70200,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "name": "İletişim Fakültesi",
+        "programs": [
+          {
+            "name": "tüm programları",
+            "full_fee": 59400,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "name": "İşletme ve Yönetim Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "tüm programları",
+            "full_fee": 54000,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "name": "Sağlık Bilimleri Yüksekokulu",
+        "programs": [
+          {
+            "name": "Beslenme ve Diyetetik Programı ile Fizyoterapi ve Rehabilitasyon Programı",
+            "full_fee": 71280,
+            "currency": "TL"
+          },
+          {
+            "name": "Odyoloji Programı ile Çocuk Gelişimi Programı",
+            "full_fee": 63720,
+            "currency": "TL"
+          },
+          {
+            "name": "Ebelik Programı",
+            "full_fee": 52920,
+            "currency": "TL"
+          },
+          {
+            "name": "Sosyal Hizmet Programı",
+            "full_fee": 47520,
+            "currency": "TL"
+          }
+        ]
+      },
+       {
+        "name": "Adalet Meslek Yüksekokulu",
+         "programs": [
+          {
+           "name": "Adalet Programı (birinci öğretimi)",
+           "full_fee": 63720,
+           "currency": "TL"
+          },
+          {
+           "name": "Adalet Programı (ikinci öğretimi)",
+           "full_fee": 57240,
+           "currency": "TL"
+          }
+         ]
+       },
+         {
+        "name": "Meslek Yüksekokulu ile Sağlık Hizmetleri Meslek Yüksekokulu",
+         "programs": [
+          {
+           "name": "tüm birinci öğretim programları",
+           "full_fee": 47500,
+           "currency": "TL"
+          }
+         ]
+       },
+        {
+        "name": "Sosyal Bilimler Meslek Yüksekokulu",
+         "programs": [
+          {
+           "name": "tüm birinci öğretim programları",
+           "full_fee": 43200,
+           "currency": "TL"
+          }
+         ]
+       }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "university": {
+    "name": "Hasan Kalyoncu Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": {
+      "annual_fee": [
+        {
+          "program": "İngilizce Hazırlık Programı",
+          "amount": 605000,
+          "currency": "TL"
+        },
+        {
+          "program": "Eğitim Fakültesi Programları",
+          "amount": 605000,
+          "currency": "TL"
+        },
+        {
+          "program": "Güzel Sanatlar Ve Mimarlık Fakültesi Programları",
+          "amount": 605000,
+          "currency": "TL"
+        },
+        {
+          "program": "Havacılık Ve Uzay Bilimleri Fakültesi Programları",
+          "amount": 605000,
+          "currency": "TL"
+        },
+        {
+          "program": "İktisadi, İdari Ve Sosyal Bilimler Fakültesi Programları",
+          "amount": 605000,
+          "currency": "TL"
+        },
+        {
+          "program": "İletişim Fakültesi Programları",
+          "amount": 605000,
+          "currency": "TL"
+        },
+        {
+          "program": "Mühendislik Fakültesi Programları",
+          "amount": 605000,
+          "currency": "TL"
+        },
+        {
+          "program": "Sağlık Bilimleri Fakültesi Programları",
+          "amount": 605000,
+          "currency": "TL"
+        },
+        {
+          "program": "Turizm Fakültesi Programları",
+          "amount": 605000,
+          "currency": "TL"
+        },
+        {
+          "program": "Hukuk Fakültesi Programları",
+          "amount": 825000,
+          "currency": "TL"
+        },
+        {
+          "program": "Meslek Yüksekokulu",
+          "amount": 385000,
+          "currency": "TL"
+        }
+      ]
+    }
+  },
+    "tuition_fees_2024_2025": {
+    "academic_year": "2024-2025",
+    "new_students": {
+      "annual_fee": [
+        {
+          "program": "Hukuk Fakültesi",
+          "amount": 350000,
+          "currency": "TL",
+          "kdv": "Yes"
+        },
+        {
+          "program": "Eğitim Fakültesi",
+          "amount": 250000,
+          "currency": "TL",
+           "kdv": "Yes"
+        },
+        {
+          "program": "Güzel Sanatlar ve Mimarlık Fakültesi",
+          "amount": 250000,
+          "currency": "TL",
+           "kdv": "Yes"
+        },
+        {
+          "program": "Havacılık ve Uzay Bilimleri Fakültesi",
+          "amount": 250000,
+          "currency": "TL",
+           "kdv": "Yes"
+        },
+        {
+          "program": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+          "amount": 250000,
+          "currency": "TL",
+           "kdv": "Yes"
+        },
+        {
+          "program": "İletişim Fakültesi",
+          "amount": 250000,
+          "currency": "TL",
+           "kdv": "Yes"
+        },
+        {
+          "program": "Sosyal Bilimler Fakültesi",
+          "amount": 250000,
+          "currency": "TL",
+           "kdv": "Yes"
+        },
+        {
+          "program": "Meslek Yüksekokul",
+          "amount": 150000,
+          "currency": "TL",
+           "kdv": "Yes"
+        },
+        {
+          "program": "Yabancı Diller Yüksekokulu",
+          "amount": 250000,
+          "currency": "TL",
+           "kdv": "Yes"
+        }
+      ]
+    }
+  },
+  "tuition_fees_2023_2024": {
+    "academic_year": "2023-2024",
+    "new_students": {
+      "annual_fee": [
+        {
+          "program": "Eğitim Fakültesi – Güzel Sanatlar ve Mimarlık Fakültesi – İktisadi, İdari ve Sosyal Bilimler Fakültesi – İletişim Fakültesi ile Mühendislik Fakültesi tüm programları",
+          "amount": 138000,
+          "currency": "TL"
+        },
+        {
+          "program": "Hukuk Fakültesi",
+          "amount": 198000,
+          "currency": "TL"
+        },
+                {
+          "program": "Havacılık ve Uzay Bilimleri Fakültesi",
+          "amount": 138000,
+          "currency": "TL"
+        },
+                {
+          "program": "Sağlık Bilimleri Fakültesi Beslenme ve Diyetetik programı ile Fizyoterapi ve Rehabilitasyon programı",
+          "amount": 138000,
+          "currency": "TL"
+        },
+                        {
+          "program": "Hemşirelik programı",
+          "amount": 108000,
+          "currency": "TL"
+        },
+                                {
+          "program": "Turizm Fakültesi",
+          "amount": 138000,
+          "currency": "TL"
+        },
+        {
+          "program": "Yabancı Diller Yüksekokulu",
+          "amount": 138000,
+          "currency": "TL"
+        },
+        {
+          "program": "Meslek Yüksekokulu tüm programları",
+          "amount": 78000,
+          "currency": "TL"
+        }
+      ]
+    }
+  },
+   "tuition_fees_2022_2023": {
+    "academic_year": "2022-2023",
+    "new_students": {
+      "annual_fee": [
+        {
+          "program": "Eğitim Fakültesi – Güzel Sanatlar ve Mimarlık Fakültesi – İktisadi, İdari ve Sosyal Bilimler Fakültesi – İletişim Fakültesi ile Mühendislik Fakültesi tüm programları",
+          "amount": 68000,
+          "currency": "TL"
+        },
+        {
+          "program": "Hukuk Fakültesi",
+          "amount": 98000,
+          "currency": "TL"
+        },
+        {
+           "program": "Sağlık Bilimleri Fakültesi Beslenme ve Diyetetik programı ile Fizyoterapi ve Rehabilitasyon programı",
+          "amount": 68000,
+          "currency": "TL"
+        },
+         {
+           "program": "Hemşirelik programı",
+          "amount": 54000,
+          "currency": "TL"
+        },
+         {
+           "program": "Meslek Yüksekokulu tüm programları",
+          "amount": 38000,
+          "currency": "TL"
+        }
+      ]
+    }
+  },
+  "scholarships": {
+    "available": true,
+    "types": ["Yerleşme sıralaması ve tercih bursu", "bilim insanı bursu", "aile bursu", "sporcu bursu"]
+  },
+  "dormitory_fees": null
+}

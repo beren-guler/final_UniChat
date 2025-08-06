@@ -1,0 +1,442 @@
+{
+  "university": {
+    "name": "İstanbul Sağlık ve Teknoloji Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "kurumlararasi_yatay_gecis_ucretleri": true,
+    "faculty_programs": [
+      {
+        "faculty": "TIP FAKÜLTESİ",
+        "programs": [
+          {
+            "name": "Tıp (Türkçe)",
+            "discounted_fee": 485514,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Tıp (İngilizce)",
+            "discounted_fee": 485514,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "DİŞ HEKİMLİĞİ FAKÜLTESİ",
+        "programs": [
+          {
+            "name": "Diş Hekimliği (Türkçe)",
+            "discounted_fee": 458541,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Diş Hekimliği (İngilizce)",
+            "discounted_fee": 458541,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "ECZACILIK FAKÜLTESİ",
+        "programs": [
+          {
+            "name": "Eczacılık (Türkçe)",
+            "discounted_fee": 404595,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Eczacılık (İngilizce)",
+            "discounted_fee": 404595,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+        "programs": [
+          {
+            "name": "Bilgisayar Mühendisliği (Türkçe)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Bilgisayar Mühendisliği (İngilizce)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Endüstri Mühendisliği (Türkçe)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Endüstri Mühendisliği (İngilizce)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Endüstriyel Tasarım Mühendisliği",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Kimya Mühendisliği (Türkçe)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Kimya Mühendisliği (İngilizce)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Makine Mühendisliği (Türkçe)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Makine Mühendisliği (İngilizce)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Mekatronik Mühendisliği (Türkçe)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Mekatronik Mühendisliği (İngilizce)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Mimarlık (Türkçe)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Moleküler Biyoloji ve Genetik (Türkçe)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Yazılım Mühendisliği (Türkçe)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Yazılım Mühendisliği (İngilizce)",
+            "discounted_fee": 318985,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+        "programs": [
+          {
+            "name": "Beslenme ve Diyetetik (Türkçe)",
+            "discounted_fee": 242757,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Fizyoterapi ve Rehabilitasyon (Türkçe)",
+            "discounted_fee": 229271,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Hemşirelik (Türkçe)",
+            "discounted_fee": 242757,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+        "programs": [
+          {
+            "name": "İngilizce Mütercim ve Tercümanlık",
+            "discounted_fee": 215784,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "İşletme (Türkçe)",
+            "discounted_fee": 269730,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "İşletme (İngilizce)",
+            "discounted_fee": 269730,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Psikoloji (Türkçe)",
+            "discounted_fee": 269730,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      }
+    ]
+  },
+  "tuition_fees_2024_2025": {
+    "faculties": [
+      {
+        "name": "Tıp Fakültesi",
+        "programs": [
+          {
+            "name": "Tıp (Türkçe)",
+            "discounted_fee": 333000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Tıp (İngilizce)",
+            "discounted_fee": 333000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "name": "Diş Hekimliği Fakültesi",
+        "programs": [
+          {
+            "name": "Diş Hekimliği (Türkçe)",
+            "discounted_fee": 314500,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Diş Hekimliği (İngilizce)",
+            "discounted_fee": 314500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "name": "Eczacılık Fakültesi",
+        "programs": [
+          {
+            "name": "Eczacılık (Türkçe)",
+            "discounted_fee": 277500,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Eczacılık (İngilizce)",
+            "discounted_fee": 277500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "name": "Mühendislik ve Doğa Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "Bilgisayar Mühendisliği (Türkçe)",
+            "discounted_fee": 218783,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Bilgisayar Mühendisliği (İngilizce)",
+            "discounted_fee": 218783,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Endüstri Mühendisliği (Türkçe)",
+            "discounted_fee": 218783,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Endüstri Mühendisliği (İngilizce)",
+            "discounted_fee": 218783,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Yazılım Mühendisliği (Türkçe)",
+            "discounted_fee": 218783,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Yazılım Mühendisliği (İngilizce)",
+            "discounted_fee": 218783,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "programs": [
+          {
+            "name": "İngilizce Mütercim ve Tercümanlık",
+            "discounted_fee": 148000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Psikoloji (Türkçe)",
+            "discounted_fee": 185000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "name": "Sağlık Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "Beslenme ve Diyetetik (Türkçe)",
+            "discounted_fee": 166500,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Fizyoterapi ve Rehabilitasyon (Türkçe)",
+            "discounted_fee": 157250,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Hemşirelik (Türkçe)",
+            "discounted_fee": 166500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      }
+    ]
+  },
+  "additional_fees": {
+    "Isteğe Bağlı Hazırlık Ücreti": "100.000 TL"
+  },
+   "tuition_fees_2023_2024": {
+   "details": "İstanbul Sağlık ve Teknoloji Üniversitesinin eğitim-öğretimi ücretlidir. 2023-2024 eğitim-öğretim yılı öğretim ücretleri;",
+   "currency": "TL",
+   "programs":[
+        {
+         "name": "Tıp (Türkçe), Tıp (İngilizce)",
+         "discounted_fee": 180000,
+         "discount": "50%"
+        },
+                {
+         "name": "Diş Hekimliği (Türkçe) ve Diş Hekimliği (İngilizce)",
+         "discounted_fee": 170000,
+         "discount": "50%"
+        },
+              {
+         "name": "Eczacılık Fakültesi (Türkçe) ve Eczacılık Fakültesi (İngilizce)",
+         "discounted_fee": 150000,
+         "discount": "50%"
+        },
+    {
+     "note":"Mühendislik ve Doğa Bilimleri Fakültesi programları",
+     "programs": [
+      "Bilgisayar Mühendisliği (Türkçe) ve Bilgisayar Mühendisliği (İngilizce)",
+      "Endüstri Mühendisliği (Türkçe) ve Endüstri Mühendisliği (İngilizce)",
+      "Kimya Mühendisliği (Türkçe) ve Kimya Mühendisliği (İngilizce)",
+      "Makine Mühendisliği (Türkçe) ve Makine Mühendisliği (İngilizce)",
+      "Mekatronik Mühendisliği (Türkçe) ve Mekatronik Mühendisliği (İngilizce)",
+      "Mimarlık (Türkçe)",
+      "Moleküler Biyoloji ve Genetik (Türkçe)",
+      "Yazılım Mühendisliği (Türkçe) ve Yazılım Mühendisliği (İngilizce)"
+     ],
+     "burs":"Burslu"
+    },
+     {
+        "note":"İktisadi, İdari ve Sosyal Bilimler Fakültesi programları",
+         "programs": [
+          "İngiliz Dili ve Edebiyatı (İngilizce)",
+          "İşletme (Türkçe) ve İşletme (İngilizce)"
+         ],
+         "burs":"Burslu"
+     },
+       {
+        "name": "Psikoloji (Türkçe)",
+        "discounted_fee": 100000,
+        "discount": "50%"
+       },
+         {
+      "name": "Sağlık Bilimleri Fakültesi",
+       "programs": [
+         {
+          "name": "Beslenme ve Diyetetik (Türkçe)",
+          "discounted_fee": 90000,
+          "discount": "50%"
+         },
+                 {
+          "name": "Fizyoterapi ve Rehabilitasyon (Türkçe)",
+          "discounted_fee": 85000,
+          "discount": "50%"
+         },
+                   {
+          "name": "Hemşirelik (Türkçe)",
+          "discounted_fee": 90000,
+          "discount": "50%"
+         }
+       ]
+     },
+            {
+              "name": "Yabancı Diller Yüksekokulu",
+               "programs": [
+          {
+                "name": "İngilizce Mütercim ve Tercümanlık",
+                "discounted_fee": 80000,
+                  "discount": "50%"
+                }
+               ]
+            },
+                  {
+              "name": "Sağlık Meslek Yüksekoku",
+               "programs": [
+          {
+                "name": "Ağız ve Diş Sağlığı (Türkçe)",
+                "discounted_fee": 50000,
+                  "discount": "50%"
+                }
+               ]
+            }
+   ]
+  },
+ "discounts_and_additional_fees":{
+        "note": "Diş Hekimliği İngilizce Program’da Tercih İndirimi İlk 5 Tercihte İstanbul Sağlık ve Teknoloji Üniversitesi’ne Yerleşen Öğrencilere Tanınacaktır.",
+          "Isteğe Bağlı Hazırlık Ücreti":"₺50.000"
+ }
+}

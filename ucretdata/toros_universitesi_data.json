@@ -1,0 +1,199 @@
+{
+  "university": {
+    "name": "Toros Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "Toros Üniversitesinde eğitim ücrete tabidir. 2025-2026 eğitim yılında KDV dahil yıllık öğrenim ücretleri:"
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Lisans Programları",
+      "departments": [
+        {
+          "name": "Mühendislik Fakültesi bölümleri",
+          "annual_fee": {
+            "amount": 502791.30,
+            "currency": "₺",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi bölümleri",
+          "annual_fee": {
+            "amount": 502791.30,
+            "currency": "₺",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Sağlık Bilimleri Fakültesi bölümleri",
+          "annual_fee": {
+            "amount": 502791.30,
+            "currency": "₺",
+            "description": "(Ücretli)"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Ön Lisans Programları",
+      "departments": [
+        {
+          "name": "Meslek Yüksekokulu Tüm Programlar",
+          "annual_fee": {
+            "amount": 274249.80,
+            "currency": "₺",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Sağlık Hizmetleri Meslek Yüksekokulu Tüm Programlar",
+          "annual_fee": {
+            "amount": 274249.80,
+            "currency": "₺",
+            "description": "(Ücretli)"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "İktisadi, İdari Ve Sosyal Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "İşletme",
+          "annual_fee": {
+            "amount": 451265.58,
+            "currency": "₺",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 502791.30,
+            "currency": "₺",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret ve Lojistik",
+          "annual_fee": {
+            "amount": 451265.58,
+            "currency": "₺",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "İngilizce Mütercim ve Tercümanlık",
+          "annual_fee": {
+            "amount": 338449.19,
+            "currency": "₺",
+            "discount": "25% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "Toros Üniversitesinde eğitim ücrete tabidir. 2024-2025 eğitim yılında KDV dahil yıllık öğrenim ücretleri:"
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Lisans Programları",
+      "departments": [
+        {
+          "name": "Mühendislik Fakültesi bölümleri",
+          "annual_fee": {
+            "amount": 313500,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi bölümleri",
+          "annual_fee": {
+            "amount": 313500,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Sağlık Bilimleri Fakültesi bölümleri",
+          "annual_fee": {
+            "amount": 313500,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "İşletme",
+          "annual_fee": {
+            "amount": 281372.73,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 313500,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret ve Lojistik",
+          "annual_fee": {
+            "amount": 281372.73,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        }
+      ]
+    },
+     {
+      "academic_year": "2024-2025",
+      "faculty": "Ön Lisans Programları",
+      "departments": [
+        {
+          "name": "Meslek Yüksekokulu Tüm Programlar",
+          "annual_fee": {
+            "amount": 171000.00,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Sağlık Hizmetleri Meslek Yüksekokulu Tüm Programlar",
+          "annual_fee": {
+            "amount": 171000.00,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        }
+      ]
+    },
+
+    {
+      "academic_year": "2023-2024",
+      "description": "Toros Üniversitesinde eğitim ücrete tabidir. 2023-2024 eğitim yılında KDV dahil yıllık öğrenim ücretleri:\nMühendislik Fakültesi bölümleri için: (Ücretli) 181.500 TL (%50 Burslu) 90.750 TL,\nGüzel Sanatlar, Tasarım ve Mimarlık Fakültesi bölümleri için: (Ücretli) 181.500 TL (%50 Burslu) 90.750 TL,\nSağlık Bilimleri Fakültesi bölümleri için: (Ücretli) 181.500 TL (%50 Burslu) 90.750 TL,\nYabancı Diller Yüksekokulu\t(Ücretli) 162.900 TL (%50 Burslu) 81.450 TL,\nMeslek Yüksekokulu Tüm Programlar (Ücretli) 99.000 TL (%50 Burslu) 49.500 TL,\nSağlık Hizmetleri Meslek Yüksekokulu Tüm Programlar (Ücretli) 99.000 TL (%50 Burslu) 49.500 TL"
+    },
+        {
+      "academic_year": "2023-2024",
+       "description": "İşletme\t(Ücretli) 162.900 TL (%50 Burslu) 81.450 TL, Psikoloji\t(Ücretli) 181.500 TL Psikoloji (ingilizce)\t(Ücretli) 181.500 TL\nUluslararası Ticaret ve Lojistik\t(Ücretli) 162.900 TL (%50 Burslu) 81.450 TL"
+    },
+
+    {
+      "academic_year": "2022-2023",
+        "description": "Toros Üniversitesinde eğitim ücrete tabidir. 2022-2023 eğitim yılında KDV hariç yıllık öğrenim ücretleri:\nMühendislik Fakültesi bölümleri için: 58.625,01 TL + KDV,\nGüzel Sanatlar, Tasarım ve Mimarlık Fakültesi bölümleri için: 58.625,01 TL+ KDV,\nİktisadi İdari ve Sosyal Bilimler Fakültesi Psikoloji bölümü için: 58.625,01 TL+ KDV,\nİşletme, Uluslararası Finans ve Bankacılık, Uluslararası Ticaret ve Lojistik bölümleri için: 52.625,00 TL+ KDV, Sağlık Bilimleri Fakültesi Sağlık Yönetimi bölümü için: 52.625,00 TL+ KDV,\nHemşirelik bölümü için: 43.250,00 TL+ KDV,\nBeslenme ve Diyetetik, Fizyoterapi ve Rehabilitasyon bölümleri için: 58.625,01 TL+ KDV,\nYabancı Diller Yüksekokulu İngilizce Mütercim ve Tercümanlık bölümü için: 52.625,00 TL+ KDV,\nMeslek Yüksekokulu ve Sağlık Hizmetleri Meslek Yüksekokulu programları için: 28.500,00 TL+ KDV ve zorunlu veya isteğe bağlı İngilizce Hazırlık Sınıfı için yıllık öğrenim ücreti kayıt yaptırdığı bölümler ile aynıdır."
+    }
+  ],
+  "scholarships": null,
+  "dormitory_fees": null
+}

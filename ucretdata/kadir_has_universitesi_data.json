@@ -1,0 +1,162 @@
+{
+  "university": {
+    "name": "Kadir Has Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "Hukuk Fakültesi",
+        "full_fee": 1250000,
+        "currency": "TL"
+      },
+      {
+        "name": "İletişim Fakültesi Programları",
+        "full_fee": null,
+        "discounted_fee": 615000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Sanat ve Tasarım Fakültesi Programları",
+        "full_fee": null,
+        "discounted_fee": 615000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Mühendislik ve Doğa Bilimleri Fakültesi Programları",
+        "full_fee": null,
+        "discounted_fee": 650000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi Programları",
+        "full_fee": 1230000,
+        "currency": "TL"
+      }
+    ]
+  },
+  "tuition_fees_2024_2025": {
+    "programs": [
+      {
+        "name": "Hazırlık Programı",
+        "full_fee": 700700,
+        "discounted_fee": 350350,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Hukuk Fakültesi",
+        "full_fee": 685300,
+        "discounted_fee": 342650,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "İletişim Fakültesi (Görsel İletişim Tasarımı, Halkla İlişkiler ve Tanıtım, Radyo Televizyon ve Sinema, Reklamcılık, Yeni Medya)",
+        "full_fee": 685300,
+        "discounted_fee": 342650,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Mühendislik ve Doğa Bilimleri Fakültesi (Bilgisayar, Endüstri, Elektrik-Elektronik, Mekatronik Mühendisliği)",
+        "full_fee": 730400,
+        "discounted_fee": 365200,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Moleküler Biyoloji ve Genetik (Mühendislik ve Doğa Bilimleri Fakültesi)",
+        "full_fee": 685300,
+        "discounted_fee": 342650,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Sanat ve Tasarım Fakültesi (Endüstriyel Tasarım, İç Mimarlık ve Çevre Tasarımı, Mimarlık, Tiyatro)",
+        "full_fee": 685300,
+        "discounted_fee": 342650,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi (Ekonomi, İşletme, Siyaset Bilimi ve Uluslararası İlişkiler, Uluslararası Ticaret ve Finansman, Yönetim Bilişim Sistemleri)",
+        "full_fee": 685300,
+        "discounted_fee": 342650,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Psikoloji",
+        "full_fee": 730400,
+        "discounted_fee": 365200,
+        "currency": "TL",
+        "discount": "50%"
+      }
+    ]
+  },
+    "notes":{
+  "note1": "Fiyatlara KDV dahildir. Peşin ödemelerde geçerli olup, taksitli ödemelerde %6 ilave uygulanacaktır.",
+  "note2": "Kadir Has Üniversitesi, öğrencilerin akademik başarılarını ve maddi ihtiyaçlarını göz önünde bulundurarak çeşitli burs imkanları sunmaktadır. Burs türleri arasında: ÖSYM bursu a. tam burslu, %50 burslu, Kadir Has bursu, KHAS başarı sıralaması bursu, lise başarı bursu, khas yüksek onur/onur bursu, spor bursu."
+ },
+  "tuition_fees_2023_2024": {
+   "note": "Kadir Has Üniversitesi’nde eğitim-öğretim ücrete tabidir. Öğrenim ücretleri;",
+   "programs": [
+         {
+          "name": "Mühendislik ve Doğa Bilimleri",
+          "full_fee": 350000,
+           "discounted_fee": 175000,
+           "currency": "TL",
+           "discount":"50%"
+         },
+            {
+          "name": "İktisadi, İdari ve Sosyal Bilimler",
+          "full_fee": 350000,
+           "discounted_fee": 175000,
+           "currency": "TL",
+           "discount":"50%"
+         },
+            {
+          "name": "Hukuk Fakültesi",
+          "full_fee": 350000,
+           "discounted_fee": 175000,
+           "currency": "TL",
+           "discount":"50%"
+         },
+      {
+          "name": "İletişim Fakültesi",
+          "full_fee": 350000,
+           "discounted_fee": 175000,
+           "currency": "TL",
+           "discount":"50%"
+         },
+      {
+          "name": "Sanat ve Tasarım Fakültesi (Endüstriyel Tasarım, İç Mimarlık ve Çevre Tasarımı, Mimarlık)",
+          "full_fee": 350000,
+           "discounted_fee": 175000,
+           "currency": "TL",
+           "discount":"50%"
+         },
+    {
+          "name": "Sanat ve Tasarım Fakültesi (Tiyatro)",
+          "full_fee": 331000,
+           "discounted_fee": 165500,
+           "currency": "TL",
+           "discount":"50%"
+         },
+      {
+          "name": "İngilizce Hazırlık Okulu",
+          "full_fee": 350000,
+           "discounted_fee": 175000,
+           "currency": "TL",
+           "discount":"50%"
+         }
+       ]
+   }
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "university": {
+    "name": "Altınbaş Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": [
+      {
+        "faculty": "TIP FAKÜLTESİ",
+        "programs": [
+          {
+            "program": "Tıp Fakültesi (%50 İndirimli)",
+            "taksitli_ucret": "761.250 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "570.938 TL",
+            "pesin_ucret": "725.000 TL",
+            "pesin_tercihli_ucret": "543.750 TL"
+          },
+          {
+            "program": "Tıp Fakültesi (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "761.250 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "570.938 TL",
+            "pesin_ucret": "725.000 TL",
+            "pesin_tercihli_ucret": "543.750 TL"
+          }
+        ],
+        "payment_notes": [
+          "* Kredi Kartı; Anlaşmalı bankaların Kredi Kartı ile 4 taksit imkanı sunulmaktadır.",
+          "** KMH; Anlaşmalı bankalarımız aracılığı ile KMH taksitli kayıt imkanı sunulmaktadır. (1 Peşin(%20)+ 6 Taksit)"
+        ]
+      },
+      {
+        "faculty": "DİŞ HEKİMLİĞİ FAKÜLTESİ",
+        "programs": [
+          {
+            "program": "Diş Hekimliği Fakültesi (%50 İndirimli)",
+            "taksitli_ucret": "729.750 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "547.313 TL",
+            "pesin_ucret": "695.000 TL",
+            "pesin_tercihli_ucret": "521.250 TL"
+          },
+          {
+            "program": "Diş Hekimliği Fakültesi (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "729.750 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "547.313 TL",
+            "pesin_ucret": "695.000 TL",
+            "pesin_tercihli_ucret": "521.250 TL"
+          }
+        ],
+        "payment_notes": [
+          "* Kredi Kartı; Anlaşmalı bankaların Kredi Kartı ile 4 taksit imkanı sunulmaktadır.",
+          "** KMH; Anlaşmalı bankalarımız aracılığı ile KMH taksitli kayıt imkanı sunulmaktadır. (1 Peşin(%20)+ 6 Taksit)"
+        ]
+      },
+      {
+        "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+        "programs": [
+          {
+            "program": "Beslenme ve Diyetetik (%50 İndirimli)",
+            "taksitli_ucret": "420.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "315.000 TL",
+            "pesin_ucret": "400.000 TL",
+            "pesin_tercihli_ucret": "300.000 TL"
+          },
+          {
+            "program": "Dil ve Konuşma Terapisi (%50 İndirimli)",
+            "taksitli_ucret": "483.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "362.250 TL",
+            "pesin_ucret": "460.000 TL",
+            "pesin_tercihli_ucret": "345.000 TL"
+          },
+          {
+            "program": "Ebelik (%50 İndirimli)",
+            "taksitli_ucret": "483.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "362.250 TL",
+            "pesin_ucret": "460.000 TL",
+            "pesin_tercihli_ucret": "345.000 TL"
+          },
+          {
+            "program": "Ergoterapi (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+          {
+            "program": "Fizyoterapi ve Rehabilitasyon (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+          {
+            "program": "Fizyoterapi ve Rehabilitasyon (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+          {
+            "program": "Hemşirelik (%50 İndirimli)",
+            "taksitli_ucret": "483.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "362.250 TL",
+            "pesin_ucret": "460.000 TL",
+            "pesin_tercihli_ucret": "345.000 TL"
+          },
+          {
+            "program": "Hemşirelik (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "483.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "362.250 TL",
+            "pesin_ucret": "460.000 TL",
+            "pesin_tercihli_ucret": "345.000 TL"
+          }
+        ],
+        "payment_notes": [
+          "* Kredi Kartı; Anlaşmalı bankaların Kredi Kartı ile 4 taksit imkanı sunulmaktadır.",
+          "** KMH; Anlaşmalı bankalarımız aracılığı ile KMH taksitli kayıt imkanı sunulmaktadır. (1 Peşin(%20)+ 6 Taksit)"
+        ]
+      },
+      {
+        "faculty": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+        "programs": [
+          {
+            "program": "İngiliz Dili ve Edebiyatı (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "393.750 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "295.313 TL",
+            "pesin_ucret": "375.000 TL",
+            "pesin_tercihli_ucret": "281.250 TL"
+          },
+          {
+            "program": "İngilizce Mütercim Tercümanlık (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "393.750 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "295.313 TL",
+            "pesin_ucret": "375.000 TL",
+            "pesin_tercihli_ucret": "281.250 TL"
+          },
+          {
+            "program": "İşletme (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+          {
+            "program": "İşletme (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+          {
+            "program": "Psikoloji (%50 İndirimli)",
+            "taksitli_ucret": "483.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "362.250 TL",
+            "pesin_ucret": "460.000 TL",
+            "pesin_tercihli_ucret": "345.000 TL"
+          },
+          {
+            "program": "Psikoloji (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "483.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "362.250 TL",
+            "pesin_ucret": "460.000 TL",
+            "pesin_tercihli_ucret": "345.000 TL"
+          },
+          {
+            "program": "Uluslararası Ticaret ve Finansman (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+          {
+            "program": "Yönetim Bilişim Sistemleri (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "420.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "315.000 TL",
+            "pesin_ucret": "400.000 TL",
+            "pesin_tercihli_ucret": "300.000 TL"
+          }
+        ],
+        "payment_notes": [
+          "* Kredi Kartı; Anlaşmalı bankaların Kredi Kartı ile 4 taksit imkanı sunulmaktadır.",
+          "** KMH; Anlaşmalı bankalarımız aracılığı ile KMH taksitli kayıt imkanı sunulmaktadır. (1 Peşin(%20)+ 6 Taksit)"
+        ]
+      },
+      {
+        "faculty": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+        "programs": [
+          {
+            "program": "Bilgisayar Mühendisliği (%50 İndirimli)",
+            "taksitli_ucret": "483.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "362.250 TL",
+            "pesin_ucret": "460.000 TL",
+            "pesin_tercihli_ucret": "345.000 TL"
+          },
+          {
+            "program": "Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "483.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "362.250 TL",
+            "pesin_ucret": "460.000 TL",
+            "pesin_tercihli_ucret": "345.000 TL"
+          },
+          {
+            "program": "Biyomedikal Mühendisliği (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+          {
+            "program": "Elektrik-Elektronik Mühendisliği (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+          {
+            "program": "Endüstri Mühendisliği (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+          {
+            "program": "Moleküler Biyoloji ve Genetik (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+           {
+            "program": "Veri Bilimi ve Analitiği (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "483.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "362.250 TL",
+            "pesin_ucret": "460.000 TL",
+            "pesin_tercihli_ucret": "345.000 TL"
+          },
+                 {
+            "program": "Yazılım Mühendisliği (İngilizce) (%50 İndirimli)",
+            "taksitli_ucret": "483.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "362.250 TL",
+            "pesin_ucret": "460.000 TL",
+            "pesin_tercihli_ucret": "345.000 TL"
+          }
+        ],
+        "payment_notes": [
+          "* Kredi Kartı; Anlaşmalı bankaların Kredi Kartı ile 4 taksit imkanı sunulmaktadır.",
+          "** KMH; Anlaşmalı bankalarımız aracılığı ile KMH taksitli kayıt imkanı sunulmaktadır. (1 Peşin(%20)+ 6 Taksit)"
+        ]
+      },
+         {
+        "faculty": "SANAT, TASARIM VE MİMARLIK FAKÜLTESİ",
+        "programs": [
+           {
+            "program": "Dijital Oyun Tasarımı (%50 İndirimli)",
+            "taksitli_ucret": "393.750 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "295.313 TL",
+            "pesin_ucret": "375.000 TL",
+            "pesin_tercihli_ucret": "281.250 TL"
+          },
+           {
+            "program": "Endüstriyel Tasarım (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+               {
+            "program": "Görsel İletişim Tasarımı (%50 İndirimli)",
+            "taksitli_ucret": "367.500 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "275.625 TL",
+            "pesin_ucret": "350.000 TL",
+            "pesin_tercihli_ucret": "262.500 TL"
+          },
+               {
+            "program": "İç Mimarlık ve Çevre Tasarımı (%50 İndirimli)",
+            "taksitli_ucret": "483.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "362.250 TL",
+            "pesin_ucret": "460.000 TL",
+            "pesin_tercihli_ucret": "345.000 TL"
+          }
+        ],
+                "payment_notes": [
+          "* Kredi Kartı; Anlaşmalı bankaların Kredi Kartı ile 4 taksit imkanı sunulmaktadır.",
+          "** KMH; Anlaşmalı bankalarımız aracılığı ile KMH taksitli kayıt imkanı sunulmaktadır. (1 Peşin(%20)+ 6 Taksit)"
+        ]
+      },
+          {
+        "faculty": "MESLEK YÜKSEKOKULU",
+        "programs": [
+           {
+            "program": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+             {
+            "program": "Ameliyathane Hizmetleri (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+               {
+            "program": "Anestezi (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+                  {
+            "program": "Bilgisayar Programcılığı (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+         {
+            "program": "Bilişim Güvenliği Teknolojisi (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+        {
+            "program": "*** Çevre Sağlığı ve Çevresel Risk Yönetimi Teknikerliği (%50 İndirimli)",
+            "taksitli_ucret": "259.875 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "194.906 TL",
+            "pesin_ucret": "247.500 TL",
+            "pesin_tercihli_ucret": "185.625 TL"
+          },
+                {
+            "program": "Diş Protez Teknolojisi (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+                    {
+            "program": "Diyaliz (%50 İndirimli)",
+            "taksitli_ucret": "259.875 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "194.906 TL",
+            "pesin_ucret": "247.500 TL",
+            "pesin_tercihli_ucret": "185.625 TL"
+          },
+                              {
+            "program": "*** E-Ticaret ve Pazarlama (%50 İndirimli)",
+            "taksitli_ucret": "259.875 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "194.906 TL",
+            "pesin_ucret": "247.500 TL",
+            "pesin_tercihli_ucret": "185.625 TL"
+          },
+               {
+            "program": "Fizyoterapi (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+             {
+            "program": "Grafik Tasarımı (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+              {
+            "program": "İç Mekan Tasarımı (%50 İndirimli)",
+            "taksitli_ucret": "259.875 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "194.906 TL",
+            "pesin_ucret": "247.500 TL",
+            "pesin_tercihli_ucret": "185.625 TL"
+          },
+                {
+            "program": "İlk ve Acil Yardım (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+                       {
+            "program": "Lojistik (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+                        {
+            "program": "Optisyenlik (%50 İndirimli)",
+            "taksitli_ucret": "259.875 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "194.906 TL",
+            "pesin_ucret": "247.500 TL",
+            "pesin_tercihli_ucret": "185.625 TL"
+          },
+                 {
+            "program": "*** Tele-Sağlık Teknikerliği (%50 İndirimli)",
+            "taksitli_ucret": "259.875 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "194.906 TL",
+            "pesin_ucret": "247.500 TL",
+            "pesin_tercihli_ucret": "185.625 TL"
+          },
+                            {
+            "program": "Tıbbi Görüntüleme Teknikleri (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+                       {
+            "program": "Tıbbi Laboratuvar Teknikleri (%50 İndirimli)",
+            "taksitli_ucret": "286.125 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "214.594 TL",
+            "pesin_ucret": "272.500 TL",
+            "pesin_tercihli_ucret": "204.375 TL"
+          },
+                  {
+            "program": "*** Tıbbi Tanıtım ve Pazarlama (%50 İndirimli)",
+            "taksitli_ucret": "259.875 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "194.906 TL",
+            "pesin_ucret": "247.500 TL",
+            "pesin_tercihli_ucret": "185.625 TL"
+          },
+                     {
+            "program": "*** Yaşlı Bakımı (%50 İndirimli)",
+            "taksitli_ucret": "259.875 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "194.906 TL",
+            "pesin_ucret": "247.500 TL",
+            "pesin_tercihli_ucret": "185.625 TL"
+          },
+                                {
+            "program": "*** Yeşil ve Ekolojik Bina Teknikerliği (%50 İndirimli)",
+            "taksitli_ucret": "259.875 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "194.906 TL",
+            "pesin_ucret": "247.500 TL",
+            "pesin_tercihli_ucret": "185.625 TL"
+          }
+        ],
+         "payment_notes": [
+          "* Kredi Kartı; Anlaşmalı bankaların Kredi Kartı ile 4 taksit imkanı sunulmaktadır.",
+          "** KMH; Anlaşmalı bankalarımız aracılığı ile KMH taksitli kayıt imkanı sunulmaktadır. (1 Peşin(%20)+ 6 Taksit)",
+          "*** 2025-2026 Eğitim Dönemi YENİ AÇILAN;E-Ticaret ve Pazarlama (%50 İndirimli),Çevre Sağlığı ve Çevresel Risk Yönetimi Teknikerliği (%50 İndirimli),Tele-Sağlık Teknikerliği (%50 İndirimli),Tıbbi Tanıtım ve Pazarlama (%50 İndirimli),Yaşlı Bakımı (%50 İndirimli), Yeşil ve Ekolojik Bina Teknikerliği (%50 İndirimli) bölümlerimiz için sadece ilk yıl için geçerli tercih bursuna ilave %5 burs uygulanmaktadır."
+        ]
+      },
+              {
+        "faculty": "HAZIRLIK SINIFI",
+        "programs": [
+         {
+            "program": "Hazırlık Sınıfı",
+           "taksitli_ucret": "315.000 TL",
+            "tercih_indirimi": "25%",
+            "taksitli_tercihli_ucret": "236.250 TL",
+            "pesin_ucret": "300.000 TL

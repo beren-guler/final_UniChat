@@ -1,0 +1,77 @@
+{
+  "university": {
+    "name": "Başkent Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "Tıp Fakültesi": 1480000,
+      "Diş Hekimliği Fakültesi": 1480000,
+      "Eczacılık Fakültesi": 1200000,
+      "Mühendislik Fakültesi": 990000,
+      "Hukuk Fakültesi": 990000,
+      "Mimarlık Bölümü (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)": 990000,
+      "Eğitim Fakültesi": 890000,
+      "Fen Edebiyat Fakültesi": 910000,
+      "Psikoloji Bölümü (Türkçe-İngilizce Programları) (Fen Edebiyat Fakültesi)": 970000,
+      "İktisadi ve İdari Bilimler Fakültesi": 940000,
+      "İletişim Fakültesi": 910000,
+      "Sağlık Bilimleri Fakültesi": 940000,
+      "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi": 910000,
+      "Ticari Bilimler Fakültesi": 890000,
+      "Devlet Konservatuvarı": 780000,
+      "İngilizce Hazırlık Programı": 850000,
+      "Önlisans Programları": 600000
+    },
+    "2024-2025": {
+      "Tıp Fakültesi": 820000,
+      "Diş Hekimliği Fakültesi": 820000,
+      "Eczacılık Fakültesi": 710000,
+      "Mühendislik Fakültesi": 615000,
+      "Hukuk Fakültesi": 615000,
+      "Mimarlık Bölümü (Güzel Sanatlar Tasarım ve Mimarlık Fakültesi)": 615000,
+      "Eğitim Fakültesi": 540000,
+      "Fen Edebiyat Fakültesi": 540000,
+      "Psikoloji Bölümü (Türkçe-İngilizce Programları) (Fen Edebiyat Fakültesi)": 575000,
+      "İktisadi ve İdari Bilimler Fakültesi": 565000,
+      "İletişim Fakültesi": 540000,
+      "Sağlık Bilimleri Fakültesi": 565000,
+      "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi": 540000,
+      "Ticari Bilimler Fakültesi": 530000,
+      "Devlet Konservatuvarı": 475000,
+      "İngilizce Hazırlık Programı": 475000,
+      "Önlisans Programları": 365000
+    },
+    "2023-2024": {
+      "Tıp Fakültesi": 345000,
+      "Diş Hekimliği Fakültesi": 345000,
+      "Eczacılık Fakültesi": 285000,
+      "Mühendislik Fakültesi": 277500,
+      "Hukuk Fakültesi": 277500,
+      "Mimarlık Bölümü": 277500,
+      "Eğitim Fakültesi": 262500,
+      "Fen Edebiyat Fakültesi": 262500,
+      "İktisadi ve İdari Bilimler Fakültesi": 270000,
+      "İletişim Fakültesi": 262500,
+      "Sağlık Bilimleri Fakültesi": 262500,
+      "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi": 247500,
+      "Ticari Bilimler Fakültesi": 240000,
+      "Devlet Konservatuvarı": 210000,
+      "İngilizce Hazırlık Programı": 217500,
+      "Önlisans Programları": 157500
+    },
+    "2022-2023": {
+      "Tıp ve Diş Hekimliği Fakülteleri": 140000,
+      "Eczacılık Fakültesi": 120000,
+      "Mühendislik Fakültesi, Hukuk Fakültesi, Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi’nin Mimarlık Programı": 99000,
+      "Devlet Konservatuvarı": 84000,
+      "Ticari Bilimler Fakültesi": 82000,
+      "bu fakültelerin dışında kalan bütün lisans programları": 92000,
+      "İngilizce Hazırlık Programı": 76000,
+      "Ön lisans programları": 48000
+    }
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

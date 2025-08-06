@@ -1,0 +1,338 @@
+{
+  "university": {
+    "name": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
+    "url": "unknown",
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "faculties": [
+      {
+        "name": "Tıp Fakültesi",
+        "programs": [
+          {
+            "name": "Tıp Fakültesi (İngilizce)",
+            "full_fee": null,
+            "discounted_fees": [
+              {
+                "discount": "50%",
+                "amount": 1175000,
+                "currency": "TL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Eczacılık Fakültesi",
+        "programs": [
+          {
+            "name": "Eczacılık (İngilizce)",
+            "full_fee": 975000,
+            "discounted_fees": [
+              {
+                "discount": "50%",
+                "amount": 487500,
+                "currency": "TL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "İnsan ve Toplum Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "Psikoloji",
+            "full_fee": 875000,
+            "discounted_fees": [
+              {
+                "discount": "25%",
+                "amount": 656250,
+                "currency": "TL"
+              }
+            ]
+          },
+          {
+            "name": "Psikoloji (İngilizce)",
+            "full_fee": 900000,
+            "discounted_fees": [
+              {
+                "discount": "25%",
+                "amount": 675000,
+                "currency": "TL"
+              }
+            ]
+          },
+          {
+            "name": "Sosyoloji",
+            "full_fee": null,
+            "discounted_fees": [
+              {
+                "discount": "50%",
+                "amount": 365000,
+                "currency": "TL"
+              },
+              {
+                "discount": "75%",
+                "amount": 273750,
+                "currency": "TL",
+                "note": "Ek %25 KAV Destek Bursu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mühendislik ve Doğa Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "Moleküler Biyoloji ve Genetik (İngilizce)",
+            "full_fee": null,
+            "discounted_fees": [
+              {
+                "discount": "50%",
+                "amount": 600000,
+                "currency": "TL"
+              }
+            ]
+          },
+          {
+            "name": "Biyomedikal Mühendisliği (İngilizce)",
+            "full_fee": null,
+            "discounted_fees": [
+              {
+                "discount": "50%",
+                "amount": 585000,
+                "currency": "TL"
+              },
+              {
+                "discount": "75%",
+                "amount": 438750,
+                "currency": "TL",
+                "note": "Ek %25 KAV Destek Bursu"
+              }
+            ]
+          },
+          {
+            "name": "Bilgisayar Mühendisliği (İngilizce)",
+            "full_fee": null,
+            "discounted_fees": [
+              {
+                "discount": "50%",
+                "amount": 675000,
+                "currency": "TL"
+              },
+               {
+                "discount": "75%",
+                "amount": 506250,
+                "currency": "TL",
+                "note": "Ek %25 KAV Destek Bursu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sağlık Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "Beslenme ve Diyetetik",
+            "full_fee": null,
+            "discounted_fees": [
+              {
+                "discount": "25%",
+                "amount": 562500,
+                "currency": "TL"
+              }
+            ]
+          },
+          {
+            "name": "Beslenme ve Diyetetik (İngilizce)",
+            "full_fee": null,
+            "discounted_fees": [
+              {
+                "discount": "25%",
+                "amount": 562500,
+                "currency": "TL"
+              }
+            ]
+          },
+          {
+            "name": "Fizyoterapi ve Rehabilitasyon",
+            "full_fee": null,
+            "discounted_fees": [
+              {
+                "discount": "50%",
+                "amount": 450000,
+                "currency": "TL"
+              }
+            ]
+          },
+          {
+            "name": "Hemşirelik",
+            "full_fee": null,
+            "discounted_fees": [
+              {
+                "discount": "50%",
+                "amount": 465000,
+                "currency": "TL"
+              }
+            ]
+          },
+          {
+            "name": "Hemşirelik (İngilizce)",
+            "full_fee": null,
+            "discounted_fees": [
+              {
+                "discount": "50%",
+                "amount": 560000,
+                "currency": "TL"
+              }
+            ]
+          },
+          {
+            "name": "Sağlık Yönetimi",
+            "full_fee": null,
+            "discounted_fees": [
+              {
+                "discount": "50%",
+                "amount": 365000,
+                "currency": "TL"
+              },
+                {
+                "discount": "75%",
+                "amount": 273750,
+                "currency": "TL",
+                "note": "Ek %25 KAV Destek Bursu"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "preparatory_class": {
+      "fee": 350000,
+      "currency": "TL",
+      "note": "Burs ve indirim uygulanmamaktadır."
+    },
+    "associate_degree_programs": [
+        {
+            "name": "Ağız ve Diş Sağlığı",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Ameliyathane Hizmetleri",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Anestezi",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Diyaliz",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Elektronörofizyoloji",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Fizyoterapi",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "İlk ve Acil Yardım",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Odyometri",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Optisyenlik",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Ortopedik Ortez ve Protez",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Patoloji Laboratuvar Teknikleri",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Podoloji",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Radyoterapi",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Tıbbi Dokümantasyon ve Sekreterlik",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Tıbbi Görüntüleme Teknikleri",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Tıbbi Laboratuvar Teknikleri",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Aşçılık",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Biyomedikal Cihaz Teknolojisi",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        },
+        {
+            "name": "Bilgisayar Programcılığı",
+            "discounted_fee": 150000,
+            "currency": "TL",
+            "discount": "50%"
+        }
+    ]
+  },
+  "scholarships": {},
+  "dormitory_fees": {}
+}

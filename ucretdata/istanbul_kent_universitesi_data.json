@@ -1,0 +1,552 @@
+{
+  "university": {
+    "name": "İstanbul Kent Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "Diş Hekimliği",
+        "full_fee": null,
+        "discounted_fee": 585000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Eczacılık",
+        "full_fee": null,
+        "discounted_fee": 490000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Ekonomi Finans (İngilizce)",
+        "full_fee": 500000,
+        "discounted_fee": 250000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Halkla İlişkiler ve Reklamcılık",
+        "full_fee": null,
+        "discounted_fee": 275000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "İşletme",
+        "full_fee": 700000,
+        "discounted_fee": 350000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Psikoloji",
+        "full_fee": 850000,
+        "discounted_fee": 425000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Siyaset Bilimi ve Kamu Yönetimi",
+        "full_fee": 500000,
+        "discounted_fee": 250000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Sosyal Hizmet",
+        "full_fee": 450000,
+        "discounted_fee": 225000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Uluslararası İlişkiler",
+        "full_fee": 500000,
+        "discounted_fee": 250000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Uluslararası Ticaret ve İşletmecilik",
+        "full_fee": 500000,
+        "discounted_fee": 250000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Uluslararası Ticaret ve Lojistik",
+        "full_fee": 550000,
+        "discounted_fee": 275000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Sağlık Yönetimi",
+        "full_fee": null,
+        "discounted_fee": 240000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Beslenme ve Diyetetik",
+        "full_fee": 750000,
+        "discounted_fee": 375000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Çocuk Gelişimi",
+        "full_fee": 600000,
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Dil ve Konuşma Terapisti",
+        "full_fee": 700000,
+        "discounted_fee": 350000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Ebelik",
+        "full_fee": 680000,
+        "discounted_fee": 340000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Fizyoterapi ve Rehabilitasyon",
+        "full_fee": 700000,
+        "discounted_fee": 350000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Hemşirelik",
+        "full_fee": 750000,
+        "discounted_fee": 375000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Dijital Oyun Tasarımı (İngilizce)",
+        "full_fee": null,
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Gastronomi ve Mutfak Sanatları",
+        "full_fee": null,
+        "discounted_fee": 360000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Görsel İletişim Tasarımı",
+        "full_fee": null,
+        "discounted_fee": 240000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+        {
+        "name": "İç Mimarlık",
+        "full_fee": 700000,
+        "discounted_fee": 350000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Kentsel Tasarım ve Peyzaj Mimarlığı",
+        "full_fee": null,
+        "discounted_fee": 300000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Radyo, Televizyon ve Sinema",
+        "full_fee": null,
+        "discounted_fee": 240000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Bilgisayar Programcılığı (MYO)",
+        "full_fee": null,
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Bilişim Güvenlik Teknolojisi (MYO)",
+        "full_fee": null,
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Mahkeme Büro Hizmetleri (MYO)",
+        "full_fee": null,
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Saç Bakımı ve Güzellik Hizmetleri (MYO)",
+        "full_fee": null,
+        "discounted_fee": 230000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Ağız ve Diş Sağlığı (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+        {
+        "name": "Ameliyathane Hizmetleri (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+         {
+        "name": "Anestezi (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+         {
+        "name": "Çocuk Gelişimi (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Diş Protez (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+         {
+        "name": "Eczane Hizmetleri (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Eloktrofizyoloji (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+         {
+        "name": "Fizyoterapi (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+         {
+        "name": "İlk ve Acil Yardım (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+         {
+        "name": "Patoloji Labarotuvar Teknikleri (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Tele-Sağlık Teknikerliği (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+          {
+        "name": "Tıbbi Dokümantasyon ve Sekreterlik (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+           {
+        "name": "Tıbbi Görüntüleme Teknikleri (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+           {
+        "name": "Tıbbi Labaratuvar Teknikleri (SHMYO)",
+        "full_fee": 460000,
+        "discounted_fee": 230500,
+        "currency": "TL",
+        "discount": "50%"
+      }
+    ]
+  },
+  "scholarships": {
+    "types": [
+      "Üniversiteye giriş bursu",
+      "yks derece bursu",
+      "akademik başarı bursu",
+      "spor başarı bursu",
+      "üstün başarı sanat bursu",
+      "destek bursu",
+      "yatay geçiş bursu",
+      "kardeş ve eş bursları",
+      "şehit eşi veya çocukları için burs",
+      "gazi, gazi eşi ve çocukları için burs",
+      "engelli öğrenci bursu"
+    ],
+    "details": "İstanbul Kent Üniversitesi, öğrencilerin maddi durumlarına ve akademik başarılarına göre çeşitli burs imkanları sunmaktadır. Öğrencilerin ihtiyaçlarına ve performanslarına göre çeşitli burs türleri mevcuttur."
+  },
+   "tuition_fees_2024_2025": {
+    "academic_year": "2024-2025",
+    "programs": [
+      {
+        "name": "Diş Hekimliği",
+        "full_fee": null,
+        "discounted_fee": 360000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Eczacılık",
+        "full_fee": null,
+        "discounted_fee": 247500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Ekonomi Finans (İngilizce)",
+        "full_fee": 315000,
+        "discounted_fee": 157500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Halkla İlişkiler ve Reklamcılık",
+        "full_fee": null,
+        "discounted_fee": 144000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "İşletme",
+        "full_fee": 342000,
+        "discounted_fee": 171000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Psikoloji",
+        "full_fee": 432000,
+        "discounted_fee": 216000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Sağlık Yönetimi",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Beslenme ve Diyetetik",
+        "full_fee": 378000,
+        "discounted_fee": 189000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Ebelik",
+        "full_fee": 315000,
+        "discounted_fee": 157500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Fizyoterapi ve Rehabilitasyon",
+        "full_fee": 360000,
+        "discounted_fee": 180000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Hemşirelik",
+        "full_fee": 360000,
+        "discounted_fee": 180000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Dijital Oyun Tasarımı (İngilizce)",
+        "full_fee": null,
+        "discounted_fee": 157500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Gastronomi ve Mutfak Sanatları",
+        "full_fee": null,
+        "discounted_fee": 184500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "İç Mimarlık",
+        "full_fee": 342000,
+        "discounted_fee": 171000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Bilgisayar Programcılığı (MYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Bilişim Güvenlik Teknolojisi (MYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Mahkeme Büro Hizmetleri (MYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Saç Bakımı ve Güzellik Hizmetleri (MYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Ağız ve Diş Sağlığı (SHMYO)",
+        "full_fee": 225000,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Ameliyathane Hizmetleri (SHMYO)",
+        "full_fee": 225000,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Anestezi (SHMYO)",
+        "full_fee": 225000,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Çocuk Gelişimi (SHMYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Diş Protez (SHMYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Eczane Hizmetleri (SHMYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Eloktrofizyoloji (SHMYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Fizyoterapi (SHMYO)",
+        "full_fee": 225000,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "İlk ve Acil Yardım (SHMYO)",
+        "full_fee": 225000,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Patoloji Labarotuvar Teknikleri (SHMYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Tıbbi Dokümantasyon ve Sekreterlik (SHMYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Tıbbi Görüntüleme Teknikleri (SHMYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Tıbbi Labaratuvar Teknikleri (SHMYO)",
+        "full_fee": null,
+        "discounted_fee": 112500,
+        "currency": "TL",
+        "discount": "50%"
+      }
+    ]
+  },
+  "discounts": {
+    "Tercih İndirimi": [
+      "İstanbul KENT Üniversitesi Lisans ve Ön Lisans Bölümlerini 1. sırada tercih eden aday öğrencilere %30 Tercih İndirimi Uygulanır.",
+      "Lisans ve Ön Lisans Bölümlerine 1. Sıra hariç diğer tüm sıralamalarda yer veren aday öğrencilere %20 tercih indirimi uygulanır",
+     "Diş Hekimliği Fakültesi Ücretli tercih eden aday öğrenciler tercih sırasına bakılmaksızın %30 Tercih İndirimi almaya hak kazanır."
+    ],
+        "condition": "* İstanbul KENT Üniversitesi Lisans ve Ön Lisans bölümlerini hangi sırada tercih ederseniz edin, üstünde ücretli ya da %25,%50, %75 indirimli Vakıf üniversitesi tercihi olması halinde indirim geçersiz sayılır. Devlet Üniversitesi ve vakıf Üniversitesi %100 Burslu tercihleriniz %20 indirim almanıza engel değildir."
+  }
+}

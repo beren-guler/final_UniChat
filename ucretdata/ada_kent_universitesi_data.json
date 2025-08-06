@@ -1,0 +1,113 @@
+{
+  "university": {
+    "name": "Ada KENT Üniversitesi (Gazimağusa)",
+    "url": "www.adakent.edu.tr",
+    "last_updated": null
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "Ada KENT Üniversitesi, Kuzey Kıbrıs Türk Cumhuriyeti’nin (KKTC) Gazimağusa kentinde, eğitim-öğretim veren ücrete tabi bir üniversitedir."
+    },
+    {
+      "academic_year": "2025-2026",
+      "departments": [
+        {
+          "name": "İngilizce hazırlık programları",
+          "annual_fee": {
+            "amount": 105000.00,
+            "currency": "TL",
+            "description": "(İlgili yılın Tüketici Fiyat Endeksindeki (TÜFE) Mayıs ayı verileri dikkate alınarak açıklanan yıllık enflasyon oranını geçmeyecek şekilde belirlenecektir. Kayıt ve etkinlik harcı ücreti tam burslu öğrenciler dahil tüm öğrenciler için 15.000,00 (onbeşbin) TL’dir.)"
+          }
+        },
+        {
+          "name": "Diş Hekimliği Fakültesi",
+          "annual_fee": {
+            "amount": 378000.00,
+            "currency": "TL",
+            "description": "( İlgili yılın Tüketici Fiyat Endeksindeki (TÜFE) Mayıs ayı verileri dikkate alınarak açıklanan yıllık enflasyon oranını geçmeyecek şekilde belirlenecektir. Kayıt ve etkinlik harcı ücreti tam burslu öğrenciler dahil tüm öğrenciler için 15.000,00(onbeşbin) TL’dir.)"
+          }
+        },
+        {
+          "name": "Hukuk Fakültesi",
+          "annual_fee": {
+            "amount": 236250.00,
+            "currency": "TL",
+            "description": "( İlgili yılın Tüketici Fiyat Endeksindeki (TÜFE) Mayıs ayı verileri dikkate alınarak açıklanan yıllık enflasyon oranını geçmeyecek şekilde belirlenecektir. Kayıt ve etkinlik harcı ücreti tam burslu öğrenciler dahil tüm öğrenciler için 15.000,00 (onbeşbin) TL’dir."
+          }
+        },
+        {
+          "name": "İngilizce Öğretmenliği ile Psikoloji programları",
+          "annual_fee": {
+            "amount": 189000.00,
+            "currency": "TL",
+            "description": "( İlgili yılın Tüketici Fiyat Endeksindeki (TÜFE) Mayıs ayı verileri dikkate alınarak açıklanan yıllık enflasyon oranını geçmeyecek şekilde belirlenecektir. Kayıt ve etkinlik harcı ücreti tam burslu öğrenciler dahil tüm öğrenciler için 15.000,00 (onbeşbin) TL’dir."
+          }
+        },
+        {
+          "name": "Yazılım Mühendisliği",
+          "annual_fee": {
+            "amount": 126000.00,
+            "currency": "TL",
+            "description": "( İlgili yılın Tüketici Fiyat Endeksindeki (TÜFE) Mayıs ayı verileri dikkate alınarak açıklanan yıllık enflasyon oranını geçmeyecek şekilde belirlenecektir. Kayıt ve etkinlik harcı ücreti tam burslu öğrenciler dahil tüm öğrenciler için 15.000,00 (onbeşbin) TL’dir.)"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "Ada KENT Üniversitesi, Kuzey Kıbrıs Türk Cumhuriyeti’nin (KKTC) Gazimağusa kentinde, eğitim-öğretim veren ücrete tabi bir üniversitedir."
+    },
+        {
+      "academic_year": "2023-2024",
+      "description": "Ada KENT Üniversitesi, Kuzey Kıbrıs Türk Cumhuriyeti’nin (KKTC) Gazimağusa kentinde, eğitim-öğretim veren ücrete tabi bir üniversitedir."
+    },
+    {
+      "academic_year": "2023-2024",
+      "departments": [
+        {
+          "name": "Diş Hekimliği Fakültesi",
+          "annual_fee": {
+            "amount": 100000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Hukuk Fakültesi",
+          "annual_fee": {
+            "amount": 60000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İktisadi idari ve Sosyal Bilimler Fakültesi, Psikoloji Bölümü",
+          "annual_fee": {
+            "amount": 60000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Eğitim Fakültesi’nin, İngilizce Öğretmenliği",
+          "annual_fee": {
+            "amount": 60000,
+            "currency": "TL"
+          }
+        },
+         {
+          "name": "İngilizce Hazırlık Okulu",
+          "annual_fee": {
+            "amount": 60000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+
+      {
+      "academic_year": "2022-2023",
+         "description": "Ada Kent Üniversitesi, eğitim-öğretim ücretlidir. 2022-2023 akademik yılı için belirlenmiş olan öğrenim ücretleri\nDiş Hekimliği Fakültesi 120,000 TL, \nHukuk Fakültesi 60,000 TL,\nİktisadi idari ve Sosyal Bilimler Fakültesi, Psikoloji Bölümü 50,000 TL,\nEğitim Fakültesi’nin, İngilizce Öğretmenliği 50,000 TL’dir.\nİngilizce Hazırlık Okulu öğrenim ücreti 40,000 TL’dir."
+    }
+  ],
+  "scholarships": null,
+  "dormitory_fees": null
+}

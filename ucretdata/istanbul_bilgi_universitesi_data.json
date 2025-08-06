@@ -1,0 +1,345 @@
+{
+  "university": {
+    "name": "İstanbul Bilgi Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": [
+      {
+        "faculty": "Sosyal ve Beşeri Bilimler Fakültesi",
+        "programs": [
+          {
+            "program": "Müzik",
+            "discounted_fee": 480000,
+            "full_fee": 960000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Psikoloji",
+            "discounted_fee": 625000,
+            "full_fee": 1250000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Diğer Bölümler (İngiliz Dili ve Edebiyatı, Karşılaştırmalı Edebiyat, Siyaset Bilimi ve Kamu Yönetimi, Sosyoloji, Tarih, Uluslararası İlişkiler)",
+            "discounted_fee": 595000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "programs": [
+          {
+            "program": "Ağız ve Diş Sağlığı, Ameliyathane Hizmetleri, Çocuk Gelişimi, Diş Protez Teknolojisi, Diyaliz, İş Sağlığı ve Güvenliği, Odyometri, Optisyenlik, Patoloji Laboratuvar Teknikleri, Tıbbi Görüntüleme Teknikleri",
+            "annual_fee": 235000,
+            "currency": "TL"
+          },
+          {
+            "program": "Anestezi, Fizyoterapi, İlk ve Acil Yardım",
+            "annual_fee": 310000,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "faculty": "Uygulamalı Bilimler Fakültesi",
+        "programs": [
+          {
+            "program": "Gastronomi ve Mutfak Sanatları",
+            "discounted_fee": 545000,
+            "full_fee": 1090000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Havacılık Yönetimi, Spor Yöneticiliği, Tekstil ve Moda Tasarımı, Turizm İşletmeciliği",
+            "discounted_fee": 480000,
+            "full_fee": 960000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "Meslek Yüksekokulu",
+        "programs": [
+          {
+            "program": "Aşçılık, Bankacılık ve Sigortacılık, Bilgisayar Programcılığı, Bilişim Güvenliği ve Teknolojisi, E-Ticaret ve Pazarlama, Grafik Tasarımı, İç Mekan Tasarımı, İşletme Yönetimi, İnşaat Teknolojisi, Mimari Restorasyon, Moda Tasarımı, Muhasebe ve Vergi Uygulamaları, Sivil Havacılık Kabin Hizmetleri, Sivil Hava Ulaştırma",
+            "annual_fee": 255000,
+            "currency": "TL"
+          },
+          {
+            "program": "Dış Ticaret, Halkla İlişkiler ve Tanıtım",
+            "annual_fee": 310000,
+            "currency": "TL"
+          }
+        ]
+      },
+       {
+        "faculty": "Diğer Fakülteler",
+        "programs": [
+          {
+            "program": "Hukuk Fakültesi",
+            "full_fee": 1190000,
+            "currency": "TL",
+            "status": "Ücretli"
+          },
+          {
+            "program": "İşletme Fakültesi",
+            "discounted_fee": 595000,
+            "full_fee": 1190000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Mühendislik Fakültesi ve Doğa Bilimleri Fakültesi (Bilgisayar Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği)",
+            "discounted_fee": 625000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Mühendislik Fakültesi ve Doğa Bilimleri Fakültesi (Enerji Sistemleri Mühendisliği, Genetik ve Biyomühendislik, Matematik)",
+            "discounted_fee": 545000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+             "program": "Mühendislik Fakültesi ve Doğa Bilimleri Fakültesi (İnşaat Mühendisliği, Makine Mühendisliği, Mekatronik Mühendisliği)",
+            "discounted_fee": 595000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+               {
+             "program": "İletişim Fakültesi (Dijital Oyun Tasarımı, Görsel İletişim Tasarımı, Halkla İlişkiler ve Tanıtım, İletişim Tasarımı ve Yönetimi, Radyo, Televizyon ve Sinema, Reklamcılık, Sanat ve Kültür Yönetimi, Televizyon Haberciliği ve Programcılığı, Yeni Medya ve İletişim)",
+            "discounted_fee": 595000,
+            "currency": "TL"
+          },
+                 {
+             "program": "İletişim Fakültesi (Sahne ve Gösteri Sanatları Yönetimi)",
+            "annual_fee": 480000,
+            "currency": "TL"
+          },
+          {
+            "program": "Mimarlık Fakültesi (Endüstriyel Tasarım, İç Mimarlık)",
+            "discounted_fee": 595000,
+            "currency": "TL"
+          },
+                 {
+             "program": "Mimarlık Fakültesi (Mimarlık)",
+            "annual_fee": 597500,
+            "currency": "TL"
+          },
+            {
+            "program": "Sağlık Bilimleri Fakültesi (Çocuk Gelişimi, Fizyoterapi ve Rehabilitasyon, Hemşirelik)",
+            "annual_fee": 1090000,
+            "currency": "TL"
+          },
+                 {
+            "program": "Sağlık Bilimleri Fakültesi",
+            "discounted_fee": 520000,
+            "currency": "TL",
+              "discount": "50%"
+          },
+                {
+            "program": "Sağlık Bilimleri Fakültesi (Beslenme ve Diyetetik)",
+            "annual_fee": 545000,
+            "currency": "TL"
+          }
+        ]
+      }
+    ],
+      "yabanci_dil_hazirlik_programi": {
+        "program": "İngilizce Hazırlık Programı",
+        "discounted_fee": 595000,
+        "full_fee": 1190000,
+        "currency": "TL",
+        "discount": "50%"
+      }
+  },
+      "odeme_ve_ucret_bilgileri": "Ödemeler EFT/Havale, kredi kartı veya banka aracılığıyla taksitli yapılabilir. Kredi kartı ile ödemeler için İstanbul Bilgi Üniversitesi Ödeme Sistemi kullanılabilir. Anlaşmalı banka kredi kartları da kullanılabilir.",
+       "kdv_dahil": "Fiyatlara KDV dahildir.",
+         "taksitli_odeme_kosulu": "Açıklanan eğitim ücretleri peşin ödemeler için geçerlidir. Taksitli ödemelerde peşin ücrete %10 oranında ekleme yapılacaktır."
+  },
+ "tuition_fees_2024_2025": {
+    "new_students": [
+       {
+        "faculty": "Sosyal ve Beşeri Bilimler Fakültesi",
+        "programs": [
+          {
+            "program": "Müzik",
+            "discounted_fee": 275000,
+            "full_fee": 550000,
+             "currency": "TL",
+            "discount": "50%"
+          },
+           {
+            "program": "Psikoloji",
+            "discounted_fee": 372500,
+            "full_fee": 745000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Diğer Bölümler (İngiliz Dili ve Edebiyatı, Karşılaştırmalı Edebiyat, Siyaset Bilimi ve Kamu Yönetimi, Sosyoloji, Tarih, Uluslararası İlişkiler)",
+            "discounted_fee": 348750,
+            "currency": "TL",
+            "discount": "50%"
+          }
+         ]
+      },
+           {
+        "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "programs": [
+          {
+             "program": "Ağız ve Diş Sağlığı, Ameliyathane Hizmetleri, Çocuk Gelişimi, Diş Protez Teknolojisi, Diyaliz, İş Sağlığı ve Güvenliği, Odyometri, Optisyenlik, Patoloji Laboratuvar Teknikleri, Tıbbi Görüntüleme Teknikleri",
+           "annual_fee": 145000,
+            "currency": "TL"
+          },
+                   {
+                     "program": "Anestezi, Fizyoterapi, İlk ve Acil Yardım",
+                    "annual_fee": 190000,
+            "currency": "TL"
+         }
+        ]
+       },
+            {
+        "faculty": "Uygulamalı Bilimler Fakültesi",
+        "programs": [
+         {
+           "program": "Gastronomi ve Mutfak Sanatları",
+           "discounted_fee": 306250,
+             "full_fee": 612500,
+             "currency": "TL",
+            "discount": "50%"
+         },
+           {
+              "program": "Havacılık Yönetimi, Spor Yöneticiliği, Tekstil ve Moda Tasarımı, Turizm İşletmeciliği",
+              "discounted_fee": 275000,
+             "full_fee": 550000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+         ]
+       },
+         {
+        "faculty": "Meslek Yüksekokulu",
+        "programs": [
+         {
+         "program": "Aşçılık, Bankacılık ve Sigortacılık, Bilgisayar Programcılığı, Bilişim Güvenliği ve Teknolojisi, E-Ticaret ve Pazarlama, Grafik Tasarımı, İç Mekan Tasarımı, İşletme Yönetimi, İnşaat Teknolojisi, Mimari Restorasyon, Moda Tasarımı, Muhasebe ve Vergi Uygulamaları, Sivil Havacılık Kabin Hizmetleri, Sivil Hava Ulaştırma",
+        "annual_fee": 145000,
+            "currency": "TL"
+          },
+                    {
+            "program": "Dış Ticaret, Halkla İlişkiler ve Tanıtım",
+            "annual_fee": 190000,
+            "currency": "TL"
+        }
+      ]
+       },
+                {
+         "faculty": "Diğer Fakülteler",
+        "programs": [
+                     {
+        "program": "Hukuk Fakültesi",
+            "annual_fee": 445000,
+             "currency": "TL",
+            "status": "Ücretli"
+         },
+                      {
+        "program": "İşletme Fakültesi",
+        "discounted_fee": 348750,
+             "full_fee": 697500,
+             "currency": "TL",
+            "discount": "50%"
+          },
+           {
+              "program": "Mühendislik Fakültesi ve Doğa Bilimleri Fakültesi",
+              "discounted_fee": 372500,
+              "full_fee": 745000,
+              "currency": "TL",
+              "discount": "50%"
+           },
+                      {
+              "program": "Mühendislik Fakültesi ve Doğa Bilimleri Fakültesi",
+            "annual_fee": 348750,
+            "currency": "TL",
+             "discount": "50%"
+        },
+        {
+             "program": "İletişim Fakültesi",
+               "annual_fee": 275000,
+               "currency": "TL",
+             "discount": "50%"
+        },
+          {
+             "program": "İletişim Fakültesi",
+            "annual_fee": 348750,
+             "currency": "TL"
+        },
+            {
+             "program": "Mimarlık Fakültesi",
+             "discounted_fee": 348750,
+                "currency": "TL",
+            "discount": "50%"
+           },
+                     {
+              "program": "Sağlık Bilimleri Fakültesi",
+                "annual_fee": 297500,
+                "currency": "TL"
+      },
+         {
+              "program": "Sağlık Bilimleri Fakültesi",
+              "annual_fee": 312500,
+             "currency": "TL",
+                "discount": "50%"
+           }
+        ]
+     },
+                  {
+           "faculty": "İngilizce Hazırlık Programı",
+        "programs": [
+          {
+            "program": "İngilizce Hazırlık Programı",
+           "discounted_fee": 348750,
+            "full_fee": 697500,
+              "currency": "TL",
+            "discount": "50%"
+          }
+        ]
+     }
+      ],
+   "odeme_ve_ucret_bilgileri": "Ödemeler EFT/Havale, kredi kartı veya banka aracılığıyla taksitli yapılabilir. Kredi kartı ile ödemeler için İstanbul Bilgi Üniversitesi Ödeme Sistemi kullanılabilir. Anlaşmalı banka kredi kartları da kullanılabilir.",
+       "kdv_dahil": "Fiyatlara KDV dahildir.",
+         "taksitli_odeme_kosulu": "Açıklanan eğitim ücretleri peşin ödemeler için geçerlidir. Taksitli ödemelerde peşin ücrete %10 oranında ekleme yapılacaktır."
+  },
+    "tuition_fees_2022_2023": {
+    "new_students": {
+       "annual_fee_tüm_meslek_yüksekokulları": 79500,
+        "annual_fee_tüm_yuksekokullar_ve_fakultelerin_ingilizce_hazirlik_programi" : 79500,
+            "annual_fee_tüm_meslek_yüksekokulları": 110000,
+             "annual_fee_tüm_yuksekokullar_ve_fakultelerin_ingilizce_hazirlik_programi": 110000,
+       "annual_fee_hukuk_fakultesi": 139000,
+      "annual_fee_iletisim_isletme_sosyal_beseri_bilimler_fakultesi": 110000,
+         "annual_fee_mimarlık_fakultesi": 110000,
+         "annual_fee_muhendislik_doga_bilimleri_fakultesi": 119000,
+             "annual_fee_mimarlık_psikoloji_fakultesi": 125000,
+             "annual_fee_saglik_bilimleri_fakultesi": 98000,
+                 "annual_fee_saglik_bilimleri_fakultesi_digerleri": 93000,
+                      "annual_fee_sivil_havacilik_yuksekokulu": 85000,
+                  "annual_fee_gastronomi_mutfak_sanatlari": 89500,
+                             "annual_fee_adalet_dis_ticaret_halkla_iliskiler": 78900,
+                                      "annual_fee_asciilik_bilgisayar_programciligi": 48900,
+                                                   "annual_fee_bankacilik_grafik_tasarim": 44900,
+          "currency": "TL"
+        
+    }
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

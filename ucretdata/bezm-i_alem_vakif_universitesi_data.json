@@ -1,0 +1,313 @@
+{
+  "university": {
+    "name": "Bezm-i Âlem Vakıf Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "Tıp Fakültesi": {
+        "full_fee": 1465200,
+        "discount_50": 732600
+      },
+      "Diş Hekimliği Fakültesi": {
+        "full_fee": 1424500,
+        "discount_25": 1068375
+      },
+      "Eczacılık Fakültesi": {
+        "full_fee": 1058200,
+        "discount_25": 793650
+      },
+      "Sağlık Bilimleri Fakültesi": {
+        "Beslenme ve Diyetetik Bölümü": {
+          "full_fee": 610500,
+          "discount_50": 305250
+        },
+        "Ergoterapi": {
+          "full_fee": 537240,
+          "discount_50": 268620
+        },
+        "Fizyoterapi ve Rehabilitasyon Bölümü": {
+          "full_fee": 610500,
+          "discount_50": 305250
+        },
+        "Hemşirelik Bölümü": {
+          "full_fee": 508750,
+          "discount_50": 254375
+        },
+        "Odyoloji Bölümü": {
+          "full_fee": 586080,
+          "discount_50": 293040
+        },
+        "Sağlık Yönetimi Bölümü": {
+          "full_fee": 410256,
+          "discount_50": 205128
+        }
+      },
+      "Sağlık Hizmetleri Meslek Yüksekokulu": {
+        "Ağız ve Diş Sağlığı": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "Ameliyathane Hizmetleri": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "Anestezi": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Eczane Hizmetleri": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "Elektronörofizyoloji": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "İlk ve Acil Yardım": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "Optisyenlik": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "Ortopedik Protez ve Ortez": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "Patoloji Laboratuvar Teknikleri": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "Radyoterapi": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "Tıbbi Dokümantasyon ve Sekreterlik": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "Tıbbi Görüntüleme Teknikleri": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "Tıbbi Laboratuar Teknikleri": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        },
+        "Yaşlı Bakımı": {
+          "full_fee": 366300,
+          "discount_50": 183150
+        }
+      }
+    },
+ "2024-2025": {
+      "Tıp Fakültesi": {
+        "full_fee": 720000,
+        "discount_50": 360000
+      },
+      "Diş Hekimliği Fakültesi": {
+        "full_fee": 700000,
+        "discount_25": 525000
+      },
+      "Eczacılık Fakültesi": {
+        "full_fee": 520000,
+        "discount_25": 390000
+      },
+      "Sağlık Bilimleri Fakültesi": {
+        "Beslenme ve Diyetetik Bölümü": {
+          "full_fee": 300000,
+          "discount_50": 150000
+        },
+        "Fizyoterapi ve Rehabilitasyon Bölümü": {
+          "full_fee": 300000,
+          "discount_50": 150000
+        },
+        "Hemşirelik Bölümü": {
+          "full_fee": 250000,
+          "discount_50": 125000
+        },
+        "Odyoloji Bölümü": {
+          "full_fee": 288000,
+          "discount_50": 144000
+        },
+        "Sağlık Yönetimi Bölümü": {
+          "full_fee": 201600,
+          "discount_50": 100800
+        }
+      },
+      "Sağlık Hizmetleri Meslek Yüksekokulu": {
+        "Ağız ve Diş Sağlığı": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Ameliyathane Hizmetleri": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Anestezi": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Eczane Hizmetleri": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Elektronörofizyoloji": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "İlk ve Acil Yardım": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Optisyenlik": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Ortopedik Protez ve Ortez": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Patoloji Laboratuvar Teknikleri": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Radyoterapi": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Tıbbi Dokümantasyon ve Sekreterlik": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Tıbbi Görüntüleme Teknikleri": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Tıbbi Laboratuar Teknikleri": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        },
+        "Yaşlı Bakımı": {
+          "full_fee": 180000,
+          "discount_50": 90000
+        }
+      }
+    },
+    "2023-2024": {
+      "Tıp Fakültesi":{
+        "full_fee": 360000,
+        "discount_50": 180000
+      },
+      "Diş Hekimliği Fakültesi": {
+        "full_fee": 350000,
+        "discount_25": 262500
+      },
+      "Eczacılık Fakültesi":{
+        "full_fee": 260000,
+        "discount_25":195000
+      },
+      "Sağlık Bilimleri Fakültesi": {
+        "Beslenme ve Diyetetik Bölümü":{
+          "full_fee": 150000,
+          "discount_50": 75000
+        },
+        "Fizyoterapi ve Rehabilitasyon Bölümü": {
+          "full_fee": 150000,
+          "discount_50": 75000
+        },
+        "Odyoloji Bölümü":{
+          "full_fee": 144000,
+          "discount_50": 72000
+        },
+        "Sağlık Yönetimi Bölümü":{
+          "full_fee": 100800,
+          "discount_50": 50400
+        },
+        "Hemşirelik Bölümü":{
+          "full_fee": 125000,
+          "discount_50": 62500
+        }
+      },
+       "Sağlık Hizmetleri Meslek Yüksekokulu":{
+           "Ağız ve Diş Sağlığı":{
+                 "full_fee": 90000,
+                 "discount_50":45000
+           },
+           "Ameliyathane Hizmetleri":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+            "Anestezi":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+            "Eczane Hizmetleri":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+             "Elektronörofizyoloji":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+             "İlk ve Acil Yardım":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+            "Optisyenlik":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+           "Ortopedik Protez ve Ortez":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+          "Patoloji Laboratuvar Teknikleri":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+           "Radyoterapi":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+           "Tıbbi Dokümantasyon ve Sekreterlik":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+            "Tıbbi Görüntüleme Teknikleri":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+           "Tıbbi Laboratuar Teknikleri":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           },
+           "Yaşlı Bakımı":{
+                "full_fee": 90000,
+                 "discount_50":45000
+           }
+       },
+       "Hazırlık":{
+            "full_fee":187600,
+           "discount_50":93800,
+           "discount_25":140700,
+            "foreigner":10000
+       }
+    },
+    "2022-2023": {
+      "Tıp ve Diş Hekimliği Fakülteleri": 140000,
+      "Eczacılık Fakültesi": 120000,
+      "Mühendislik Fakültesi, Hukuk Fakültesi, Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi’nin Mimarlık Programı": 99000,
+      "Devlet Konservatuvarı": 84000,
+      "Ticari Bilimler Fakültesi": 82000,
+      "bu fakültelerin dışında kalan bütün lisans programları": 92000,
+      "İngilizce Hazırlık Programı": 76000,
+      "Ön lisans programları": 48000
+    }
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

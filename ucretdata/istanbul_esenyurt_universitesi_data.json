@@ -1,0 +1,484 @@
+{
+  "university": {
+    "name": "İstanbul Esenyurt Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": [
+      {
+        "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+        "programs": [
+          {
+            "program": "Ekonomi ve Finans (İngilizce)",
+            "discounted_fee": 275000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Elektronik Ticaret ve Yönetimi",
+            "discounted_fee": 275000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Havacılık Yönetimi",
+            "discounted_fee": 275000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "İşletme",
+            "discounted_fee": 275000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "İşletme (İngilizce)",
+            "discounted_fee": 275000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Lojistik Yönetimi",
+            "discounted_fee": 275000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Siyaset Bilimi ve Uluslararası İlişkiler",
+            "discounted_fee": 275000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce)",
+            "discounted_fee": 275000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Uluslararası Ticaret ve Finansman",
+            "discounted_fee": 275000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Yönetim Bilişim Sistemleri",
+            "discounted_fee": 275000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "Mühendislik Ve Mimarlık Fakültesi",
+        "programs": [
+          {
+            "program": "Bilgisayar Mühendisliği",
+            "discounted_fee": 200000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+            "discounted_fee": 200000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "İç Mimarlık",
+            "discounted_fee": 200000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "İç Mimarlık ve Çevre Tasarımı",
+            "discounted_fee": 200000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Yazılım Mühendisliği (İngilizce)",
+            "discounted_fee": 200000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "programs": [
+          {
+            "program": "Beslenme ve Diyetetik",
+            "discounted_fee": 321500,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Çocuk Gelişimi",
+            "discounted_fee": 321500,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Ebelik",
+            "full_fee": 642000,
+            "currency": "₺",
+            "status": "Ücretli"
+          },
+          {
+            "program": "Ebelik",
+            "discounted_fee": 321500,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Fizyoterapi ve Rehabilitasyon",
+            "full_fee": 642000,
+            "currency": "₺",
+            "status": "Ücretli"
+          },
+          {
+            "program": "Fizyoterapi ve Rehabilitasyon",
+            "discounted_fee": 321500,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Hemşirelik",
+            "discounted_fee": 321500,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Sosyal Hizmet",
+            "discounted_fee": 321500,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "faculty": "Sanat Ve Sosyal Bilimler Fakültesi",
+        "programs": [
+          {
+            "program": "Dijital Oyun Tasarımı",
+            "full_fee": 600000,
+            "currency": "₺",
+            "status": "Ücretli"
+          },
+          {
+            "program": "Dijital Oyun Tasarımı",
+            "discounted_fee": 300000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Gastronomi ve Mutfak Sanatları",
+            "discounted_fee": 300000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Halkla İlişkiler ve Reklamcılık",
+            "discounted_fee": 300000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Psikoloji",
+            "full_fee": 600000,
+            "currency": "₺",
+            "status": "Ücretli"
+          },
+          {
+            "program": "Psikoloji",
+            "discounted_fee": 300000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Radyo, Televizyon ve Sinema",
+            "discounted_fee": 300000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Sosyoloji",
+            "discounted_fee": 300000,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "program": "Yeni Medya ve İletişim",
+            "discounted_fee": 300000,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+       {
+          "faculty": "Beden Eğitimi Ve Spor Yüksekokulu",
+        "programs": [
+           {
+              "program": "Antrenörlük Eğitimi",
+               "discounted_fee": 237500,
+               "currency": "₺",
+             "discount": "50%"
+            },
+           {
+              "program": "Spor Yöneticiliği",
+               "discounted_fee": 237500,
+               "currency": "₺",
+              "discount": "50%"
+             }
+         ]
+      },
+       {
+          "faculty": "Meslek Yüksekokulu",
+        "programs": [
+           {
+            "program": "Ağız ve Diş Sağlığı",
+           "full_fee": 400000,
+            "currency": "₺",
+             "status": "Ücretli"
+          },
+                {
+            "program": "Ağız ve Diş Sağlığı",
+           "discounted_fee": 200000,
+            "currency": "₺",
+              "discount": "50%"
+          },
+            {
+            "program": "Ameliyathane Hizmetleri",
+           "discounted_fee": 400000,
+            "currency": "₺",
+              "discount": "50%"
+          },
+            {
+             "program": "Anestezi",
+           "full_fee": 400000,
+            "currency": "₺",
+             "status": "Ücretli"
+          },
+           {
+            "program": "Anestezi",
+           "discounted_fee": 200000,
+            "currency": "₺",
+             "discount": "50%"
+          },
+          {
+              "program": "Çocuk Gelişimi",
+            "discounted_fee": 200000,
+            "currency": "₺",
+              "discount": "50%"
+           },
+        {
+            "program": "Diş Protez Teknolojisi",
+            "full_fee": 400000,
+            "currency": "₺",
+              "status": "Ücretli"
+          },
+           {
+            "program": "Diş Protez Teknolojisi",
+            "discounted_fee": 200000,
+            "currency": "₺",
+              "discount": "50%"
+          },
+                 {
+            "program": "Fizyoterapi",
+            "full_fee": 400000,
+            "currency": "₺",
+              "status": "Ücretli"
+          },
+           {
+            "program": "Fizyoterapi",
+            "discounted_fee": 200000,
+            "currency": "₺",
+              "discount": "50%"
+          },
+                  {
+            "program": "İlk ve Acil Yardım",
+            "full_fee": 400000,
+            "currency": "₺",
+             "status": "Ücretli"
+          },
+           {
+            "program": "İlk ve Acil Yardım",
+            "discounted_fee": 200000,
+            "currency": "₺",
+             "discount": "50%"
+          },
+               {
+              "program": "Tıbbi Dokümantasyon ve Sekreterlik",
+            "discounted_fee": 200000,
+            "currency": "₺",
+             "discount": "50%"
+          },
+               {
+                "program": "Tıbbi Görüntüleme Teknikleri",
+                "full_fee": 400000,
+            "currency": "₺",
+            "status": "Ücretli"
+          },
+            {
+                "program": "Tıbbi Görüntüleme Teknikleri",
+           "discounted_fee": 200000,
+            "currency": "₺",
+            "discount": "50%"
+             },
+                      {
+              "program": "Tıbbi Laboratuvar Teknikleri",
+          "discounted_fee": 200000,
+             "currency": "₺",
+            "discount": "50%"
+          },
+           {
+             "program": "Akıllı Altyapılar Teknikerliği",
+              "discounted_fee": 175000,
+             "currency": "₺",
+            "discount": "50%"
+            },
+            {
+              "program": "Aşçılık",
+               "discounted_fee": 175000,
+               "currency": "₺",
+             "discount": "50%"
+            },
+             {
+              "program": "Bankacılık ve Sigortacılık",
+               "discounted_fee": 175000,
+               "currency": "₺",
+            "discount": "50%"
+            },
+                     {
+              "program": "Bilgisayar Destekli Tasarım ve Animasyon",
+                 "discounted_fee": 200000,
+                "currency": "₺",
+                "discount": "50%"
+           },
+             {
+               "program": "Bilgisayar Programcılığı",
+               "discounted_fee": 175000,
+                "currency": "₺",
+                "discount": "50%"
+             },
+                  {
+               "program": "Bilgisayar Teknolojisi",
+               "discounted_fee": 175000,
+                "currency": "₺",
+                "discount": "50%"
+              },
+                          {
+               "program": "Bilişim Güvenliği Teknolojisi",
+                "discounted_fee": 175000,
+                "currency": "₺",
+                "discount": "50%"
+              },
+               {
+               "program": "Ceza İnfaz ve Güvenlik Hizmetleri",
+                 "discounted_fee": 175000,
+                 "currency": "₺",
+                "discount": "50%"
+             },
+                   {
+                "program": "Dış Ticaret",
+                  "discounted_fee": 175000,
+                  "currency": "₺",
+                  "discount": "50%"
+         },
+                {
+                 "program": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+                   "discounted_fee": 175000,
+                     "currency": "₺",
+                  "discount": "50%"
+              },
+               {
+                "program": "E-Ticaret ve Pazarlama",
+                 "discounted_fee": 175000,
+                  "currency": "₺",
+                  "discount": "50%"
+                },
+                {
+                  "program": "Gıda Teknolojisi",
+               "discounted_fee": 175000,
+                   "currency": "₺",
+                 "discount": "50%"
+                  },
+                {
+               "program": "Grafik Tasarımı",
+                   "discounted_fee": 175000,
+                      "currency": "₺",
+                   "discount": "50%"
+                },
+                 {
+                      "program": "Halkla İlişkiler ve Tanıtım",
+                        "discounted_fee": 175000,
+                          "currency": "₺",
+                       "discount": "50%"
+                  },
+                    {
+                           "program": "İnşaat Teknolojisi",
+                       "discounted_fee": 175000,
+                         "currency": "₺",
+                   "discount": "50%"
+                        },
+                 {
+              "program": "İnternet ve Ağ Teknolojileri",
+               "discounted_fee": 175000,
+                 "currency": "₺",
+                    "discount": "50%"
+              },
+              {
+                        "program": "İş Sağlığı ve Güvenliği",
+                  "discounted_fee": 175000,
+                  "currency": "₺",
+                    "discount": "50%"
+              },
+               {
+                         "program": "İşletme Yönetimi",
+                   "discounted_fee": 175000,
+                   "currency": "₺",
+                     "discount": "50%"
+               },
+                    {
+                      "program": "Lojistik",
+                     "discounted_fee": 175000,
+                    "currency": "₺",
+                      "discount": "50%"
+              },
+               {
+                 "program": "Radyo ve Televizyon Programcılığı",
+                     "discounted_fee": 175000,
+                 "currency": "₺",
+                      "discount": "50%"
+               },
+                 {
+                "program": "Sivil Hava Ulaştırma İşletmeciliği",
+                    "discounted_fee": 175000,
+                  "currency": "₺",
+                   "discount": "50%"
+                     },
+                  {
+                    "program": "Sivil Havacılık Kabin Hizmetleri",
+                 "discounted_fee": 175000,
+                   "currency": "₺",
+                   "discount": "50%"
+                    },
+              {
+               "program": "Turist Rehberliği",
+                  "discounted_fee": 175000,
+                      "currency": "₺",
+                   "discount": "50%"
+               }
+            ]
+        }
+    ],
+   "not": "* Belirtilen ücretler peşin ödemede geçerlidir.",
+            "taksit_aciklama": "* 3 taksite kadar %5\n* 4-6 taksit arası %9\n* 7-9 taksit arası %13\n* Anlaşmalı banka taksitlendirmesi (10 Taksit) %13 vade farkı uygulanmaktadır."
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

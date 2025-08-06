@@ -1,0 +1,70 @@
+{
+  "university": {
+    "name": "Piri Reis Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2022-2023",
+      "description": "Piri Reis Üniversitesi’ne 2022-2023 Eğitim Öğretim yılı itibari ile yerleşip kayıt olan öğrencilere ait,  2022-2023 Eğitim ve öğretim yılında KDV dahil yıllık öğrenim ücreti;"
+    },
+    {
+      "academic_year": "2022-2023",
+      "program_type": "Hazırlık Programı",
+      "name": "İngilizce Hazırlık Programı",
+      "annual_fee": {
+        "amount": 583000.00,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2022-2023",
+      "program_type": "Lisans",
+      "annual_fee": {
+        "amount": 715000.00,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2022-2023",
+      "program_type": "Ön Lisans",
+      "annual_fee": {
+        "amount": 467500.00,
+        "currency": "TL"
+      }
+    },
+
+    {
+      "academic_year": "2022-2023",
+      "description": "Lisans (Denizcilik Fakültesi, İktisadi ve İdari Bilimler Fakültesi, Mühendislik Fakültesi) 113.400 TL;"
+    },
+    {
+      "academic_year": "2022-2023",
+      "faculty": "Hukuk Fakültesi",
+      "annual_fee": {
+        "amount": 129600,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2022-2023",
+      "program_type": "Önlisans programları",
+      "faculty": "Denizcilik Meslek Yüksekokulu",
+      "annual_fee": {
+        "amount": 75600,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2022-2023",
+      "name": "Hazırlık Sınıfı",
+      "annual_fee": {
+        "amount": 75600,
+        "currency": "TL"
+      }
+    }
+  ],
+  "scholarships": null,
+  "dormitory_fees": null
+}

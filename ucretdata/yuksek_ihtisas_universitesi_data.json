@@ -1,0 +1,384 @@
+{
+  "university": {
+    "name": "Yüksek İhtisas Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "Yüksek İhtisas Üniversitesinde eğitim-öğretim ücretlidir. Yüksek İhtisas Üniversitesine 2025-2026 Eğitim ve öğretim yılında yıllık öğrenim ücreti:"
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "İngilizce Hazırlık Programı",
+      "annual_fee": {
+        "amount": 410000.00,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Lisans Programları",
+      "departments": [
+        {
+          "name": "Spor Bilimleri Fakültesi",
+          "annual_fee": {
+            "amount": 380000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Ebelik",
+          "annual_fee": {
+            "amount": 460000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Ergoterapi",
+          "annual_fee": {
+            "amount": 460000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sağlık Yönetimi",
+          "annual_fee": {
+            "amount": 460000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sağlık Bilimleri Fakültesi",
+          "annual_fee": {
+            "amount": 490000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıp Fakültesi",
+          "annual_fee": {
+            "amount": 720000.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Ön Lisans Programları",
+      "departments": [
+        {
+          "name": "Tele-Sağlık Teknikerliği",
+          "annual_fee": {
+            "amount": 285000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıbbi Veri İşleme Teknikerliği",
+          "annual_fee": {
+            "amount": 285000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Elektrik",
+          "annual_fee": {
+            "amount": 300000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Grafik Tasarımı",
+          "annual_fee": {
+            "amount": 300000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Fizyoterapi",
+          "annual_fee": {
+            "amount": 320000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sağlık Hizmetleri Meslek Yüksekokulu Diğer Programlar",
+          "annual_fee": {
+            "amount": 330000.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Meslek Yüksekokulu Programları",
+      "annual_fee": {
+        "amount": 330000.00,
+        "currency": "TL"
+      }
+    },
+        {
+      "academic_year": "2024-2025",
+      "description": "Yüksek İhtisas Üniversitesinde eğitim-öğretim ücretlidir. Yüksek İhtisas Üniversitesine 2024-2025 Eğitim ve öğretim yılında yıllık öğrenim ücreti:"
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Tıp Fakültesi",
+      "departments": [
+        {
+          "name": "Tıp Fakültesi",
+          "annual_fee": {
+            "amount": 420000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 210000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Tıp Fakültesi (İngilizce)",
+          "annual_fee": {
+            "amount": 420000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 210000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Tıp Fakültesi (İngilizce Hazırlık)",
+          "annual_fee": {
+            "amount": 280000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Sağlık Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Beslenme ve Diyetetik",
+          "annual_fee": {
+            "amount": 290000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 145000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Dil ve Konuşma Terapisi",
+          "annual_fee": {
+            "amount": 290000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 145000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Fizyoterapi ve Rehabilitasyon",
+          "annual_fee": {
+            "amount": 290000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 145000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Hemşirelik",
+          "annual_fee": {
+            "amount": 190000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 95000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Sağlık Yönetimi",
+          "annual_fee": {
+            "amount": 180000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 90000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Ameliyathane Hizmetleri",
+          "annual_fee": {
+            "amount": 190000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 95000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Anestezi",
+          "annual_fee": {
+            "amount": 190000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 95000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Biyomedikal Cihaz Teknolojisi",
+          "annual_fee": {
+            "amount": 190000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 95000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Elektronörofizyoloji",
+          "annual_fee": {
+            "amount": 190000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 95000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Optisyenlik",
+          "annual_fee": {
+            "amount": 190000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 95000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Tıbbi Dokümantasyon ve Sekreterlik",
+          "annual_fee": {
+            "amount": 190000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 95000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Tıbbi Laboratuvar Teknikleri",
+          "annual_fee": {
+            "amount": 190000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 95000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        }
+      ]
+    },
+     {
+      "academic_year": "2024-2025",
+      "faculty": "Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Bilgisayar Programcılığı",
+          "annual_fee": {
+            "amount": 190000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 95000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        },
+        {
+          "name": "Eczane Hizmetleri",
+          "annual_fee": {
+            "amount": 190000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 95000,
+            "currency": "TL",
+            "discount": "(%50 İndirimli)"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2022-2023",
+      "description": "Yüksek İhtisas Üniversitesine 2022-2023 Eğitim ve öğretim yılında KDV dahil yıllık öğrenim ücreti:\nTıp Fakültesi Türkçe ve İngilizce Programı için 140.000 TL,\nSağlık Bilimleri Fakültesi Sağlık Yönetimi Programı için 70.000 TL\nHemşirelik Programı için 82.000 TL\nBeslenme ve Diyetetik Programı için 82.000 TL\nFizyoterapi ve Rehabilitasyon Programı için 82.000 TL\nDil ve Konuşma Terapisi Programı için 82.000 TL\nSağlık Hizmetleri Meslek Yüksekokulu için 52.000 TL’dir.\nMeslek Yüksekokulu için 52.000 TL’dir."
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "YKS üstün başarı bursu",
+      "tercih bursu",
+      "akademik başarı bursu",
+      "şehit ve gazi çocukları bursu",
+      "kardeş bursu",
+      "spor başarı bursu",
+      "sosyal destek bursu"
+    ]
+  },
+  "dormitory_fees": null
+}

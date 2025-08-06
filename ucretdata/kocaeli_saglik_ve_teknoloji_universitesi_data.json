@@ -1,0 +1,285 @@
+{
+  "university": {
+    "name": "Kocaeli Sağlık ve Teknoloji Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "İngilizce Hazırlık Programları",
+        "full_fee": 440000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilgisayar Mühendisliği",
+        "full_fee": 556875.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Yazılım Mühendisliği",
+        "full_fee": 556875.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İşletme",
+        "full_fee": 561000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Uluslararası Ticaret Ve Finansman",
+        "full_fee": 561000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Fizyoterapi Ve Rehabilitasyon",
+        "full_fee": 606375.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Ebelik",
+        "full_fee": 632500.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Hemşirelik",
+        "full_fee": 668250.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Psikoloji",
+        "full_fee": 757350.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Eczacılık",
+        "full_fee": 871200.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Diş Hekimliği Fakültesi",
+        "full_fee": 1425600.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Diş Hekimliği (İngilizce)",
+        "full_fee": 1188000.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Deniz Ve Liman İşletmeciliği (Ön Programları)",
+        "full_fee": 412500.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Dijital Sağlık Sistemleri Teknikerliği (Ön Programları)",
+        "full_fee": 412500.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Elektrik (Ön Programları)",
+        "full_fee": 412500.00,
+        "currency": "TL"
+      },
+        {
+        "name": "E-Ticaret Ve Pazarlama (Ön Programları)",
+        "full_fee": 412500.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Makine (Ön Programları)",
+        "full_fee": 412500.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Otomotiv Teknolojisi (Ön Programları)",
+        "full_fee": 412500.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Tele-Sağlık Teknikerliği (Ön Programları)",
+        "full_fee": 412500.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Tıbbi Veri İşleme Teknikerliği (Ön Programları)",
+        "full_fee": 412500.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Web Tasarımı Ve Kodlama (Ön Programları)",
+        "full_fee": 412500.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Ağız Ve Diş Sağlığı (Ön Programları)",
+        "full_fee": 475200.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Ameliyathane Hizmetleri (Ön Programları)",
+        "full_fee": 475200.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Anestezi (Ön Programları)",
+        "full_fee": 475200.00,
+        "currency": "TL"
+      },
+          {
+        "name": "Bilgisayar Programcılığı (Ön Programları)",
+        "full_fee": 475200.00,
+        "currency": "TL"
+      },
+        {
+        "name": "Gebze OSB MYO Bilgisayar Programcılığı (Ön Programları)",
+        "full_fee": 412500.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Bilgisayar Teknolojisi (Ön Programları)",
+        "full_fee": 475200.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Çocuk Gelişimi (Ön Programları)",
+        "full_fee": 475200.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Fizyoterapi (Ön Programları)",
+        "full_fee": 475200.00,
+        "currency": "TL"
+      },
+         {
+        "name": "Hibrid Ve Elektrikli Taşıtlar Teknolojisi (Ön Programları)",
+        "full_fee": 475200.00,
+        "currency": "TL"
+      },
+       {
+        "name": "İlk Ve Acil Yardım (Ön Programları)",
+        "full_fee": 475200.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tıbbi Dokümantasyon Ve Sekreterlik (Ön Programları)",
+        "full_fee": 475200.00,
+        "currency": "TL"
+      },
+       {
+        "name": "Tıbbi Görüntüleme Teknikleri (Ön Programları)",
+        "full_fee": 475200.00,
+        "currency": "TL"
+      }
+    ]
+  },
+"tuition_fees_2024_2025":{
+   "details": "Kocaeli Sağlık ve Teknoloji Üniversitesi’nde eğitim öğretim ücretlidir. 2024-2025 Eğitim-Öğretim yılı ücretleri;",
+   "currency": "TL",
+   "faculty_programs": [
+      {
+        "name": "Diş Hekimliği Fakültesi",
+        "programs": [
+         {
+          "name": "Diş Hekimliği (Türkçe)",
+          "full_fee": 704000,
+          "discounted_fee": 528000,
+          "Tercih Bursu ile": 475200,
+          "discount": "25%"
+         },
+         {
+          "name": "Diş Hekimliği (İngilizce)",
+          "full_fee": 660000,
+          "discounted_fee": 495000,
+          "Tercih Bursu ile": 445500,
+          "discount": "25%"
+         }
+        ]
+      },
+       {
+        "name": "Eczacılık Fakültesi",
+        "programs": [
+         {
+          "name": "Eczacılık (Türkçe)",
+          "full_fee": 484000,
+          "discounted_fee": 363000,
+          "Tercih Bursu ile": 326700,
+          "discount": "25%"
+         },
+         {
+          "name": "Eczacılık (İngilizce)",
+          "full_fee": 440000,
+          "discounted_fee": 330000,
+          "Tercih Bursu ile": 297000,
+          "discount": "25%"
+         }
+        ]
+      },
+     {
+         "name": "Sağlık Bilimleri Fakültesi",
+         "programs":[
+          {
+          "name": "Hemşirelik",
+           "full_fee": 330000,
+           "discounted_fee": 247500,
+            "Tercih Bursu ile": 222750,
+            "discount": "25%"
+          },
+                 {
+          "name": "Fizyoterapi ve Rehabilitasyon",
+           "full_fee": 308000,
+           "discounted_fee": 231000,
+            "Tercih Bursu ile": 207900,
+            "discount": "25%"
+          }
+         ]
+     },
+       {
+         "name": "Diğer Bölümler",
+         "programs": [
+          {
+            "name": "Yazılım Mühendisliği",
+            "full_fee": 345000,
+           "discounted_fee": 258750,
+            "Tercih Bursu ile": 232875,
+            "discount": "25%"
+          },
+                   {
+            "name": "Bilgisayar Mühendisliği",
+            "full_fee": 345000,
+           "discounted_fee": 258750,
+            "Tercih Bursu ile": 232875,
+            "discount": "25%"
+          }
+         ]
+       },
+        {
+         "name": "Psikoloji",
+         "programs":[
+          {
+           "name": "Psikoloji",
+            "full_fee": 396000,
+           "discounted_fee": 297000,
+            "Tercih Bursu ile": 267300,
+            "discount": "25%"
+          }
+        ]
+       }
+   ],
+         "Meslek Yüksekokulu":{
+       "note":"Kocaeli Sağlık ve Teknoloji Üniversitesi’nin meslek yüksekokulu programlarında da çeşitli burs ve indirim olanakları mevcuttur.",
+       "program": "Ağız ve Diş Sağlığı",
+         "discounted_fee": 198000,
+            "Tercih Bursu ile": 178200,
+            "discount": "25%"
+         }
+  },
+   "notes":
+   [
+   "Fiyatlara Kdv Dahil Değildir.kdv Oranı %10’dur.",
+   "Meslek Yüksek Okulu Programlarında İkinci Öğretimlere Fiyat Farkı Yoktur",
+   "Meslek Yüksek Okulu Programlarında İlk 5 Tercihte %10 Tercih İndirimi Uygulanacaktır.",
+   "Fakülte Programlarında İlk 3 Tercihte %10 Tercih İndirimi Uygulanacaktır."
+   ]
+}

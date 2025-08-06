@@ -1,0 +1,830 @@
+{
+  "university": {
+    "name": "Yeditepe Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "Yeditepe Üniversitesinde eğitim-öğretim ücretlidir. 2025-2026 eğitim-öğretim yılında yıllık öğrenim ücretleri;"
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "İngilizce Hazırlık Programı",
+      "annual_fee": {
+        "amount": 1127500,
+        "currency": "TL"
+      },
+      "description":"Öğrenim Ücreti"
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Ön lisans programları Hazırlık Sınıfı",
+      "annual_fee": {
+        "amount": 603750,
+        "currency": "TL"
+      },
+      "description":"Öğrenim Ücreti"
+    },
+      {
+      "academic_year": "2025-2026",
+      "program_type": "Meslek Yüksekokulu Programları",
+      "annual_fee": {
+        "amount": 603750.00,
+        "currency": "TL"
+      }
+    },
+       {
+      "academic_year": "2025-2026",
+      "faculty": "Lisans Programları",
+       "annual_fee_data": [
+        {
+            "faculty_name": "Eğitim Fakültesi",
+            "annual_fee": {
+              "amount": 990000.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "Güzel Sanatlar Fakültesi",
+             "annual_fee": {
+              "amount": 1072500.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "Sağlık Bilimleri Fakültesi",
+             "annual_fee": {
+              "amount": 1072500.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "Fen-Edebiyat Fakültesi",
+             "annual_fee": {
+              "amount": 1127500.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "İktisadi Ve İdari Bilimler Fakültesi",
+             "annual_fee": {
+              "amount": 1127500.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "İletişim Fakültesi",
+             "annual_fee": {
+              "amount": 1127500.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "Bilgisayar Ve Bilişim Bilimleri Fakültesi",
+             "annual_fee": {
+              "amount": 1210000.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "Eczacılık Fakültesi",
+             "annual_fee": {
+              "amount": 1320000.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "Hukuk Fakültesi",
+             "annual_fee": {
+              "amount": 1320000.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "Mimarlık Fakültesi",
+             "annual_fee": {
+              "amount": 1320000.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "Mühendislik Fakültesi",
+             "annual_fee": {
+              "amount": 1320000.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "Diş Hekimliği Fakültesi",
+             "annual_fee": {
+              "amount": 1705000.00,
+              "currency": "TL"
+            }
+          },
+           {
+            "faculty_name": "Tıp Fakültesi",
+             "annual_fee": {
+              "amount": 1705000.00,
+              "currency": "TL"
+            }
+          }
+         ]
+    },
+     {
+      "academic_year": "2024-2025",
+       "faculty": "Lisans Programları",
+        "departments": [
+         {
+          "name": "Antropoloji Bölümü",
+          "annual_fee": {
+            "amount": 290000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          }
+         },
+                  {
+          "name": "Beslenme ve Diyetetik Bölümü",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          }
+         },
+                 {
+          "name": "Bilgi Güvenliği Teknolojisi Bölümü",
+          "annual_fee": {
+            "amount": 310000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+              "annual_fee_full": {
+            "amount": 620000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+                 {
+          "name": "Bilgisayar Mühendisliği",
+          "annual_fee": {
+            "amount": 335000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+                  "annual_fee_full": {
+            "amount": 670000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+       {
+          "name": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
+          "annual_fee": {
+            "amount": 310000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+                  "annual_fee_full": {
+            "amount": 620000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+         {
+          "name": "Bilişim Sistemleri ve Teknolojileri Bölümü",
+          "annual_fee": {
+            "amount": 310000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+            "annual_fee_full": {
+            "amount": 620000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+         {
+          "name": "Biyomedikal Mühendisliği",
+           "annual_fee": {
+            "amount": 335000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          }
+         },
+         {
+          "name": "Çeviribilimi Bölümü",
+            "annual_fee": {
+            "amount": 290000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+                "annual_fee_full": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+          {
+          "name": "Diş Hekimliği Fakültesi",
+                "annual_fee": {
+            "amount": 890000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+           {
+          "name": "Eczacılık Fakültesi",
+           "annual_fee": {
+            "amount": 335000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+             "annual_fee_full": {
+            "amount": 670000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+            {
+          "name": "Eğitim Fakültesi",
+            "annual_fee": {
+            "amount": 260000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          }
+         },
+         {
+          "name": "Ekonomi Bölümü",
+              "annual_fee": {
+            "amount": 290000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+              "annual_fee_full": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+         {
+          "name": "Elektrik – Elektronik Mühendisliği",
+                "annual_fee": {
+            "amount": 335000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+                  "annual_fee_full": {
+            "amount": 670000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+         {
+          "name": "Elektronik Ticaret ve Yönetimi Bölümü",
+              "annual_fee": {
+            "amount": 290000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+           "annual_fee_full": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+         {
+          "name": "Endüstri Mühendisliği",
+            "annual_fee": {
+            "amount": 335000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+          "annual_fee_full": {
+            "amount": 670000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+           {
+          "name": "Endüstriyel Tasarım Bölümü",
+               "annual_fee": {
+            "amount": 335000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+              "annual_fee_full": {
+            "amount": 670000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+           {
+          "name": "Felsefe Bölümü",
+               "annual_fee": {
+            "amount": 290000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          }
+         },
+           {
+          "name": "Fen-Edebiyat Fakültesi",
+                 "annual_fee": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+        {
+          "name": "Fizik Bölümü",
+                       "annual_fee": {
+            "amount": 290000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+                          "annual_fee_full": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+        },
+                 {
+          "name": "Fizyoterapi ve Rehabilitasyon (egitim.net.tr) Bölümü",
+             "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          }
+         },
+         {
+          "name": "Gastronomi ve Mutfak Sanatları Bölümü",
+             "annual_fee": {
+            "amount": 275000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+                            "annual_fee_full": {
+            "amount": 550000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+                  {
+          "name": "Gazetecilik Bölümü",
+                   "annual_fee": {
+            "amount": 269000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          }
+         },
+              {
+          "name": "Genetik ve Biyomühendisliği",
+                         "annual_fee": {
+            "amount": 295000,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 670000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+                        {
+          "name": "Gıda Mühendisliği",
+                       "annual_fee": {
+            "amount": 295000,
+            "currency": "TL"
+          }
+         },
+          {
+          "name": "Görsel İletişim Tasarımı Bölümü",
+            "annual_fee": {
+            "amount": 269000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          }
+         },
+            {
+          "name": "Grafik Tasarımı Bölümü",
+                          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL",
+            "description": "%50 İndirimli"
+          },
+                              "annual_fee_full": {
+            "amount": 550000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+              {
+          "name": "Güzel Sanatlar Fakültesi",
+            "annual_fee": {
+            "amount": 238500,
+            "currency": "TL"
+          }
+         },
+        {
+          "name": "Halkla İlişkiler ve Tanıtım Bölümü",
+                       "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+                            {
+          "name": "Hemşirelik Bölümü",
+                              "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+                        "annual_fee_full": {
+            "amount": 550000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+            {
+          "name": "Hukuk Fakültesi",
+                           "annual_fee": {
+            "amount": 342500,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 685000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+           {
+          "name": "İç Mimarlık Bölümü",
+                "annual_fee": {
+            "amount": 295000,
+            "currency": "TL"
+          },
+             "annual_fee_full": {
+            "amount": 670000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+                                 {
+          "name": "İktisadi ve İdari Bilimler Fakültesi",
+                       "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+          {
+          "name": "İletişim Fakültesi",
+                  "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+           {
+          "name": "İlköğretim Matematik Öğretmenliği Bölümü",
+                  "annual_fee": {
+            "amount": 230000,
+            "currency": "TL"
+          }
+         },
+         {
+          "name": "İngiliz Dili ve Edebiyatı Bölümü",
+                    "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+           {
+          "name": "İngilizce Öğretmenliği Bölümü",
+           "annual_fee": {
+            "amount": 230000,
+            "currency": "TL"
+          }
+         },
+           {
+          "name": "İnşaat Mühendisliği",
+               "annual_fee": {
+            "amount": 295000,
+            "currency": "TL"
+          },
+            "annual_fee_full": {
+            "amount": 670000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+         {
+          "name": "İşletme Bölümü",
+           "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          },
+          "annual_fee_full": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+        {
+          "name": "Kamu Yönetimi Bölümü",
+           "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+        },
+       {
+          "name": "Kentsel Tasarım ve Peyzaj Mimarlığı Bölümü",
+           "annual_fee": {
+            "amount": 295000,
+            "currency": "TL"
+          }
+         },
+         {
+          "name": "Kimya Mühendisliği",
+               "annual_fee": {
+            "amount": 295000,
+            "currency": "TL"
+          }
+         },
+      {
+          "name": "Lojistik Yönetimi Bölümü",
+            "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          },
+           "annual_fee_full": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+        {
+          "name": "Makine Mühendisliği",
+         "annual_fee": {
+            "amount": 295000,
+            "currency": "TL"
+          },
+               "annual_fee_full": {
+            "amount": 670000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+                {
+          "name": "Malzeme Bilimi ve Nanoteknoloji Mühendisliği",
+           "annual_fee": {
+            "amount": 295000,
+            "currency": "TL"
+          }
+         },
+         {
+          "name": "Matematik Bölümü",
+              "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+          {
+          "name": "Mimarlık Bölümü",
+                "annual_fee": {
+            "amount": 295000,
+            "currency": "TL"
+          }
+         },
+            {
+          "name": "Plastik Sanatlar ve Resim Bölümü",
+                       "annual_fee": {
+            "amount": 238500,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 550000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+           {
+          "name": "Psikoloji Bölümü",
+                "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          },
+              "annual_fee_full": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+              {
+          "name": "Radyo, Televizyon ve Sinema Bölümü",
+                 "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+              {
+          "name": "Rehberlik ve Psikolojik Danışmanlık Bölümü",
+                   "annual_fee": {
+            "amount": 230000,
+            "currency": "TL"
+          }
+         },
+           {
+          "name": "Reklam Tasarımı ve İletişimi Bölümü",
+                    "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+          {
+          "name": "Rus Dili ve Edebiyatı Bölümü",
+                  "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+         {
+          "name": "Sağlık Bilimleri Fakültesi",
+                    "annual_fee": {
+            "amount": 230000,
+            "currency": "TL"
+          }
+         },
+         {
+          "name": "Sanat ve Kültür Yönetimi Bölümü",
+                      "annual_fee": {
+            "amount": 238500,
+            "currency": "TL"
+          }
+         },
+          {
+          "name": "Siyaset Bilimi ve Uluslararası İlişkiler Bölümü",
+             "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+          {
+          "name": "Sosyoloji Bölümü",
+              "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+           {
+          "name": "Tarih Bölümü",
+               "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+         {
+          "name": "Tarım Ticareti ve İşletmeciliği (egitim.net.tr) Bölümü",
+                 "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+          {
+          "name": "Tekstil ve Moda Tasarımı Bölümü",
+                   "annual_fee": {
+            "amount": 238500,
+            "currency": "TL"
+          },
+             "annual_fee_full": {
+            "amount": 550000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+            {
+          "name": "Tıp Fakültesi",
+                 "annual_fee": {
+            "amount": 396000,
+            "currency": "TL"
+          }
+         },
+               {
+          "name": "Tiyatro Bölümü",
+                     "annual_fee": {
+            "amount": 238500,
+            "currency": "TL"
+          },
+                  "annual_fee_full": {
+            "amount": 550000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+           {
+          "name": "Turizm İşletmeciliği Bölümü",
+                      "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+          {
+          "name": "Türk Dili ve Edebiyatı Bölümü",
+                   "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+           {
+          "name": "Uluslararası Finans Bölümü",
+               "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+           {
+          "name": "Uluslararası İşletme Yönetimi (Almanca) Bölümü",
+                 "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          },
+                        "annual_fee_full": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+              {
+          "name": "Uluslararası Ticaret ve İşletmecilik Bölümü",
+                   "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          },
+               "annual_fee_full": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+               {
+          "name": "Uluslararası Ulaştırma Sistemleri Bölümü",
+                   "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          }
+         },
+                {
+          "name": "Yazılım Geliştirme Bölümü",
+            "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          },
+                "annual_fee_full": {
+            "amount": 620000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         },
+           {
+          "name": "Yönetim Bilişim Sistemleri Bölümü",
+            "annual_fee": {
+            "amount": 269000,
+            "currency": "TL"
+          },
+                      "annual_fee_full": {
+            "amount": 620000,
+            "currency": "TL",
+            "description": "Ücretli"
+          }
+         }
+        ]
+    },
+    {
+      "academic_year": "2022-2023",
+      "description": "Üsküdar Üniversitesi’nde eğitim-öğretim ücretlidir. 2022-2023 eğitim ve öğretim yılında öğrenim ücreti; Sağlık Bilimleri Fakültesi İş Sağlığı ve Güvenliği, Sağlık Yönetimi programları için 42.980 TL,\nSağlık Bilimleri Fakültesinin diğer tüm programları için 58.023 TL,\nSağlık Hizmetleri Meslek Yüksekokulu Çocuk Koruma ve Bakım Hizmetleri, Engelli Bakımı ve Rehabilitasyon, Evde Hasta Bakımı, Nükleer Teknoloji ve Radyasyon Güvenliği, Tıbbi Tanıtım ve Pazarlama, Yaşlı Bakımı programları için 28.470 TL,\nSağlık Hizmetleri Meslek Yüksekokulunun diğer tüm programları için 38.435 TL,\nİletişim Fakültesi Gazetecilik, Halkla İlişkiler ve Tanıtım programları için 42.980 TL,\nİletişim Fakültesinin diğer tüm programları için 58.023 TL,\nİnsan ve Toplum Bilimleri Fakültesi Felsefe, Tarih programları için 42.980 TL,\nPsikoloji programları hariç diğer tüm programları için 58.023 TL,\nPsikoloji programları için 77.166 TL,\nMühendislik ve Doğa Bilimleri Fakültesinin Biyomühendislik, Elektrik-Elektronik Mühendisliği, Kimya Mühendisliği programları için 58.023 TL,\nMühendislik ve Doğa Bilimleri Fakültesinin diğer tüm programları için 77.166 TL, Diş Hekimliği Fakültesi için 128.250 TL,\nTıp Fakültesi için 149.425 TL,\nLisans Programlarının Zorunlu İngilizce Hazırlık Sınıfı Öğrenim ücreti 64.280 TL’ dir."
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "ÖSYM burs/indirimleri",
+      "ilk 5 tercih bursu",
+      "tercih bursu",
+      "üniversite giriş bursu",
+      "kardeş bursu",
+      "bilim ve fikir festivali bursu",
+      "kurum bursu",
+      "spor bursu",
+      "gençlik ve spor bakanlığı bursu",
+      "bilim, sanat, din ve kültür bursu",
+      "uluslararası bakalorya bursu",
+      "tübitak bursu",
+      "akademik başarı bursu",
+      "bursu",
+      "personel bursu",
+      "mezun bursu",
+      "mütevelli heyet bursu",
+      "ihtiyaç bursu"
+    ]
+  },
+  "dormitory_fees": null
+}

@@ -1,0 +1,169 @@
+{
+  "university": {
+    "name": "İstanbul Nişantaşı Üniversitesi",
+    "url": "aday.nisantasi.edu.tr",
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Tıp Fakültesi",
+      "departments": [
+        {
+          "name": "Tıp Fakültesi",
+          "annual_fee": {
+            "amount": 1439900,
+            "currency": "₺",
+            "description": "Ücretli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Diş Hekimliği Fakültesi",
+      "departments": [
+        {
+          "name": "Diş Hekimliği Fakültesi (Türkçe)",
+          "annual_fee": {
+            "amount": 1240613,
+            "currency": "₺"
+          }
+        },
+        {
+          "name": "Diş Hekimliği Fakültesi (İngilizce)",
+          "annual_fee": {
+            "amount": 827640.00,
+            "currency": "₺"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Uygulamalı Bilimler Yüksekokulu",
+      "departments": [
+        {
+          "name": "Pilotaj (İngilizce)",
+          "annual_fee": {
+            "amount": 744755,
+            "currency": "₺",
+            "description": "Ücretli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "description": "İç Mimarlık, Psikoloji (Türkçe/İngilizce), Gastronomi ve Mutfak Sanatları, Havacılık Elektrik ve Elektroniği, Uçak Bakım ve Onarım, İşletme (İngilizce), Bilgisayar Mühendisliği, Yazılım Mühendisliği (İngilizce), Yönetim Bilişim Sistemleri (Türkçe/İngilizce) lisans programları ile Sağlık Bilimleri Fakültesi lisans programlarında % 50 indirimli ₺497.310"
+    },
+    {
+      "academic_year": "2025-2026",
+      "description": "Halkla İlişkiler ve Reklamcılık, Havacılık Yönetimi (Türkçe/İngilizce), Yeni Medya ve İletişim (Türkçe/İngilizce), İngilizce Mütercim ve Tercümanlık, İngiliz Dili ve Edebiyatı, Dijital Oyun Tasarımı, Radyo Televizyon ve Sinema lisans programlarında Ücretli ₺827.640"
+    },
+    {
+      "academic_year": "2025-2026",
+      "description": "Özel yetenek sınavı ile öğrenci alan bölümler hariç diğer tüm lisans programlarında Ücretli ₺661.870 ve % 50 indirimli ₺330.935"
+    },
+    {
+      "academic_year": "2025-2026",
+      "description": "Meslek Yüksekokulu ve Sağlık Hizmetleri Meslek Yüksekokulu; Ağız ve Diş Sağlığı, Ameliyathane Hizmetleri, Anestezi, Aşçılık, Bilgisayar Programcılığı, Diş Protez Teknolojisi, İlk ve Acil Yardım, İnternet ve Ağ Teknolojileri, Mahkeme Büro Yönetimi, Mobil Teknolojileri, Tıbbi Görüntüleme Teknikleri, Tıbbi Laboratuvar Teknikleri ve Uçak Teknolojisi ön lisans programlarında Ücretli ₺827.640 ve %50 indirimli ₺413.820"
+    },
+    {
+      "academic_year": "2025-2026",
+      "description": "Deniz Ulaştırma ve İşletme, Diyaliz, Eczane Hizmetleri, Fizyoterapi, Grafik Tasarımı, İç Mekan Tasarımı, Mekatronik, Ortopedik Protez ve Ortez, Odyometri, Optisyenlik, Patoloji Laboratuvar Teknikleri, Radyo ve Televizyon Programcılığı, Radyoterapi ve Sivil Havacılık Kabin Hizmetleri ön lisans programlarında Ücretli ₺661.870 ve % 50 indirimli ₺330.935"
+    },
+    {
+      "academic_year": "2025-2026",
+      "description": "diğer ön lisans programlarında ise Ücretli ₺497.310 ve %50 indirimli  ₺248.655"
+    },
+
+     {
+      "academic_year": "2024-2025",
+      "faculty": "Tıp Fakültesi",
+      "departments": [
+        {
+          "name": "Tıp Fakültesi",
+          "annual_fee": {
+            "amount": 595000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Diş Hekimliği Fakültesi",
+      "departments": [
+        {
+          "name": "Diş Hekimliği Fakültesi (Türkçe)",
+          "annual_fee": {
+            "amount": 495000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Diş Hekimliği Fakültesi (İngilizce)",
+          "annual_fee": {
+            "amount": 425000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Uygulamalı Bilimler Yüksekokulu",
+      "departments": [
+        {
+          "name": "Pilotaj (İngilizce)",
+          "annual_fee": {
+            "amount": 295000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "İç Mimarlık, Psikoloji (Türkçe/İngilizce), Gastronomi ve Mutfak Sanatları, Havacılık Elektrik ve Elektroniği, Uçak Bakım ve Onarım, İşletme (İngilizce), Bilgisayar Mühendisliği, Yazılım Mühendisliği (İngilizce), Yönetim Bilişim Sistemleri (Türkçe/İngilizce) lisans programları ile Sağlık Bilimleri Fakültesi lisans programlarında 375.000 TL"
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "Halkla İlişkiler ve Reklamcılık, Havacılık Yönetimi (Türkçe/İngilizce), Yeni Medya ve İletişim (Türkçe/İngilizce), İngilizce Mütercim ve Tercümanlık, İngiliz Dili ve Edebiyatı, Dijital Oyun Tasarımı, Radyo Televizyon ve Sinema lisans programlarında 325.000 TL"
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "Özel yetenek sınavı ile öğrenci alan bölümler hariç diğer tüm lisans programlarında ise 255.000 TL"
+    },
+        {
+      "academic_year": "2024-2025",
+      "description": "Meslek Yüksekokulu ve Sağlık Hizmetleri Meslek Yüksekokulu; Ağız ve Diş Sağlığı, Ameliyathane Hizmetleri, Anestezi, Aşçılık, Bilgisayar Programcılığı, Diş Protez Teknolojisi, İlk ve Acil Yardım, İnternet ve Ağ Teknolojileri, Mahkeme Büro Yönetimi, Mobil Teknolojileri, Tıbbi Görüntüleme Teknikleri, Tıbbi Laboratuvar Teknikleri ve Uçak Teknolojisi ön lisans programlarında 275.000 TL"
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "Deniz Ulaştırma ve İşletme, Diyaliz, Eczane Hizmetleri, Fizyoterapi, Grafik Tasarımı, İç Mekan Tasarımı, Mekatronik, Ortopedik Protez ve Ortez, Odyometri, Optisyenlik, Patoloji Laboratuvar Teknikleri, Radyo ve Televizyon Programcılığı, Radyoterapi ve Sivil Havacılık Kabin Hizmetleri ön lisans programlarında 225.000 TL"
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "diğer ön lisans programlarında ise 175.000 TL"
+    },
+
+    {
+      "academic_year": "2023-2024",
+      "description": "İstanbul Nişantaşı Üniversitesi’nde eğitim-öğretim ücretlidir. 2023 – 2024 eğitim ve öğretim yılında yıllık öğrenim ücreti KDV hariç;\nTıp Fakültesinde 287.000 TL;\nDiş Hekimliği Fakültesinde 269.000 TL;\nPilotaj (İngilizce) lisans programında 206.000 TL;\nİç Mimarlık, Psikoloji (Türkçe/İngilizce), Gastronomi ve Mutfak Sanatları, Havacılık Elektrik ve Elektroniği, Uçak Bakım ve Onarım, İşletme (İngilizce), Bilgisayar Mühendisliği, Yazılım Mühendisliği (İngilizce) lisans programları ile Sağlık Bilimleri Yüksekokulu’na bağlı lisans programlarında 171.000 TL;\nHalkla İlişkiler ve Reklamcılık, Havacılık Yönetimi (Türkçe/İngilizce), Yeni Medya ve İletişim (Türkçe/İngilizce), Yönetim Bilişim Sistemleri (Türkçe/İngilizce), İngilizce Mütercim ve Tercümanlık, İngiliz Dili ve Edebiyatı, Dijital Oyun Tasarımı, Radyo Televizyon ve Sinema, İletişim ve Tasarımı lisans programlarında 135.000 TL;\nözel yetenek sınavı ile öğrenci alan bölümler hariç diğer tüm lisans programlarında ise 102.000 TL’dir.\nİstanbul Nişantaşı Üniversitesi Meslek Yüksekokulu ve Sağlık Hizmetleri Meslek Yüksekokulunda bulunan;\nAğız ve Diş Sağlığı, Ameliyathane Hizmetleri, Anestezi, Aşçılık, İlk ve Acil Yardım, Optisyenlik, Tıbbi Görüntüleme Teknikleri, Tıbbi Laboratuvar Teknikleri ve Uçak Teknolojisi ön lisans programlarında 117.000 TL;\nAdalet, Deniz Ulaştırma ve İşletme, Diş Protez Teknolojisi, Diyaliz, Eczane Hizmetleri, Fizyoterapi, Grafik Tasarımı, İç Mekan Tasarımı, Mimari Restorasyon, Ortopedik Protez ve Ortez, Odyometri, Patoloji Laboratuvar Teknikleri, Radyo ve Televizyon Programcılığı, Radyoterapi ve Sivil Havacılık Kabin Hizmetleri ön lisans programlarında 87.000 TL;\ndiğer ön lisans programlarında ise 69.000 TL’dir."
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "tercih bursları",
+      "kardeş bursları",
+      "engelli bursları",
+      "ihtiyaç bursları",
+      "spora destek bursları",
+      "bilim, sanat ve kültür bursları",
+      "akademik başarı bursları"
+    ]
+  },
+  "dormitory_fees": null
+}

@@ -1,0 +1,552 @@
+{
+  "university": {
+    "name": "Beykoz Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2024-2025": {
+      "İşletme ve Yönetim Bilimleri Fakültesi Ücretleri": {
+        "İşletme Türkçe": {
+          "discount_50": 230000
+        },
+        "İşletme İngilizce": {
+          "discount_50": 230000
+        },
+        "Lojistik Yönetimi İngilizce": {
+          "discount_50": 230000
+        },
+        "Uluslararası Ticaret ve Finansman İngilizce": {
+          "discount_50": 230000
+        }
+      },
+      "Sanat Ve Tasarım Fakültesi Ücretleri": {
+        "Çizgi Film ve Animasyon": {
+          "discount_50": 292100
+        },
+        "Dijital Oyun Tasarımı": {
+          "discount_50": 292100
+        },
+        "Gastronomi ve Mutfak Sanatları": {
+          "discount_50": 322000
+        },
+        "Grafik Tasarım": {
+          "discount_50": 261050
+        },
+        "Halkla İlişkiler ve Reklamcılık": {
+          "discount_50": 230000
+        },
+        "İç Mimarlık ve Çevre Tasarımı": {
+          "discount_50": 322000
+        },
+        "İletişim ve Tasarımı": {
+          "discount_50": 230000
+        },
+        "Radyo, Televizyon ve Sinema": {
+          "discount_50": 230000
+        }
+      },
+      "Sosyal Bilimler Fakültesi Ücretleri": {
+        "Psikoloji Türkçe": {
+          "discount_50": 322000
+        },
+        "Psikoloji İngilizce": {
+          "discount_50": 322000
+        },
+        "Siyaset Bilimi ve Uluslararası İlişkiler İngilizce": {
+          "discount_50": 230000
+        }
+      },
+      "Mühendislik Ve Mimarlık Fakültesi Ücretleri": {
+        "Bilgisayar Mühendisliği İngilizce": {
+          "discount_50": 322000
+        },
+        "Endüstri Mühendisliği İngilizce": {
+          "discount_50": 322000
+        },
+        "Mimarlık Türkçe": {
+          "discount_50": 261050
+        },
+        "Yazılım Mühendisliği Türkçe": {
+          "discount_50": 322000
+        }
+      },
+      "Beykoz Lojistik Meslek Yüksekokulu Ücretleri": {
+        "Bilişim Güvenliği Teknolojisi": {
+          "discount_50": 200100
+        },
+        "Bilgisayar Programcılığı": {
+          "discount_50": 200000
+        },
+        "Deniz ve Liman İşletmeciliği": {
+          "discount_50": 169050
+        },
+        "Dış Ticaret": {
+          "discount_50": 169050
+        },
+        "Dış Ticaret (Uzaktan Eğitim)": {
+          "discount_50": 169050
+        },
+        "E-Ticaret ve Pazarlama": {
+          "discount_50": 169050
+        },
+        "Lojistik": {
+          "discount_50": 169050
+        },
+        "Lojistik (Uzaktan Eğitim)": {
+          "discount_50": 169050
+        },
+        "Raylı Sistemler İşletmeciliği": {
+          "discount_50": 169050
+        },
+        "Sivil Havacılık Kabin Hizmetleri": {
+          "discount_50": 230000
+        },
+        "Büyük Veri Analistliği": {
+          "discount_50": 312000
+        }
+      }
+    },
+    "2023-2024": {
+      "İşletme ve Yönetim Bilimleri Fakültesi": [
+        {
+          "Program": "İşletme (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "EA",
+          "Ücret": "–"
+        },
+        {
+          "Program": "İşletme (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "EA",
+          "Ücret": "100.000 TL",
+          "Tercih Burslu Ücreti": "75.000 TL"
+        },
+        {
+          "Program": "İşletme (Burslu)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "–"
+        },
+        {
+          "Program": "İşletme (%50 İndirimli)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "100.000 TL",
+          "Tercih Burslu Ücreti": "75.000 TL"
+        },
+        {
+          "Program": "Lojistik Yönetimi (Burslu)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Lojistik Yönetimi (%50 İndirimli)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "100.000 TL",
+          "Tercih Burslu Ücreti": "75.000 TL"
+        },
+        {
+          "Program": "Uluslararası Ticaret ve Finansman (Burslu)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Uluslararası Ticaret ve Finansman (%50 İndirimli)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "100.000 TL",
+          "Tercih Burslu Ücreti": "75.000 TL"
+        }
+      ],
+      "Sanat ve Tasarım Fakültesi": [
+        {
+          "Program": "Çizgi Film ve Animasyon (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SÖZ",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Çizgi Film ve Animasyon (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SÖZ",
+          "Ücret": "127.000 TL",
+          "Tercih Burslu Ücreti": "95.250 TL"
+        },
+        {
+          "Program": "Dijital Oyun Tasarımı (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SAY",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Dijital Oyun Tasarımı (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SAY",
+          "Ücret": "127.000 TL",
+          "Tercih Burslu Ücreti": "95.250 TL"
+        },
+        {
+          "Program": "Gastronomi ve Mutfak Sanatları (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SÖZ",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Gastronomi ve Mutfak Sanatları (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SÖZ",
+          "Ücret": "140.000 TL",
+          "Tercih Burslu Ücreti": "105.000 TL"
+        },
+        {
+          "Program": "Grafik Tasarım (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "EA",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Grafik Tasarım (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "EA",
+          "Ücret": "113.500 TL",
+          "Tercih Burslu Ücreti": "85.125 TL"
+        },
+        {
+          "Program": "Halkla İlişkiler ve Reklamcılık (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SÖZ",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Halkla İlişkiler ve Reklamcılık (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SÖZ",
+          "Ücret": "100.000 TL",
+          "Tercih Burslu Ücreti": "75.000 TL"
+        },
+        {
+          "Program": "İç Mimarlık ve Çevre Tasarımı (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "EA",
+          "Ücret": "–"
+        },
+        {
+          "Program": "İç Mimarlık ve Çevre Tasarımı (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "EA",
+          "Ücret": "140.000 TL",
+          "Tercih Burslu Ücreti": "105.000 TL"
+        },
+        {
+          "Program": "İletişim ve Tasarımı (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SÖZ",
+          "Ücret": "–"
+        },
+        {
+          "Program": "İletişim ve Tasarımı (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SÖZ",
+          "Ücret": "100.000 TL",
+          "Tercih Burslu Ücreti": "75.000 TL"
+        },
+        {
+          "Program": "Radyo, Televizyon ve Sinema (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SÖZ",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Radyo, Televizyon ve Sinema (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SÖZ",
+          "Ücret": "100.000 TL",
+          "Tercih Burslu Ücreti": "75.000 TL"
+        }
+      ],
+      "Sosyal Bilimler Fakültesi": [
+        {
+          "Program": "Psikoloji (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "EA",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Psikoloji (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "EA",
+          "Ücret": "140.000 TL",
+          "Tercih Burslu Ücreti": "105.000 TL"
+        },
+        {
+          "Program": "Psikoloji (Burslu)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Psikoloji (%50 İndirimli)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "140.000 TL",
+          "Tercih Burslu Ücreti": "105.000 TL"
+        },
+        {
+          "Program": "Siyaset Bilimi ve Uluslararası İlişkiler (Burslu)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Siyaset Bilimi ve Uluslararası İlişkiler (%50 İndirimli)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "100.000 TL",
+          "Tercih Burslu Ücreti": "75.000 TL"
+        }
+      ],
+      "Mühendislik ve Mimarlık Fakültesi": [
+        {
+          "Program": "Bilgisayar Mühendisliği (Burslu)",
+          "Dil": "İngilizce",
+          "Puan Türü": "SAY",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Bilgisayar Mühendisliği (%50 İndirimli)",
+          "Dil": "İngilizce",
+          "Puan Türü": "SAY",
+          "Ücret": "140.000 TL",
+          "Tercih Burslu Ücreti": "105.000 TL"
+        },
+        {
+          "Program": "Endüstri Mühendisliği (Burslu)",
+          "Dil": "İngilizce",
+          "Puan Türü": "SAY",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Endüstri Mühendisliği (%50 İndirimli)",
+          "Dil": "İngilizce",
+          "Puan Türü": "SAY",
+          "Ücret": "140.000 TL",
+          "Tercih Burslu Ücreti": "105.000 TL"
+        },
+        {
+          "Program": "Mimarlık (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SAY",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Mimarlık (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SAY",
+          "Ücret": "113.500 TL",
+          "Tercih Burslu Ücreti": "85.125 TL"
+        },
+        {
+          "Program": "Yazılım Mühendisliği (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SAY",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Yazılım Mühendisliği (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "SAY",
+          "Ücret": "140.000 TL",
+          "Tercih Burslu Ücreti": "105.000 TL"
+        }
+      ],
+      "Sivil Havacılık Yüksekokulu": [
+        {
+          "Program": "Havacılık Yönetimi (Burslu)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Havacılık Yönetimi (%50 İndirimli)",
+          "Dil": "İngilizce",
+          "Puan Türü": "EA",
+          "Ücret": "127.000 TL",
+          "Tercih Burslu Ücreti": "95.250 TL"
+        }
+      ],
+      "Meslek Yüksekokulu Beykoz Lojistik Meslek Yüksekokulu": [
+        {
+          "Program": "Bilişim Güvenliği Teknolojisi (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Bilişim Güvenliği Teknolojisi (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "87.000 TL",
+          "Tercih Burslu Ücreti": "65.250 TL"
+        },
+        {
+          "Program": "Bilgisayar Programcılığı (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Bilgisayar Programcılığı (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "87.000 TL",
+          "Tercih Burslu Ücreti": "65.250 TL"
+        },
+        {
+          "Program": "Deniz ve Liman İşletmeciliği (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Deniz ve Liman İşletmeciliği (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "73.500 TL",
+          "Tercih Burslu Ücreti": "55.125 TL"
+        },
+        {
+          "Program": "Dış Ticaret (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Dış Ticaret (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "73.500 TL",
+          "Tercih Burslu Ücreti": "55.125 TL"
+        },
+        {
+          "Program": "Dış Ticaret (Uzaktan Eğitim) (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Dış Ticaret (Uzaktan Eğitim) (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "73.500 TL",
+          "Tercih Burslu Ücreti": "55.125 TL"
+        },
+        {
+          "Program": "E-Ticaret ve Pazarlama (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "–"
+        },
+        {
+          "Program": "E-Ticaret ve Pazarlama (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "73.500 TL",
+          "Tercih Burslu Ücreti": "55.125 TL"
+        },
+        {
+          "Program": "Lojistik (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Lojistik (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "73.500 TL",
+          "Tercih Burslu Ücreti": "55.125 TL"
+        },
+        {
+          "Program": "Lojistik (Uzaktan Eğitim) (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Lojistik (Uzaktan Eğitim) (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "73.500 TL",
+          "Tercih Burslu Ücreti": "55.125 TL"
+        },
+        {
+          "Program": "Raylı Sistemler İşletmeciliği (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Raylı Sistemler İşletmeciliği (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "73.500 TL",
+          "Tercih Burslu Ücreti": "55.125 TL"
+        },
+        {
+          "Program": "Sivil Havacılık Kabin Hizmetleri (Burslu)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Sivil Havacılık Kabin Hizmetleri (%50 İndirimli)",
+          "Dil": "Türkçe",
+          "Puan Türü": "TYT",
+          "Ücret": "100.000 TL",
+          "Tercih Burslu Ücreti": "75.000 TL"
+        },
+        {
+          "Program": "Sivil Havacılık Kabin Hizmetleri (Burslu)",
+          "Dil": "İngilizce",
+          "Puan Türü": "TYT",
+          "Ücret": "–"
+        },
+        {
+          "Program": "Sivil Havacılık Kabin Hizmetleri (%50 İndirimli)",
+          "Dil": "İngilizce",
+          "Puan Türü": "TYT",
+          "Ücret": "100.000 TL",
+          "Tercih Burslu Ücreti": "75.000 TL"
+        }
+      ]
+    },
+    "2022-2023": {
+      "İşletme ve Yönetim Bilimleri Fakültesine bağlı İşletme, Lojistik Yönetimi, Uluslararası Ticaret ve Finansman programları": 69120,
+      "Sanat ve Tasarım Fakültesine bağlı Çizgi Film ve Animasyon, Grafik Tasarımı programları": 69120,
+      "Dijital Oyun Tasarımı programı": 86400,
+      "Gastronomi ve Mutfak Sanatları programı": 110160,
+      "İç Mimarlık ve Çevre Tasarımı programı": 103680,
+      "Halkla İlişkiler ve Reklamcılık, İletişim ve Tasarımı programları": 60480,
+      "Radyo, Televizyon ve Sinema programı": 77760,
+      "Sosyal Bilimler Fakültesine bağlı Siyaset Bilimi ve Uluslararası İlişkiler programı": 60480,
+      "Psikoloji programları": 138400,
+      "Mühendislik ve Mimarlık Fakültesine bağlı Bilgisayar Mühendisliği programı": 91800,
+      "Mimarlık programı": 86400,
+      "Yazılım Mühendisliği programı": 91800,
+      "Endüstri Mühendisliği programı": 69120,
+      "Sivil Havacılık Yüksekokuluna bağlı Havacılık Yönetimi programı": 86400,
+      "Meslek Yüksekokullarına bağlı Sivil Havacılık Kabin Hizmetleri, Ameliyathane Hizmetleri, Bilgisayar Programcılığı, Bilişim Güvenliği Teknolojisi, Fizyoterapi, İç Mekan Tasarımı, İlk ve Acil Yardım, Tıbbi Görüntüleme Teknikleri, Odyometri programları": 69120,
+      "Sivil Hava Ulaştırma İşletmeciliği, Ağız ve Diş Sağlığı, Diyaliz programları": 35000,
+      "Deniz ve Liman İşletmeciliği, Dış Ticaret, Lojistik, E-Ticaret ve Pazarlama, İş Sağlığı ve Güvenliği, Optisyenlik programları": 51840,
+      "Raylı Sistemler İşletmeciliği programı": 43200,
+      "Lojistik (Uzaktan Eğitim), Dış Ticaret (Uzaktan Eğitim) programları": 25920,
+      "Aşçılık programı": 77600
+    }
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

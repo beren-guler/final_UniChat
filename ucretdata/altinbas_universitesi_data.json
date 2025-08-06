@@ -1,0 +1,680 @@
+[
+  {
+    "university": {
+      "name": "Altınbaş Üniversitesi",
+      "url": null,
+      "last_updated": "2024-2025"
+    },
+    "tuition_fees": {
+      "academic_year": "2024-2025",
+      "programs": [
+        {
+          "name": "Ağız ve Diş Sağlığı (50% İndirimli)",
+          "annual_fee": {
+            "amount": 132000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Ameliyathane Hizmetleri (50% İndirimli)",
+          "annual_fee": {
+            "amount": 132000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Anestezi (25% İndirimli)",
+          "annual_fee": {
+            "amount": 198000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Bilgisayar Mühendisliği (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 269500,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Diş Hekimliği (25% İndirimli)",
+          "annual_fee": {
+            "amount": 453750,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Eczacılık (25% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 363000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Ekonomi (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 220000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Elektrik-Elektronik Mühendisliği (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 253000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 253000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Fizyoterapi (25% İndirimli)",
+          "annual_fee": {
+            "amount": 198000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Gastronomi ve Mutfak Sanatları (50% İndirimli)",
+          "annual_fee": {
+            "amount": 220000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Hukuk (50% İndirimli)",
+          "annual_fee": {
+            "amount": 269500,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İç Mimarlık ve Çevre Tasarımı (50% İndirimli)",
+          "annual_fee": {
+            "amount": 253000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İlk ve Acil Yardım (25% İndirimli)",
+          "annual_fee": {
+            "amount": 198000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İnşaat Mühendisliği (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 253000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İşletme (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 220000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Lojistik Yönetimi (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 220000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Makine Mühendisliği (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 253000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Mimarlık (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 253000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Odyometri (50% İndirimli)",
+          "annual_fee": {
+            "amount": 132000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Optisyenlik (50% İndirimli)",
+          "annual_fee": {
+            "amount": 132000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Psikoloji (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 269500,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Radyo, Televizyon ve Sinema (50% İndirimli)",
+          "annual_fee": {
+            "amount": 220000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sağlık Yönetimi (50% İndirimli)",
+          "annual_fee": {
+            "amount": 220000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Siyaset Bilimi ve Kamu Yönetimi (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 220000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sosyoloji (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 220000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıbbi Dokümantasyon ve Sekreterlik (50% İndirimli)",
+          "annual_fee": {
+            "amount": 132000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri (50% İndirimli)",
+          "annual_fee": {
+            "amount": 132000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıbbi Laboratuvar Teknikleri (50% İndirimli)",
+          "annual_fee": {
+            "amount": 132000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıp (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 357500,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret ve Finansman (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 220000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yazılım Mühendisliği (50% İndirimli) (İngilizce)",
+          "annual_fee": {
+            "amount": 269500,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri (50% İndirimli)",
+          "annual_fee": {
+            "amount": 220000,
+            "currency": "TL"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "university": {
+      "name": "Altınbaş Üniversitesi",
+      "url": null,
+      "last_updated": "2024-2025"
+    },
+    "tuition_fees": {
+      "academic_year": null,
+      "programs": [
+        {
+          "name": "Çevre Sağlığı ve Çevresel Risk Yönetimi Teknikerliği",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Çocuk Gelişimi",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Eczane Hizmetleri",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Fizyoterapi",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İlk Ve Acil Yardım",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Odyometri",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Optisyenlik",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Radyoterapi",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tele-Sağlık Teknikerliği",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıbbi Dokümantasyon Ve Sekreterlik",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıbbi Laboratuvar Teknikleri",
+          "annual_fee": {
+            "amount": 590000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Bilgisayar Mühendisliği",
+          "annual_fee": {
+            "amount": 790000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Diş Hekimliği",
+          "annual_fee": {
+            "amount": 1190000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Ebelik",
+          "annual_fee": {
+            "amount": 790000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Eczacılık Fakültesi",
+          "annual_fee": {
+            "amount": 990000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Ekonomi",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Elektrik-Elektronik Mühendisliği",
+          "annual_fee": {
+            "amount": 790000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği",
+          "annual_fee": {
+            "amount": 790000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Gastronomi Ve Mutfak Sanatları",
+          "annual_fee": {
+            "amount": 790000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Görsel İletişim Tasarımı",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Halkla İlişkiler Ve Reklamcılık",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Hemşirelik",
+          "annual_fee": {
+            "amount": 790000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Hukuk",
+          "annual_fee": {
+            "amount": 790000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İç Mimarlık Ve Çevre Tasarımı",
+          "annual_fee": {
+            "amount": 890000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İnşaat Mühendisliği",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İşletme",
+          "annual_fee": {
+            "amount": 790000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Kuyumculuk Ve Mücevher Tasarımı",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Lojistik Yönetimi",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Makine Mühendisliği",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Mimarlık",
+          "annual_fee": {
+            "amount": 790000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Pazarlama",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Psikoloji",
+          "annual_fee": {
+            "amount": 990000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Radyo, Televizyon Ve Sinema",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sağlık Yönetimi",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Siyaset Bilimi Ve Kamu Yönetimi",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sosyoloji",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıp Fakültesi",
+          "annual_fee": {
+            "amount": 1290000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Uluslararası İlişkiler",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret Ve Finansman",
+          "annual_fee": {
+            "amount": 690000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yazılım Geliştirme",
+          "annual_fee": {
+            "amount": 890000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yazılım Mühendisliği",
+          "annual_fee": {
+            "amount": 790000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri",
+          "annual_fee": {
+            "amount": 890000,
+            "currency": "TL"
+          }
+        }
+      ]
+    }
+  },
+   {
+    "university": {
+      "name": "Altınbaş Üniversitesi",
+      "url": null,
+      "last_updated": "2023-2024"
+    },
+    "tuition_fees": {
+      "academic_year": "2023-2024",
+      "programs": [
+        {
+          "name": "Hukuk Fakültesi ve Eczacılık Fakültesi",
+          "annual_fee": {
+            "amount": 97500,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıp Fakültesi",
+          "annual_fee": {
+            "amount": 140000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Diş Hekimliği Fakültesi",
+          "annual_fee": {
+            "amount": 172500,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi Siyaset Bilimi ve Kamu Yönetimi, Psikoloji hariç",
+          "annual_fee": {
+            "amount": 80000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Mühendislik ve Doğa Bilimleri Fakültesi Bilgisayar Mühendisliği, İç Mimarlık ve Çevre Tasarımı Türkçe/İngilizce programları, Yazılım Mühendisliği, Uygulamalı Bilimler Fakültesi ve İşletme Fakültesi İşletme Programı",
+          "annual_fee": {
+            "amount": 91250,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Güzel Sanatlar ve Tasarım Fakültesi ve diğer tüm lisans programları",
+          "annual_fee": {
+            "amount": 80000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sağlık Hizmetleri Meslek Yüksekokulu önlisans programları (İkinci öğretimler hariç)",
+          "annual_fee": {
+            "amount": "31500 - 57750",
+            "currency": "TL"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "university": {
+      "name": "Altınbaş Üniversitesi",
+      "url": null,
+      "last_updated": "2022-2023"
+    },
+    "tuition_fees": {
+      "academic_year": "2022-2023",
+      "programs": [
+        {
+          "name": "Hukuk Fakültesi ve Eczacılık Fakültesi",
+          "annual_fee": {
+            "amount": 80052.7,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıp Fakültesi",
+          "annual_fee": {
+            "amount": 121643.6,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Diş Hekimliği Fakültesi",
+          "annual_fee": {
+            "amount": 112949.2,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi Siyaset Bilimi ve Kamu Yönetimi, Sosyoloji hariç",
+          "annual_fee": {
+            "amount": 69657.9,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Mühendislik ve Doğa Bilimleri Fakültesi Bilgisayar Mühendisliği, İç Mimarlık ve Çevre Tasarımı Türkçe/İngilizce programları, Yazılım Mühendisliği, Uygulamalı Bilimler Fakültesi ve İşletme Fakültesi İşletme Programı",
+          "annual_fee": {
+            "amount": 69657.9,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Güzel Sanatlar ve Tasarım Fakültesi ve diğer tüm lisans programları",
+          "annual_fee": {
+            "amount": 69657.9,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Sağlık Hizmetleri Meslek Yüksekokulu önlisans programları (İkinci öğretimler hariç)",
+          "annual_fee": {
+            "amount": 31993,
+            "currency": "TL"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,868 @@
+{
+  "university": {
+    "name": "Haliç Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": [
+      {
+        "program": "Halkla İlişkiler ve Tanıtım",
+        "discounted_fee": 341250,
+        "full_fee": 455000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Gastronomi ve Mutfak Sanatları",
+        "discounted_fee": 435000,
+        "full_fee": 580000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Türk Dili ve Edebiyatı",
+        "discounted_fee": 227500,
+        "full_fee": 455000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "program": "Çizgi Film ve Animasyon",
+        "discounted_fee": 371250,
+        "full_fee": 495000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Görsel İletişim Tasarımı",
+        "discounted_fee": 371250,
+        "full_fee": 495000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Amerikan Kültürü ve Edebiyatı",
+        "discounted_fee": 262500,
+        "full_fee": 525000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "program": "İngilizce Mütercim ve Tercümanlık",
+        "discounted_fee": 393750,
+        "full_fee": 525000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Tekstil ve Moda Tasarımı",
+        "discounted_fee": 360000,
+        "full_fee": 480000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Antrenörlük Eğitimi",
+        "discounted_fee": 371250,
+        "full_fee": 495000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Spor Yöneticiliği",
+        "discounted_fee": 371250,
+        "full_fee": 495000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "program": "Spor Yöneticiliği (İngilizce)",
+        "discounted_fee": 371250,
+        "full_fee": 495000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Beden Eğitim ve Spor Öğretmenliği",
+        "discounted_fee": 371250,
+        "full_fee": 495000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Rekreasyon",
+        "discounted_fee": 225000,
+        "full_fee": 450000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Opera",
+        "discounted_fee": 225000,
+        "full_fee": 450000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "program": "Tiyatro",
+        "discounted_fee": 225000,
+        "full_fee": 450000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Türk Musikisi",
+        "discounted_fee": 225000,
+        "full_fee": 450000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "program": "Grafik Tasarım",
+        "discounted_fee": 360000,
+        "full_fee": 480000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "İç Mimarlık ve Çevre Tasarımı",
+        "discounted_fee": 435000,
+        "full_fee": 580000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Psikoloji",
+        "discounted_fee": 412500,
+        "full_fee": 550000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Psikoloji (İngilizce)",
+        "discounted_fee": 435000,
+        "full_fee": 580000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Uluslararası Ticaret ve Finans (İngilizce)",
+        "discounted_fee": 341250,
+        "full_fee": 412500,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Siyaset Bilimi ve Uluslararası İlişkiler",
+        "discounted_fee": 213000,
+        "full_fee": 455000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "İşletme",
+        "discounted_fee": 213000,
+        "full_fee": 284000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "İşletme (İngilizce)",
+        "discounted_fee": 213000,
+        "full_fee": 284000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Yönetim Bilişim Sistemleri (İngilizce)",
+        "discounted_fee": 341250,
+        "full_fee": 320000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Fizyoterapi ve Rehabilitasyon",
+        "discounted_fee": 360000,
+        "full_fee": 480000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Fizyoterapi ve Rehabilitasyon (İngilizce)",
+        "discounted_fee": 360000,
+        "full_fee": 480000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Hemşirelik",
+        "discounted_fee": 412500,
+        "full_fee": 550000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Hemşirelik (İngilizce)",
+        "discounted_fee": 412500,
+        "full_fee": 550000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Beslenme ve Diyetetik",
+        "discounted_fee": 435000,
+        "full_fee": 580000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Beslenme ve Diyetetik (İngilizce)",
+        "discounted_fee": 435000,
+        "full_fee": 580000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Ebelik",
+        "discounted_fee": 386250,
+        "full_fee": 515000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Yazılım Mühendisliği (İngilizce)",
+        "discounted_fee": 412500,
+        "full_fee": 550000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+        "discounted_fee": 341250,
+        "full_fee": 455000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Endüstri Mühendisliği (İngilizce)",
+        "discounted_fee": 341250,
+        "full_fee": 455000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Bilgisayar Mühendisliği (İngilizce)",
+        "discounted_fee": 412500,
+        "full_fee": 550000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Makine Mühendisliği (İngilizce)",
+        "discounted_fee": 227500,
+        "full_fee": 455000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "program": "Matematik",
+        "discounted_fee": 360000,
+        "full_fee": 480000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Moleküler Biyoloji ve Genetik (İngilizce)",
+        "discounted_fee": 393750,
+        "full_fee": 525000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "program": "Endüstriyel Tasarım",
+        "discounted_fee": 337500,
+        "full_fee": 450000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Mimarlık",
+        "discounted_fee": 235000,
+        "full_fee": 470000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "program": "Dijital Oyun Tasarımı",
+        "discounted_fee": 371250,
+        "full_fee": 495000,
+        "currency": "TL",
+        "discount": "25%"
+      }
+    ]
+  },
+   "tuition_fees_2024_2025": {
+    "academic_year": "2024-2025",
+    "new_students": [
+      {
+        "program": "Halkla İlişkiler ve Tanıtım",
+        "discounted_fee": 213000,
+        "full_fee": 284000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Gastronomi ve Mutfak Sanatları",
+        "discounted_fee": 270000,
+        "full_fee": 360000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Türk Dili ve Edebiyatı",
+        "discounted_fee": 142000,
+        "full_fee": 284000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "program": "Çizgi Film ve Animasyon",
+        "discounted_fee": 231000,
+        "full_fee": 308000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Görsel İletişim Tasarımı",
+        "discounted_fee": 231000,
+        "full_fee": 308000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Amerikan Kültürü ve Edebiyatı",
+        "discounted_fee": 246000,
+        "full_fee": 328000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "İngilizce Mütercim ve Tercümanlık",
+        "discounted_fee": 246000,
+        "full_fee": 328000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Tekstil ve Moda Tasarımı",
+        "discounted_fee": 225000,
+        "full_fee": 300000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Antrenörlük Eğitimi",
+        "discounted_fee": 240750,
+        "full_fee": 321000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Spor Yöneticiliği",
+        "discounted_fee": 231000,
+        "full_fee": 308000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "program": "Spor Yöneticiliği (İngilizce)",
+        "discounted_fee": 231000,
+        "full_fee": 308000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Beden Eğitim ve Spor Öğretmenliği",
+        "discounted_fee": 231000,
+        "full_fee": 308000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Rekreasyon",
+        "discounted_fee": 231000,
+        "full_fee": 308000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Opera",
+        "discounted_fee": 140000,
+        "full_fee": 280000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "program": "Tiyatro",
+        "discounted_fee": 210000,
+        "full_fee": 280000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Türk Musikisi",
+        "discounted_fee": 140000,
+        "full_fee": 280000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "program": "Grafik Tasarım",
+        "discounted_fee": 225000,
+        "full_fee": 300000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "İç Mimarlık ve Çevre Tasarımı",
+        "discounted_fee": 270000,
+        "full_fee": 360000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Psikoloji",
+        "discounted_fee": 258000,
+        "full_fee": 344000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Psikoloji (İngilizce)",
+        "discounted_fee": 270000,
+        "full_fee": 360000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Uluslararası Ticaret ve Finans (İngilizce)",
+        "discounted_fee": 213000,
+        "full_fee": 284000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Siyaset Bilimi ve Uluslararası İlişkiler",
+        "discounted_fee": 213000,
+        "full_fee": 284000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "İşletme",
+        "discounted_fee": 213000,
+        "full_fee": 284000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "İşletme (İngilizce)",
+        "discounted_fee": 213000,
+        "full_fee": 284000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Yönetim Bilişim Sistemleri (İngilizce)",
+        "discounted_fee": 240000,
+        "full_fee": 320000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Fizyoterapi ve Rehabilitasyon",
+        "discounted_fee": 225000,
+        "full_fee": 300000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Fizyoterapi ve Rehabilitasyon (İngilizce)",
+        "discounted_fee": 225000,
+        "full_fee": 300000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Hemşirelik",
+        "discounted_fee": 255000,
+        "full_fee": 340000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Hemşirelik (İngilizce)",
+        "discounted_fee": 255000,
+        "full_fee": 340000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Beslenme ve Diyetetik",
+        "discounted_fee": 270000,
+        "full_fee": 360000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Beslenme ve Diyetetik (İngilizce)",
+        "discounted_fee": 270000,
+        "full_fee": 360000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Ebelik",
+        "discounted_fee": 240000,
+        "full_fee": 320000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Yazılım Mühendisliği (İngilizce)",
+        "discounted_fee": 255000,
+        "full_fee": 340000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+        "discounted_fee": 213000,
+        "full_fee": 284000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Endüstri Mühendisliği (İngilizce)",
+        "discounted_fee": 213000,
+        "full_fee": 284000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Bilgisayar Mühendisliği (İngilizce)",
+        "discounted_fee": 255000,
+        "full_fee": 340000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Makine Mühendisliği (İngilizce)",
+        "discounted_fee": 142000,
+        "full_fee": 284000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "program": "Matematik",
+        "discounted_fee": 225000,
+        "full_fee": 300000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Moleküler Biyoloji ve Genetik (İngilizce)",
+        "discounted_fee": 246000,
+        "full_fee": 328000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+       {
+        "program": "Endüstriyel Tasarım",
+        "discounted_fee": 210000,
+        "full_fee": 280000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "program": "Mimarlık",
+        "discounted_fee": 146000,
+        "full_fee": 292000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "program": "Dijital Oyun Tasarımı",
+        "discounted_fee": 231000,
+        "full_fee": 328000,
+        "currency": "TL",
+        "discount": "25%"
+      }
+    ]
+  },
+   "tuition_fees_2023_2024": {
+    "academic_year": "2023-2024",
+    "new_students": [
+       {
+        "program": "Hazırlık(Zorunlu)",
+        "full_fee": 128000,
+        "currency": "TL"
+      },
+       {
+        "program": "Hazırlık(İsteğe Bağlı)",
+        "full_fee": 128000,
+        "currency": "TL"
+      },
+       {
+        "program": "Tıp Bölümü",
+        "full_fee": 320000,
+        "currency": "TL"
+      },
+       {
+        "program": "Tıp Bölümü(İngilizce)",
+        "full_fee": 320000,
+        "currency": "TL"
+      },
+          {
+        "program": "Moleküler Biyoloji ve Genetik (İngilizce)",
+        "full_fee": 164000,
+        "currency": "TL"
+      },
+          {
+        "program": "Psikoloji",
+        "full_fee": 172000,
+        "currency": "TL"
+      },
+              {
+        "program": "Psikoloji (İngilizce)",
+        "full_fee": 180000,
+        "currency": "TL"
+      },
+                     {
+        "program": "Amerikan Kültürü ve Edebiyatı",
+        "full_fee": 164000,
+        "currency": "TL"
+      },
+                     {
+        "program": "İngilizce Mütercim Tercümanlık",
+        "full_fee": 164000,
+        "currency": "TL"
+      },
+                           {
+        "program": "Matematik",
+        "full_fee": 150000,
+        "currency": "TL"
+      },
+                                  {
+        "program": "Türk Dili ve Edebiyatı",
+        "full_fee": 142000,
+        "currency": "TL"
+      },
+                        {
+        "program": "İşletme Türkçe",
+        "full_fee": 142000,
+        "currency": "TL"
+      },
+        {
+        "program": "İşletme İngilizce",
+        "full_fee": 142000,
+        "currency": "TL"
+      },
+        {
+        "program": "Uluslararası Ticaret ve İşletmecilik (İngilizce)",
+        "full_fee": 142000,
+        "currency": "TL"
+      },
+      {
+        "program": "Halkla İlişkiler ve Tanıtım",
+        "full_fee": 142000,
+        "currency": "TL"
+      },
+            {
+        "program": "Yönetim Bilişim Sistemleri (İngilizce)",
+        "full_fee": 160000,
+        "currency": "TL"
+      },
+                  {
+        "program": "Siyaset Bilimi ve Uluslararası İlişkiler",
+        "full_fee": 142000,
+        "currency": "TL"
+      },
+      {
+        "program": "Bilgisayar Mühendisliği (İngilizce)",
+        "full_fee": 170000,
+        "currency": "TL"
+      },
+       {
+        "program": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+        "full_fee": 142000,
+        "currency": "TL"
+      },
+       {
+        "program": "Endüstri Mühendisliği (İngilizce)",
+        "full_fee": 142000,
+        "currency": "TL"
+      },
+             {
+        "program": "Makine Mühendisliği (İngilizce)",
+        "full_fee": 142000,
+        "currency": "TL"
+      },
+            {
+        "program": "Yazılım Mühendisliği (İngilizce)",
+        "full_fee": 170000,
+        "currency": "TL"
+      },
+                 {
+        "program": "Mimarlık",
+        "full_fee": 146000,
+        "currency": "TL"
+      },
+        {
+        "program": "İç Mimarlık",
+        "full_fee": 180000,
+        "currency": "TL"
+      },
+                   {
+        "program": "Endüstriyel Tasarım",
+        "full_fee": 140000,
+        "currency": "TL"
+      },
+                           {
+        "program": "Dijital Oyun Tasarımı",
+        "full_fee": 154000,
+        "currency": "TL"
+      },
+         {
+        "program": "Grafik Tasarım",
+        "full_fee": 150000,
+        "currency": "TL"
+      },
+        {
+        "program": "Tekstil ve Moda Tasarımı",
+        "full_fee": 150000,
+        "currency": "TL"
+      },
+                {
+        "program": "Çizgi Film ve Animasyon",
+        "full_fee": 154000,
+        "currency": "TL"
+      },
+                                 {
+        "program": "Görsel İletişim Tasarımı",
+        "full_fee": 154000,
+        "currency": "TL"
+      },
+                                         {
+        "program": "Gastronomi ve Mutfak Sanatları",
+        "full_fee": 180000,
+        "currency": "TL"
+      },
+                       {
+        "program": "Türk Musikisi",
+        "full_fee": 140000,
+        "currency": "TL"
+      },
+                {
+        "program": "Tiyatro",
+        "full_fee": 140000,
+        "currency": "TL"
+      },
+       {
+        "program": "Opera",
+        "full_fee": 140000,
+        "currency": "TL"
+      },
+            {
+        "program": "Antrenörlük Eğitimi",
+        "full_fee": 154000,
+        "currency": "TL"
+      },
+           {
+        "program": "Spor Yöneticiliği",
+        "full_fee": 154000,
+        "currency": "TL"
+      },
+             {
+        "program": "Spor Yöneticiliği (İngilizce)",
+        "full_fee": 154000,
+        "currency": "TL"
+      },
+                         {
+        "program": "Rekreasyon",
+        "full_fee": 154000,
+        "currency": "TL"
+      },
+      {
+        "program": "Beden Eğitimi ve Spor Öğretmenliği",
+        "full_fee": 154000,
+        "currency": "TL"
+      },
+          {
+        "program": "Fizyoterapi ve Rehabilitasyon",
+        "full_fee": 150000,
+        "currency": "TL"
+      },
+                {
+        "program": "Fizyoterapi ve Rehabilitasyon (İngilizce)",
+        "full_fee": 150000,
+        "currency": "TL"
+      },
+                                {
+        "program": "Beslenme ve Diyetetik",
+        "full_fee": 180000,
+        "currency": "TL"
+      },
+               {
+        "program": "Beslenme ve Diyetetik (İngilizce)",
+        "full_fee": 180000,
+        "currency": "TL"
+      },
+            {
+        "program": "Ebelik",
+        "full_fee": 160000,
+        "currency": "TL"
+      },
+       {
+        "program": "Hemşirelik",
+        "full_fee": 170000,
+        "currency": "TL"
+      },
+          {
+        "program": "Hemşirelik (İngilizce)",
+        "full_fee": 170000,
+        "currency": "TL"
+      },
+      {
+        "program": "Anestezi",
+        "full_fee": 120000,
+        "currency": "TL"
+      },
+                  {
+        "program": "Aşçılık",
+        "full_fee": 140000,
+        "currency": "TL"
+      },
+                        {
+        "program": "Aşçılık (İ.Ö)",
+        "full_fee": 140000,
+        "currency": "TL"
+      },
+                              {
+        "program": "Bankacılık ve Sigortacılık",
+        "full_fee": 86000,
+        "currency": "TL"
+      },
+                       {
+        "program": "Bilgisayar Programcılığı",
+        "full_fee": 120000,
+        "currency": "TL"
+      },
+                            {
+        "program": "Bilgisayar Teknolojisi",
+        "full_fee": 120000,
+        "currency": "TL"
+      },
+                                  

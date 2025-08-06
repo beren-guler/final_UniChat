@@ -1,0 +1,90 @@
+{
+  "university": {
+    "name": "Koç Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "details": "Koç Üniversitesi’nde eğitim ücretleri yarıyıl bazında belirlenir ve ilan edilir. Güz dönemi için eğitim-öğretim ücreti Tıp Fakültesi dışındaki programlar için KDV dâhil 795.000 TL’dir.\n\nÜniversite kayıt döneminde sadece Güz dönemi ödemesi yapılırsa, Bahar dönemi eğitim-öğretim ücreti Tıp Fakültesi dışındaki programlar için KDV dâhil 882.450 TL olacaktır.\n\nÜniversite kayıt döneminde yıllık ücret ödemesi yapılırsa, Bahar dönemi ücreti için de Güz dönemi eğitim ücreti uygulanır. Ödeme Güz ve Bahar yarı yıllarındaki dersleri kapsayacaktır.\n\nLisans eğitim ücreti yemek, yurt ve ulaşım giderlerini kapsamaz.\n\nÜcretlere %10 Katma Değer Vergisi (KDV) dahildir. KDV oranında bir değişiklik olması durumunda ücretlere aynı oranda yansıtılacaktır.",
+    "note": "*Koç Üniversitesi Tıp Fakültesine YKS ile sadece tam burslu ve yarı burslu öğrenciler yerleşmektedir."
+  },
+  "tuition_fees_2024_2025": {
+    "programs": [
+      {
+        "name": "Tıp Fakültesi dışındaki programlar",
+        "full_fee": 1075000,
+        "currency": "TL",
+        "details": "KDV dâhil"
+      },
+      {
+        "name": "Tıp Fakültesi (yarı burslu)",
+        "full_fee": 800000,
+        "currency": "TL",
+        "details": "KDV dâhil"
+      },
+      {
+        "name": "Yabancı Dil Hazırlık Programı",
+        "full_fee": 1075000,
+        "currency": "TL",
+        "details": "KDV dâhil"
+      }
+    ]
+  },
+  "scholarships": {
+    "details": "Koç Üniversitesi, öğrencilerin akademik başarılarını ve maddi ihtiyaçlarını göz önünde bulundurarak çeşitli burs imkanları sunmaktadır.",
+    "burs_types": [
+      "%100 burs (tam burs)",
+      "%50 burs (destek bursu)",
+      "gsb sporcu bursu",
+      "şehit eş ve çocukları, gazi eş ve çocukları ile gazi olan ve depremzede bursu",
+      "öğrenci dekanlığı çalışan öğrenci programı"
+    ]
+  },
+  "tuition_fees_2023_2024": {
+    "note": "Koç Üniversitesi’nde eğitim-öğretim ücrete tabidir. 2023-2024 ders yılında yerleştirilen öğrenciler için eğitim-öğretim ücreti ;",
+    "programs": [
+      {
+        "name": "Tıp Fakültesi dışındaki programlar",
+        "full_fee": 520000,
+        "currency": "TL",
+        "details": "KDV dâhil"
+      },
+      {
+        "name": "Tıp Fakültesi (yarı burslu)",
+        "full_fee": 358000,
+        "currency": "TL",
+        "details": "KDV dâhil"
+      },
+      {
+        "name": "Yabancı Dil Hazırlık Programı",
+        "full_fee": 520000,
+        "currency": "TL",
+        "details": "KDV dâhil"
+      }
+    ]
+  },
+  "tuition_fees_2022_2023": {
+    "note": "Koç Üniversitesi’nde eğitim-öğretim ücrete tabidir. 2022-2023 ders yılında yerleştirilen öğrenciler için eğitim-öğretim ücreti ;",
+    "programs": [
+      {
+        "name": "Tıp Fakültesi dışındaki programlar",
+        "full_fee": 278000,
+        "currency": "TL",
+        "details": "KDV dâhil"
+      },
+      {
+        "name": "Tıp Fakültesi",
+        "full_fee": 382300,
+        "currency": "TL",
+        "details": "KDV dâhil"
+      },
+      {
+        "name": "Yabancı Dil Hazırlık Programı",
+        "full_fee": 278000,
+        "currency": "TL",
+        "details": "KDV dâhil"
+      }
+    ]
+  }
+}

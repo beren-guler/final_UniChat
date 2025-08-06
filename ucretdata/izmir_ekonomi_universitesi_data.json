@@ -1,0 +1,323 @@
+{
+  "university": {
+    "name": "İzmir Ekonomi Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "İngilizce Hazırlık Programları",
+        "full_fee": 895000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tıp Fakültesi",
+        "full_fee": 1370000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İletişim Fakültesi Programları",
+        "full_fee": 828000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İşletme Fakültesi Programları",
+        "full_fee": 828000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Hukuk Fakültesi",
+        "full_fee": 895000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mühendislik Fakültesi Programları",
+        "full_fee": 895000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sağlık Bilimleri Fakültesi Programları",
+        "full_fee": 895000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Endüstriyel Tasarım",
+        "full_fee": 828000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Fizik",
+        "full_fee": 828000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Görsel İletişim Tasarımı",
+        "full_fee": 828000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Matematik",
+        "full_fee": 828000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sosyoloji",
+        "full_fee": 828000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tekstil Ve Moda Tasarımı",
+        "full_fee": 828000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Gastronomi Ve Mutfak Sanatları",
+        "full_fee": 895000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İç Mimarlık Ve Çevre Tasarımı",
+        "full_fee": 895000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İngilizce Mütercim Ve Tercümanlık",
+        "full_fee": 895000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mimarlık",
+        "full_fee": 895000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Psikoloji",
+        "full_fee": 895000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Meslek Yüksekokulu Programları",
+        "full_fee": 336200.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sağlık Hizmetleri Meslek Yüksekokulu Programları",
+        "full_fee": 336200.00,
+        "currency": "TL"
+      }
+    ]
+  },
+  "tuition_fees_2024_2025": {
+    "description": "İzmir Ekonomi Üniversitesi’nde eğitim–öğretim ücrete tabidir.",
+    "program_types": [
+      {
+        "name": "Hukuk Fakültesi",
+        "discounted_fee": 279500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Gastronomi ve Mutfak Sanatları Bölümü*",
+        "discounted_fee": 279500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Psikoloji Bölümü",
+        "discounted_fee": 279500,
+        "currency": "TL",
+        "discount": "50%",
+        "full_fee": 559000
+      },
+      {
+        "name": "Mühendislik Fakültesi",
+        "discounted_fee": 258000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Sağlık Bilimleri Fakültesi",
+        "discounted_fee": 258000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Güzel Sanatlar ve Tasarım Fakültesi (Endüstriyel Tasarım, Görsel İletişim Tasarımı, İç Mimarlık ve Çevre Tasarımı, Mimarlık**, Tekstil ve Moda Tasarımı)",
+        "discounted_fee": 236500,
+        "currency": "TL",
+        "discount": "50%",
+        "discounted_fee_25": 354750,
+        "full_fee": 473000,
+      },
+      {
+        "name": "İşletme Fakültesi (Ekonomi, İşletme, Lojistik Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Uluslararası Ticaret ve Finansman)",
+        "discounted_fee": 236500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "İletişim Fakültesi (Halkla İlişkiler ve Reklamcılık, Sinema ve Dijital Medya, Yeni Medya ve İletişim)",
+        "discounted_fee": 236500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Fen Edebiyat Fakültesi (Fizik, Matematik***, Sosyoloji***, İngilizce Mütercim ve Tercümanlık)",
+        "discounted_fee": 236500,
+        "currency": "TL",
+        "discount": "50%",
+        "discounted_fee_25": 354750
+      },
+      {
+        "name": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "discounted_fee": 96050,
+        "currency": "TL",
+        "discount": "50%",
+        "full_fee": 192100
+      },
+      {
+        "name": "Meslek Yüksekokulu (Bilgisayar Programcılığı ve Grafik Tasarımı Programları Hariç)",
+        "discounted_fee": 90375,
+        "currency": "TL",
+        "discount": "50%",
+        "discounted_fee_25": 135563,
+        "full_fee": 180750
+      },
+      {
+        "name": "Bilgisayar Programcılığı ve Grafik Tasarımı (İkinci öğretim programları dahil)",
+        "discounted_fee_25": 144075,
+        "currency": "TL",
+        "full_fee": 192100
+      },
+      {
+        "name": "İngilizce Hazırlık Sınıfı",
+        "discounted_fee": 236500,
+        "currency": "TL",
+        "discount": "50%",
+        "discounted_fee_25": 354750,
+        "full_fee": 473000
+      }
+    ],
+        "additional_notes": [
+        "Öğretim ücretlerine KDV dâhildir.",
+        "* 2024-2025 Akademik yılı yeni girişli öğrenciler için, program ücretine eğitim süresince kullanacakları bir Bıçak Seti dâhildir.",
+        "**** 2024-2025 öğretim yılında Üniversitemize yeni girişli ön lisans (2 yıllık) öğrenciler İngilizce Hazırlık eğitimi için (isteğe bağlı veya zorunlu) kayıtlandıkları programın ücretini öder."
+      ]
+  },
+   "scholarships":{
+ "details":"İzmir Ekonomi Üniversitesi,öğrencilerin akademik başarılarını ve maddi ihtiyaçlarını göz önünde bulundurarak çeşitli burs imkanları sunmaktadır.",
+    "burs_türleri": [
+      "ÖSYS % 100 bursu",
+        "% 50, % 25 indirimi",
+         "temel bilimler tercih indirimi",
+        "Doğan Turhan bursu",
+         "ticaret odası üyeleri indirimi",
+        "aile bireyleri indirimi",
+         "mensup indirimi",
+        "lisans mezun indirimi",
+       "sporcu indirimi",
+     "milli sporcu bursu",
+      "derece indirimi"
+    ]
+   },
+  "tuition_fees_2023_2024": {
+   "note": "İzmir Ekonomi Üniversitesi’nde eğitim–öğretim ücrete tabidir. 2023-2024 akademik yılında öğretim ücreti KDV dâhil; 2022-2023 akademik yılında öğretim ücreti %10 KDV dahil ;",
+   "programs":[
+     {
+    "name": "Tıp Fakültesi",
+    "discounted_fee": 204000,
+     "currency": "TL",
+    "discount": "50%"
+   },
+      {
+    "name": "Hukuk Fakültesi",
+    "discounted_fee": 130000,
+     "currency": "TL",
+    "discount": "50%"
+   },
+        {
+    "name": "Gastronomi ve Mutfak Sanatları Bölümü*",
+    "discounted_fee": 130000,
+     "currency": "TL",
+    "discount": "50%"
+   },
+     {
+    "name": "Psikoloji Bölümü",
+    "discounted_fee": 130000,
+     "currency": "TL",
+    "discount": "50%",
+    "full_fee": 260000
+   },
+     {
+    "name": "Mühendislik Fakültesi",
+    "discounted_fee": 120000,
+     "currency": "TL",
+    "discount": "50%"
+   },
+        {
+    "name": "Sağlık Bilimleri Fakültesi (Hemşirelik, Fizyoterapi ve Rehabilitasyon)",
+    "discounted_fee": 120000,
+     "currency": "TL",
+    "discount": "50%"
+   },
+    {
+    "name": "Güzel Sanatlar ve Tasarım Fakültesi (Endüstriyel Tasarım, Görsel İletişim Tasarımı, İç Mimarlık ve Çevre Tasarımı, Mimarlık, Tekstil ve Moda Tasarımı)",
+     "currency": "TL",
+    "discount": "50%",
+    "discounted_fee": 110000,
+    "full_fee": 220000
+   },
+        {
+    "name": "İşletme Fakültesi (Ekonomi, İşletme, Lojistik Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Uluslararası Ticaret ve Finansman)",
+    "discounted_fee": 110000,
+      "currency": "TL",
+    "discount": "50%"
+   },
+     {
+    "name": "İletişim Fakültesi (Halkla İlişkiler ve Reklamcılık, Sinema ve Dijital Medya, Yeni Medya ve İletişim)",
+    "discounted_fee": 110000,
+       "currency": "TL",
+    "discount": "50%"
+   },
+      {
+    "name": "Fen Edebiyat Fakültesi (Fizik, Matematik**, İngilizce Mütercim ve Tercümanlık, Sosyoloji**)",
+    "discounted_fee": 110000,
+       "currency": "TL",
+    "discount": "50%"
+   },
+        {
+    "name": "Sağlık Hizmetleri Meslek Yüksekokulu",
+    "discounted_fee": 34975,
+     "currency": "TL",
+    "discount": "50%",
+    "full_fee": 69950
+   },
+        {
+    "name": "Adalet Meslek Yüksekokulu",
+    "full_fee": 65000,
+    "currency": "TL"
+   },
+   {
+    "name": "Meslek Yüksekokulu",
+    "discounted_fee": 32500,
+     "currency": "TL",
+    "discount": "50%",
+    "full_fee": 65000
+   },
+   {
+    "name": "Bilgisayar Programcılığı, Grafik Tasarımı (İkinci öğretim programları dahil)",
+    "full_fee": 69950,
+    "currency": "TL"
+   },
+         {
+    "name": "İngilizce Hazırlık Sınıfı",
+    "discounted_fee": 110000,
+      "currency": "TL",
+    "discount": "50%",
+     "full_fee": 220000
+   }
+   ]
+  }
+}

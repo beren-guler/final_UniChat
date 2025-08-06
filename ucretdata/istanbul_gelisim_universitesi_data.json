@@ -1,0 +1,372 @@
+{
+  "university": {
+    "name": "İstanbul Gelişim Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": [
+      {
+        "faculty": "İktisadi İdari ve Sosyal Bilimler Fakültesi",
+        "programs": [
+          {
+            "program": "İşletme",
+            "annual_fee": 550000,
+            "currency": "TL"
+          },
+          {
+            "program": "Psikoloji",
+            "annual_fee": 900000,
+            "currency": "TL"
+          },
+          {
+            "program": "Yönetim Bilişim Sistemleri",
+            "annual_fee": 700000,
+            "currency": "TL"
+          },
+          {
+            "program": "Uluslararası Ticaret Ve Lojistik",
+            "annual_fee": 500000,
+            "currency": "TL"
+          },
+          {
+            "program": "Uluslararası Ticaret Ve Finansman",
+            "annual_fee": 550000,
+            "currency": "TL"
+          },
+          {
+            "program": "Siyaset Bilimi Ve Uluslararası İlişkiler",
+            "annual_fee": 500000,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "faculty": "Mühendislik Fakültesi",
+        "programs": [
+          {
+            "program": "Yazılım Mühendisliği",
+            "annual_fee": 900000,
+            "currency": "TL"
+          },
+          {
+            "program": "Bilgisayar Mühendisliği",
+            "annual_fee": 960000,
+            "currency": "TL"
+          },
+          {
+            "program": "Mekatronik Mühendisliği",
+            "annual_fee": 575000,
+            "currency": "TL"
+          },
+          {
+            "program": "Endüstri Mühendisliği",
+            "annual_fee": 650000,
+            "currency": "TL"
+          },
+          {
+            "program": "Makine Mühendisliği",
+            "annual_fee": 700000,
+            "currency": "TL"
+          },
+          {
+            "program": "Malzeme Bilimi Ve Nanoteknoloji Mühendisliği",
+            "annual_fee": 500000,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "faculty": "Sağlık Bilimleri Fakültesi",
+        "programs": [
+          {
+            "program": "Beslenme Ve Diyetetik",
+            "annual_fee": 800000,
+            "currency": "TL"
+          },
+          {
+            "program": "Fizyoterapi Ve Rehabilitasyon",
+            "annual_fee": 800000,
+            "currency": "TL"
+          },
+          {
+            "program": "Hemşirelik",
+            "annual_fee": 800000,
+            "currency": "TL"
+          },
+          {
+            "program": "Çocuk Gelişimi",
+            "annual_fee": 650000,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "faculty": "Spor Bilimleri Fakültesi",
+        "programs": [
+          {
+            "program": "Antrenörlük Eğitimi",
+            "annual_fee": 500000,
+            "currency": "TL"
+          },
+          {
+            "program": "Beden Eğitimi Ve Spor Öğretmenliği",
+            "annual_fee": 500000,
+            "currency": "TL"
+          },
+          {
+            "program": "Egzersiz Ve Spor Bilimleri",
+            "annual_fee": 500000,
+            "currency": "TL"
+          },
+          {
+            "program": "Spor Yöneticiliği",
+            "annual_fee": 500000,
+            "currency": "TL"
+          },
+          {
+            "program": "Engellilerde Egzersiz Ve Spor Bilimleri",
+            "annual_fee": 590295,
+            "currency": "TL"
+          },
+             {
+            "program": "Rekreasyon",
+            "annual_fee": 800000,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "faculty": "Mimarlık ve Tasarım Fakültesi",
+        "programs": [
+          {
+            "program": "Görsel İletişim Tasarımı",
+            "annual_fee": 675000,
+            "currency": "TL"
+          },
+          {
+            "program": "Gastronomi Ve Mutfak Sanatları",
+            "annual_fee": 712500,
+            "currency": "TL"
+          },
+          {
+            "program": "İç Mimarlık Ve Çevre Tasarımı",
+            "annual_fee": 750000,
+            "currency": "TL"
+          },
+           {
+            "program": "Mimarlık",
+            "annual_fee": 500000,
+            "currency": "TL"
+          },
+           {
+            "program": "Dijital Oyun Tasarımı",
+            "annual_fee": 712500,
+            "currency": "TL"
+          }
+        ]
+      },
+      {
+        "faculty": "Hukuk Fakültesi",
+        "programs": [
+          {
+            "program": "Hukuk",
+            "annual_fee": 800000,
+            "currency": "TL"
+          }
+        ]
+      },
+        {
+           "faculty": "Gedik Meslek Yüksekokulu (Sağlık Programları)",
+        "programs": [
+            {
+            "program": "Ameliyathane Hizmetleri",
+            "annual_fee": 520000,
+            "currency": "TL"
+           },
+                {
+             "program": "Anestezi",
+               "annual_fee": 600000,
+               "currency": "TL"
+             },
+                    {
+                  "program": "Çocuk Gelişimi",
+                    "annual_fee": 450000,
+                  "currency": "TL"
+                   },
+                             {
+                   "program": "İlk Ve Acil Yardım",
+                  "annual_fee": 520000,
+                        "currency": "TL"
+                   },
+                              {
+                  "program": "İş Sağlığı Ve Güvenliği",
+                 "annual_fee": 450000,
+                      "currency": "TL"
+                   },
+                                  {
+                 "program": "Optisyenlik",
+                      "annual_fee": 500000,
+                        "currency": "TL"
+                         },
+                 {
+                 "program": "Tıbbi Görüntüleme Teknikleri",
+                       "annual_fee": 520000,
+                         "currency": "TL"
+                   },
+                      {
+                      "program": "Tıbbi Dokümantasyon Ve Sekreterlik",
+                          "annual_fee": 500000,
+                           "currency": "TL"
+                   }
+          ]
+          },
+        {
+           "faculty": "Gedik Meslek Yüksekokulu (Sosyal Programları)",
+        "programs": [
+            {
+            "program": "Bilgisayar Programcılığı",
+           "annual_fee": 625000,
+            "currency": "TL"
+           },
+            {
+               "program": "Bilişim Güvenliği Teknolojisi",
+                   "annual_fee": 625000,
+                      "currency": "TL"
+            },
+                    {
+            "program": "Su Altı Teknolojisi",
+                     "annual_fee": 625000,
+                         "currency": "TL"
+                   },
+                        {
+                    "program": "Aşçılık",
+                     "annual_fee": 600000,
+                         "currency": "TL"
+                  },
+                       {
+                   "program": "Bankacılık Ve Sigortacılık",
+                         "annual_fee": 450000,
+                          "currency": "TL"
+                },
+                 {
+                   "program": "Dış Ticaret",
+                         "annual_fee": 450000,
+                        "currency": "TL"
+                     },
+                              {
+            "program": "İnsan Kaynakları Yönetimi",
+                             "annual_fee": 450000,
+                             "currency": "TL"
+             },
+            {
+                     "program": "Mahkeme Büro Hizmetleri",
+                      "annual_fee": 450000,
+                     "currency": "TL"
+                    },
+                                {
+                   "program": "Medya Ve İletişim",
+                    "annual_fee": 450000,
+                      "currency": "TL"
+                   },
+                     {
+                         "program": "Muhasebe Ve Vergi Uygulamaları",
+                   "annual_fee": 450000,
+                        "currency": "TL"
+                        },
+                        {
+                 "program": "Sivil Hava Ulaştırma İşletmeciliği",
+                "annual_fee": 600000,
+                    "currency": "TL"
+                   },
+                         {
+                 "program": "Sivil Havacılık Kabin Hizmetleri",
+                "annual_fee": 600000,
+                    "currency": "TL"
+                   },
+                  {
+                  "program": "Turist Rehberliği",
+                      "annual_fee": 450000,
+                     "currency": "TL"
+                  }
+                ]
+  }
+    ]
+  },
+      "odeme_kosullari": "• Taksitli ödemelerde toplam tutarın %15’i peşinat olarak tahsil edilir.",
+          "muhasebe_bilgisi": "• Bankaların eğitim harcamalarına özel kampanyaları için muhasebe@galata.edu.tr adresinden Mali İşler birimimiz iletişime geçiniz.",
+"kredi_karti_bilgisi": "• Kredi kartı tek çekimlerinde banka kampanyaları dahilinde taksitlendirme yapılabilir."
+  },
+  "tuition_fees_2024_2025": {
+    "new_students": [
+      {
+        "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+        "programs": [
+          {
+            "program": "Ekonomi ve Finans (İngilizce)",
+           "discounted_fee": 170000,
+             "currency": "TL",
+            "discount": "50%"
+          },
+           {
+            "program": "Elektronik Ticaret ve Yönetimi",
+            "discounted_fee": 170000,
+              "currency": "TL",
+            "discount": "50%"
+          },
+             {
+            "program": "Havacılık Yönetimi",
+            "discounted_fee": 170000,
+              "currency": "TL",
+            "discount": "50%"
+          },
+            {
+            "program": "İşletme",
+           "discounted_fee": 170000,
+            "currency": "TL",
+              "discount": "50%"
+          },
+        {
+            "program": "İşletme (İngilizce)",
+             "discounted_fee": 170000,
+              "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "program": "Lojistik Yönetimi",
+              "discounted_fee": 170000,
+              "currency": "TL",
+            "discount": "50%"
+          },
+          {
+             "program": "Siyaset Bilimi ve Uluslararası İlişkiler (egitim.net.tr)",
+            "discounted_fee": 170000,
+              "currency": "TL",
+            "discount": "50%"
+          },
+                   {
+           "program": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce)",
+            "discounted_fee": 170000,
+             "currency": "TL",
+           "discount": "50%"
+            },
+        {
+            "program": "Uluslararası Ticaret ve Finansman",
+            "discounted_fee": 170000,
+              "currency": "TL",
+            "discount": "50%"
+          },
+                  {
+                 "program": "Yönetim Bilişim Sistemleri",
+                 "discounted_fee": 170000,
+                  "currency": "TL",
+               "discount": "50%"
+              }
+        ]
+      }
+    ]
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

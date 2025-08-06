@@ -1,0 +1,610 @@
+{
+  "university": {
+    "name": "OSTİM Teknik Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Ön lisans Programları",
+      "annual_fee": {
+        "amount": 475000.00,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Hazırlık Programı",
+      "name": "İngilizce Hazırlık Programı",
+      "annual_fee": {
+        "amount": 800000.00,
+        "currency": "TL"
+      }
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Lisans Programları",
+      "departments": [
+        {
+          "name": "Ekonomi",
+          "annual_fee": {
+            "amount": 700000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Endüstriyel Tasarım",
+          "annual_fee": {
+            "amount": 700000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İşletme",
+          "annual_fee": {
+            "amount": 700000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Nanoteknoloji Mühendisliği",
+          "annual_fee": {
+            "amount": 700000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Pazarlama",
+          "annual_fee": {
+            "amount": 700000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret Ve Finansman",
+          "annual_fee": {
+            "amount": 700000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Makine Mühendisliği",
+          "annual_fee": {
+            "amount": 730000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği",
+          "annual_fee": {
+            "amount": 770000.00,
+            "currency": "TL"
+          }
+        },
+          {
+          "name": "Endüstri Mühendisliği (Türkçe)",
+          "annual_fee": {
+            "amount": 730000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İç Mimarlık Ve Çevre Tasarımı",
+          "annual_fee": {
+            "amount": 825000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri",
+          "annual_fee": {
+            "amount": 825000.00,
+            "currency": "TL"
+          }
+        },
+         {
+          "name": "Yönetim Bilişim Sistemleri (Türkçe)",
+          "annual_fee": {
+            "amount": 780000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Elektrik-Elektronik Mühendisliği",
+          "annual_fee": {
+            "amount": 930000.00,
+            "currency": "TL"
+          }
+        },
+         {
+          "name": "Elektrik Elektronik Mühendisliği (Türkçe)",
+          "annual_fee": {
+            "amount": 880000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Havacılık Ve Uzay Mühendisliği",
+          "annual_fee": {
+            "amount": 930000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Bilgisayar Mühendisliği",
+          "annual_fee": {
+            "amount": 1070000.00,
+            "currency": "TL"
+          }
+        },
+         {
+          "name": "Bilgisayar Mühendisliği (Türkçe)",
+          "annual_fee": {
+            "amount": 1020000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yapay Zeka Mühendisliği",
+          "annual_fee": {
+            "amount": 1070000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Yazılım Mühendisliği",
+          "annual_fee": {
+            "amount": 1070000.00,
+            "currency": "TL"
+          }
+        },
+         {
+          "name": "Yazılım Mühendisliği (Türkçe)",
+          "annual_fee": {
+            "amount": 1020000.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "OSTİM Teknik Üniversitesi’nde eğitim ücrete tabidir. 2024-2025 eğitim-öğretim yılı eğitim ücretleri;"
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Mühendislik Fakültesi",
+      "departments": [
+        {
+          "name": "Bilgisayar Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 600500,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 300250,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Bilgisayar Mühendisliği (Türkçe)",
+          "annual_fee": {
+            "amount": 600500,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 300250,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Elektrik Elektronik Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 525000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 262500,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Elektrik Elektronik Mühendisliği (Türkçe)",
+          "annual_fee": {
+            "amount": 525000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 262500,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Endüstri Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 475000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 237500,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Endüstri Mühendisliği (Türkçe)",
+          "annual_fee": {
+            "amount": 475000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 237500,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Havacılık ve Uzay Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 550000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 275000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Makine Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 475000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 237500,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Nanoteknoloji Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 475000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 237500,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Yapay Zeka Mühendisliği (Türkçe)",
+          "annual_fee": {
+            "amount": 600500,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 450375,
+            "currency": "TL"
+          },
+        },
+        {
+          "name": "Yazılım Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 600500,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 300250,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Yazılım Mühendisliği (Türkçe)",
+          "annual_fee": {
+            "amount": 600500,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 300250,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        }
+      ]
+    },
+       {
+      "academic_year": "2024-2025",
+      "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "Ekonomi (İngilizce)",
+          "annual_fee": {
+            "amount": 440000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 220000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "İşletme (İngilizce)",
+          "annual_fee": {
+            "amount": 440000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 220000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Pazarlama (İngilizce)",
+          "annual_fee": {
+            "amount": 440000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 220000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Uluslararası Ticaret ve Finansman (İngilizce)",
+          "annual_fee": {
+            "amount": 440000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 220000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri (İngilizce)",
+          "annual_fee": {
+            "amount": 520000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 260000,
+            "currency": "TL",
+            "discount": "50%"
+          },
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri (Türkçe)",
+          "annual_fee": {
+            "amount": 520000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 260000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+       {
+      "academic_year": "2024-2025",
+      "faculty": "Mimarlık ve Tasarım Fakültesi",
+      "departments": [
+        {
+          "name": "Endüstriyel Tasarım (Türkçe)",
+          "annual_fee": {
+            "amount": 400000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 200000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "İç Mimarlık ve Çevre Tasarımı (Türkçe)",
+          "annual_fee": {
+            "amount": 468000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 234000,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Bilgisayar Programcılığı (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Bilişim Güvenliği Teknolojisi (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Biyomedikal Cihaz Teknolojisi (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Elektrik (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Elektronik Teknolojisi (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "E-Ticaret ve Pazarlama (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Hibrit ve Elektrikli Taşıtlar Teknolojisi (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "İHA Teknolojisi ve Operatörlüğü (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Lojistik (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Makine (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Mekatronik (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Silah Sanayi Teknikerliği (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        },
+        {
+          "name": "Üretimde Kalite Kontrol (Türkçe)",
+          "annual_fee": {
+            "amount": 275000,
+            "currency": "TL"
+          },
+          "discounted_annual_fee": {
+            "amount": 137500,
+            "currency": "TL",
+            "discount": "50%"
+          }
+        }
+      ]
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "ÖSYS/YKS/DGS yerleştirme bursu",
+      "engelli indirimi",
+      "kardeş indirimi",
+      "tercih indirimi",
+      "kurumsal aidiyet indirimi",
+      "Cevat Dündar indirimi",
+      "Maarif vakfı indirimi",
+      "akademik başarı indirimi",
+      "sporda başarı indirimi",
+      "üstün başarı desteği"
+    ]
+  },
+  "dormitory_fees": null
+}

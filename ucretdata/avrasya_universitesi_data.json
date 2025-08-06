@@ -1,0 +1,492 @@
+{
+  "university": {
+    "name": "Avrasya Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2024-2025": {
+      "Fen-Edebiyat Fakültesi": {
+        "İngiliz Dili ve Edebiyatı": {
+          "discount_50": 125000.00
+        },
+        "İngilizce Mütercim ve Tercümanlık": {
+          "discount_50": 125000.00
+        },
+        "Moleküler Biyoloji ve Genetik (İngilizce)": {
+          "discount_50": 140000.00
+        },
+        "Psikoloji": {
+          "full_fee": 200000.00
+        },
+        "Türk Dili ve Edebiyatı": {
+          "discount_50": 125000.00
+        }
+      },
+      "İktisadi ve İdari Bilimler Fakültesi": {
+        "Siyaset Bilimi ve Kamu Yönetimi": {
+          "discount_50": 125000.00
+        }
+      },
+      "İletişim Fakültesi": {
+        "Görsel İletişim Tasarımı": {
+          "discount_50": 100000.00
+        },
+        "Yeni Medya ve İletişim": {
+          "discount_50": 100000.00
+        }
+      },
+      "Mühendislik ve Mimarlık Fakültesi": {
+        "Bilgisayar Mühendisliği": {
+          "discount_50": 180000.00
+        },
+        "İç Mimarlık ve Çevre Tasarımı": {
+          "discount_50": 150000.00
+        },
+        "İnşaat Mühendisliği": {
+          "discount_50": 80000.00
+        },
+        "Mimarlık": {
+          "discount_50": 80000.00
+        }
+      },
+      "Sağlık Bilimleri Fakültesi": {
+        "Beslenme ve Diyetetik": {
+          "discount_50": 125000.00
+        },
+        "Çocuk Gelişimi": {
+          "discount_50": 125000.00
+        },
+        "Ebelik": {
+          "full_fee": 180000.00
+        },
+        "Ergoterapi": {
+          "discount_50": 125000.00
+        },
+        "Fizyoterapi ve Rehabilitasyon": {
+          "discount_50": 125000.00
+        },
+        "Hemşirelik": {
+          "full_fee": 180000.00
+        },
+        "Odyoloji": {
+          "discount_50": 125000.00
+        }
+      },
+      "Spor Bilimleri Fakültesi": {
+        "Egzersiz ve Spor Bilimleri (Özel Yetenek)": {
+          "discount_50": 100000.00
+        },
+        "Rekreasyon (Özel Yetenek)": {
+          "discount_50": 100000.00
+        },
+        "Spor Yöneticiliği (Özel Yetenek)": {
+          "discount_50": 100000.00
+        }
+      },
+      "Uygulamalı Bilimler Yüksekokulu": {
+        "Gastronomi ve Mutfak Sanatları": {
+          "discount_50": 125000.00
+        }
+      },
+      "Meslek Yüksekokulu": {
+        "Aşçılık": {
+          "discount_50": 90000.00
+        },
+        "Bilgisayar Programcılığı": {
+          "discount_50": 125000.00
+        },
+        "Bilişim Güvenliği Teknolojisi": {
+          "discount_50": 110000.00
+        },
+        "Dış Ticaret": {
+          "discount_50": 90000.00
+        },
+        "E-Ticaret ve Pazarlama": {
+          "discount_50": 90000.00
+        },
+        "Halkla İlişkiler ve Tanıtım": {
+          "discount_50": 90000.00
+        },
+        "Harita ve Kadastro": {
+          "discount_50": 90000.00
+        },
+        "İç Mekan Tasarımı": {
+          "discount_50": 90000.00
+        },
+        "İnşaat Teknolojisi": {
+          "discount_50": 90000.00
+        },
+        "Lojistik": {
+          "discount_50": 90000.00
+        },
+        "Mahkeme Büro Hizmetleri": {
+          "discount_50": 90000.00
+        },
+        "Mimari Restorasyon": {
+          "discount_50": 90000.00
+        },
+        "Moda Tasarımı": {
+          "discount_50": 90000.00
+        },
+        "Radyo ve Televizyon Programcılığı": {
+          "discount_50": 90000.00
+        },
+        "Sivil Havacılık Kabin Hizmetleri": {
+          "discount_50": 90000.00
+        },
+        "Sosyal Hizmetler": {
+          "discount_50": 90000.00
+        },
+        "Spor Yönetimi": {
+          "discount_50": 90000.00
+        },
+        "Uygulamalı İngilizce Çevirmenlik (İngilizce)": {
+          "discount_50": 90000.00
+        }
+      },
+      "Sağlık Hizmetleri Meslek Yüksekokulu": {
+        "Ağız ve Diş Sağlığı": {
+          "discount_50": 110000.00
+        },
+        "Anestezi": {
+          "full_fee": 125000.00
+        },
+        "Anestezi (İÖ)": {
+          "full_fee": 125000.00
+        },
+        "Çocuk Gelişimi": {
+          "discount_50": 110000.00
+        },
+        "Çocuk Gelişimi (İÖ)": {
+          "discount_50": 110000.00
+        },
+        "Diş Protez Teknolojisi": {
+          "discount_50": 110000.00
+        },
+        "Eczane Hizmetleri": {
+          "discount_50": 110000.00
+        },
+        "Elektronörofizyoloji": {
+          "discount_50": 110000.00
+        },
+        "Fizyoterapi": {
+          "discount_50": 110000.00
+        },
+        "İlk ve Acil Yardım": {
+          "full_fee": 125000.00
+        },
+        "İlk ve Acil Yardım (İÖ)": {
+          "full_fee": 125000.00
+        },
+        "İş Sağlığı ve Güvenliği": {
+          "discount_50": 110000.00
+        },
+        "İş ve Uğraşı Terapisi": {
+          "discount_50": 110000.00
+        },
+        "Odyometri": {
+          "discount_50": 110000.00
+        },
+        "Odyometri (İÖ)": {
+          "discount_50": 110000.00
+        },
+        "Optisyenlik": {
+          "discount_50": 110000.00
+        },
+        "Optisyenlik (İÖ)": {
+          "discount_50": 110000.00
+        },
+        "Ortopedik Protez ve Ortez": {
+          "discount_50": 110000.00
+        },
+        "Patoloji Laboratuvar Teknikleri": {
+          "discount_50": 110000.00
+        },
+        "Tıbbi Görüntüleme Teknikleri": {
+          "full_fee": 125000.00
+        },
+        "Tıbbi Laboratuvar Teknikleri": {
+          "discount_50": 110000.00
+        },
+        "Tıbbi Laboratuvar Teknikleri (İÖ)": {
+          "discount_50": 110000.00
+        }
+      }
+    },
+     "2024-2025_table": {
+           "Lisans": [
+        {
+            "Bolum":"Antrenörlük Eğitimi",
+           "Ucret":198000.00
+        },
+           {
+            "Bolum":"Egzersiz Ve Spor Bilimleri",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"Görsel İletişim Tasarımı",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"Rekreasyon",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"Spor Yöneticiliği",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"Yeni Medya Ve İletişim",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"İnşaat Mühendisliği",
+           "Ucret":220000.00
+        },
+         {
+            "Bolum":"İşletme",
+           "Ucret":220000.00
+        },
+          {
+            "Bolum":"Mimarlık",
+           "Ucret":220000.00
+        },
+          {
+            "Bolum":"Yönetim Bilişim Sistemleri",
+           "Ucret":220000.00
+        },
+           {
+            "Bolum":"Beslenme Ve Diyetetik",
+           "Ucret":275000.00
+        },
+          {
+            "Bolum":"Bilgisayar Mühendisliği",
+           "Ucret":275000.00
+        },
+         {
+            "Bolum":"Çocuk Gelişimi",
+           "Ucret":275000.00
+        },
+         {
+            "Bolum":"Ergoterapi",
+           "Ucret":275000.00
+        },
+         {
+            "Bolum":"Fizyoterapi Ve Rehabilitasyon",
+           "Ucret":275000.00
+        },
+         {
+            "Bolum":"Gastronomi Ve Mutfak Sanatları",
+           "Ucret":275000.00
+        },
+          {
+            "Bolum":"İngiliz Dili Ve Edebiyatı",
+           "Ucret":275000.00
+        },
+        {
+            "Bolum":"İngilizce Mütercim Ve Tercümanlık",
+           "Ucret":275000.00
+        },
+         {
+            "Bolum":"Odyoloji",
+           "Ucret":275000.00
+        },
+         {
+            "Bolum":"Siyaset Bilimi Ve Kamu Yönetimi",
+           "Ucret":275000.00
+        },
+        {
+            "Bolum":"Türk Dili Ve Edebiyatı",
+           "Ucret":275000.00
+        },
+          {
+            "Bolum":"Ebelik",
+           "Ucret":308000.00
+        },
+         {
+            "Bolum":"Hemşirelik",
+           "Ucret":308000.00
+        },
+         {
+            "Bolum":"İç Mimarlık Ve Çevre Tasarımı",
+           "Ucret":308000.00
+        },
+         {
+            "Bolum":"Moleküler Biyoloji Ve Genetik",
+           "Ucret":308000.00
+        },
+         {
+            "Bolum":"Psikoloji",
+           "Ucret":308000.00
+        }
+           ],
+            "Ön lisans": [
+{
+            "Bolum":"Otomotiv Teknolojisi",
+           "Ucret":110000.00
+        },
+         {
+            "Bolum":"Dış Ticaret",
+           "Ucret":154000.00
+        },
+        {
+            "Bolum":"E-Ticaret Ve Pazarlama",
+           "Ucret":154000.00
+        },
+        {
+            "Bolum":"Halkla İlişkiler Ve Tanıtım",
+           "Ucret":154000.00
+        },
+         {
+            "Bolum":"Harita Ve Kadastro",
+           "Ucret":154000.00
+        },
+         {
+            "Bolum":"İnşaat Teknolojisi",
+           "Ucret":154000.00
+        },
+         {
+            "Bolum":"Lojistik",
+           "Ucret":154000.00
+        },
+         {
+            "Bolum":"Mahkeme Büro Hizmetleri",
+           "Ucret":154000.00
+        },
+         {
+            "Bolum":"Moda Tasarımı",
+           "Ucret":154000.00
+        },
+         {
+            "Bolum":"Sosyal Hizmetler",
+           "Ucret":154000.00
+        },
+          {
+            "Bolum":"Aşçılık",
+           "Ucret":198000.00
+        },
+          {
+            "Bolum":"Bilgisayar Programcılığı",
+           "Ucret":198000.00
+        },
+          {
+            "Bolum":"Bilişim Güvenliği Teknolojisi",
+           "Ucret":198000.00
+        },
+          {
+            "Bolum":"Çocuk Gelişimi",
+           "Ucret":198000.00
+        },
+          {
+            "Bolum":"Ağız Ve Diş Sağlığı",
+           "Ucret":198000.00
+        },
+          {
+            "Bolum":"Diş Protez Teknolojisi",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"Eczane Hizmetleri",
+           "Ucret":198000.00
+        },
+        {
+            "Bolum":"Elektronörofizyoloji",
+           "Ucret":198000.00
+        },
+        {
+            "Bolum":"Fizyoterapi",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"İç Mekan Tasarımı",
+           "Ucret":198000.00
+        },
+        {
+            "Bolum":"İş Sağlığı Ve Güvenliği",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"İş Ve Uğraşı Terapisi",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"Mimari Restorasyon",
+           "Ucret":198000.00
+        },
+          {
+            "Bolum":"Odyometri",
+           "Ucret":198000.00
+        },
+          {
+            "Bolum":"Optisyenlik",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"Ortopedik Protez Ve Ortez",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"Patoloji Laboratuvar Teknikleri",
+           "Ucret":198000.00
+        },
+         {
+            "Bolum":"Sivil Havacılık Kabin Hizmetleri",
+           "Ucret":198000.00
+        },
+        {
+            "Bolum":"Tıbbi Laboratuvar Teknikleri",
+           "Ucret":198000.00
+        },
+          {
+            "Bolum":"Web Tasarımı Ve Kodlama",
+           "Ucret":198000.00
+        },
+          {
+            "Bolum":"Ameliyathane Hizmetleri",
+           "Ucret":220000.00
+        },
+         {
+            "Bolum":"Anestezi",
+           "Ucret":220000.00
+        },
+         {
+            "Bolum":"Diyaliz",
+           "Ucret":220000.00
+        },
+         {
+            "Bolum":"İlk Ve Acil Yardım",
+           "Ucret":220000.00
+        },
+        {
+            "Bolum":"Radyoterapi",
+           "Ucret":220000.00
+        },
+         {
+            "Bolum":"Tıbbi Görüntüleme Teknikleri",
+           "Ucret":220000.00
+        }
+            ]
+    },
+    "2023-2024": {
+      "Fen Edebiyat Fakültesi Bölümleri": 80000.00,
+      "İktisadi ve İdari Bilimler Fakültesi Bölümleri": 80000.00,
+      "Mühendislik ve Mimarlık Fakültesi Bölümleri": 80000.00,
+      "Uygulamalı Bilimler Yüksekokulu Bölümleri": 80000.00,
+      "Sağlık Bilimleri Fakültesi Bölümleri": 80000.00,
+      "Meslek Yüksekokulu Programları": 60000.00,
+      "Sağlık Hizmetleri Meslek Yüksekokulu Programları": 75000.00
+    },
+    "2022-2023": {
+      "Fen-Edebiyat Fakültesiİngiliz Dili Ve Edebiyatı ,Moleküler Biyoloji Ve Genetik , Psikoloji , Türk Dili Ve Edebiyatı": 50.00,
+      "İktisadi Ve İdari Bilimler Fakültesi Siyaset Bilimi Ve Kamu Yönetimi": 30.00,
+      "Mühendislik Ve Mimarlık FakültesiBilgisayar Mühendisliği, İç Mimarlık Ve Çevre Tasarımı, İnşaat Mühendisliği, Mimarlık": 50.00,
+      "Sağlık Bilimleri FakültesiBeslenme Ve Diyetetik, Ebelik, Egzersiz Ve Spor Bilimleri , Fizyoterapi Ve Rehabilitasyon, Hemşirelik, Odyoloji": 45.00,
+      "Uygulamalı Bilimler Yüksekokulu Gastronomi Ve Mutfak Sanatları": 50.00,
+      "Meslek YüksekokuluAdalet, Aşçılık,Bilgisayar Programcılığı, Harita Ve Kadastro,İç Mekan Tasarımı, İnşaat Teknolojisi, Mimari Restorasyon, Moda Tasarımı, Sivil Havacılık Kabin Hizmetleri, Spor Yönetimi, Uygulamalı İngilizce Çevirmenlik": 30.00,
+      "Sağlık Hizmetleri Meslek YüksekokuluAğız Ve Diş Sağlığı, Anestezi, Çocuk Gelişimi, Diş Protez Teknolojisi, Eczane Hizmetleri,İlk Ve Acil Yardım , İş Ve Uğraşı Terapisi, Odyometri, Optisyenlik, Ortopedik Protez Ve Ortez, Patoloji Laboratuvar Teknikleri, Tıbbi Görüntüleme Teknikleri, Tıbbi Laboratuvar Teknikleri": 35.00
+    }
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

@@ -1,0 +1,151 @@
+{
+  "university": {
+    "name": "İbn Haldun Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": {
+      "annual_fee": [
+        {
+          "program": "Hukuk ve Psikoloji",
+          "amount": 1000000,
+          "currency": "TL"
+        },
+        {
+          "program": "İktisat, İslami İlimler, İşletme, Rehberlik ve Psikolojik Danışmanlık, Siyaset Bilimi ve Uluslararası İlişkiler, Sosyoloji, Tarih, Yeni Medya ve İletişim",
+          "amount": 750000,
+          "currency": "TL"
+        }
+      ]
+    }
+  },
+    "scholarships": {
+    "full_scholarships": [
+      {
+        "name": "Tam Burslu",
+        "coverage": "Öğrenim ücreti muafiyeti",
+        "condition": "2025-YKS ile yerleşip kayıt yaptırmak",
+        "percentage": "100%",
+        "duration": "İngilizce Hazırlık Programında 1+1 yıl, lisans programında ise 4+1 yıl"
+      }
+    ],
+      "other_scholarships": [
+        {
+          "name": "Dizüstü Bilgisayar Hediyesi",
+          "coverage": "Dizüstü bilgisayar",
+          "condition": "Derslere kayıt olup devam etmek",
+          "duration": "İlk yarıyıl"
+        },
+        {
+          "name": "Prestij Bursu",
+          "coverage": "Aylık 16.000 TL nakit ödeme",
+          "condition": "Sözel ilk 100 ile Eşit Ağırlık ilk 250 sıralamasına sahip olmak",
+          "monthly_cash": 16000,
+           "currency": "TL"
+        },
+        {
+          "name": "Derece Bursu",
+          "coverage": "Aylık nakit ödeme (Sözel: 13.500 TL, 11.000 TL, 8.500 TL / Eşit Ağırlık: 13.500 TL, 11.000 TL, 8.500 TL)",
+          "condition": "ÖSYS puanları ile Türkiye genelinde belirli sıralamalara sahip olmak",
+          "details": {
+            "Sözel": [
+              {"sıralama": "ilk 500", "aylık": 13500, "currency": "TL"},
+              {"sıralama": "ilk 1.000", "aylık": 11000, "currency": "TL"},
+              {"sıralama": "ilk 2.000", "aylık": 8500, "currency": "TL"}
+            ],
+            "Eşit Ağırlık": [
+              {"sıralama": "ilk 2.500", "aylık": 13500, "currency": "TL"},
+              {"sıralama": "ilk 5.000", "aylık": 11000, "currency": "TL"},
+              {"sıralama": "ilk 10.000", "aylık": 8500, "currency": "TL"}
+            ]
+          }
+        },
+        {
+          "name": "Tercih Bursu",
+          "coverage": "Aylık 7.000 TL",
+          "condition": "İlk tercihinde İbn Haldun Üniversitesi lisans programlarından birini yazan veya ilk 3 tercihin tümüne İbn Haldun Üniversitesi lisans programlarından birini yazmak",
+          "monthly_cash": 7000,
+          "currency": "TL"
+        },
+        {
+          "name": "Sporcu Bursu",
+          "coverage": "Öğrenim ücretinden muafiyet",
+          "condition": "T.C. Gençlik ve Spor Bakanlığı tarafından son 4 yıl içinde belirtilen spor dallarında başarılı olduğunu belgelendirmek",
+          "details": "Olimpik ve Paralimpik spor dalları dikkate alınarak belirlenir."
+        }
+      ]
+    },
+
+  "tuition_fees_2024_2025": {
+    "academic_year": "2024-2025",
+    "new_students": {
+      "annual_fee": [
+        {
+          "program": "Bütün bölüm ve programlar",
+          "amount": 700000,
+          "currency": "TL"
+        }
+      ]
+    }
+  },
+
+    "scholarships_2024_2025": {
+    "full_scholarships": [
+      {
+        "name": "Tam Burslu",
+        "coverage": "Öğrenim ücreti muafiyeti",
+        "condition": "2024-YKS ile yerleşip kayıt yaptırmak",
+        "percentage": "100%",
+        "duration": "İngilizce Hazırlık Programında 1+1 yıl, lisans programında ise 4+1 yıl"
+      }
+    ]
+  },
+
+  "tuition_fees_2023_2024": {
+    "academic_year": "2023-2024",
+    "new_students": {
+      "annual_fee": [
+        {
+          "program": "Hukuk ve Psikoloji",
+          "amount": 200000,
+          "currency": "TL",
+          "kdv": "Dahil"
+        },
+        {
+          "program": "İngilizce Hazırlık Programı ve diğer lisans programları",
+          "amount": 180000,
+          "currency": "TL",
+           "kdv": "Dahil"
+        }
+      ]
+    }
+  },
+      "scholarships_2023_2024": {
+    "full_scholarships": [
+      {
+        "name": "Tam Burslu",
+        "coverage": "Öğrenim ücreti muafiyeti",
+        "condition": "2023-YKS ile yerleşip kayıt yaptırmak",
+        "percentage": "100%",
+        "duration": "İngilizce Hazırlık Programında 1+1 yıl, lisans programında ise 4+1 yıl"
+      }
+    ]
+  },
+
+  "tuition_fees_2022_2023": {
+    "academic_year": "2022-2023",
+    "new_students": {
+      "annual_fee": [
+        {
+          "program": "Tüm Lisans programları ve İngilizce Hazırlık Programı",
+          "amount": 80000,
+          "currency": "TL",
+          "kdv": "Dahil"
+        }
+      ]
+    }
+  },
+  "dormitory_fees": null
+}

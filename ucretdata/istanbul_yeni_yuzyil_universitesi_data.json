@@ -1,0 +1,910 @@
+{
+  "university": {
+    "name": "İstanbul Yeni Yüzyıl Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "Hukuk Fakültesi Programları",
+        "full_fee": 277334.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Güzel Sanatlar Fakültesi Programları",
+        "full_fee": 320000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İktisadi Ve İdari Bilimler Fakültesi Programları",
+        "full_fee": 320000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İletişim Fakültesi Programları",
+        "full_fee": 320000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Eczacılık Fakültesi",
+        "full_fee": 576000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Diş Hekimliği Fakültesi",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tıp Fakültesi",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Spor Bilimleri Fakültesi Programları",
+        "full_fee": 320000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Beslenme Ve Diyetetik (Sağlık Bilimleri Fakültesi)",
+        "full_fee": 320000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Fizyoterapi Ve Rehabilitasyon (Sağlık Bilimleri Fakültesi)",
+        "full_fee": 320000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Hemşirelik (Sağlık Bilimleri Fakültesi)",
+        "full_fee": 640000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sağlık Yönetimi (Sağlık Bilimleri Fakültesi)",
+        "full_fee": 320000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İş Sağlığı Ve Güvenliği (Sağlık Bilimleri Fakültesi)",
+        "full_fee": 256000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mimarlık (Mühendislik ve Mimarlık Fakültesi)",
+        "full_fee": 320000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Biyomedikal Mühendisliği (Mühendislik ve Mimarlık Fakültesi)",
+        "full_fee": 320000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Elektrik-Elektronik Mühendisliği (Mühendislik ve Mimarlık Fakültesi)",
+        "full_fee": 320000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İç Mimarlık ve Çevre Tasarımı (Mühendislik ve Mimarlık Fakültesi)",
+        "full_fee": 480000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İngiliz Dili Ve Edebiyatı (Fen Edebiyat Fakültesi)",
+        "full_fee": 400000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Moleküler Biyoloji Ve Genetik (Fen Edebiyat Fakültesi)",
+        "full_fee": 400000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mütercim-Tercümanlık (Fen Edebiyat Fakültesi)",
+        "full_fee": 400000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Psikoloji (Fen Edebiyat Fakültesi)",
+        "full_fee": 426667.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İç Mimarlık (Fen Edebiyat Fakültesi)",
+        "full_fee": 480000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Türk Dili Ve Edebiyatı (Fen Edebiyat Fakültesi)",
+        "full_fee": 256000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Meslek Yüksekokulu Programları",
+        "full_fee": 240000.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sağlık Hizmetleri Meslek Yüksekokulu Programları",
+        "full_fee": 320000.00,
+        "currency": "TL"
+      }
+    ]
+  },
+  "tuition_fees_2024_2025": {
+    "faculties": [
+      {
+        "name": "Tıp Fakültesi",
+        "programs": [
+          {
+            "name": "Tıp (Türkçe/İngilizce)",
+            "duration": "6 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "16",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+            "name": "Tıp (Türkçe/İngilizce)",
+            "duration": "6 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "102",
+            "full_fee": null,
+            "discounted_fee": 300000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "25%"
+          }
+        ]
+      },
+      {
+        "name": "Diş Hekimliği Fakültesi",
+        "programs": [
+          {
+            "name": "Diş Hekimliği (Türkçe/İngilizce)",
+            "duration": "5 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "10",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+            "name": "Diş Hekimliği (Türkçe/İngilizce)",
+            "duration": "5 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "62",
+            "full_fee": null,
+            "discounted_fee": 300000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "25%"
+          }
+        ]
+      },
+      {
+        "name": "Eczacılık Fakültesi",
+        "programs": [
+          {
+            "name": "Eczacılık (Türkçe/İngilizce)",
+            "duration": "5 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "9",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+            "name": "Eczacılık (Türkçe/İngilizce)",
+            "duration": "5 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "54",
+            "full_fee": null,
+            "discounted_fee": 270000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "25%"
+          }
+        ]
+      },
+      {
+        "name": "Hukuk Fakültesi",
+        "programs": [
+          {
+            "name": "Hukuk",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "11",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+            "name": "Hukuk",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "70",
+            "full_fee": null,
+            "discounted_fee": 130000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "25%"
+          }
+        ]
+      },
+      {
+        "name": "Sağlık Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "Beslenme ve Diyetetik (İngilizce)",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "5",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+            "name": "Beslenme ve Diyetetik (İngilizce)",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "34",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+             {
+            "name": "Fizyoterapi ve Rehabilitasyon",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "6",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+            "name": "Fizyoterapi ve Rehabilitasyon",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "38",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+           {
+            "name": "Hemşirelik",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "9",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+            "name": "Hemşirelik",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "54",
+            "full_fee": null,
+            "discounted_fee": 200000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+          {
+            "name": "Sağlık ve Güvenlik",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "4",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+            "name": "Sağlık ve Güvenlik",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "25",
+            "full_fee": null,
+            "discounted_fee": 80000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+           {
+            "name": "Sağlık Yönetimi",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "5",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+            "name": "Sağlık Yönetimi",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "31",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          }
+        ]
+      },
+       {
+        "name": "Spor Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "Antrenörlük Eğitimi",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "4",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Antrenörlük Eğitimi",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "25",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          }
+          ]
+       },
+       {
+        "name": "Mühendislik ve Mimarlık Fakültesi",
+        "programs": [
+             {
+            "name": "Biyomedikal Mühendisliği",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "2",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Biyomedikal Mühendisliği",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "8",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+           {
+            "name": "Elektrik-Elektronik Mühendisliği",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "5",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Elektrik-Elektronik Mühendisliği",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "34",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+            {
+            "name": "İç Mimarlık ve Çevre Tasarımı",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "7",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "İç Mimarlık ve Çevre Tasarımı",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "46",
+            "full_fee": null,
+            "discounted_fee": 150000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+            {
+            "name": "Mimarlık",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "2",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Mimarlık",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "14",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          }
+        ]
+       },
+       {
+        "name": "Fen Edebiyat Fakültesi",
+        "programs": [
+         {
+            "name": "İngiliz Dili ve Edebiyatı (İngilizce)",
+            "duration": "4 yıl",
+            "degree": "Dil",
+            "kontenjan": "7",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "İngiliz Dili ve Edebiyatı (İngilizce)",
+            "duration": "4 yıl",
+            "degree": "Dil",
+            "kontenjan": "47",
+            "full_fee": null,
+            "discounted_fee": 125000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+           {
+            "name": "Moleküler Biyoloji ve Genetik",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "7",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Moleküler Biyoloji ve Genetik",
+            "duration": "4 yıl",
+            "degree": "Sayısal",
+            "kontenjan": "42",
+            "full_fee": null,
+            "discounted_fee": 125000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+         {
+            "name": "İngilizce Mütercim-Tercümanlık",
+            "duration": "4 yıl",
+            "degree": "Dil",
+            "kontenjan": "7",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "İngilizce Mütercim-Tercümanlık",
+            "duration": "4 yıl",
+            "degree": "Dil",
+            "kontenjan": "47",
+            "full_fee": null,
+            "discounted_fee": 125000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+          {
+            "name": "Psikoloji",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "10",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+            "name": "Psikoloji",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "66",
+            "full_fee": null,
+            "discounted_fee": 200000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "25%"
+          },
+              {
+            "name": "Türk Dili ve Edebiyatı",
+            "duration": "4 yıl",
+            "degree": "Sözel",
+            "kontenjan": "4",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Türk Dili ve Edebiyatı",
+            "duration": "4 yıl",
+            "degree": "Sözel",
+            "kontenjan": "25",
+            "full_fee": null,
+            "discounted_fee": 80000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          }
+        ]
+       },
+       {
+        "name": "İktisadi İdari Bilimler Fakültesi",
+         "programs": [
+               {
+            "name": "İşletme",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "7",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "İşletme",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "42",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+          {
+            "name": "Siyaset Bilimi ve Uluslararası İlişkiler",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "5",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Siyaset Bilimi ve Uluslararası İlişkiler",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "34",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+              {
+            "name": "Uluslararası Ticaret ve Lojistik",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "6",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Uluslararası Ticaret ve Lojistik",
+            "duration": "4 yıl",
+            "degree": "Eşit Ağırlık",
+            "kontenjan": "40",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          }
+         ]
+       },
+          {
+        "name": "İletişim Fakültesi",
+        "programs":[
+            {
+            "name": "Görsel İletişim Tasarımı",
+            "duration": "4 yıl",
+            "degree": "Sözel",
+            "kontenjan": "6",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Görsel İletişim Tasarımı",
+            "duration": "4 yıl",
+            "degree": "Sözel",
+            "kontenjan": "38",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+            {
+            "name": "Halkla İlişkiler ve Reklamcılık",
+            "duration": "4 yıl",
+            "degree": "Sözel",
+            "kontenjan": "5",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Halkla İlişkiler ve Reklamcılık",
+            "duration": "4 yıl",
+            "degree": "Sözel",
+            "kontenjan": "33",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+             {
+            "name": "Radyo, Televizyon ve Sinema",
+            "duration": "4 yıl",
+            "degree": "Sözel",
+            "kontenjan": "5",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Radyo, Televizyon ve Sinema",
+            "duration": "4 yıl",
+            "degree": "Sözel",
+            "kontenjan": "34",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          },
+                {
+            "name": "Yeni Medya ve İletişim",
+            "duration": "4 yıl",
+            "degree": "Sözel",
+            "kontenjan": "5",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+           {
+            "name": "Yeni Medya ve İletişim",
+            "duration": "4 yıl",
+            "degree": "Sözel",
+            "kontenjan": "37",
+            "full_fee": null,
+            "discounted_fee": 100000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "50%"
+          }
+        ]
+       },
+       {
+        "name": "Güzel Sanatlar Fakültesi",
+        "programs": [
+         {
+           "name": "Grafik Tasarım",
+            "duration": "4 yıl",
+            "degree": "Yetenek",
+            "kontenjan": "2",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+                "name": "Grafik Tasarım",
+            "duration": "4 yıl",
+            "degree": "Yetenek",
+            "kontenjan": "13",
+            "full_fee": null,
+            "discounted_fee": 70000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "80%",
+          },
+              {
+           "name": "Sahne Sanatları",
+            "duration": "4 yıl",
+            "degree": "Yetenek",
+            "kontenjan": "2",
+            "full_fee": null,
+            "discounted_fee": null,
+            "currency": "₺",
+            "burslu": "Ücretsiz",
+            "discount": null
+          },
+          {
+                "name": "Sahne Sanatları",
+            "duration": "4 yıl",
+            "degree": "Yetenek",
+            "kontenjan": "13",
+            "full_fee": null,
+            "discounted_fee": 70000,
+            "currency": "₺",
+            "burslu": null,
+            "discount": "80%",
+          }
+        ]
+       }
+    ],
+    "prep_school": {
+        "note": "Zorunlu Hazırlık Bölümlerinde",
+        "fee": 170000,
+        "currency": "₺",
+        "osym_bursu": "ÖSYM Bursu Oranında İndirim Geçerlidir."
+    }
+   }
+  ,
+  "tuition_fees_2023_2024": {
+    "note": "İstanbul Yeni Yüzyıl Üniversitesinde eğitim öğretim ücrete tabidir. 2023-2024 eğitim-öğretim yılı KDV hariç yıllık öğrenim ücreti:",
+    "programs": [
+      {
+        "name": "Tıp Fakültesi",
+        "discounted_fee": 153000,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Diş Hekimliği Fakültesi",
+        "discounted_fee": 165750,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Eczacılık Fakültesi",
+        "discounted_fee": 136425,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "name": "Hukuk Fakültesi",
+        "discounted_fee": 74250,
+        "currency": "TL",
+        "discount": "25%"
+      },
+      {
+        "note":"İngilizce Hazırlık Programı için",
+         "details":"Zorunlu Hazırlık Bölümlerinde ÖSYM Bursu Oranında İndirim Geçerlidir."
+      },
+         {
+        "note":"Sağlık Bilimleri Fakültesi",
+        "programs":[
+         {
+          "name": "Beslenme ve Diyetetik (İngilizce)",
+          "discounted_fee": 45100,
+          "currency": "TL",
+          "discount": "50%"
+         },
+           {
+          "name": "Fizyoterapi ve Rehabilitasyon",
+          "discounted_fee": 46780,
+          "currency": "TL",
+          "discount": "50%"
+         },
+           {
+          "name": "Hemşirelik",
+          "discounted_fee": 47370,
+          "currency": "TL",
+          "discount": "50%"
+         },
+
+       ]
+      },
+         {
+        "note":"Mühendislik – Mimarlık Fakültesi",
+        "programs":[
+         {
+          "name": "Biyomedikal Mühendisliği",
+          "discounted_fee": 34350,
+          "currency": "TL",
+          "discount": "50%"
+         },
+           {
+          "name": "Elektrik-Elektronik Mühendisliği",
+          "discounted_fee": 45870,
+          "currency": "TL",
+          "discount": "50%"
+         },
+           {
+          "name": "İç Mimarlık ve Çevre Tasarımı",
+          "discounted_fee": 48860,
+          "currency": "TL",
+          "discount": "50%"
+         },
+           {
+          "name": "Mimarlık",
+          "discounted_fee": 41280,
+          "currency": "TL",
+          "discount": "50%"
+         }
+       ]
+      },
+      {
+        "note":"Fen – Edebiyat Fakültesi",
+        "programs":[
+         {
+          "name": "İngiliz Dili ve Edebiyatı (İngilizce)",
+          "discounted_fee": 41440,
+          "currency": "TL",
+          "discount":

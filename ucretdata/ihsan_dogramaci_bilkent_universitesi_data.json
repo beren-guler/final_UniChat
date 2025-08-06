@@ -1,0 +1,81 @@
+{
+  "university": {
+    "name": "İhsan Doğramacı Bilkent Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": {
+      "annual_fee": {
+        "amount": 950000,
+        "currency": "TL",
+        "kdv": "Dahil (%10)"
+      }
+    },
+    "notes": [
+      "Eğitim ücreti tüm bölüm ve programlar için (İngilizce Hazırlık Programı dâhil) aynıdır.",
+      "Bilkent Üniversitesi’nde eğitim ücretleri akademik yıl bazında belirlenir ve akademik yılın başında peşin olarak tahsil edilir.",
+      "Eğitim ücretinin tamamını akademik yıl başında ödemek yerine, Bahar yarıyılına ait bölümünü Bahar yarıyılı başında enflasyon oranında artırılmış tutar üzerinden ödemeyi tercih etmek de mümkündür.",
+      "Kayıtlı öğrenciler için eğitim ücretine yapılan artışlar, gerçekleşen maliyet artış oranları ile sınırlı tutulur.",
+      "Yaz döneminde ders almak tercihe bağlıdır. Yaz döneminde ders almayı tercih eden öğrenciler kayıt yaptırdıkları derslerin kredilerine göre ayrı ücret öder."
+    ]
+  },
+  "scholarships": {
+    "available": true,
+    "types": ["Yetenek bursu", "üstün başarı bursu", "%50 burs"]
+  },
+  "tuition_fees_2024_2025": {
+    "academic_year": "2024-2025",
+    "new_students": {
+      "annual_fee": {
+        "amount": 620000,
+        "currency": "TL",
+        "kdv": "Dahil (%10)",
+        "note": "Bütün bölüm ve programlar için"
+      },
+       "discounted_fee": {
+        "amount": 310000,
+        "currency": "TL",
+        "kdv": "Dahil (%10)",
+        "note": "%50 burslu (“%50 İndirimli” kontenjandan yerleşmiş) öğrenciler için"
+      }
+    },
+     "notes": [
+      "Eğitim ücreti tüm bölüm ve programlar için (İngilizce Hazırlık Programı dâhil) aynıdır.",
+      "Bilkent Üniversitesi’nde eğitim ücretleri akademik yıl bazında belirlenir ve akademik yılın başında peşin olarak tahsil edilir.",
+      "Eğitim ücretinin tamamını akademik yıl başında ödemek yerine, Bahar yarıyılına ait bölümünü Bahar yarıyılı başında enflasyon oranında artırılmış tutar üzerinden ödemeyi tercih etmek de mümkündür.",
+      "Kayıtlı öğrenciler için eğitim ücretine yapılan artışlar, gerçekleşen maliyet artış oranları ile sınırlı tutulur.",
+      "Yaz döneminde ders almak tercihe bağlıdır. Yaz döneminde ders almayı tercih eden öğrenciler kayıt yaptırdıkları derslerin kredilerine göre ayrı ücret öder."
+    ]
+  },
+  "tuition_fees_2023_2024": {
+    "academic_year": "2023-2024",
+    "new_students": {
+      "annual_fee": {
+        "amount": 300000,
+        "currency": "TL",
+        "kdv": "Dahil (%10)",
+        "note": "Bütün bölüm ve programlar için"
+      }
+    },
+     "notes": [
+      "Eğitim ücretinin tamamını akademik yıl başında ödemek yerine, Bahar yarıyılına ait bölümünü Bahar yarıyılı başında enflasyon oranında artırılmış tutar üzerinden ödemeyi tercih etmek de mümkündür.",
+       "Kayıtlı öğrenciler için eğitim ücretine yapılan artışlar, gerçekleşen maliyet artış oranları ile sınırlı tutulur.",
+      "Öğrencilik durumu sürdükçe her yarıyıl kayıt yaptırmak zorunludur. Eğitim ücreti alınan ders sayısından veya ders tekrarı yapılmasından bağımsızdır.",
+      "Üniversiteye yeni kayıt yaptıracak öğrenciler eğitim ücretini (tamamını ödemeyi tercih edenler yıllık ücreti, Bahar yarıyılı ücretini Bahar yarıyılı başında ödemeyi tercih edenler ise yıllık ücretin yarısını) kesin kayıttan önce öder.",
+       "Kesin kayıt yaptırdıktan sonra kayıt sildiren öğrencilere ücret iadesi yapılmaz. Kesin kaydı takip eden akademik yıl için izin verilmez."
+    ]
+  },
+   "tuition_fees_2022_2023": {
+    "academic_year": "2022-2023",
+    "new_students": {
+      "annual_fee_2016_oncesi": 92800,
+      "annual_fee_2016_2019": 98400,
+      "annual_fee_2020_2021": 104200,
+      "annual_fee_2022": 118000,
+      "currency": "TL"
+    }
+  },
+  "dormitory_fees": null
+}

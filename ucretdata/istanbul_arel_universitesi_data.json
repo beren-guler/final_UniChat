@@ -1,0 +1,465 @@
+{
+  "university": {
+    "name": "İstanbul Arel Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": [
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Gazetecilik",
+        "annual_fee": "443.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Sosyoloji",
+        "annual_fee": "443.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Biyomedikal Mühendisliği",
+        "annual_fee": "464.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Görsel İletişim Tasarımı",
+        "annual_fee": "468.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Sağlık Yönetimi",
+        "annual_fee": "468.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Sinema Ve Televizyon",
+        "annual_fee": "468.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Sosyal Hizmet",
+        "annual_fee": "468.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "İnşaat Mühendisliği",
+        "annual_fee": "515.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Makine Mühendisliği",
+        "annual_fee": "515.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Elektrik-Elektronik Mühendisliği",
+        "annual_fee": "527.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Hemşirelik",
+        "annual_fee": "537.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Siyaset Bilimi Ve Kamu Yönetimi",
+        "annual_fee": "537.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Türk Dili Ve Edebiyatı",
+        "annual_fee": "542.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Halkla İlişkiler Ve Reklamcılık",
+        "annual_fee": "551.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Uluslararası İlişkiler",
+        "annual_fee": "561.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Yeni Medya Ve İletişim",
+        "annual_fee": "571.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Çizgi Film Ve Animasyon",
+        "annual_fee": "585.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Muhasebe Ve Finans Yönetimi",
+        "annual_fee": "585.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Bilgi Güvenliği Teknolojisi",
+        "annual_fee": "600.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Yönetim Bilişim Sistemleri",
+        "annual_fee": "600.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Finans Ve Bankacılık",
+        "annual_fee": "604.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "İşletme",
+        "annual_fee": "604.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Uluslararası Ticaret Ve Finans",
+        "annual_fee": "604.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Mimarlık",
+        "annual_fee": "617.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "İngiliz Dili Ve Edebiyatı",
+        "annual_fee": "645.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Psikoloji",
+        "annual_fee": "645.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Endüstri Mühendisliği",
+        "annual_fee": "657.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Grafik Tasarımı",
+        "annual_fee": "661.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Lojistik Yönetimi",
+        "annual_fee": "661.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Havacılık Yönetimi",
+        "annual_fee": "676.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Moleküler Biyoloji Ve Genetik",
+        "annual_fee": "680.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Fizyoterapi Ve Rehabilitasyon",
+        "annual_fee": "694.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "İngilizce Mütercim Ve Tercümanlık",
+        "annual_fee": "699.200,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Gastronomi Ve Mutfak Sanatları",
+        "annual_fee": "702.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Beslenme Ve Diyetetik",
+        "annual_fee": "714.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Çocuk Gelişimi",
+        "annual_fee": "714.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Yazılım Mühendisliği",
+        "annual_fee": "714.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "İç Mimarlık",
+        "annual_fee": "748.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Bilgisayar Mühendisliği",
+        "annual_fee": "765.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Tıp Fakültesi",
+        "annual_fee": "952.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Biyomedikal Cihaz Teknolojisi",
+        "level": "Ön lisans",
+        "annual_fee": "310.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Eczane Hizmetleri",
+         "level": "Ön lisans",
+        "annual_fee": "310.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "İmalat Yürütme Sistemleri Operatörlüğü",
+         "level": "Ön lisans",
+        "annual_fee": "310.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Karbon Yönetimi Teknikerliği",
+         "level": "Ön lisans",
+        "annual_fee": "310.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Kurumsal Bilişim Uzmanlığı",
+         "level": "Ön lisans",
+        "annual_fee": "310.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Oyun Geliştirme Ve Programlama",
+         "level": "Ön lisans",
+        "annual_fee": "310.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Su Ve Atık Yönetimi Teknikerliği",
+         "level": "Ön lisans",
+        "annual_fee": "310.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Tıbbi Veri İşleme Teknikerliği",
+         "level": "Ön lisans",
+        "annual_fee": "310.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Uçak Teknolojisi",
+         "level": "Ön lisans",
+        "annual_fee": "310.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Yapı Tesisat Teknolojisi",
+         "level": "Ön lisans",
+        "annual_fee": "310.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Yaşlı Bakımı",
+         "level": "Ön lisans",
+        "annual_fee": "310.000,00"
+      },
+        {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Optisyenlik",
+         "level": "Ön lisans",
+        "annual_fee": "313.000,00"
+      },
+         {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Bilgisayar Programcılığı",
+         "level": "Ön lisans",
+        "annual_fee": "316.000,00"
+      },
+            {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Diş Protez Teknolojisi",
+         "level": "Ön lisans",
+        "annual_fee": "321.000,00"
+      },
+            {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Ağız Ve Diş Sağlığı",
+         "level": "Ön lisans",
+        "annual_fee": "332.000,00"
+      },
+       {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "İlk Ve Acil Yardım",
+         "level": "Ön lisans",
+        "annual_fee": "332.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Anestezi",
+         "level": "Ön lisans",
+        "annual_fee": "352.000,00"
+      },
+       {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Fizyoterapi",
+         "level": "Ön lisans",
+        "annual_fee": "358.000,00"
+      },
+       {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Mahkeme Büro Hizmetleri",
+         "level": "Ön lisans",
+        "annual_fee": "364.000,00"
+      },
+           {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Muhasebe Ve Vergi Uygulamaları",
+         "level": "Ön lisans",
+        "annual_fee": "364.000,00"
+      },
+           {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Sivil Hava Ulaştırma İşletmeciliği",
+         "level": "Ön lisans",
+        "annual_fee": "364.000,00"
+      },
+            {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Bilgisayar Destekli Tasarım Ve Animasyon",
+         "level": "Ön lisans",
+        "annual_fee": "369.000,00"
+      },
+                {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Turist Rehberliği",
+         "level": "Ön lisans",
+        "annual_fee": "375.000,00"
+      },
+     {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Bankacılık Ve Sigortacılık",
+         "level": "Ön lisans",
+        "annual_fee": "378.000,00"
+      },
+       {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Elektronik Teknolojisi",
+         "level": "Ön lisans",
+        "annual_fee": "378.000,00"
+      },
+        {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "İş Sağlığı Ve Güvenliği",
+         "level": "Ön lisans",
+        "annual_fee": "378.000,00"
+      },
+            {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Mekatronik",
+         "level": "Ön lisans",
+        "annual_fee": "378.000,00"
+      },
+            {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Moda Tasarımı",
+         "level": "Ön lisans",
+        "annual_fee": "378.000,00"
+      },
+       {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Tıbbi Dokümantasyon Ve Sekreterlik",
+         "level": "Ön lisans",
+        "annual_fee": "378.000,00"
+      },
+        {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Grafik Tasarımı",
+         "level": "Ön lisans",
+        "annual_fee": "384.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "İşletme Yönetimi",
+         "level": "Ön lisans",
+        "annual_fee": "384.000,00"
+      },
+       {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Lojistik",
+         "level": "Ön lisans",
+        "annual_fee": "384.000,00"
+      },
+       {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Tıbbi Laboratuvar Teknikleri",
+         "level": "Ön lisans",
+        "annual_fee": "390.000,00"
+      },
+       {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Dış Ticaret",
+         "level": "Ön lisans",
+        "annual_fee": "393.000,00"
+      },
+         {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Aşçılık",
+         "level": "Ön lisans",
+        "annual_fee": "401.000,00"
+      },
+           {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Cnc Programlama Ve Operatörlüğü",
+         "level": "Ön lisans",
+        "annual_fee": "401.000,00"
+      },
+      {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "İnsan Kaynakları Yönetimi",
+         "level": "Ön lisans",
+        "annual_fee": "401.000,00"
+      },
+           {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Mimari Restorasyon",
+         "level": "Ön lisans",
+        "annual_fee": "401.000,00"
+      },
+        {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Tıbbi Görüntüleme Teknikleri",
+         "level": "Ön lisans",
+        "annual_fee": "401.000,00"
+      },
+         {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Çocuk Gelişimi",
+         "level": "Ön lisans",
+        "annual_fee": "407.000,00"
+      },
+             {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Elektrik Enerjisi Üretim, İletim Ve Dağıtımı",
+         "level": "Ön lisans",
+        "annual_fee": "407.000,00"
+      },
+        {
+        "faculty": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "program": "Sivil Havacılık Kabin Hizmetleri",
+         "level": "Ön lisans",
+        "annual_fee": "407.000,00"
+      }
+    ]
+  },
+     "burs_imkanlari": "İstanbul Arel Üniversitesi, öğrencilerin eğitim maliyetlerini azaltmak ve başarılarını ödüllendirmek amacıyla çeşitli burs imkanları sunmaktadır. Bunlar arasında şunlar bulunmaktadır: Onur bursu, eğitime destek bursu, üstün başarı bursu, tercih bursu, sporda başarı bursu, teşvik bursu, okul birinciliği bursu."
+}

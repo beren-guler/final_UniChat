@@ -1,0 +1,199 @@
+{
+  "university": {
+    "name": "İstanbul Şişli Meslek Yüksekokulu",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2024-2025",
+    "programs": []
+  },
+  "tuition_fees_2024_2025": {
+    "programs": [
+      {
+        "name": "Ağız ve Diş Sağlığı",
+        "full_fee": 252000,
+        "discounted_fee": 126000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Ameliyathane Hizmetleri",
+        "full_fee": 252000,
+        "discounted_fee": 126000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Anestezi",
+        "full_fee": 275000,
+        "discounted_fee": 137500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Aşçılık",
+        "full_fee": 252000,
+        "discounted_fee": 126000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Bankacılık ve Sigortacılık",
+        "full_fee": 151200,
+        "discounted_fee": 75600,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Çocuk Gelişimi",
+        "full_fee": 180000,
+        "discounted_fee": 90000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Elektronörofizyoloji",
+        "full_fee": 151200,
+        "discounted_fee": 75600,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "E-Ticaret ve Pazarlama",
+        "full_fee": 180000,
+        "discounted_fee": 90000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Fizyoterapi",
+        "full_fee": 196560,
+        "discounted_fee": 98280,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Grafik Tasarımı",
+        "full_fee": 180000,
+        "discounted_fee": 90000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "İç Mekan Tasarımı",
+        "full_fee": 180000,
+        "discounted_fee": 90000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "İlk ve Acil Yardım",
+        "full_fee": 275000,
+        "discounted_fee": 137500,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Mahkeme Büro Hizmetleri",
+        "full_fee": 180000,
+        "discounted_fee": 90000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Odyometri",
+        "full_fee": 180000,
+        "discounted_fee": 90000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+       {
+        "name": "Radyo ve Televizyon Programcılığı",
+        "full_fee": 180000,
+        "discounted_fee": 90000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Radyoterapi",
+        "full_fee": 252000,
+        "discounted_fee": 126000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Saç Bakımı ve Güzellik Hizmetleri",
+        "full_fee": 196560,
+        "discounted_fee": 98280,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Sivil Havacılık Kabin Hizmetleri",
+        "full_fee": 180000,
+        "discounted_fee": 90000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Spor Yönetimi",
+        "full_fee": 151200,
+        "discounted_fee": 75600,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Tıbbi Dokümantasyon ve Sekreterlik",
+        "full_fee": 180000,
+        "discounted_fee": 90000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Tıbbi Görüntüleme Teknikleri",
+        "full_fee": 252000,
+        "discounted_fee": 126000,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Turizm ve Otel İşletmeciliği",
+        "full_fee": 151200,
+        "discounted_fee": 75600,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Uygulamalı İngilizce Çevirmenlik (İngilizce)",
+        "full_fee": 180000,
+        "discounted_fee": 90000,
+        "currency": "TL",
+        "discount": "50%"
+      }
+    ]
+  },
+ "tuition_fees_2023_2024":{
+    "note": "İstanbul Şişli Meslek Yüksekokulu’nda eğitim ücretlidir. 2023-2024 Eğitim ve öğretim yılında kayıt olacak öğrencilerin yıllık öğrenim ücreti;"
+  },
+   "tuition_fees_2022_2023": {
+  "note": "İstanbul Şişli Meslek Yüksekokulu’nda eğitim ücretlidir. 2022-2023 Eğitim ve öğretim yılında kayıt olacak öğrencilerin yıllık öğrenim ücreti;",
+  "programs": [
+   {
+    "name": "Bankacılık ve Sigortacılık, Spor Yönetimi, Spor Yönetim (İkinci Öğretim), Tıbbi Dokümantasyon ve Sekreterlik, Tıbbi Dokümantasyon ve Sekreterlik (İkinci Öğretim), Turizm ve Otel İşletmeciliği, Turizm ve Otel İşletmeciliği (İkinci Öğretim)",
+    "full_fee": 42000,
+    "currency": "TL"
+   },
+   {
+    "name": "Adalet I ve II. Öğretim, Çocuk Gelişimi I ve II. Öğretim, Grafik Tasarımı I ve II. Öğretim, İç Mekan Tasarımı I ve II. Öğretim, Mimari Restorasyon I ve II. Öğretim, Radyo ve Televizyon Programcılığı I ve II. Öğretim, Saç Bakımı ve Güzellik Hizmetleri, Uygulamalı İngilizce ve Çevirmenlik (İngilizce) I ve II. Öğretim",
+    "full_fee": 54600,
+    "currency": "TL"
+   },
+   {
+    "name": "Anestezi I ve II. Öğretim, Aşçılık, Elektronörofizyoloji I ve II. Öğretim, Fizyoterapi I ve II. Öğretim, İlk ve Acil Yardım I ve II. Öğretim, Odyometri, Radyoterapi, Tıbbi Görüntüleme Teknikleri I ve II. Öğretim, Sivil Havacılık Kabin Hizmetleri",
+    "full_fee": 50000,
+    "currency": "TL"
+   }
+  ]
+ }
+}

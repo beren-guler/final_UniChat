@@ -1,0 +1,234 @@
+{
+  "university": {
+    "name": "İstanbul 29 Mayıs Üniversitesi",
+    "url": null,
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "new_students": [
+      {
+        "program": "Hazırlık sınıflarında",
+        "discounted_fee": 169000,
+        "currency": "₺",
+        "kdv": "Dahil",
+        "discount": "50%"
+      },
+      {
+        "program": "Arapça Mütercim Tercümanlık, Bilgi ve Belge Yönetimi, Felsefe, İlahiyat, Sosyal Hizmet, Tarih, Türk Dili ve Edebiyatı",
+        "discounted_fee": 167500,
+        "currency": "₺",
+        "kdv": "Dahil",
+        "discount": "50%"
+      },
+      {
+        "program": "Arapça Öğretmenliği, İlköğretim Matematik Öğretmenliği, İngilizce Öğretmenliği, Okul Öncesi Öğretmenliği, Özel Eğitim Öğretmenliği, Rehberlik ve Psikolojik Danışmanlık, Sınıf Öğretmenliği, Türkçe Öğretmenliği",
+        "discounted_fee": 200000,
+        "currency": "₺",
+        "kdv": "Dahil",
+        "discount": "50%"
+      },
+      {
+        "program": "Ekonomi, Siyaset Bilimi ve Uluslararası İlişkiler ve Yönetim Bilişim Sistemleri",
+        "discounted_fee": 225000,
+        "currency": "₺",
+        "kdv": "Dahil",
+        "discount": "50%"
+      },
+      {
+        "program": "İngiliz Dili ve Edebiyatı, İngilizce Mütercim Tercümanlık",
+        "discounted_fee": 240000,
+        "currency": "₺",
+        "kdv": "Dahil",
+        "discount": "50%"
+      },
+      {
+        "program": "Psikoloji",
+        "discounted_fee": 250000,
+        "currency": "₺",
+        "kdv": "Dahil",
+        "discount": "50%"
+      },
+      {
+        "program": "Hukuk",
+        "discounted_fee": 300000,
+        "currency": "₺",
+        "kdv": "Dahil",
+        "discount": "50%"
+      },
+      {
+        "program": "Bilgisayar Mühendisliği",
+        "discounted_fee": 310000,
+        "currency": "₺",
+        "kdv": "Dahil",
+        "discount": "50%"
+      },
+      {
+        "program": "Büyük Veri Analistliği Ön Lisans",
+        "discounted_fee": 175000,
+        "currency": "₺",
+        "kdv": "Dahil",
+        "discount": "50%"
+      },
+      {
+        "program": "Kurumsal Bilişim Uzmanlığı Ön lisans",
+        "discounted_fee": 175000,
+        "currency": "₺",
+        "kdv": "Dahil",
+        "discount": "50%"
+      }
+    ],
+    "payment_options": "Peşin veya 6 taksitle",
+    "peşin_indirim": " %6",
+    "kitaplar_dahil": "Hazırlık sınıfında okutulacak kitaplar o yılın öğrenim ücretine dâhil olup üniversite tarafından verilir.",
+    "sonraki_yillar_ucreti": "Müteakip yılların eğitim-öğretim ücreti – tüketici fiyat endeksinin (TÜFE) yıllık ortalama enflasyon artış oranını geçmemek kaydıyla- Üniversite Mütevelli Heyeti tarafından belirlenir."
+  },
+  "tuition_fees_2024_2025": {
+    "academic_year": "2024-2025",
+    "new_students": [
+      {
+        "program": "Hazırlık sınıflarında",
+        "base_fee": 140600,
+        "total_fee": 154660,
+        "currency": "TL",
+        "kdv": "Var"
+      },
+      {
+        "program": "Arapça Mütercim Tercümanlık, Bilgi ve Belge Yönetimi, Felsefe, İlahiyat, Sosyal Hizmet, Tarih, Türk Dili ve Edebiyatı",
+        "base_fee": 136800,
+        "total_fee": 150480,
+        "currency": "TL",
+        "kdv": "Var"
+      },
+      {
+        "program": "Arapça Öğretmenliği, İlköğretim Matematik Öğretmenliği, İngilizce Öğretmenliği, Okul Öncesi Öğretmenliği, Özel Eğitim Öğretmenliği, Rehberlik ve Psikolojik Danışmanlık, Sınıf Öğretmenliği, Türkçe Öğretmenliği",
+        "base_fee": 142500,
+        "total_fee": 156750,
+        "currency": "TL",
+        "kdv": "Var"
+      },
+      {
+        "program": "Ekonomi, İngiliz Dili ve Edebiyatı, İngilizce Mütercim Tercümanlık ve Siyaset Bilimi ve Uluslararası İlişkiler ve Yönetim Bilişim Sistemleri",
+        "base_fee": 162450,
+        "total_fee": 178695,
+        "currency": "TL",
+        "kdv": "Var"
+      },
+      {
+        "program": "Psikoloji",
+        "base_fee": 186000,
+        "total_fee": 204600,
+        "currency": "TL",
+        "kdv": "Var"
+      },
+      {
+        "program": "Hukuk",
+        "base_fee": 216000,
+        "total_fee": 237600,
+        "currency": "TL",
+        "kdv": "Var"
+      }
+    ],
+     "payment_options": "Peşin veya 10 taksitle",
+    "peşin_indirim": " %6",
+    "kitaplar_dahil": "Hazırlık sınıfında okutulacak kitaplar o yılın öğrenim ücretine dâhil olup üniversite tarafından verilir.",
+    "sonraki_yillar_ucreti": "Müteakip yılların eğitim-öğretim ücreti -yıllık ortalama ÜFE artış oranını geçmemek kaydıyla- Üniversite Mütevelli Heyeti tarafından belirlenir."
+  },
+    "tuition_fees_2023_2024": {
+    "academic_year": "2023-2024",
+    "new_students": [
+      {
+        "program": "Hazırlık sınıflarında",
+        "total_fee": 81400,
+        "currency": "TL",
+        "kdv": "Dahil"
+      },
+      {
+        "program": "Arapça Mütercim Tercümanlık, Bilgi ve Belge Yönetimi, Felsefe, İlahiyat, Sosyal Hizmet, Tarih, Türk Dili ve Edebiyatı",
+        "total_fee": 79200,
+        "currency": "TL",
+        "kdv": "Dahil"
+      },
+      {
+        "program": "Arapça Öğretmenliği, İlköğretim Matematik Öğretmenliği, İngilizce Öğretmenliği, Okul Öncesi Öğretmenliği, Özel Eğitim Öğretmenliği, Rehberlik ve Psikolojik Danışmanlık, Sınıf Öğretmenliği, Türkçe Öğretmenliği",
+        "total_fee": 82500,
+        "currency": "TL",
+        "kdv": "Dahil"
+      },
+      {
+        "program": "Ekonomi, İngiliz Dili ve Edebiyatı, İngilizce Mütercim Tercümanlık, Siyaset Bilimi ve Uluslararası İlişkiler ve Yönetim Bilişim Sistemleri",
+        "total_fee": 94050,
+        "currency": "TL",
+        "kdv": "Dahil"
+      },
+      {
+        "program": "Psikoloji",
+        "total_fee": 102300,
+        "currency": "TL",
+        "kdv": "Dahil"
+      },
+      {
+        "program": "Hukuk",
+        "total_fee": 118800,
+        "currency": "TL",
+        "kdv": "Dahil"
+      }
+    ],
+         "payment_options": "Peşin veya 10 taksitle",
+    "peşin_indirim": " %6",
+    "kitaplar_dahil": "Hazırlık sınıfında okutulacak kitaplar o yılın öğrenim ücretine dâhil olup üniversite tarafından verilir.",
+    "sonraki_yillar_ucreti": "Müteakip yılların eğitim-öğretim ücreti -yıllık ortalama ÜFE artış oranını geçmemek kaydıyla- Üniversite Mütevelli Heyeti tarafından belirlenir.",
+     "burs_durumu": "İstanbul 29 Mayıs Üniversitesi lisans programlarında bütün kontenjanlar “Burslu”, “%50 İndirimli” ve “Ücretli”dir.",
+      "mezun_durumu": "Daha önce herhangi bir yükseköğretim kurumundan lisans derecesiyle mezun olanlar, “burslu” kategorisine yerleşseler dahi “%50 İndirimli” statüsünde kayıt yaptırabilirler; ancak diğer öğrencilere tanınan indirim, nakit burs ve ücretsiz yurt-yemek imkânlarından yararlanamazlar.",
+      "sehit_gazi_durumu": "İstanbul 29 Mayıs Üniversitesinin lisans programlarından birine “Şehit ve Gazi Yakını” veya “Depremzede” kontenjanından yerleştirilip kayıt yaptıranlara sadece “Öğrenim Bursu” verilir, bu öğrencilerden eğitim-öğretim ücreti alınmaz."
+  },
+   "tuition_fees_2022_2023": {
+    "academic_year": "2022-2023",
+    "new_students": [
+      {
+        "program": "Hazırlık sınıflarında",
+        "base_fee": 49500,
+        "total_fee": 53460,
+        "currency": "TL",
+        "kdv": "Var"
+      },
+      {
+        "program": "Arapça Mütercim Tercümanlık, Bilgi ve Belge Yönetimi, Felsefe, İlahiyat, Sosyal Hizmet, Tarih, Türk Dili ve Edebiyatı",
+        "base_fee": 48500,
+        "total_fee": 52380,
+        "currency": "TL",
+        "kdv": "Var"
+      },
+      {
+        "program": "Arapça Öğretmenliği, İlköğretim Matematik Öğretmenliği, İngilizce Öğretmenliği, Okul Öncesi Öğretmenliği, Özel Eğitim Öğretmenliği, Rehberlik ve Psikolojik Danışmanlık, Sınıf Öğretmenliği, Türkçe Öğretmenliği",
+        "base_fee": 50000,
+        "total_fee": 54000,
+        "currency": "TL",
+        "kdv": "Var"
+      },
+      {
+        "program": "Ekonomi, İngiliz Dili ve Edebiyatı, İngilizce Mütercim Tercümanlık, Siyaset Bilimi ve Uluslararası İlişkiler ve Yönetim Bilişim Sistemleri",
+        "base_fee": 55600,
+        "total_fee": 60048,
+        "currency": "TL",
+        "kdv": "Var"
+      },
+      {
+        "program": "Psikoloji",
+        "base_fee": 60000,
+        "total_fee": 64800,
+        "currency": "TL",
+        "kdv": "Var"
+      },
+      {
+        "program": "Hukuk",
+         "base_fee": 70000,
+         "total_fee": 75600,
+        "currency": "TL",
+        "kdv": "Var"
+      }
+    ]
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

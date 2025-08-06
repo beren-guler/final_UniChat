@@ -1,0 +1,161 @@
+{
+  "university": {
+    "name": "Sanko Üniversitesi",
+    "url": "www.sanko.edu.tr",
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Lisans Programları",
+      "departments": [
+        {
+          "name": "Beslenme Ve Diyetetik",
+          "annual_fee": {
+            "amount": 600600.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Fizyoterapi Ve Rehabilitasyon",
+          "annual_fee": {
+            "amount": 600600.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Hemşirelik",
+          "annual_fee": {
+            "amount": 600600.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıp Fakültesi",
+          "annual_fee": {
+            "amount": 1391500.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Ön Lisans Programları",
+      "departments": [
+        {
+          "name": "Ameliyathane Hizmetleri",
+          "annual_fee": {
+            "amount": 385000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Anestezi",
+          "annual_fee": {
+            "amount": 385000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İlk Ve Acil Yardım",
+          "annual_fee": {
+            "amount": 385000.00,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri",
+          "annual_fee": {
+            "amount": 385000.00,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "Sanko Üniversitesinde eğitim ücrete tabidir.2024-2025 Eğitim ve öğretim yılında yıllık öğrenim ücretleri;2024-2025 EĞİTİM ÖĞRETİM YILI LİSANS ÖĞRENİM ÜCRETLERİ*Fiyatlarımıza %10 KDV dahil değildir"
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Lisans Programları",
+      "departments": [
+        {
+          "name": "Tıp Bölümü",
+          "annual_fee": {
+            "amount": 575000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Hemşirelik Bölümü",
+          "annual_fee": {
+            "amount": 260000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Fizyoterapi ve Rehabilitasyon Bölümü",
+          "annual_fee": {
+            "amount": 260000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Beslenme ve Diyetetik Bölümü",
+          "annual_fee": {
+            "amount": 260000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Önlisans Programları",
+      "departments": [
+        {
+          "name": "Ameliyathane Hizmetleri Programı",
+          "annual_fee": {
+            "amount": 175000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Anestezi Programı",
+          "annual_fee": {
+            "amount": 175000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "İlk ve Acil Yardım Programı",
+          "annual_fee": {
+            "amount": 175000,
+            "currency": "TL"
+          }
+        },
+        {
+          "name": "Tıbbi Görüntüleme Teknikleri Programı",
+          "annual_fee": {
+            "amount": 175000,
+            "currency": "TL"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2023-2024",
+      "description": "Sanko Üniversitesinde eğitim ücrete tabidir.2023-2024 Eğitim ve öğretim yılında yıllık öğrenim ücreti;\nTıp Fakültesi\t277.237 TL,\nHemşirelik Programı\t103.536 TL,\nFizik Tedavi ve Rehabilitasyon Programı\t123.420 TL,\nBeslenme ve Diyetetik Programı\t123.420 TL,\nSağlık Hizmetleri Meslek Yüksekokulu Program\tfiyatları 72.320 TL’ dir."
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "Öğrencilerin akademik başarılarını ve maddi ihtiyaçlarını göz önünde bulundurarak çeşitli burs imkanları sunmaktadır.",
+      "Öğrenciler, başarılarına ve ekonomik durumlarına göre belirli oranlarda burs imkânlarından faydalanabilirler.",
+      "kardeş indirimi ve peşin ödeme indirimi"
+    ]
+  },
+  "dormitory_fees": null
+}

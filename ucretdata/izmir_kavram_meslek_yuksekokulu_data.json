@@ -1,0 +1,635 @@
+{
+  "university": {
+    "name": "İzmir Kavram Meslek Yüksekokulu",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "Halkla İlişkiler Ve Tanıtım",
+        "full_fee": 324133.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tıbbi Dokümantasyon Ve Sekreterlik",
+        "full_fee": 361866.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bankacılık Ve Sigortacılık",
+        "full_fee": 396155.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Fotoğrafçılık Ve Kameramanlık",
+        "full_fee": 396155.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Grafik Tasarımı",
+        "full_fee": 396155.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sosyal Hizmetler",
+        "full_fee": 396155.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İş Sağlığı Ve Güvenliği",
+        "full_fee": 405422.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Lojistik",
+        "full_fee": 405422.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Dış Ticaret",
+        "full_fee": 461333.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İnsan Kaynakları Yönetimi",
+        "full_fee": 461333.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İnşaat Teknolojisi",
+        "full_fee": 461333.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mimari Restorasyon",
+        "full_fee": 461333.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sağlık Kurumları İşletmeciliği",
+        "full_fee": 461333.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilgisayar Programcılığı",
+        "full_fee": 499066.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilişim Güvenliği Teknolojisi",
+        "full_fee": 499066.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Çevre Sağlığı Ve Çevresel Risk Yönetimi Teknikerliği",
+        "full_fee": 499066.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İç Mekan Tasarımı",
+        "full_fee": 499066.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Kaynak Teknolojisi",
+        "full_fee": 499066.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Mahkeme Büro Hizmetleri",
+        "full_fee": 499066.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Makine",
+        "full_fee": 499066.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Otonom Sistemler Teknikerliği",
+        "full_fee": 499066.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Robotik Ve Yapay Zeka",
+        "full_fee": 499066.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Saç Bakımı Ve Güzellik Hizmetleri",
+        "full_fee": 499066.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Çocuk Gelişimi",
+        "full_fee": 555666.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Aşçılık",
+        "full_fee": 567666.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Optisyenlik",
+        "full_fee": 611221.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sivil Havacılık Kabin Hizmetleri",
+        "full_fee": 619110.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Ağız Ve Diş Sağlığı",
+        "full_fee": 642088.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Ameliyathane Hizmetleri",
+        "full_fee": 642088.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Anestezi",
+        "full_fee": 642088.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Diyaliz",
+        "full_fee": 642088.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Fizyoterapi",
+        "full_fee": 642088.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İlk ve Acil Yardım",
+        "full_fee": 642088.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tıbbi Görüntüleme Teknikleri",
+        "full_fee": 642088.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Tıbbi Laboratuvar Teknikleri",
+        "full_fee": 642088.00,
+        "currency": "TL"
+      }
+    ]
+  },
+  "tuition_fees_2024_2025": {
+    "details": "İzmir Kavram Meslek Yüksekokulu’nde eğitim–öğretim ücrete tabidir. 2024-2025 akademik yılında öğretim ücreti KDV dâhil; 2024-2025 akademik yılında öğretim ücreti %10 KDV dahil ;",
+    "notes": [
+      "Peşin Ödeme Fiyatlarıdır.",
+      "Vadeli ödemelerde 9 eşit taksit uygulanır.",
+      "Fiyatlara KDV dahildir.",
+      "Taksitli ödemelerde %37 vade farkı uygulanmaktadır.",
+      "Burslu programlara yerleştirilen öğrencilere verilen burs yalnızca eğitim-öğretim ücretini kapsar.",
+      "Burslardan veya indirimlerden (kardeş indirimleri hariç) yalnızca biri geçerlidir.",
+      "Fiyatlar 2024-2025 Eğitim-Öğretim dönemi için olup, 1 yıllık eğitim bedeli karşılığıdır."
+    ],
+    "programs": [
+      {
+        "name": "Ağız ve Diş Sağlığı",
+        "discounted_fee": 187200,
+        "currency": "₺",
+        "discount": "25%"
+      },
+      {
+        "name": "Ameliyathane Hizmetleri",
+        "discounted_fee": 187200,
+        "currency": "₺",
+        "discount": "25%"
+      },
+      {
+        "name": "Anestezi",
+        "discounted_fee": 187200,
+        "currency": "₺",
+        "discount": "25%"
+      },
+      {
+        "name": "Aşçılık",
+        "discounted_fee": 165500,
+        "currency": "₺",
+        "discount": "25%"
+      },
+      {
+        "name": "Aşçılık (İ.Ö)",
+        "discounted_fee": 165500,
+        "currency": "₺",
+        "discount": "25%"
+      },
+      {
+        "name": "Bankacılık ve Sigortacılık",
+        "discounted_fee": 115500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Bilgisayar Programcılığı",
+        "discounted_fee": 145500,
+        "currency": "₺",
+        "discount": "25%"
+      },
+      {
+        "name": "Bilişim Güvenliği Teknolojisi",
+        "discounted_fee": 145500,
+        "currency": "₺",
+        "discount": "25%"
+      },
+      {
+        "name": "Çevre Sağlığı",
+        "discounted_fee": 145500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Çocuk Gelişimi",
+        "discounted_fee": 162000,
+        "currency": "₺",
+        "discount": "25%",
+        "full_fee": 216000
+      },
+       {
+        "name": "Dış Ticaret",
+        "discounted_fee": 134500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Diyaliz",
+        "discounted_fee": 187200,
+        "currency": "₺",
+        "discount": "25%"
+      },
+      {
+        "name": "Fizyoterapi",
+        "discounted_fee": 187200,
+        "currency": "₺",
+        "discount": "25%"
+      },
+        {
+        "name": "Fotoğrafçılık ve Kameramanlık",
+        "discounted_fee": 115500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Grafik Tasarımı",
+        "discounted_fee": 115500,
+        "currency": "₺",
+        "discount": "50%",
+         "full_fee": 231000
+      },
+       {
+        "name": "Halkla İlişkiler ve Tanıtım",
+        "discounted_fee": 94500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "İç Mekan Tasarımı",
+        "discounted_fee": 145500,
+        "currency": "₺",
+        "discount": "25%",
+         "full_fee": 194000
+      },
+        {
+        "name": "İlk ve Acil Yardım",
+        "discounted_fee": 187200,
+        "currency": "₺",
+        "discount": "25%",
+         "full_fee": 249600
+      },
+           {
+        "name": "İnsan Kaynakları Yönetimi",
+        "discounted_fee": 134500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+         {
+        "name": "İnşaat Teknolojisi",
+        "discounted_fee": 134500,
+        "currency": "₺",
+        "discount": "25%"
+      },
+           {
+        "name": "İş Sağlığı ve Güvenliği",
+        "discounted_fee": 118200,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Lojistik",
+        "discounted_fee": 118200,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Mahkeme Büro Hizmetleri",
+        "discounted_fee": 145500,
+        "currency": "₺",
+        "discount": "25%"
+      },
+       {
+        "name": "Makine",
+        "discounted_fee": 145500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Mimari Restorasyon",
+        "discounted_fee": 134500,
+        "currency": "₺",
+        "discount": "25%",
+         "full_fee": 179333
+      },
+         {
+        "name": "Optisyenlik",
+        "discounted_fee": 178200,
+        "currency": "₺",
+        "discount": "25%",
+         "full_fee": 237600
+      },
+         {
+        "name": "Radyo ve Televizyon Programcılığı",
+        "discounted_fee": 134500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+         {
+        "name": "Saç Bakımı ve Güzellik Hizmetleri",
+        "discounted_fee": 145500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+        {
+        "name": "Sağlık Kurumları İşletmeciliği",
+        "discounted_fee": 134500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+      {
+        "name": "Sivil Havacılık Kabin Hizmetleri",
+        "discounted_fee": 180500,
+        "currency": "₺",
+        "discount": "25%",
+         "full_fee": 240667
+      },
+          {
+        "name": "Sosyal Hizmetler",
+        "discounted_fee": 115500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+         {
+        "name": "Spor Yönetimi",
+        "discounted_fee": 94500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+           {
+        "name": "Tıbbi Dokümantasyon ve Sekreterlik",
+        "discounted_fee": 105500,
+        "currency": "₺",
+        "discount": "50%"
+      },
+       {
+        "name": "Tıbbi Görüntüleme Teknikleri",
+        "discounted_fee": 187200,
+        "currency": "₺",
+        "discount": "25%",
+        "full_fee": 249600
+      },
+           {
+        "name": "Tıbbi Laboratuvar Teknikleri",
+        "discounted_fee": 187200,
+        "currency": "₺",
+        "discount": "25%",
+        "full_fee": 249600
+      },
+      {
+        "name": "Uygulamalı İngilizce Çevirmenlik (Ingilizce)",
+        "discounted_fee": 145500,
+        "currency": "₺",
+        "discount": "50%"
+      }
+    ]
+  },
+  "tuition_fees_2023_2024": {
+ "note": "İzmir Kavram Meslek Yüksekokulu’nde eğitim–öğretim ücrete tabidir. 2023-2024 akademik yılında öğretim ücreti KDV dâhil; 2022-2023 akademik yılında öğretim ücreti %10 KDV dahil ;",
+ "programs": [
+ {
+ "name": "Adalet",
+ "discounted_fee": 58295,
+  "currency": "TL",
+ "discount": "25%"
+ },
+     {
+ "name": "Ağız ve Diş Sağlığı",
+ "discounted_fee": 70909,
+  "currency": "TL",
+ "discount": "25%"
+ },
+   {
+ "name": "Ameliyathane Hizmetleri",
+ "discounted_fee": 70909,
+  "currency": "TL",
+ "discount": "25%"
+ },
+   {
+ "name": "Anestezi",
+ "discounted_fee": 70909,
+  "currency": "TL",
+ "discount": "25%"
+ },
+     {
+ "name": "Aşçılık ve Aşçılık (İ.Ö)",
+ "discounted_fee": 73636,
+      "currency": "TL",
+  "discount": "25%"
+ },
+       {
+ "name": "Bankacılık ve Sigortacılık",
+ "discounted_fee": 44773,
+          "currency": "TL",
+ "discount": "50%"
+ },
+  {
+ "name": "Bilgisayar Programcılığı",
+ "discounted_fee": 58295,
+   "currency": "TL",
+ "discount": "25%"
+ },
+    {
+ "name": "Çevre Sağlığı",
+ "discounted_fee": 54909,
+      "currency": "TL",
+ "discount": "50%"
+ },
+      {
+ "name": "Çocuk Gelişimi",
+ "discounted_fee": 73636,
+        "currency": "TL",
+ "discount": "25%"
+ },
+    {
+ "name": "Dış Ticaret",
+ "discounted_fee": 54909,
+     "currency": "TL",
+ "discount": "50%"
+ },
+       {
+ "name": "Diyaliz",
+ "discounted_fee": 70909,
+         "currency": "TL",
+ "discount": "25%"
+ },
+          {
+ "name": "Fizyoterapi",
+ "discounted_fee": 70909,
+            "currency": "TL",
+ "discount": "25%"
+ },
+           {
+ "name": "Fotoğrafçılık ve Kameramanlık",
+ "discounted_fee": 47273,
+             "currency": "TL",
+ "discount": "50%"
+ },
+ {
+ "name": "Grafik Tasarımı",
+ "discounted_fee": 44773,
+              "currency": "TL",
+ "discount": "50%"
+ },
+ {
+ "name": "Halkla İlişkiler ve Tanıtım",
+ "discounted_fee": 44773,
+               "currency": "TL",
+ "discount": "50%"
+ },
+   {
+ "name": "İç Mekan Tasarımı",
+ "discounted_fee": 67159,
+    "currency": "TL",
+ "discount": "25%"
+ },
+       {
+ "name": "İlk ve Acil Yardım",
+ "discounted_fee": 73636,
+         "currency": "TL",
+ "discount": "25%"
+ },
+       {
+ "name": "İnsan Kaynakları Yönetimi",
+ "discounted_fee": 47273,
+            "currency": "TL",
+ "discount": "50%"
+ },
+       {
+ "name": "İnşaat Teknolojisi",
+ "discounted_fee": 58295,
+           "currency": "TL",
+ "discount": "25%"
+ },
+       {
+ "name": "İş Sağlığı ve Güvenliği",
+ "discounted_fee": 44773,
+            "currency": "TL",
+ "discount": "50%"
+ },
+        {
+ "name": "Lojistik",
+ "discounted_fee": 44773,
+         "currency": "TL",
+ "discount": "50%"
+ },
+     {
+ "name": "Makine",
+ "discounted_fee": 44773,
+        "currency": "TL",
+ "discount": "50%"
+ },
+      {
+ "name": "Mimari Restorasyon",
+ "discounted_fee": 58295,
+        "currency": "TL",
+ "discount": "25%"
+ },
+       {
+ "name": "Optisyenlik",
+ "discounted_fee": 73636,
+          "currency": "TL",
+ "discount": "25%"
+ },
+          {
+ "name": "Radyo ve Televizyon Programcılığı",
+ "discounted_fee": 47273,
+            "currency": "TL",
+ "discount": "50%"
+ },
+          {
+ "name": "Saç Bakımı ve Güzellik Hizmetleri",
+ "discounted_fee": 54909,
+            "currency": "TL",
+ "discount": "50%"
+ },
+         {
+ "name": "Sağlık Kurumları İşletmeciliği",
+ "discounted_fee": 47273,
+           "currency": "TL",
+ "discount": "50%"
+ },
+            {
+ "name": "Sivil Havacılık Kabin Hizmetleri",
+ "discounted_fee": 73636,
+              "currency": "TL",
+ "discount": "25%"
+ },
+         {
+ "name": "Sosyal Hizmetler",
+ "discounted_fee": 47273,
+          "currency": "TL",
+ "discount": "50%"
+ },
+        {
+ "name": "Spor Yönetimi",
+ "discounted_fee": 47273,
+          "currency": "TL",
+ "discount": "50%"
+ },
+             {
+ "name": "Tıbbi Dokümantasyon ve Sekreterlik",
+ "discounted_fee": 54909,
+              "currency": "TL",
+ "discount": "50%"
+ },
+             {
+ "name": "Tıbbi Görüntüleme Teknikleri",
+ "discounted_fee": 73636,
+              "currency": "TL",
+ "discount": "25%"
+ },
+        {
+ "name": "Tıbbi Laboratuvar Teknikleri",
+ "discounted_fee": 73636,
+         "currency": "TL",
+ "discount": "25%"
+ },
+           {
+ "name": "Uygulamalı İngilizce Çevirmenlik (Ingilizce)",
+ "discounted_fee": 54909,
+          "currency": "TL",
+ "discount": "50%"
+ }
+    ]
+   }
+}

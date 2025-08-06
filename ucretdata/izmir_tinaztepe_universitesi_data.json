@@ -1,0 +1,190 @@
+{
+  "university": {
+    "name": "İzmir Tınaztepe Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "Tıp Fakültesi",
+        "full_fee": 1153000,
+        "currency": "TL"
+      },
+      {
+        "name": "Diş Hekimliği Fakültesi",
+        "full_fee": 1208000,
+        "currency": "TL"
+      },
+      {
+        "name": "Beslenme ve Diyetetik (Sağlık Bilimleri Fakültesi)",
+        "full_fee": null,
+        "discounted_fee": 396000.00,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Dil ve Konuşma Terapisi (Sağlık Bilimleri Fakültesi)",
+        "full_fee": null,
+        "discounted_fee": 396000.00,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Ebelik (Sağlık Bilimleri Fakültesi)",
+        "full_fee": null,
+        "discounted_fee": 396000.00,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Ergoterapi (Sağlık Bilimleri Fakültesi)",
+        "full_fee": null,
+        "discounted_fee": 363000.00,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Fizyoterapi ve Rehabilitasyon (Sağlık Bilimleri Fakültesi)",
+        "full_fee": null,
+        "discounted_fee": 396000.00,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Hemşirelik (Sağlık Bilimleri Fakültesi)",
+        "full_fee": null,
+        "discounted_fee": 396000.00,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Odyoloji (Sağlık Bilimleri Fakültesi)",
+        "full_fee": null,
+        "discounted_fee": 363000.00,
+        "currency": "TL",
+        "discount": "50%"
+      },
+      {
+        "name": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "full_fee": null,
+        "discounted_fee": 317350.00,
+        "currency": "TL",
+        "discount": "50%"
+      }
+    ]
+  },
+   "tuition_fees_2024_2025": {
+     "additional_notes":[
+      "Öğrenim Ücretlerinde KDV hariçtir. (KDV oranı %10’dir.)",
+       "Sağlık Bilimleri Fakültesi ilk tercih indirimi %15 uygulanır."
+     ],
+      "programs":[
+       {
+          "name":"Tıp Fakültesi",
+          "full_fee": 614614,
+           "discounted_fee": 307307,
+           "currency": "₺",
+           "discount":"50%"
+       },
+        {
+          "name":"Diş Hekimliği",
+          "full_fee": 614614,
+           "discounted_fee": 307307,
+           "currency": "₺",
+           "discount":"50%"
+       },
+         {
+          "name":"Beslenme ve Diyetetik, Dil ve Konuşma Terapisi, Ebelik, Fizyoterapi ve Rehabilitasyon, Hemşirelik",
+           "discounted_fee": 210856,
+           "currency": "₺",
+           "discount":"50%"
+       },
+           {
+          "name":"Ergoterapi, Odyoloji",
+           "discounted_fee": 171080,
+           "currency": "₺",
+           "discount":"50%"
+       },
+            {
+          "name":"Sağlık Hizmetleri Meslek Yüksekokulu",
+           "discounted_fee": 168942,
+           "currency": "₺",
+           "discount":"50%"
+       }
+     ]
+   },
+  "tuition_fees_2023_2024": {
+ "note": "İzmir Tınaztepe Üniversitesi’nde eğitim ücretlidir. 2023-2024 eğitim ve öğretim yılında öğretim ücretleri",
+   "programs":[
+    {
+      "name": "Diş Hekimliği Fakültesi",
+       "full_fee": 279370,
+       "discounted_fee": 139685,
+       "currency": "TL",
+        "discount": "50%"
+     },
+       {
+      "name": "Tıp Fakültesi",
+       "full_fee": 279370,
+       "discounted_fee": 139685,
+       "currency": "TL",
+        "discount": "50%"
+     },
+      {
+       "name":"Hemşirelik, Ebelik, Beslenme ve Diyetetik, Dil ve Konuşma Terapisi, Fizyoterapi ve Rehabilitasyon",
+       "discounted_fee": 89726,
+        "currency": "TL",
+        "discount": "50%"
+     },
+        {
+       "name":"Odyoloji, Ergoterapi",
+       "discounted_fee": 72800,
+        "currency": "TL",
+        "discount": "50%"
+     },
+       {
+       "name":"Anestezi, Odyometri, Optisyenlik, Tıbbi Laboratuvar Teknikleri, Eczane Hizmetleri, Ağız ve Diş Sağlığı, Fizyoterapi, Ortopedik Protez ve Ortez, Otopsi Yardımcılığı, Patoloji Laboratuvar Teknikleri, Tıbbi Görüntüleme Teknikleri, Ameliyathane Hizmetleri, İlk ve Acil Yardım",
+       "discounted_fee": 71890,
+        "currency": "TL",
+        "discount": "50%"
+     }
+ ]
+  },
+    "tuition_fees_2022_2023": {
+    "note": "İzmir Tınaztepe Üniversitesi’nde eğitim ücretlidir. 2022-2023 eğitim ve öğretim yılında öğretim ücretleri",
+  "programs":[
+{
+"name": "Tıp Fakültesi ve Diş Hekimliği Fakültesi",
+"fee": 153500,
+"currency": "TL"
+},
+{
+"name": "Sağlık Bilimleri Fakültesi’nde; Hemşirelik Bölümü",
+"fee": 98600,
+"currency": "TL"
+},
+{
+"name": "Beslenme ve Diyetetik Bölümü",
+"fee": 98600,
+"currency": "TL"
+},
+{
+"name": "Ebelik Bölümü",
+"fee": 98600,
+"currency": "TL"
+},
+{
+"name": "Fizyoterapi ve Rehabilitasyon Bölümü (2 yıl olması şartıyla %100 Burslu)",
+"fee": null,
+"currency": "TL"
+},
+{
+"name": "Sağlık Hizmetleri Meslek Yüksekokulu’nda tüm programlar",
+"fee": 79000,
+"currency": "TL"
+}
+]
+ }
+}

@@ -1,0 +1,143 @@
+{
+  "university": {
+    "name": "Demiroğlu Bilim Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "TIP FAKÜLTESİ": {
+        "TIP (% 50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 587316,
+          "1. TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 587316
+          },
+          "Kardeş İndirimi %10": 587316,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 528584
+        }
+      },
+      "FEN-EDEBİYAT FAKÜLTESİ": {
+        "PSİKOLOJİ (% 50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 317872,
+          "1. TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 317872
+          },
+          "Kardeş İndirimi %10": 317872,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 286085
+        },
+        "MOLEKÜLER BİYOLOJİ VE GENETİK (% 50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 317872,
+          "1. TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 317872
+          },
+          "Kardeş İndirimi %10": 317872,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 286085
+        }
+      },
+      "İŞLETME VE YÖNETİM BİLİMLERİ FAKÜLTESİ": {
+        "İŞLETME (%50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 308939,
+          "1. TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 308939
+          },
+          "Kardeş İndirimi %10": 308939,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 278045
+        },
+        "YÖNETİM BİLİŞİM SİSTEMLERİ (%50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 382496,
+          "1. TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 382496
+          },
+          "Kardeş İndirimi %10": 382496,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 344247
+        }
+      },
+      "SAĞLIK BİLİMLERİ FAKÜLTESİ": {
+        "BESLENME VE DİYETETİK BÖLÜMÜ (% 50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 259007,
+          "İLK 3 TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 259007
+          },
+          "Kardeş İndirimi %10": 259007,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 233106
+        },
+        "FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ (% 50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 259007,
+          "İLK 3 TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 259007
+          },
+          "Kardeş İndirimi %10": 259007,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 233106
+        },
+        "EBELİK BÖLÜMÜ (% 50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 248067,
+          "İLK 3 TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 248067
+          },
+          "Kardeş İndirimi %10": 248067,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 223261
+        },
+        "SAĞLIK YÖNETİMİ BÖLÜMÜ (% 50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 232989,
+          "İLK 2 TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 232989
+          },
+          "Kardeş İndirimi %10": 232989,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 209690
+        }
+      },
+      "FLORENCE NIGHTINGALE HASTANESİ HEMŞİRELİK YÜKSEKOKULU": {
+        "HEMŞİRELİK (TÜRKÇE) (% 50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 265727,
+          "1. TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 265727
+          },
+          "Kardeş İndirimi %10": 265727,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 239154
+        },
+        "HEMŞİRELİK (İNGİLİZCE) (% 50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 364065,
+          "1. TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 364065
+          },
+          "Kardeş İndirimi %10": 364065,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 327658
+        }
+      },
+      "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU": {
+        "TÜM PROGRAMLAR (%50 İNDİRİMLİ)": {
+          "Peşin Ödeme İndirimi %10": 176596,
+          "İLK 5 TERCİH": {
+            "Tercih İndirimi Oranı": "%10",
+            "Tercih İndirimli Ücret": 176596
+          },
+          "Kardeş İndirimi %10": 176596,
+          "TERCİH İNDİRİMİ + PEŞİN ÖDEME İNDİRİMİ": 158937
+        }
+      }
+    },
+    "2024-2025": {
+      "Tıp Fakültesi (% 50 İndirimli)": 187788.21,
+      "Fen-Edebiyat Fakültesi Psikoloji ile Moleküler Biyoloji ve Genetik bölümleri (% 50 İndirimli)": 79223.15,
+      "Florence Nightingale Hastanesi Hemşirelik Yüksekokulu Hemşirelik (Türkçe) programı (% 50 İndirimli)": 58683.81,
+      "Hemşirelik (İngilizce) programı (% 50 İndirimli)": 70420.58,
+      "Sağlık Bilimleri Fakültesi Beslenme ve Diyetetik ile Fizyoterapi ve Rehabilitasyon bölümleri (% 50 İndirimli)": 64552.20,
+      "Ebelik bölümü (% 50 İndirimli)": 49881.24,
+      "Sağlık Yönetimi bölümü (% 50 İndirimli)": 44012.86,
+      "Sağlık Hizmetleri Meslek Yüksekokulu Ameliyathane Hizmetleri, Anestezi, Diyaliz, Fizyoterapi, İlk ve Acil Yardım, Tıbbi Dokümantasyon ve Sekreterlik, Tıbbi Görüntüleme Teknikleri, Tıbbi Laboratuvar Teknikleri Programları % 50 indirimli (ikinci öğretim dahil)": 35210.29
+    }
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

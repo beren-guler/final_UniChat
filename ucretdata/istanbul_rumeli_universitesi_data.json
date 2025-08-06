@@ -1,0 +1,627 @@
+{
+  "university": {
+    "name": "İstanbul Rumeli Üniversitesi",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "programs": [
+      {
+        "name": "İngilizce Hazırlık Programları",
+        "full_fee": 893380.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Spor Bilimleri Fakültesi Programları",
+        "full_fee": 723094.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Yapay Zeka Ve Makine Öğrenmesi (Mühendislik ve Doğa Bilimleri Fakültesi)",
+        "full_fee": 723094.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilgisayar Mühendisliği (Mühendislik ve Doğa Bilimleri Fakültesi)",
+        "full_fee": 883380.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilgisayar Bilimleri (Mühendislik ve Doğa Bilimleri Fakültesi)",
+        "full_fee": 723094.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sağlık Bilimleri Fakültesi Programları",
+        "full_fee": 815695.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sanat, Tasarım Ve Mimarlık Fakültesi Programları",
+        "full_fee": 815695.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Havacılık Yönetimi (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 815695.00,
+        "currency": "TL"
+      },
+      {
+        "name": "İşletme (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 815695.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Psikoloji (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 883380.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Siyaset Bilimi Ve Kamu Yönetimi (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 723094.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Uluslararası İlişkiler (İktisadi, İdari ve Sosyal Bilimler Fakültesi)",
+        "full_fee": 723094.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Sağlık Hizmetleri Meslek Yüksekokulu Programları",
+        "full_fee": 467877.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Bilgisayar Programcılığı (Meslek Yüksekokulu)",
+        "full_fee": 564984.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Uçak Teknolojisi (Meslek Yüksekokulu)",
+        "full_fee": 564984.00,
+        "currency": "TL"
+      },
+      {
+        "name": "Meslek Yüksekokulu Diğer Programları",
+        "full_fee": 467887.00,
+        "currency": "TL"
+      }
+    ]
+  },
+  "tuition_fees_2024_2025": {
+    "faculties": [
+      {
+        "name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "programs": [
+          {
+            "name": "Havacılık Yönetimi",
+            "full_fee": null,
+            "discounted_fee": 230422.50,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "İşletme",
+            "full_fee": null,
+            "discounted_fee": 230422.50,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Psikoloji",
+            "full_fee": 504735.00,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Psikoloji",
+            "full_fee": null,
+            "discounted_fee": 378551.25,
+            "currency": "₺",
+            "discount": "25%"
+          },
+          {
+            "name": "Psikoloji (İngilizce)",
+            "full_fee": 504735.00,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Psikoloji (İngilizce)",
+            "full_fee": null,
+            "discounted_fee": 252367.50,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Siyaset Bilimi ve Kamu Yönetimi",
+            "full_fee": null,
+            "discounted_fee": 204264.06,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Uluslararası İlişkiler",
+            "full_fee": null,
+            "discounted_fee": 204264.06,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "name": "Mühendislik ve Doğa Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "Bilgisayar Mühendisliği",
+            "full_fee": null,
+            "discounted_fee": 252367.50,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "name": "Sanat Tasarım ve Mimarlık Fakültesi",
+        "programs": [
+          {
+            "name": "Gastronomi ve Mutfak Sanatları",
+            "full_fee": null,
+            "discounted_fee": 230422.50,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "İç Mimarlık",
+            "full_fee": 460845.00,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "İç Mimarlık",
+            "full_fee": null,
+            "discounted_fee": 230422.50,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Mimarlık",
+            "full_fee": null,
+            "discounted_fee": 230422.50,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Radyo, Televizyon ve Sinema",
+            "full_fee": null,
+            "discounted_fee": 230422.50,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "name": "Sağlık Bilimleri Fakültesi",
+        "programs": [
+          {
+            "name": "Beslenme ve Diyetetik",
+            "full_fee": 460845.00,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Beslenme ve Diyetetik",
+            "full_fee": null,
+            "discounted_fee": 230422.50,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Fizyoterapi ve Rehabilitasyon",
+            "full_fee": 460845.00,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Fizyoterapi ve Rehabilitasyon",
+            "full_fee": null,
+            "discounted_fee": 230422.50,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "name": "Meslek Yüksekokulu",
+        "programs": [
+          {
+            "name": "Mahkeme ve Büro Hizmetleri",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Aşçılık",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Bilgisayar Programcılığı",
+            "full_fee": 319200.00,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Bilgisayar Programcılığı",
+            "full_fee": null,
+            "discounted_fee": 159600.00,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Grafik Tasarımı",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "İç Mekan Tasarımı",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Pastacılık ve Ekmekçilik",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Sivil Hava Ulaştırma İşletmeciliği",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Sivil Havacılık Kabin Hizmetleri",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Uçak Teknolojisi",
+            "full_fee": 319200.00,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Uçak Teknolojisi",
+            "full_fee": null,
+            "discounted_fee": 159600.00,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      },
+      {
+        "name": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "programs": [
+          {
+            "name": "Ağız ve Diş Sağlığı",
+            "full_fee": 264337.50,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Ağız ve Diş Sağlığı",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Ameliyathane Hizmetleri",
+            "full_fee": 264337.50,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Ameliyathane Hizmetleri",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Evde Hasta Bakımı",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Anestezi",
+            "full_fee": 264337.50,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Anestezi",
+            "full_fee": null,
+            "discounted_fee": 198253.13,
+            "currency": "₺",
+            "discount": "25%"
+          },
+          {
+            "name": "Çocuk Gelişimi",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Diş Protez Teknolojisi",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Diyaliz",
+            "full_fee": 264337.50,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Diyaliz",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Elektronörofizyoloji",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Fizyoterapi",
+            "full_fee": 264337.50,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Fizyoterapi",
+            "full_fee": null,
+            "discounted_fee": 198253.13,
+            "currency": "₺",
+            "discount": "25%"
+          },
+          {
+            "name": "İlk ve Acil Yardım",
+            "full_fee": 264337.50,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "İlk ve Acil Yardım",
+            "full_fee": null,
+            "discounted_fee": 198253.13,
+            "currency": "₺",
+            "discount": "25%"
+          },
+          {
+            "name": "Odyometri",
+            "full_fee": null,
+            "discounted_fee": 135168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Patoloji Laboratuvar Teknikleri",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Radyoterapi",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Tıbbi Dokümantasyon ve Sekreterlik",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Tıbbi Görüntüleme Teknikleri",
+            "full_fee": 264337.50,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Tıbbi Görüntüleme Teknikleri",
+            "full_fee": null,
+            "discounted_fee": 132168.75,
+            "currency": "₺",
+            "discount": "50%"
+          },
+          {
+            "name": "Tıbbi Laboratuvar Teknikleri",
+            "full_fee": 264337.50,
+            "discounted_fee": null,
+            "currency": "₺"
+          },
+          {
+            "name": "Tıbbi Laboratuvar Teknikleri",
+            "full_fee": null,
+            "discounted_fee": 135168.75,
+            "currency": "₺",
+            "discount": "50%"
+          }
+        ]
+      }
+    ]
+  },
+ "discounts": {
+  "note": "Belirtilen ücretler peşin ödemelerde geçerlidir. Taksitli ödemelerde %15 vade farkı uygulanmaktadır.",
+  "note2": "Açıklanan ücretler ( kdv dahil ) peşin ödeme içindir.",
+  "payment_options": "Taksitli Ödeme seçenekleri : 1 +9 taksit şeklindedir."
+ },
+   "tuition_fees_2023_2024":{
+    "programs": [
+     {
+      "name": "Sanat, Tasarım ve Mimarlık Fakültesi Radyo Televizyon ve Sinema",
+      "full_fee": 92664,
+      "discounted_fee": 46332,
+      "currency": "TL",
+      "discount": "50%"
+     },
+      {
+      "name": "Sanat, Tasarım ve Mimarlık Fakültesi diğer bölümler",
+      "full_fee": 129729.60,
+      "discounted_fee": 64864.80,
+      "currency": "TL",
+      "discount": "50%"
+     },
+      {
+      "name": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "full_fee": 92664,
+      "discounted_fee": 46332,
+      "currency": "TL",
+      "discount": "50%"
+     },
+       {
+      "name": "Sağlık Bilimleri Fakültesi",
+      "full_fee": 129729.60,
+      "discounted_fee": 64864.80,
+      "currency": "TL",
+      "discount": "50%"
+     },
+       {
+      "name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi Psikoloji ve Psikoloji (İngilizce)",
+      "full_fee": 165868.56,
+      "discounted_fee": 82934.28,
+      "currency": "TL",
+      "discount": "50%"
+     },
+        {
+      "name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi diğer bölümler",
+      "full_fee": 120463.20,
+      "discounted_fee": 60231.60,
+      "currency": "TL",
+      "discount": "50%"
+     },
+       {
+      "name": "Meslek Yüksekokulu önlisans programları",
+      "full_fee": 84823.20,
+      "discounted_fee": 42411.60,
+      "currency": "TL",
+      "discount": "50%"
+     },
+      {
+      "name": "Sağlık Hizmetleri Meslek Yüksekokulu önlisans programları",
+      "full_fee": 90882,
+      "discounted_fee": 45441,
+      "currency": "TL",
+      "discount": "50%"
+     }
+    ]
+   },
+ "tuition_fees_2022_2023": {
+  "note": "İstanbul Rumeli Üniversitesinde eğitim öğretim ücrete tabidir.2021-2022 Eğitim ve öğretim yılında öğrenim ücreti;",
+  "programs": [
+          {
+            "name": "Psikoloji",
+            "full_fee": 100526.40,
+            "discounted_fee": 50263.20,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Fizyoterapi ve Rehabilitasyon, İç Mimarlık, Beslenme ve Diyatetik, Gastronomi ve Mutfak Sanatları",
+            "full_fee": 78624,
+            "discounted_fee": 39312,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Siyaset Bilimi ve Kamu Yönetimi, Uluslararası İlişkiler, İşletme, Havacılık Yönetimi",
+            "full_fee": null,
+            "discounted_fee": 36504,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Endüstri Mühendisliği, İnşaat Mühendisliği, Bilgisayar Mühendisliği",
+            "full_fee": null,
+            "discounted_fee": 28080,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "Radyo Televizyon ve Sinema",
+            "full_fee": 56160,
+            "discounted_fee": 28080,
+            "currency": "TL",
+            "discount": "50%"
+          },
+            {
+            "name": "Mimarlık",
+            "full_fee": null,
+            "discounted_fee": 39312,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+            "name": "İlk ve Acil Yardım, Anestezi, Fizyoterapi ",
+            "full_fee": 55080,
+            "discounted_fee": 41310,
+            "currency": "TL",
+            "discount": "25%"
+          },
+          {
+            "name": "Tıbbi Dökümantasyon ve Sekreterlik, Odyometri, Çocuk Gelişimi, Diş Protez Teknolojisi, Elektronörofizyoloji, Patoloji Laboratuvar Teknikleri, Ameliyathane Hizmetleri, Radyoterapi, Tıbbi Görüntüleme Teknikleri, Tıbbi Laboratuvar Teknikleri, Ağız ve Diş Sağlığı, Diyaliz",
+            "full_fee": 55080,
+            "discounted_fee": 27540,
+            "currency": "TL",
+            "discount": "50%"
+          },
+            {
+            "name": "Uçak Teknolojisi, Aşçılık, İç Mekan Tasarımı, Bilgisayar Programcılığı, Sivil Havacılık Kabin Hizmetleri, Grafik Tasarımı, Sivil Hava Ulaştırma İşletmeciliği, Spor Yönetimi, Adalet",
+            "full_fee": 51508,
+            "discounted_fee": 25704,
+            "currency": "TL",
+            "discount": "50%"
+          },
+          {
+           "name": "Evde Hasta Bakım",
+           "discounted_fee": 27540,
+           "currency": "TL",
+           "discount": "50%"
+          },
+           {
+           "name": "Pastacılık ve Ekmekçilik",
+           "discounted_fee": 25704,
+           "currency": "TL",
+           "discount": "50%"
+          }
+  ]
+ }
+}

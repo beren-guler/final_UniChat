@@ -1,0 +1,67 @@
+{
+  "university": {
+    "name": "Sabancı Üniversitesi",
+    "url": "https://www.sabanciuniv.edu/tr/lisans-programlari-burs-ve-ucretleri",
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "Sabancı Üniversitesi’nde eğitim ücrete tabidir. 2025–2026 akademik yılında yerleştirilen öğrencilere; 2024-2025 akademik yılı için belirlenmiş olan yıllık öğrenim ücreti ;"
+    },
+    {
+      "academic_year": "2025-2026",
+      "program_type": "Lisans Programları ve Temel Geliştirme Yılı (Hazırlık Dil Eğitimi)",
+      "annual_fee": {
+        "amount": 1595000,
+        "currency": "TL",
+        "description": "%10 KDV dahil"
+      }
+    },
+    {
+      "academic_year": "2025-2026",
+      "semester": "Güz Dönemi",
+      "program_type": "Lisans Programları ve Temel Geliştirme Yılı (Hazırlık Dil Eğitimi)",
+      "semester_fee": {
+        "amount": 797500,
+        "currency": "TL",
+        "description": "KDV dahil"
+      }
+    },
+    {
+      "academic_year": "2024-2025",
+      "program_type": "Lisans Programları ve Hazırlık Dil Eğitimi",
+      "annual_fee": {
+        "amount": 1100000,
+        "currency": "TL",
+        "description": "KDV Dahil"
+      },
+      "semester_fee": {
+        "amount": 550000,
+        "currency": "TL",
+        "description": "Güz Dönemi KDV Dahil"
+      },
+      "bahar_semester_fee": {
+        "amount": 660000,
+        "currency": "TL",
+        "description": "Bahar Dönemi KDV Dahil (if only Güz ödeme)"
+      }
+    },
+    {
+      "academic_year": "2022-2023",
+      "description": "Sabancı Üniversitesi’nde eğitim ücrete tabidir. 2022–2023 akademik yılında yerleştirilen öğrencilere; 2022-2023 akademik yılı için belirlenmiş olan yıllık öğrenim ücreti, KDV dahil 240.750 TL’dir."
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "Tam burs ve ek olanakları",
+      "yarım burs",
+      "şehit eş ve çocukları ile gazi ve gazi eş ve çocukları bursu",
+      "depremzede bursu",
+      "milli sporcu bursu",
+      "diploma katkı bursu",
+      "öğrenime devam ederken sağlanan burs olanakları"
+    ]
+  },
+  "dormitory_fees": null
+}

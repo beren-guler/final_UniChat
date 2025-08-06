@@ -1,0 +1,74 @@
+{
+  "university": {
+    "name": "Girne Amerikan Üniversitesi",
+    "url": "gau.edu.tr",
+    "last_updated": "2025-2026"
+  },
+  "tuition_fees": {
+    "academic_year": "2025-2026",
+    "annual_fees": [
+      {
+        "program": "İngilizce Hazırlık Programı",
+        "annual_fee": 340950.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Lisans programları (aşağıda tanımlanan fakülte ve programlar hariç)",
+        "annual_fee": 340950.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Beşeri Bilimler Fakültesi ile Eğitim Fakültesi, Sağlık Bilimleri Fakültesi, Hemşirelik Yüksekokulu,\nGastronomi ve Mutfak Sanatları Programı, Havacılık Yönetimi, İç Mimarlık Programı",
+        "annual_fee": 374850.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Hukuk Fakültesi",
+        "annual_fee": 446250.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Pilotaj",
+        "annual_fee": 456100.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Eczacılık Fakültesi",
+        "annual_fee": 537600.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Meslek Yüksekokulu",
+        "annual_fee": 340950.00,
+        "currency": "TL"
+      },
+      {
+        "program": "Sağlık Meslek Yüksekokulu",
+        "annual_fee": 374850.00,
+        "currency": "TL"
+      }
+    ],
+    "notes": "2025-2026 Akademik yılının kayıt harcı 52.550,00 TL olarak eğitim ücretlerine eklenecektir. Tam burslu öğrenciler yıllık eğitim ücretinden muaf olup sadece yıllık kayıt harcı olan 52.550,00 TL ödeyeceklerdir. Sonraki yıl ücret artış oranı, ilgili yılın Kuzey Kıbrıs Türk Cumhuriyeti Mayıs ayı yıllık Tefe Tüfe oranına göre belirlenecektir. Pilotaj programının ATPL uçuş ücreti, yıllık 21.000 Euro olup her yıl öğrenim ücreti ile beraber ödenmesi gerekmektedir.",
+    "academic_year_2024_2025":{
+    },
+
+          "academic_year_2024_2025_table":{
+                 "Note": "Ücretlere KDV Dahil Değildir. Tabloda gösterilen ücretler 2024-2025 akademik yılı girişli öğrenciler için geçerlidir."
+          }
+
+
+  },
+  "scholarships": {},
+  "other_fees": {
+    "2025-2026": {
+      "registration_fee": {
+        "amount": 52550.00,
+        "currency": "TL",
+        "note": "Yıllık kayıt harcı"
+      }
+    },
+          "academic_year_2024_2025_table": {
+                 "Note": "Ücretlere KDV Dahil Değildir. Tabloda gösterilen ücretler 2024-2025 akademik yılı girişli öğrenciler için geçerlidir."
+          }
+  }
+}

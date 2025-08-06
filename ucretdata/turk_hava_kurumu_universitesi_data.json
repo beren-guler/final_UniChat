@@ -1,0 +1,607 @@
+{
+  "university": {
+    "name": "Türk Hava Kurumu Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": [
+    {
+      "academic_year": "2025-2026",
+      "description": "Türk Hava Kurumu Üniversitesi’nde eğitim-öğretim ücrete tabidir.  2025-2026 Eğitim ve öğretim yılında KDV dahil yıllık öğrenim ücretleri;"
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Hava Ulaştırma Fakültesi",
+      "departments": [
+        {
+          "name": "Pilotaj (İngilizce)",
+          "annual_fee": {
+            "amount": 845640,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "additional_fee": {
+            "amount": 90000,
+            "currency": "USD",
+            "description": "Uçuş Ücreti"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Havacılık ve Uzay Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Uçak Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 729000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Uzay Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 729000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "discount": "50% İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "İşletme Fakültesi",
+      "departments": [
+        {
+          "name": "Havacılık Yönetimi (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "İşletme (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Lojistik Yönetimi (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Mühendislik Fakültesi",
+      "departments": [
+        {
+          "name": "Bilgisayar Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 729000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Makine Mühendisliği (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Yazılım Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 729000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "İşletme (İngilizce)",
+          "annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret ve Finansman (İngilizce)",
+          "annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Yabancı Diller Bölüm Başkanlığı",
+      "departments": [
+        {
+          "name": "İngilizce Hazırlık Sınıfı",
+          "annual_fee": {
+            "amount": 729000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 364500,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "Ankara Havacılık Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Hava Lojistiği",
+          "discounted_annual_fee": {
+            "amount": 349920,
+            "currency": "TL",
+            "discount": "% 25 İndirimli"
+          }
+        },
+        {
+          "name": "Sivil Hava Ulaştırma İşletmeciliği",
+          "discounted_annual_fee": {
+            "amount": 349920,
+            "currency": "TL",
+            "discount": "% 25 İndirimli"
+          }
+        },
+        {
+          "name": "Sivil Havacılık Kabin Hizmetleri",
+          "annual_fee": {
+            "amount": 349920,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Uçak Teknolojisi",
+          "annual_fee": {
+            "amount": 349920,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Hava Aracı İmalat Teknolojileri",
+          "annual_fee": {
+            "amount": 349920,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Hibrit ve Elektrikli Taşıtlar Teknolojisi",
+          "annual_fee": {
+            "amount": 349920,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Uçuş Harekat Yöneticiliği",
+          "annual_fee": {
+            "amount": 349920,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2025-2026",
+      "faculty": "İzmir Havacılık Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Hava Lojistiği",
+          "discounted_annual_fee": {
+            "amount": 218700,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Sivil Hava Ulaştırma İşletmeciliği",
+          "discounted_annual_fee": {
+            "amount": 218700,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Sivil Havacılık Kabin Hizmetleri",
+          "annual_fee": {
+            "amount": 437400,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 218700,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Uçak Teknolojisi",
+          "annual_fee": {
+            "amount": 437400,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "description": "Türk Hava Kurumu Üniversitesi’nde eğitim-öğretim ücrete tabidir.  2024-2025 Eğitim ve öğretim yılında KDV dahil yıllık öğrenim ücretleri;"
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Hava Ulaştırma Fakültesi",
+      "departments": [
+        {
+          "name": "Pilotaj (İngilizce)",
+          "annual_fee": {
+            "amount": 580000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "additional_fee": {
+            "amount": 80000,
+            "currency": "USD",
+            "description": "Uçuş Ücreti"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Havacılık ve Uzay Bilimleri Fakültesi",
+      "departments": [
+        {
+          "name": "Uçak Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Uzay Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "İşletme Fakültesi",
+      "departments": [
+        {
+          "name": "Havacılık Yönetimi (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "İşletme (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Lojistik Yönetimi (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Yönetim Bilişim Sistemleri (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Mühendislik Fakültesi",
+      "departments": [
+        {
+          "name": "Bilgisayar Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Endüstri Mühendisliği (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Makine Mühendisliği (İngilizce)",
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Yazılım Mühendisliği (İngilizce)",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "discount": "% 50 İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+      "departments": [
+        {
+          "name": "İşletme (İngilizce)",
+          "annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Uluslararası Ticaret ve Finansman (İngilizce)",
+          "annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Yabancı Diller Bölüm Başkanlığı",
+      "departments": [
+        {
+          "name": "İngilizce Hazırlık Sınıfı",
+          "annual_fee": {
+            "amount": 500000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "description": "% 50 İndirimli"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2024-2025",
+      "faculty": "Ankara Havacılık Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Hava Lojistiği",
+          "discounted_annual_fee": {
+            "amount": 240000,
+            "currency": "TL",
+            "discount": "% 25 İndirimli"
+          }
+        },
+        {
+          "name": "Sivil Hava Ulaştırma İşletmeciliği",
+          "discounted_annual_fee": {
+            "amount": 240000,
+            "currency": "TL",
+            "discount": "% 25 İndirimli"
+          }
+        },
+        {
+          "name": "Sivil Havacılık Kabin Hizmetleri",
+          "annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+        {
+          "name": "Uçak Teknolojisi",
+          "annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+                {
+          "name": "Hava Aracı İmalat Teknolojileri",
+          "annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+                {
+          "name": "Hibrit ve Elektrikli Taşıtlar Teknolojisi",
+          "annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        },
+                         {
+          "name": "Uçuş Harekat Yöneticiliği",
+          "annual_fee": {
+            "amount": 250000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        }
+      ]
+    },
+{
+      "academic_year": "2024-2025",
+      "faculty": "İzmir Havacılık Meslek Yüksekokulu",
+      "departments": [
+        {
+          "name": "Hava Lojistiği",
+          "discounted_annual_fee": {
+            "amount": 150000,
+            "currency": "TL",
+            "description": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Sivil Hava Ulaştırma İşletmeciliği",
+          "discounted_annual_fee": {
+            "amount": 150000,
+            "currency": "TL",
+            "description": "% 50 İndirimli"
+          }
+        },
+        {
+          "name": "Sivil Havacılık Kabin Hizmetleri",
+          "annual_fee": {
+            "amount": 300000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          },
+          "discounted_annual_fee": {
+            "amount": 150000,
+            "currency": "TL",
+            "description": "% 50 İndirimli"
+          }
+        },
+         {
+          "name": "Uçak Teknolojisi",
+          "annual_fee": {
+            "amount": 300000,
+            "currency": "TL",
+            "description": "(Ücretli)"
+          }
+        }
+      ]
+    },
+    {
+      "academic_year": "2023-2024",
+      "description": "Türk Hava Kurumu Üniversitesi’nde eğitim-öğretim ücrete tabidir.  2023-2024 Eğitim ve öğretim yılında KDV dahil yıllık öğrenim ücretleri;\nHava Ulaştırma Fakültesi ile Havacılık ve Uzay Bilimleri Fakültesi programları için 80.000 TL, Havacılık ve Uzay Bilimleri Fakültesi Programları yıllık 85.000 TL’dir.\nMühendislik Fakültesi programları için 75.000 TL,\nİşletme Fakültesi programları için 60.000 TL,\nAnkara Havacılık Meslek Yüksekokulu programları yıllık 50.000TL, İzmir Havacılık Meslek Yüksekokulu Programları yıllık 45.000 TL’dir.ve İngilizce Hazırlık Programı için 60.000 TL ."
+    }
+  ],
+  "scholarships": {
+    "types": [
+      "ÖSYM Bursu",
+      "Doluluk Bursu",
+      "Derece Bursu",
+      "Bilim Bursu",
+      "Akademik Başarı Bursu",
+      "Şehit ve Gazi Çocuğu Bursu",
+      "Destek Bursu",
+      "Personel Bursu",
+      "Kardeş Bursu"
+    ]
+  },
+  "dormitory_fees": null
+}

@@ -1,0 +1,125 @@
+{
+  "university": {
+    "name": "Maltepe Üniversitesi",
+    "url": null,
+    "last_updated": "2024-2025"
+  },
+  "tuition_fees": {
+    "academic_year": "2024-2025",
+    "undergraduate_programs": [
+      {
+        "name": "Konservatuvar",
+        "annual_fee": {
+          "amount": 462000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Sahne Sanatları",
+        "annual_fee": {
+          "amount": 495000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Felsefe",
+        "annual_fee": {
+          "amount": 539000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Sosyal Hizmet",
+        "annual_fee": {
+          "amount": 572000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Sosyoloji",
+        "annual_fee": {
+          "amount": 638000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Hemşirelik Yüksekokulu",
+        "annual_fee": {
+          "amount": 792000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "İletişim Fakültesi",
+        "annual_fee": {
+          "amount": 837144.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Eğitim Fakültesi",
+        "annual_fee": {
+          "amount": 869000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Gastronomi Ve Mutfak Sanatları",
+        "annual_fee": {
+          "amount": 880000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "İşletme Ve Yönetim Bilimleri Fakültesi",
+        "annual_fee": {
+          "amount": 957000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Mimarlık Fakültesi",
+        "annual_fee": {
+          "amount": 957000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Hukuk Fakültesi",
+        "annual_fee": {
+          "amount": 990000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Mühendislik Ve Doğa Bilimleri Fakültesi",
+        "annual_fee": {
+          "amount": 990000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Psikoloji",
+        "annual_fee": {
+          "amount": 1045000.00,
+          "currency": "TL"
+        }
+      },
+      {
+        "name": "Tıp Fakültesi",
+        "annual_fee": {
+          "amount": 1457500.00,
+          "currency": "TL"
+        }
+      }
+    ],
+    "associate_degree_programs": {
+      "annual_fee": {
+        "amount": 495000.00,
+        "currency": "TL"
+      }
+    }
+  },
+  "scholarships": null,
+  "dormitory_fees": null
+}

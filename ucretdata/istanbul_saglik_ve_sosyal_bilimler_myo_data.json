@@ -1,0 +1,42 @@
+{
+  "university": {
+    "name": "T.C. İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+    "url": null,
+    "last_updated": null
+  },
+  "tuition_fees": {
+    "2025-2026": {
+      "Tam Ücret": 520000,
+      "%50 Burs": 260000,
+      "%50 Burs (%5 Nakit İndirimli)": 247250,
+      "%50 Burs + %25 Tercih Bursu": 195.00,
+      "%50 Burs + %25 Tercih Bursu (%5 Nakit İndirimli)": 97500
+    },
+    "2024-2025": {
+      "Tam Ücret": 190000,
+      "%50 Burs": 95000,
+      "%50 Burs (%5 Nakit İndirimli)": 90250,
+      "%50 Burs + %25 Tercih Bursu": 71250,
+      "%50 Burs + %25 Tercih Bursu (%5 Nakit İndirimli)": 67687.50
+    },
+    "2023-2024": {
+      "TÜM BÖLÜMLER": {
+        "Tam Ücret": 84700.00,
+        "%50 Burs": 42350.00,
+        "%50 Burs (%5 Nakit İndirimli)": 40235.00,
+        "Güz Dönem Ödemesi": 21175.00,
+        "Bahar Dönem Ödemesi": 21175.00,
+        "%50 Burs + %25 TERCİH BURSU": 31765.00,
+        "%50 Burs + %25 TERCİH BURSU (%5 Nakit İndirimli)": 30175.00,
+        "GÜZ DÖNEM ÖDEMESİ": 15882.50,
+        "BAHAR DÖNEM ÖDEMESİ": 15882.50
+      }
+    }
+  },
+  "scholarships": {
+    "Tam Burs": "Öğrenim ücretinin tamamından muafiyet uygulanır.",
+    "% 50 İndirimli": "Öğrenim ücretinin %50’sinden muafiyet uygulanır.",
+    "İlk beş tercihinden herhangi birinde İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu ön lisans programlarına yaparak yerleşen öğrencilere %25 tercih indirimi uygulanmaktadır.": null
+  },
+  "dormitory_fees": null
+}
